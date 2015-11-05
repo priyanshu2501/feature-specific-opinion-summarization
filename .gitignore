@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /Backup/*
 /Cell_Phones/Reviews.json
 /CSVs/*
 *.gz
 /REPOS/*
+=======
+/Data/*
+
+>>>>>>> fdc650cf1636b8f3c5c87229c445ba224105d65a
