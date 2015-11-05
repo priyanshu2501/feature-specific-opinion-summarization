@@ -1,1 +1,1 @@
-# feature-based-opinion-summarization
+# feature-specific-opinion-summarization
