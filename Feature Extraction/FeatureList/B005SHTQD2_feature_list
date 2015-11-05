@@ -1,0 +1,4 @@
+('hold', 'a', 'charge')
+('charge', 'battery')
+('a', 'new', 'battery')
+('charger', 'port')

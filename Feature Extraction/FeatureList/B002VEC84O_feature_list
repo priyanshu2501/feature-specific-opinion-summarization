@@ -1,0 +1,5 @@
+('keyboard',)
+('internet',)
+('battery',)
+('touch', 'screen')
+('text',)

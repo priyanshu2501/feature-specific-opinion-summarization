@@ -1,0 +1,8 @@
+('files',)
+('apps',)
+('memory',)
+('battery',)
+('wifi',)
+('samsung', 'galaxy', 'grand')
+('sim', 'card')
+('dual', 'sim')
