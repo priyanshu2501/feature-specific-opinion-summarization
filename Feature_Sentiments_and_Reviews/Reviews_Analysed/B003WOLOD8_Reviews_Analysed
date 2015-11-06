@@ -1,4 +1,18 @@
-__________('blackberry',)__________
+__________('bad', 'reviews')__________
+
+
+Positive Reviews:
+
+---'Honestly, do not let the bad reviews make you decide not to buy!' **** 'bad'
+---"I am also pleased with Amazon's service, I did read some bad reviews that they had given Amazon and the phone, but I have to say I am glad I did not pay attention to those." **** 'bad'
+
+Negative Reviews:
+
+---'I have no idea what these bad reviews are all about.' **** 'bad'
+
+
+================================================================================================================
+__________('blackberry', 'curve')__________
 
 
 Positive Reviews:
@@ -6,9 +20,9 @@ Positive Reviews:
 
 Negative Reviews:
 
----'i paid for white blackberry and you sent me purple one.' **** 'white'
----"this is the probably the best blackberry their never maid, i.m purchad two o then, and very please, i'm recomended for your child's ....excelent" **** 'best'
----'the good thing is that if you want to download something through app world you can use the usb cable and open the memory card in windows explorer and download through there, it is actually easier than using the blackberry programs at least for me, so is not that bad.' **** 'easier'
+---'I paid for white blackberry and you sent me purple one.' **** 'white'
+---"This is the probably the best blackberry their never maid, i. m purchad two o then, and very please, i'm recomended for your child's .... excelent" **** 'best'
+---'The good thing is that if you want to download something through App world you can use the usb cable and open the memory card in Windows explorer and download through there, it is actually easier than using the Blackberry programs at least for me, so is not that bad.' **** 'easier'
 
 
 ================================================================================================================
@@ -17,24 +31,24 @@ __________('battery',)__________
 
 Positive Reviews:
 
----'but i received it with a dead battery for which i do not appreciate!' **** 'dead'
+---'But I received it with a dead battery for which I do not appreciate!' **** 'dead'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('order',)__________
+__________('first', 'time')__________
 
 
 Positive Reviews:
 
----'my first order was late and my second order never came!!!!!!!!!!!' **** 'late'
+---'it s the first time i m having this kind of problems with amazon.' **** 'first'
 
 Negative Reviews:
 
----'my first order was late and my second order never came!!!!!!!!!!!' **** 'first'
----'my first order was late and my second order never came!!!!!!!!!!!' **** 'second'
+---"But the battery doesn't work, since i use it for the first time." **** 'first'
+---"I don't really use the CD that came with the phone which is the Blackberry Desktop when I actually got it for the first time it would not work at all, after doing research online, I downloaded a Desktop version from blackberry site, then the CD started working but I still don't use it." **** 'first'
 
 
 ================================================================================================================

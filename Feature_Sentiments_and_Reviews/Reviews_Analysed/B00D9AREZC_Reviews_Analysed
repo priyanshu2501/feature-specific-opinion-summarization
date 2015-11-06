@@ -3,13 +3,13 @@ __________('screen', 'size')__________
 
 Positive Reviews:
 
----"perfect size:  fits in my hand, and because the screen is so big,  i'm able to use it one-handed." **** 'able'
----"i love the larger screen size (my last phone was the iphone 4s) and any app i have on ios is available on google.i'm glad i finally made the switch and overall it was very painless." **** 'larger'
----'good screen size and clear display.' **** 'good'
+---"Perfect size:  fits in my hand, and because the screen is so big, I'm able to use it one-handed." **** 'able'
+---'I love the larger screen size (my last phone was the iphone 4s) and any app I have on iOS is available on google.' **** 'larger'
+---'Screen size is good.' **** 'good'
 
 Negative Reviews:
 
----'you touch a control on the screen, and something happens immediately.calling: call quality is great.size: it has a huge screen, but its light.' **** 'light'
+---'Size: It has a huge screen, but its light.' **** 'light'
 
 
 ================================================================================================================
@@ -18,35 +18,15 @@ __________('happy', 'with', 'purchase')__________
 
 Positive Reviews:
 
----'very happy with my purchase.' **** 'happy'
----"i'm so happy with this purchase that i even bought my mom the same phone." **** 'happy'
----'i am very happy with my purchase.' **** 'happy'
----'i am so happy with this purchase!' **** 'happy'
----'i am very happy with my purchase.' **** 'happy'
----'very happy with my purchase!!' **** 'happy'
+---"I'm so happy with this purchase that I even bought my mom the same phone." **** 'happy'
+---"Still I'm happy with the purchase and love my SG3" **** 'happy'
+---'I am very happy with my purchase.' **** 'happy'
+---'Love my new phone would buy it again.. fast shipping very happy with my purchase.' **** 'happy'
+---'I am so happy with this purchase!' **** 'happy'
+---'I am very happy with my purchase.' **** 'happy'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
----'the box that i received is the typical virgin mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
----'so far virgin mobile has been great too and only $35 a month.' **** 'virgin'
----'took a bit of work to get my number transferred but virgin mobile was very helpful and had it up in a few minutes.' **** 'helpful'
-
-Negative Reviews:
-
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----"still, it was much cheaper than going through virgin mobile directly.overall, it's the best purchase i've made this year!" **** 'cheaper'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
 
 
 ================================================================================================================
@@ -56,55 +36,53 @@ __________('battery', 'life')__________
 Positive Reviews:
 
 ---'battery life could be better.' **** 'better'
----'the battery life is good compared to what i was used to.' **** 'good'
----"if you're a heavy phone user, be aware of battery life." **** 'aware'
----"i have had great calls, my area has good lte coverage.. i guess the only thing i would recommend is that if you're having trouble with battery life make sure to turn off things like your data, wifi, location, etc if you're not using it." **** 'sure'
----'better battery life.' **** 'better'
----"with a few minor modifications to the default configuration that you can do yourself in a matter of minutes, this is a nearly perfect phone.hats off to samsung for engineering such an amazing phone and and to virgin mobile for bringing it to us and at a reasonable price.pros:-phone just flat out works great-huge screen and slim/lightweight chassis-smooth and stable android 4.3 operating system-fast processor/fast app loading-great cell/data/lte reception for virgin mobile-supports micro-sd cards-very little bloatware-adequate battery life-supports virgin's lte network-can talk and use mobile internet at the same timecons:-no mobile hotspot feature-only comes in white, home button is a physical vs soft button-poor default ringtone/notification sound selection (easy to fix by downloading your own)-no external camera button-no infrared transmitter-easily damaged screen/exterior --> get a case immediately after buying the phone!" **** 'little'
----'the battery life is pretty good and can easily last a whole day with moderate use but playing games drains the battery a lot quicker.' **** 'good'
----'heck, even the battery life is good on this thing.' **** 'good'
+---'The battery life is good compared to what I was used to.' **** 'good'
+---"If you're a heavy phone user, be aware of battery life." **** 'aware'
+---'Battery life is very good.' **** 'good'
+---"I guess the only thing I would recommend is that if you're having trouble with battery life make sure to turn off things like your data, wifi, location, etc if you're not using it." **** 'sure'
+---"3 operating system-Fast processor/fast app loading-Great cell/data/LTE reception for Virgin Mobile-Supports micro-SD cards-Very little bloatware-Adequate battery life-Supports Virgin's LTE network-Can talk and use mobile internet at the same timeCons:-No mobile hotspot feature-Only comes in white, home button is a physical vs soft button-Poor default ringtone/notification sound selection (easy to fix by downloading your own)-No external camera button-No infrared transmitter-Easily damaged screen/exterior --> GET A CASE IMMEDIATELY AFTER BUYING THE PHONE!" **** 'little'
+---'The battery life is pretty good and can easily last a whole day with moderate use but playing games drains the battery a lot quicker.' **** 'good'
+---'Heck, even the battery life is good on this thing.' **** 'good'
+---'battery life could be better.' **** 'better'
+---'The battery life is good compared to what I was used to.' **** 'good'
+---'Makes my life so much easier and much less frustrating that my old &#34; smart&#34; phone!' **** 'easier'
+---'Battery life is very good.' **** 'good'
+---"I guess the only thing I would recommend is that if you're having trouble with battery life make sure to turn off things like your data, wifi, location, etc if you're not using it." **** 'sure'
+---'The battery life is pretty good and can easily last a whole day with moderate use but playing games drains the battery a lot quicker.' **** 'good'
+---'Heck, even the battery life is good on this thing.' **** 'good'
+---'Even when you do all the little battery saving tricks (i. e. running only one program at a time, closing the others by using task manager, keeping the brightness at the lowest, turning off the wireless when not using it, turning off the GPS, using power save, etc.' **** 'little'
+---"That's probably why it overheats so much and why the battery drains by the second." **** 'second'
+---"If you're a heavy phone user, be aware of battery life." **** 'aware'
+---'I do manage to make my battery last for 2 days, as I add more apps I know it will drain my battery much faster.' **** 'last'
+---'I tried new battery for the phone and for some reason the battery only charges up to 40%.' **** 'new'
+---'If I cannot force close all the apps running in the background then Samsung should make a battery that lasts longer.' **** 'longer'
+---'I bought an extra battery for long days out.' **** 'extra'
+---"3 operating system-Fast processor/fast app loading-Great cell/data/LTE reception for Virgin Mobile-Supports micro-SD cards-Very little bloatware-Adequate battery life-Supports Virgin's LTE network-Can talk and use mobile internet at the same timeCons:-No mobile hotspot feature-Only comes in white, home button is a physical vs soft button-Poor default ringtone/notification sound selection (easy to fix by downloading your own)-No external camera button-No infrared transmitter-Easily damaged screen/exterior --> GET A CASE IMMEDIATELY AFTER BUYING THE PHONE!" **** 'little'
+---'I notice the worst battery drain at work where I barely have a signal, so its always burning power to boost the radio.' **** 'worst'
+---'The battery is replaceable and supports NFC (used by things like Google Wallet).' **** 'replaceable'
+---"There's no cons here, if you have battery problems then buy an extended battery." **** 'extended'
 
 Negative Reviews:
 
----'average battery life.' **** 'average'
----"battery life is good, i don't turn my phone off and only need to charge every couple of days." **** 'good'
----'very fast phonegreat screengreat sound for a small devicebattery life is not the best; but it is good.' **** 'best'
----'very fast phonegreat screengreat sound for a small devicebattery life is not the best; but it is good.' **** 'good'
----"the samsung galaxy s3 also lets you browse the internet while talking on the phone regardless of whether you are connected to the internet by 3g, lte, or wifi.... which is pretty rare for sprint/vm devices and is a huge bonus.battery life could be better, but it's not bad in comparison to other phones out there of similar size and performance specs." **** 'better'
----'only complaint i have is the battery life but i fixed that by ordering a battery charger and extra battery for a couple bucks.' **** 'extra'
-
-
-================================================================================================================
-__________('purchase',)__________
-
-
-Positive Reviews:
-
----'very happy with my purchase.' **** 'happy'
----"i'm so happy with this purchase that i even bought my mom the same phone." **** 'happy'
----'as my first smart phone purchase, i wanted one that was easy to use and simple to learn.' **** 'easy'
----'i am so so so glad i purchased it for good this time, and the black friday week deal just made it that much more sweet a purchase!' **** 'sweet'
----"still, it was much cheaper than going through virgin mobile directly.overall, it's the best purchase i've made this year!" **** 'best'
----'i am very happy with my purchase.' **** 'happy'
----'i am so happy with this purchase!' **** 'happy'
----'i am very happy with my purchase.' **** 'happy'
----'now this purchase , the samsung galaxy s3, is the best purchase i made in a long time.' **** 'best'
----'very happy with my purchase!!' **** 'happy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the other problem with the home button is the lag issue that others have mentioned.' **** 'other'
+---'Average battery life.' **** 'average'
+---"Battery life is good, I don't turn my phone off and only need to charge every couple of days." **** 'good'
+---'Very fast phonegreat screengreat sound for a small deviceBattery life is not the best; but it is good.' **** 'best'
+---'Very fast phonegreat screengreat sound for a small deviceBattery life is not the best; but it is good.' **** 'good'
+---"Battery life could be better, but it's not bad in comparison to other phones out there of similar size and performance specs." **** 'better'
+---'Only complaint I have is the battery life but I fixed that by ordering a battery charger and extra battery for a couple bucks.' **** 'extra'
+---"Battery life is good, I don't turn my phone off and only need to charge every couple of days." **** 'good'
+---'Very fast phonegreat screengreat sound for a small deviceBattery life is not the best; but it is good.' **** 'best'
+---'Very fast phonegreat screengreat sound for a small deviceBattery life is not the best; but it is good.' **** 'good'
+---"Battery life could be better, but it's not bad in comparison to other phones out there of similar size and performance specs." **** 'better'
+---'Be sure to download a battery saver app as they come in handy.- Because of the wealth of differerent setting, you need to give yourself a few days/weeks to fully learn everything this phone can do.' **** 'sure'
+---"I'm not going to write detailed review of all the pros & cons as that has been done, but this is by far the best & smoothest running smartphone I have ever owned, and at the present time the best phone on VM, by far Sorry Apple fans, even though VM has the IPhone 5S, this phone beats it by a mile, and also has expandable memory as well as a removable battery, 2 things which Apple refuses to include on any of their phones, even though they have been standard on most other smartphones for years." **** 'removable'
+---'If I had any wish about it, it would be a longer lasting battery.' **** 'longer'
+---'This is a open box item and battery is not new because I have to charge my phone twice even I did not use my phone.' **** 'new'
+---'Average battery life.' **** 'average'
+---'The battery seems to be worse.' **** 'worse'
+---"If I don't use the phone much during the day, the battery last all day, and then some." **** 'last'
+---'Only complaint I have is the battery life but I fixed that by ordering a battery charger and extra battery for a couple bucks.' **** 'extra'
+---"It's not only fast and reliable, unlike the iPhone it has a microSD card and removable battery." **** 'removable'
 
 
 ================================================================================================================
@@ -113,14 +91,13 @@ __________('to', 'virgin', 'mobile')__________
 
 Positive Reviews:
 
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'so far virgin mobile has been great too and only $35 a month.' **** 'virgin'
----'took a bit of work to get my number transferred but virgin mobile was very helpful and had it up in a few minutes.' **** 'helpful'
+---'Took a bit of work to get my number transferred but Virgin Mobile was very helpful and had it up in a few minutes.' **** 'helpful'
 
 Negative Reviews:
 
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
+---"So I'm happy to stay with Virgin Mobile, no issues since 2008, and I'm happy with the new S3 phone, and I'm happy my phone bill is not going up any in price per month." **** 'happy'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
 
 
 ================================================================================================================
@@ -129,87 +106,11 @@ __________('text',)__________
 
 Positive Reviews:
 
----'the text is amazingly clear and easy on my eyes.' **** 'clear'
+---'The text is amazingly clear and easy on my eyes.' **** 'clear'
+---"It's very easy to read text on the phone, and photo displays are terrific." **** 'easy'
 
 Negative Reviews:
 
----"it's very easy to read text on the phone, and photo displays are terrific.i've rarely texted before buying this phone because my generic phones didn't have keyboards." **** 'easy'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'i was able to transfer my card from my old phone to this one without issue.' **** 'able'
----'i did not see a 2gb micro sd card so make sure you get one or a higher gb card if you a gamer/music nerd like i am.make sure you register and turn on/activate the service on your phone before you start downloading and registering your phone for everything.' **** 'sure'
----'i havent needed to put in a sd card yet :d' **** 'd'
-
-Negative Reviews:
-
----'the galaxy s3 is also one of the few remaining phones that supports an add-on microsd card that you can use to expand your available storage capacity, but do your research before buying just any old card because there are some known compatibility issues with certain brands of sd cards (as well as sd-card format types... recommend formatting any new card to fat32) and samsung galaxy s3 phones.and now for a few minor negatives about the galaxy s3.... i would have preferred the home button be a soft button instead of a physical button because i always worry that these things will wear out(never actually had this happen though)... especially on a phone that i purchased outright and plan to hang on to for a few years, but you can install free aftermarket apps to give you a transparent on-screen home button to help account for this.' **** 'new'
-
-
-================================================================================================================
-__________('nice',)__________
-
-
-Positive Reviews:
-
----'great phone, study, takes nice phones/video and easy to use.' **** 'easy'
-
-Negative Reviews:
-
----"i didn't have multi-window or the extra nice shooting modes (like best face!" **** 'extra'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----"here's why:(1)its larger screen makes browsing the internet or reading or even playing candy crush a better experience." **** 'larger'
----"i guess i've gotten to the point where i'm used to touch screen devices (nook hd, itouch, etc.)" **** 'touch'
----'the screen is clear.' **** 'clear'
----'the screen is large and so clear.' **** 'clear'
----"i've already watched movies(which picture is as amazing as your flat screen tv)." **** 'flat'
----"perfect size:  fits in my hand, and because the screen is so big,  i'm able to use it one-handed." **** 'able'
----"i love the larger screen size (my last phone was the iphone 4s) and any app i have on ios is available on google.i'm glad i finally made the switch and overall it was very painless." **** 'larger'
----"the screen is bright and vivid, and i haven't had any of the slowness i did with my old phone." **** 'bright'
----'i like the larger screen and keypad.from my other phone the camera produces crisp and clear photos and an all  over an easy to use phone' **** 'larger'
----'the screen is absolutely beautiful.' **** 'beautiful'
----'i wanted something a little bigger (screen) and faster.' **** 'bigger'
----'sharp screen resolution.' **** 'sharp'
----'the screen is really nice and the data is still super fast.' **** 'nice'
----'these galaxy phones are by far the best hands down, was looking into iphone but i always preferred a bigger screen.' **** 'bigger'
----'i was grandfathered on the $25 a month plan so i held on to this one for a while.now for my samsung galaxy s3:  spectacular screen.' **** 'spectacular'
----"the s3 is superior in pretty much every way, which is to be expected given that it is a year or so newer, and represented samsung's top-of-the-line phone at one point.it still appears to be a viable smartphone in 2014, and runs the latest android operating system, 4.4.x.the screen is quite impressive to look at, although it is somewhat difficult to see outdoors in daylight." **** 'impressive'
----'good screen size and clear display.' **** 'good'
----'so limited use is key.the phone is somewhat durable (definitely get a case for it though), the screen doesnt scratch easily (again, get a screen cover), it is lightweight (heavier than the larger screen s4 that my boyfriend has), and super simple to navigate after you get used to druid instead of window (though windows 8 is such a wannabe andruid dont you know).i gave this item four stars instead of five because it has horrible phone coverage.' **** 'heavier'
----'306 ppi screen is quite impressive.batteryokay, important topic here to many users.' **** 'important'
----'i can see the screen while outside in the sun, ringer is loud, downloading is faster, easy uploads to facebook and email.' **** 'outside'
----'virgin mobile has a pretty reasonable monthly no contract plan for this model.the design is nice and screen is large and clear.' **** 'clear'
----"the screen is big, beautiful, and better than any iphone i've ever seen." **** 'beautiful'
----'i should have just gotten this from the beginning it handles everything so well and the larger screen makes doing more easier.' **** 'larger'
----'i should have just gotten this from the beginning it handles everything so well and the larger screen makes doing more easier.' **** 'easier'
-
-Negative Reviews:
-
----'has a bright big screen.' **** 'bright'
----"it's thin and light and the screen is huge, makes it more enjoyable to play games or go on pinterest and twitter." **** 'thin'
----"it's thin and light and the screen is huge, makes it more enjoyable to play games or go on pinterest and twitter." **** 'light'
----'(be sure to get the protective sheets to keep your screen free from dirt and fingerprints.)' **** 'free'
----"the s3 just feels much more modern than the s2 - the s3 was released only a year after the s2 but it just feels leaps ahead of the s2 (faster, slimmer, lighter, better looking, better screen, more accessories, etc).i can't say about service and dropped calls because that depends on your coverage." **** 'better'
----'my upgrade path on virgin has been as follows:samsung intercept :  i think this is one that i only had briefly and returned with the rumors of the lg optimus v coming out.lg optimus v: solid phone but small screen.' **** 'small'
----"i'm told that this is due to samsung's preferred screen technology, super-amoled, which is good for power consumption, refresh rate and color saturation, but not so good for brightness." **** 'told'
----"i'm told that this is due to samsung's preferred screen technology, super-amoled, which is good for power consumption, refresh rate and color saturation, but not so good for brightness." **** 'due'
----'so limited use is key.the phone is somewhat durable (definitely get a case for it though), the screen doesnt scratch easily (again, get a screen cover), it is lightweight (heavier than the larger screen s4 that my boyfriend has), and super simple to navigate after you get used to druid instead of window (though windows 8 is such a wannabe andruid dont you know).i gave this item four stars instead of five because it has horrible phone coverage.' **** 'larger'
----"i've read reviews that say the screen is dull or dark." **** 'dull'
----"i've read reviews that say the screen is dull or dark." **** 'dark'
----'you touch a control on the screen, and something happens immediately.calling: call quality is great.size: it has a huge screen, but its light.' **** 'light'
----"i like the physical home key as it's easier to activate by touch and doesn't require the screen to be on to work." **** 'touch'
 
 
 ================================================================================================================
@@ -218,7 +119,7 @@ __________('faster',)__________
 
 Positive Reviews:
 
----"one thing's for sure, the s3 is much faster with downloads & everything in general compared to the htc." **** 'much'
+---"One thing's for sure, the S3 is much faster with downloads & everything in general compared to the HTC." **** 'much'
 
 Negative Reviews:
 
@@ -230,109 +131,13 @@ __________('call', 'quality')__________
 
 Positive Reviews:
 
----'today you can buy as low as $225 and i got mine at a good buy of $250.call quality is good and volume is just fine.' **** 'good'
+---'Call quality is good and volume is just fine.' **** 'good'
+---'Easy to set up and use... fast downloads.... good call quality.... and great screen.' **** 'good'
 
 Negative Reviews:
 
----'call quality is above average.' **** 'average'
----"calls aren't the best quality through virgin mobile, but i only use 50 - 100 minutes a month so who cares!" **** 'best'
-
-
-================================================================================================================
-__________('service',)__________
-
-
-Positive Reviews:
-
----'amazon usually has it for a decent price, and virgin mobile has good service in my area.' **** 'good'
----'"in other words: we cripple your internet experience so that you\'ll buy our more expensive mobile tethering device (which a completely separate service, not even available with pay-as-you-go) and if we catch you trying to use the internet you\'ve paid for on anything other than our phone we\'ll terminate your service.so much for unlimited internet!' **** 'separate'
----"no big deal.call quality/networkno problems whatsoever with texting or calling, i always seem to have a signal and 3g service that isn't drastically slow." **** 'slow'
-
-Negative Reviews:
-
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'sure'
----'i did not see a 2gb micro sd card so make sure you get one or a higher gb card if you a gamer/music nerd like i am.make sure you register and turn on/activate the service on your phone before you start downloading and registering your phone for everything.' **** 'register'
-
-
-================================================================================================================
-__________('virgin',)__________
-
-
-Positive Reviews:
-
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
----'the box that i received is the typical virgin mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
----"the s3 is definitely the best phone of it's generation and the best phone virgin has made available by far." **** 'available'
----'great phone does really well with virgin better than iphone 4s satisfied tail something new xomesyayyay yaye is so good' **** 'better'
-
-Negative Reviews:
-
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----"still, it was much cheaper than going through virgin mobile directly.overall, it's the best purchase i've made this year!" **** 'cheaper'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
----'no different than the one my wife bought directly from virgin, only this was cheaper.' **** 'cheaper'
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----"i love my new samsung galaxy iii :d it's very user friendly and has more gadgets and apps than i expected!" **** 'new'
----'this is my last samsung phone' **** 'last'
-
-Negative Reviews:
-
----'s-beam allows you to share files between other samsung devices, and kies gives you wireless pc connectivity.' **** 'other'
----'i bought the white samsung cover for it.' **** 'white'
-
-
-================================================================================================================
-__________('a', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
----'the box that i received is the typical virgin mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
----'so far virgin mobile has been great too and only $35 a month.' **** 'virgin'
----'took a bit of work to get my number transferred but virgin mobile was very helpful and had it up in a few minutes.' **** 'helpful'
-
-Negative Reviews:
-
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----"still, it was much cheaper than going through virgin mobile directly.overall, it's the best purchase i've made this year!" **** 'cheaper'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----"one thing and only one thing so far wasn't crazy about i'm sure you read is the plastic back on this, it's very cheap and very, very thin." **** 'sure'
----"one thing and only one thing so far wasn't crazy about i'm sure you read is the plastic back on this, it's very cheap and very, very thin." **** 'cheap'
----"one thing and only one thing so far wasn't crazy about i'm sure you read is the plastic back on this, it's very cheap and very, very thin." **** 'thin'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('lg', 'optimus', 'v')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---'Call quality is above average.' **** 'average'
+---"Calls aren't the best quality through Virgin Mobile, but I only use 50 - 100 minutes a month so who cares!" **** 'best'
 
 
 ================================================================================================================
@@ -341,421 +146,41 @@ __________('camera',)__________
 
 Positive Reviews:
 
----'the camera is very nice.' **** 'nice'
----'its bigger, faster, and has a better camera than his iphone :)' **** 'bigger'
----'its bigger, faster, and has a better camera than his iphone :)' **** 'better'
----'we both love it and find ourselves relying on the phone more often every day for calendars, books, audio, apps, etc..  we are always a few years behind the tech curve (on purpose), so even thought the galaxy siii is now an &#34;old&#34; model, it still serves our purposes very well.it is a big phone which has its pluses and minuses.the camera is average, not great.' **** 'average'
----'the camera is especially good with an outstanding zoom feature that i use on photos i have taken.' **** 'good'
----'the processing speed, memory and camera are all quite nice.' **** 'nice'
----"obviously the galaxy's camera would be better, but i've always thought the evo had a great camera for only being 5mp." **** 'better'
----"i don't like that the camera is worse than the other phone." **** 'worse'
----'this killed two birds with one stone- i got a device that had 4g lte, a better camera, and usb otg (which i covet for purely business reasons, of course) and my wife got a phone with a front facing camera and better signal strength.' **** 'better'
----'this killed two birds with one stone- i got a device that had 4g lte, a better camera, and usb otg (which i covet for purely business reasons, of course) and my wife got a phone with a front facing camera and better signal strength.' **** 'better'
----'the camera is beautiful and has so many useful, enjoyable features!' **** 'beautiful'
+---'The camera is very nice.' **** 'nice'
+---'Its bigger, faster, and has a better camera than his iPhone :)' **** 'bigger'
+---'Its bigger, faster, and has a better camera than his iPhone :)' **** 'better'
+---'The camera is average, not great.' **** 'average'
+---'The camera is especially good with an outstanding zoom feature that I use on photos I have taken.' **** 'good'
+---'The processing speed, memory and camera are all quite nice.' **** 'nice'
+---"Obviously the Galaxy's camera would be better, but I've always thought the Evo had a great camera for only being 5MP." **** 'better'
+---"I don't like that the camera is worse than the other phone." **** 'worse'
+---'This killed two birds with one stone- I got a device that had 4G LTE, a better camera, and USB OTG (which I covet for purely business reasons, of course) and my wife got a phone with a front facing camera and better signal strength.' **** 'better'
+---'This killed two birds with one stone- I got a device that had 4G LTE, a better camera, and USB OTG (which I covet for purely business reasons, of course) and my wife got a phone with a front facing camera and better signal strength.' **** 'better'
+---'The camera is beautiful and has so many useful, enjoyable features!' **** 'beautiful'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('years',)__________
+__________('iphone',)__________
 
 
 Positive Reviews:
 
+---"The S3 is different - I think it's better than any iPhone in every way  - especially after you update to the latest Android update (which was pushed out last week)." **** 'better'
+---'I have only had it for a few days, but I am glad I chose this over the much more expensive Iphone 5 through virgin.' **** 'much'
+---'I have only had it for a few days, but I am glad I chose this over the much more expensive Iphone 5 through virgin.' **** 'expensive'
+---"The screen is big, beautiful, and better than any iPhone I've ever seen." **** 'better'
 
 Negative Reviews:
 
----'ive had several phones over the past few years.' **** 'past'
----'i had my old phone for 4 years so this is like stepping into the future.' **** 'future'
-
-
-================================================================================================================
-__________('for', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
-
-Negative Reviews:
-
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'very poor, quality,not getting 4g lte charging port is about to break, already cracked, only had for 3 days.' **** 'poor'
----"phone is over very poor quality if it can't last a week under light usage." **** 'poor'
----'sound quality is good and it changes screens quickly.' **** 'good'
----'today you can buy as low as $225 and i got mine at a good buy of $250.call quality is good and volume is just fine.' **** 'good'
----'the front-facing camera is surprisingly good quality too.' **** 'good'
----'music played on the phone is acceptable quality; music played from the phone on bluetooth speakers is excellent.display - very clear and richly colored display that compares well with the phones of others.' **** 'acceptable'
----'music played on the phone is acceptable quality; music played from the phone on bluetooth speakers is excellent.display - very clear and richly colored display that compares well with the phones of others.' **** 'music'
----"it's a proven quality handset2.)" **** 'proven'
-
-Negative Reviews:
-
----'call quality is above average.' **** 'average'
----'i am not disappointed as the system works well and the s3 is a really nice, high quality phone.' **** 'nice'
----'also, a biggie for a &#34;phone,&#34; the voice quality was fairly awful.' **** 'awful'
----"calls aren't the best quality through virgin mobile, but i only use 50 - 100 minutes a month so who cares!" **** 'best'
-
-
-================================================================================================================
-__________('memory',)__________
-
-
-Positive Reviews:
-
----'you can add extra memory with a sim card byt even the internal memory is large.' **** 'extra'
----'it was the best phone in my price range that has that much memory on virgin mobile.' **** 'much'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'battery life could be better.' **** 'better'
----'the battery life is good compared to what i was used to.' **** 'good'
----'makes my life so much easier and much less frustrating that my old &#34;smart&#34; phone!' **** 'easier'
----"i have had great calls, my area has good lte coverage.. i guess the only thing i would recommend is that if you're having trouble with battery life make sure to turn off things like your data, wifi, location, etc if you're not using it." **** 'sure'
----'the battery life is pretty good and can easily last a whole day with moderate use but playing games drains the battery a lot quicker.' **** 'good'
----'heck, even the battery life is good on this thing.' **** 'good'
-
-Negative Reviews:
-
----"battery life is good, i don't turn my phone off and only need to charge every couple of days." **** 'good'
----'very fast phonegreat screengreat sound for a small devicebattery life is not the best; but it is good.' **** 'best'
----'very fast phonegreat screengreat sound for a small devicebattery life is not the best; but it is good.' **** 'good'
----"the samsung galaxy s3 also lets you browse the internet while talking on the phone regardless of whether you are connected to the internet by 3g, lte, or wifi.... which is pretty rare for sprint/vm devices and is a huge bonus.battery life could be better, but it's not bad in comparison to other phones out there of similar size and performance specs." **** 'better'
-
-
-================================================================================================================
-__________('mobile',)__________
-
-
-Positive Reviews:
-
----'so far virgin mobile has been great too and only $35 a month.' **** 'virgin'
----'took a bit of work to get my number transferred but virgin mobile was very helpful and had it up in a few minutes.' **** 'helpful'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('samsung', 'galaxy')__________
-
-
-Positive Reviews:
-
----"i love my new samsung galaxy iii :d it's very user friendly and has more gadgets and apps than i expected!" **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('galaxy',)__________
-
-
-Positive Reviews:
-
----'at first i bought a "new" galaxy s3 on ebay and it came in a generic box with a different charger and no instructions and it was more than this one, so back it went.' **** 'first'
----'at first i bought a "new" galaxy s3 on ebay and it came in a generic box with a different charger and no instructions and it was more than this one, so back it went.' **** 'new'
----"not sure what i'm missing in the galaxy s iv, but this is great." **** 'sure'
----'every feature on this galaxy is good.' **** 'good'
----'from my evo to this galaxy, the battery life of this galaxy is far superior.' **** 'superior'
----'i def love the galaxy s3!' **** 'love'
-
-Negative Reviews:
-
----'best galaxy out there in my opinion i really love it does so many things i never thought where possible' **** 'best'
----"the speed of the phone is also great; i haven't had any problems with processing or waiting on apps.past phones i have owned, from virgin mobile makes to lg, have not been 100% satisfactory, but that's not the case with my new galaxy iii." **** 'new'
-
-
-================================================================================================================
-__________('things',)__________
-
-
-Positive Reviews:
-
----'i learn new things that it can do everyday!' **** 'new'
----'just very very very slippery.i think those are the main things people want to know about this phone..hope this helps.' **** 'main'
----"lot's of  preinstalled apps that i probably won't be using, but knowing there is enough space available for more is reassuring.i don't use the phone so much for anything other than texting, web and gps, but i may try other things since this phone is capable of handling more functions than my previous one.tj" **** 'other'
----'i got it and i did like it at first, i still have to figure out some things, because comparing the two, they are so different in ways.' **** 'first'
----'i have all non essential things turned off such as facebook app, news feeds, live wall papers, and i can listen to music all day at work and still have over half battery left at end of day.' **** 'essential'
-
-Negative Reviews:
-
----'best galaxy out there in my opinion i really love it does so many things i never thought where possible' **** 'possible'
----"it is so easy to use and does so many things that i can't list them." **** 'easy'
----"i&#34;ve had it for a couple of weeks, and some things i just hate on it and somethings i like better, so i'm just okay with it." **** 'hate'
----'so just be aware you have 16 gigs of memory to store apps (minus os and other things you need).the s3 has included gestures, e.g.' **** 'other'
----'i can not say enough good things about this phone!' **** 'good'
-
-
-================================================================================================================
-__________('clear',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----"i am also enjoying virgin mobile b/c of the savings i'm getting compared to regular cell phone contracts.the price of this s3 is also a good deal when compared to buying an s4 or s5 as well for many of the same features as i've been able to update to the latest android version of kitkat." **** 'able'
----"i even got a free cover for it (not really the cover i wanted, but it will do for now).it has so many features that i'm sure i'm not using, it will take me a while to discover everything.i thought the battery would last longer, but it's not a deal breaker." **** 'sure'
----"pros:camera is pretty great.screen size is good.non voice-call related features of the phone were very good.cons:voice quality was very tinny.virgin network coverage leaves a lot to be desired.overall:i think a bit overpriced for the network it's attached to." **** 'related'
-
-Negative Reviews:
-
----'but, there are also so many other useful features that you should explore.' **** 'other'
----'hello modern networking.there are certain features i am waiting for android and the www to sync up.' **** 'certain'
----"traded up from a htc evo v. the s iii has so many features it's unreal." **** 'unreal'
----'the panorama, hdr, and other features are great.' **** 'other'
----"good phone, horrible service.then again, i live in the mountains of colorado so... whomp whomp... i really like the ease of use with this phone, albeit it's not as easy as the iphone, there are better features with the galaxy s3 than the iphone." **** 'better'
----"they are undoubtedly the two next best android handsets in virgin's lineup, but i decided against them for the following reasons:victory: spotty usb otg support, camera shutter delay.s2: no lte, no jellybean without root.don't get me wrong, both of those are nice devices, but i decided these features were important enough to me to pay a bit extra for something that had no obvious deficiencies." **** 'important'
----'what i like about this product is the face front cam that was the selling point 4 me but then i found other features which proves that it is better than the i phone one of those features is the s voice you can mount your phone and give it commands while driving.' **** 'other'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----'it is able to put everything into text that i say!' **** 'able'
-
-Negative Reviews:
-
----'free everything on that phone only thing no 3g.' **** 'free'
-
-
-================================================================================================================
-__________('little',)__________
-
-
-Positive Reviews:
-
----'it was a pretty good little phone,  but i wanted an siii.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('sd', 'card')__________
-
-
-Positive Reviews:
-
----'i did not see a 2gb micro sd card so make sure you get one or a higher gb card if you a gamer/music nerd like i am.make sure you register and turn on/activate the service on your phone before you start downloading and registering your phone for everything.' **** 'sure'
----'i havent needed to put in a sd card yet :d' **** 'd'
-
-Negative Reviews:
-
----'should be put on a secondary sd card.' **** 'secondary'
----'the galaxy s3 is also one of the few remaining phones that supports an add-on microsd card that you can use to expand your available storage capacity, but do your research before buying just any old card because there are some known compatibility issues with certain brands of sd cards (as well as sd-card format types... recommend formatting any new card to fat32) and samsung galaxy s3 phones.and now for a few minor negatives about the galaxy s3.... i would have preferred the home button be a soft button instead of a physical button because i always worry that these things will wear out(never actually had this happen though)... especially on a phone that i purchased outright and plan to hang on to for a few years, but you can install free aftermarket apps to give you a transparent on-screen home button to help account for this.' **** 'new'
-
-
-================================================================================================================
-__________('lg', 'optimus')__________
-
-
-Positive Reviews:
-
----'i picked this phone up about a week ago as a replacement for my dying lg optimus elite.' **** 'elite'
----'i had an lg optimus elite and it finally died.' **** 'elite'
-
-Negative Reviews:
-
----"i just upgraded from the lg optimus elite to the samsung galaxy s3 and couldn't be more pleased." **** 'elite'
-
-
-================================================================================================================
-__________('month',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"there are a lot of features that i haven't even touched in the month since i have upgraded but i am so happy that i did!" **** 'happy'
----"i've had it for less than a month with no issues." **** 'less'
-
-
-================================================================================================================
-__________('plan',)__________
-
-
-Positive Reviews:
-
----"this phone with virgin's $35 a month plan is perfect for me." **** 'perfect'
----'the galaxy s3 is also one of the few remaining phones that supports an add-on microsd card that you can use to expand your available storage capacity, but do your research before buying just any old card because there are some known compatibility issues with certain brands of sd cards (as well as sd-card format types... recommend formatting any new card to fat32) and samsung galaxy s3 phones.and now for a few minor negatives about the galaxy s3.... i would have preferred the home button be a soft button instead of a physical button because i always worry that these things will wear out(never actually had this happen though)... especially on a phone that i purchased outright and plan to hang on to for a few years, but you can install free aftermarket apps to give you a transparent on-screen home button to help account for this.' **** 'outright'
----'she went with the virgin mobile box because they have a very attractive monthly plan (300 minutes/unlimited text and 4g lte!' **** 'attractive'
-
-Negative Reviews:
-
----'plus i stayed with my same plan and that was cheaper too.' **** 'cheaper'
-
-
-================================================================================================================
-__________('case',)__________
-
-
-Positive Reviews:
-
----'it easily runs my favorite app &#34;waze gps&#34; and it looks great in my new case from paiproducts.comit also shipped very quickly.thank you' **** 'new'
----'i bought a tough case to protect it and it has been going strong since.' **** 'strong'
----"it is super smooth and i like the slim design of the phone but it's best to invest in a good case." **** 'good'
-
-Negative Reviews:
-
----'and you need to be careful about what case you put on the samsung galaxy too, because it will overheat even faster!the rest of my complaints are me just being nitpicky.' **** 'careful'
----'i bought a tough case to protect it and it has been going strong since.' **** 'tough'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"with a few minor modifications to the default configuration that you can do yourself in a matter of minutes, this is a nearly perfect phone.hats off to samsung for engineering such an amazing phone and and to virgin mobile for bringing it to us and at a reasonable price.pros:-phone just flat out works great-huge screen and slim/lightweight chassis-smooth and stable android 4.3 operating system-fast processor/fast app loading-great cell/data/lte reception for virgin mobile-supports micro-sd cards-very little bloatware-adequate battery life-supports virgin's lte network-can talk and use mobile internet at the same timecons:-no mobile hotspot feature-only comes in white, home button is a physical vs soft button-poor default ringtone/notification sound selection (easy to fix by downloading your own)-no external camera button-no infrared transmitter-easily damaged screen/exterior --> get a case immediately after buying the phone!" **** 'flat'
----'also love that it is white and works great an is super fast!!' **** 'white'
-
-
-================================================================================================================
-__________('galaxy', 's', 'ii')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"the speed of the phone is also great; i haven't had any problems with processing or waiting on apps.past phones i have owned, from virgin mobile makes to lg, have not been 100% satisfactory, but that's not the case with my new galaxy iii." **** 'new'
-
-
-================================================================================================================
-__________('samsung', 'galaxy', 's3')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('android',)__________
-
-
-Positive Reviews:
-
----'the new android 4.3 operating system is faster, smoother, and much more intuitive from a users perspective than its predecessor and just generally offers you features that you want in a mobile operating system such as a built-in power-saving mode, the option to choose between a simple desktop (for a novice) or the more complex desktop(for the more experienced android user), as well as the ability to multitask using the floating and configurable pop-out taskbar.' **** 'new'
----"to summarize, the virgin s3 is easily the best android handset in the carrier's lineup and arguably the best handset period." **** 'best'
----"it is the best android phone i've ever owned." **** 'best'
----"i tested it fairly thoroughly when i first got my phone and it rarely ever came up with an error or issue.using the phone itself presented the fairly similar android jelly bean experience with sony's few additions but overall very familiar to the other flagship devices on other carriers." **** 'similar'
-
-Negative Reviews:
-
----'it actually is  a 4.3 jelly bean android system.' **** 'bean'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----"that's probably why it overheats so much and why the battery drains by the second." **** 'second'
----"if you're a heavy phone user, be aware of battery life." **** 'aware'
----'i do manage to make my battery last for 2 days, as i add more apps i know it will drain my battery much faster.' **** 'last'
----'i tried new battery for the phone and for some reason the battery only charges up to 40%.' **** 'new'
----'if i cannot force close all the apps running in the background then samsung should make a battery that lasts longer.' **** 'longer'
----'i bought an extra battery for long days out.' **** 'extra'
----'better battery life.' **** 'better'
----"with a few minor modifications to the default configuration that you can do yourself in a matter of minutes, this is a nearly perfect phone.hats off to samsung for engineering such an amazing phone and and to virgin mobile for bringing it to us and at a reasonable price.pros:-phone just flat out works great-huge screen and slim/lightweight chassis-smooth and stable android 4.3 operating system-fast processor/fast app loading-great cell/data/lte reception for virgin mobile-supports micro-sd cards-very little bloatware-adequate battery life-supports virgin's lte network-can talk and use mobile internet at the same timecons:-no mobile hotspot feature-only comes in white, home button is a physical vs soft button-poor default ringtone/notification sound selection (easy to fix by downloading your own)-no external camera button-no infrared transmitter-easily damaged screen/exterior --> get a case immediately after buying the phone!" **** 'little'
----'i notice the worst battery drain at work where i barely have a signal, so its always burning power to boost the radio.' **** 'worst'
----'the battery is replaceable and supports nfc (used by things like google wallet).' **** 'replaceable'
----"the phone is faster, easy to use, and easy to learn.there's no cons here, if you have battery problems then buy an extended battery." **** 'extended'
-
-Negative Reviews:
-
----'even when you do all the little battery saving tricks (i.e.' **** 'little'
----'be sure to download a battery saver app as they come in handy.- because of the wealth of differerent setting, you need to give yourself a few days/weeks to fully learn everything this phone can do.' **** 'sure'
----"i'm not going to write detailed review of all the pros & cons as that has been done, but this is by far the best & smoothest running smartphone i have ever owned, and at the present time the best phone on vm, by far sorry apple fans, even though vm has the iphone 5s, this phone beats it by a mile, and also has expandable memory as well as a removable battery, 2 things which apple refuses to include on any of their phones, even though they have been standard on most other smartphones for years." **** 'removable'
----'if i had any wish about it, it would be a longer lasting battery.' **** 'longer'
----'this is a open box item and battery is not new because i have to charge my phone twice even i did not use my phone.' **** 'new'
----'average battery life.' **** 'average'
----'the battery seems to be worse.' **** 'worse'
----"if i don't use the phone much during the day, the battery last all day, and then some." **** 'last'
----'only complaint i have is the battery life but i fixed that by ordering a battery charger and extra battery for a couple bucks.' **** 'extra'
----"it's not only fast and reliable, unlike the iphone it has a microsd card and removable battery." **** 'removable'
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----"okay, so this is the first smart phone i've ever had." **** 'first'
----'as my first smart phone purchase, i wanted one that was easy to use and simple to learn.' **** 'first'
----'my first smart phone, and i love it.' **** 'first'
----'so phone is a good smart phone - &#34;five star&#34;.' **** 'good'
----'i replaced an htc one which was my first smart phone.' **** 'first'
----'since this is my first smart phone, i had some difficulty choosing a phone from the ones on sale but finally settled on a known brand, samsung.for reference, mrs. spudman has an lg venice phone and almost all of my tutoring students own iphones.' **** 'first'
----'i needed a new smart phone to take to a friend in africa.' **** 'new'
----'i kept the original packaging and can only hope that when i return 2 months later that i will be able to get a refund and start the process again of looking for an unlocked smart phone.' **** 'unlocked'
-
-Negative Reviews:
-
----"for my first smart phone, i wanted nothing but the best, and it came down to this phone or the iphone 4 for virgin mobile, and even though i have more experience with apple products, namely the itouch that i can't bear to part with, i chose the galaxy." **** 'first'
-
-
-================================================================================================================
-__________('with', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
----'the box that i received is the typical virgin mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
-
-Negative Reviews:
-
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+---'It is not as easy to use as the iphone is.' **** 'easy'
+---'Camera is very good (much better than my Optimus Elite) but probably not as good as Iphone 5.' **** 'good'
+---"I really like the ease of use with this phone, albeit it's not as easy as the iphone, there are better features with the galaxy s3 than the iphone." **** 'easy'
+---'You can shoot in all the same modes as the aforementioned iPhone, including panoramic and burst.' **** 'burst'
+---"It's not only fast and reliable, unlike the iPhone it has a microSD card and removable battery." **** 'reliable'
+---'As a former iphone addicted I tried out the samsung.' **** 'former'
 
 
 ================================================================================================================
@@ -770,216 +195,20 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('network',)__________
+__________('memory',)__________
 
 
 Positive Reviews:
 
----'only after i purchased did i will realize the the reason that there are no roaming fees is because the phone does not work on any network other than sprint.' **** 'other'
----'while they are reliable and have the best network in the nation, i only need a service to make and recieve calls/texts and check email/stream music when im on the go.' **** 'reliable'
----'while they are reliable and have the best network in the nation, i only need a service to make and recieve calls/texts and check email/stream music when im on the go.' **** 'best'
----"doesn't transition from one network to the other well." **** 'other'
----"i'm in the middle of a city, and no mobile network is available!!" **** 'available'
-
-Negative Reviews:
-
----'i kept getting the message,  "mobile network not available".' **** 'available'
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'functionality is much better than i had on my iphone.' **** 'much'
+---'You can add extra memory with a sim card byt even the internal memory is large.' **** 'extra'
+---'It was the best phone in my price range that has that much memory on Virgin Mobile.' **** 'much'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('thing',)__________
-
-
-Positive Reviews:
-
----'(4)the best thing about this phone is how *fast* it is.' **** 'best'
----"one thing and only one thing so far wasn't crazy about i'm sure you read is the plastic back on this, it's very cheap and very, very thin." **** 'crazy'
----"only bad thing is, since it is through virgin mobile which has sprint's coverage, i don't have access to the 4g." **** 'bad'
-
-Negative Reviews:
-
----'all it takes is 15 minutes on your phone, and the stupid thing will get so hot it will just shut down.' **** 'stupid'
----"it's easy to use and the only thing i don't like is the auto correct text." **** 'easy'
----'the worst thing about this phone is the battery life.' **** 'worst'
----'the battery life on this thing has been very generous for me.' **** 'generous'
----"the only thing that i'm disappointed in is the fact that you have to use kies air and are no longer able to put phone in usb mode, other than that i'm a very happy camper." **** 'disappointed'
----"the only thing i'm disappointed about is that a week later i found." **** 'disappointed'
-
-
-================================================================================================================
-__________('excellent',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('device',)__________
-
-
-Positive Reviews:
-
----'if you are in the market for a new device, this is the company to buy it from.' **** 'new'
----'good device with ok speed.' **** 'good'
----'now that i have lived an entire month without one, im totally ok. i didnt know i was ready to ween myself away from cell phone service, but this little device has surprisingly converted me.' **** 'little'
----"it's just flat-out generosity.now, on to the phone.even though i had large savings on this device, it is well worth it even if you pay full price." **** 'worth'
----'i came from an htc evo 3d which i thought was a fantastic, capable device, but there truly is a difference between a flagship and non-flagship.' **** 'capable'
----'if you need more info on the device, i suggest searching the internet since this is a popular device.' **** 'popular'
----'however, any way you look at it the s3 is a very attractive and versatile device and will remain so for some time.' **** 'attractive'
-
-Negative Reviews:
-
----'this is a great little device that fits in my pocket.' **** 'little'
----'it has everything any other device has- bluetooth, speaker, camera flash, gyro, light sensor, etc.' **** 'other'
----'that means we bought a device that will never be able to connect to any network.' **** 'able'
----"ive had the pleasure of owning at least one device on virgin mobile service from each of the big players like htc, apple, and lg but the galaxy s iii definitely stands above the rest!the samsung galaxy s iii is a super slick phone and a major step up from the galaxy s ii and any other device on virgin mobile.super fast processor, 4g lte, amazing screen quality, surprisingly light weight, crazy thin, and tons of customization options via android 4.3, makes this thing a beast of a smartphone.im quite impressed with sony's software additions like s voice functions." **** 'other'
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'and using the free manic jack app make call anywhere for free.' **** 'free'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'the price is a little much for me, but features and long term use warrant that.' **** 'much'
----"and the price is pretty good for what you get...the absolute best feature of this phone is the camera... 8.0 mp camera takes really crisp pretty pictures.the phone get's 4g service where i'm located so i'm thinking the antenna is pretty decent on it since i live in the sticks." **** 'good'
----"i think it's worth the price of admission, that being the bloatware and the imposed vm throttling, in order to get an amazing device." **** 'worth'
----'using virgin mobile, which has great service and the best price on the market.' **** 'best'
----'this phone is fast, has great definition and very easy to navigate,i would recommend this phone for the price it was very worth it' **** 'worth'
----'certainly worth the price if you have something better to do with the $400 or so difference between this and an s4 or s5,' **** 'worth'
----"bottom line, it's a fab phone & amazon has the best price on it." **** 'best'
----"and for the price you can't go wrong." **** 'wrong'
----'so i upgraded to this galaxy s3 for a good price even though it was more than the cheaper knockoff.' **** 'good'
-
-Negative Reviews:
-
----'awesome phone for the price and low monthly phone bills.' **** 'low'
----"amazon offered this for a shockingly low price before black friday and i'm glad i jumped on it." **** 'low'
----'when you can get something cheaper on line why go in the store to only pay a higher price for the item.' **** 'higher'
----'for the price you cant beat it.' **** 'beat'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'i am so so so glad i purchased it for good this time, and the black friday week deal just made it that much more sweet a purchase!' **** 'good'
----'came on time and undamaged, and complete; i practically freaked out (in a good way) when it arrived.' **** 'complete'
-
-Negative Reviews:
-
----'a flash of full bars will appear and instantly disappear from time to time, without me even moving the phone.' **** 'disappear'
----"i think i'll be happy with this phone for a very long time." **** 'long'
----'for a pretty long time i was seriously considering the galaxy victory and s2 instead.' **** 'long'
----'now this purchase , the samsung galaxy s3, is the best purchase i made in a long time.' **** 'long'
-
-
-================================================================================================================
-__________('data',)__________
-
-
-Positive Reviews:
-
----"i don't talk on the phone much, so the $35 a month plan is pretty darn amazing for unlimited data." **** 'unlimited'
----'you are responsible for all data activity from and to your mobile phone or device regardless who initiates the activity.' **** 'responsible'
----'but when i visit my mom 90 minutes away (a very small town), service and data speed is simply stellar.' **** 'stellar'
----"vm is great: you can't go wrong with plans starting at $35/month with unlimited data and texts." **** 'unlimited'
----'plus, on my personal 3gb (limited) data plan, i get charged a lot extra to keep my same speed.' **** 'personal'
-
-Negative Reviews:
-
----'the $35 plan with virgin is great, 300 minutes (more than enough for me) with unlimited data and messaging.' **** 'unlimited'
-
-
-================================================================================================================
-__________('galaxy', 's3')__________
-
-
-Positive Reviews:
-
----'at first i bought a "new" galaxy s3 on ebay and it came in a generic box with a different charger and no instructions and it was more than this one, so back it went.' **** 'first'
----'at first i bought a "new" galaxy s3 on ebay and it came in a generic box with a different charger and no instructions and it was more than this one, so back it went.' **** 'new'
----'i def love the galaxy s3!' **** 'love'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('virgin', 'mobile', 'service')__________
-
-
-Positive Reviews:
-
----'amazon usually has it for a decent price, and virgin mobile has good service in my area.' **** 'good'
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'first'
-
-Negative Reviews:
-
----'definitely try something cheaper with virgin mobile first to make sure you like their service before buying something like this.' **** 'sure'
-
-
-================================================================================================================
-__________('htc', 'one', 'v')__________
-
-
-Positive Reviews:
-
----"i really wonder if a 1080p display is just overkill (i did try out a htc one briefly although i didn't compare them side by side)." **** 'try'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('size',)__________
-
-
-Positive Reviews:
-
----'overall the phone feels very light for its size and feels almost too light when you hold it.' **** 'light'
-
-Negative Reviews:
-
----"the sound quality is really good too.- the size...bigger than the iphone but not too big that you can't navigate with one hand.- the drop-down pane makes navigation easy with all the most important settings at your fingertips (wifi, bluetooth, sound, etc)- s-voice, android's seri alternative is pretty useful (i use it to set my alarms)- options, options, options." **** 'bigger'
----'this phone has a good size learning curve for someone not of the computer generation but it can be figured out even without a manual.' **** 'good'
----"the samsung galaxy s3 also lets you browse the internet while talking on the phone regardless of whether you are connected to the internet by 3g, lte, or wifi.... which is pretty rare for sprint/vm devices and is a huge bonus.battery life could be better, but it's not bad in comparison to other phones out there of similar size and performance specs." **** 'similar'
----'size is perfect, since my eyesight is not as good as it once was...i just turned 70 years young.' **** 'perfect'
-
-
-================================================================================================================
-__________('using', 'virgin', 'mobile')__________
+__________('button',)__________
 
 
 Positive Reviews:
@@ -995,58 +224,112 @@ __________('samsung', 'galaxy', 's')__________
 
 Positive Reviews:
 
----"i love my new samsung galaxy iii :d it's very user friendly and has more gadgets and apps than i expected!" **** 'new'
+---"I love my new Samsung Galaxy III :D it's very user friendly and has more gadgets and apps than I expected!" **** 'new'
+---"I love my new Samsung Galaxy III :D it's very user friendly and has more gadgets and apps than I expected!" **** 'new'
+---"I love my new Samsung Galaxy III :D it's very user friendly and has more gadgets and apps than I expected!" **** 'new'
+---'This is my last Samsung phone' **** 'last'
+---'I hate I phones because they are so unreliable, but Samsung has been a phone that has always been durable and efficient.... hopefully soon I can upgrade to an S5.... this is a great phone none the less.' **** 'unreliable'
+---"Not sure what I'm missing in the Galaxy S IV, but this is great." **** 'sure'
+---'Every feature on this galaxy is good.' **** 'good'
+---'From my Evo to this Galaxy, the battery life of this Galaxy is far superior.' **** 'superior'
+---'I def love the galaxy s3!' **** 'love'
 
 Negative Reviews:
 
+---"I'm told that this is due to Samsung's preferred screen technology, super-amoled, which is good for power consumption, refresh rate and color saturation, but not so good for brightness." **** 'told'
+---"I'm told that this is due to Samsung's preferred screen technology, super-amoled, which is good for power consumption, refresh rate and color saturation, but not so good for brightness." **** 'due'
+---'S-beam allows you to share files between other Samsung devices, and Kies gives you wireless PC connectivity.' **** 'other'
+---'I have worldwide S3 for the UK & Spain and wanted the S3 with Virgin, if you update the phone before you activate the phone with Virgin, you will not get a lot of Virgin Bloat Ware, I have a strong signal in Florida, the data plan is great, I use Wi-Fi in the house and I am always happy with Samsung products' **** 'happy'
+---'I bought the white Samsung cover for it.' **** 'white'
+---'Best galaxy out there in my opinion i really love it does so many things i never thought where possible' **** 'best'
+---"Past phones I have owned, from Virgin Mobile makes to LG, have not been 100% satisfactory, but that's not the case with my new Galaxy III." **** 'new'
 
 
 ================================================================================================================
-__________('deal',)__________
+__________('sd', 'card')__________
 
 
 Positive Reviews:
 
----'not a bad deal.' **** 'bad'
----"i am also enjoying virgin mobile b/c of the savings i'm getting compared to regular cell phone contracts.the price of this s3 is also a good deal when compared to buying an s4 or s5 as well for many of the same features as i've been able to update to the latest android version of kitkat." **** 'good'
----'same price as virgin mobile and got it faster so it was a better deal to get it from amazon' **** 'better'
----'was so happy to find the great deal amazon had on this phone.' **** 'happy'
----'i did a lot of research in trying to find the best no-contract phone with the best deal, and went to www.samsung.com and and punch in no-contract.' **** 'best'
----'the samsung galaxy s iii simply is the best deal that i could find.samsung galaxy s iii (virgin mobile)' **** 'best'
----'im a sucker for a good deal.' **** 'good'
+---'The Galaxy S3 is also one of the few remaining phones that supports an add-on MicroSD card that you can use to expand your available storage capacity, but do your research before buying just any old card because there are some known compatibility issues with certain brands of SD Cards (as well as SD-card format types... recommend formatting any new card to FAT32) and Samsung Galaxy S3 phones.' **** 'new'
 
 Negative Reviews:
 
+---'should be put on a secondary SD card.' **** 'secondary'
 
 
 ================================================================================================================
-__________('from', 'virgin', 'mobile')__________
+__________('a', 'virgin', 'mobile')__________
 
 
 Positive Reviews:
 
+---'I picked this phone after researching what Virgin Mobile phones were good and from feedback from friends with this phone.' **** 'good'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
+---'The box that I received is the typical Virgin Mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
+---'Took a bit of work to get my number transferred but Virgin Mobile was very helpful and had it up in a few minutes.' **** 'helpful'
 
 Negative Reviews:
 
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
+---"So I'm happy to stay with Virgin Mobile, no issues since 2008, and I'm happy with the new S3 phone, and I'm happy my phone bill is not going up any in price per month." **** 'happy'
+---'Still, it was much cheaper than going through Virgin Mobile directly.' **** 'cheaper'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
 
 
 ================================================================================================================
-__________('apps',)__________
+__________('android',)__________
 
 
 Positive Reviews:
 
----"i'm able to play all my favorite apps, watch movies, and  videos it's awesome." **** 'able'
----"i'm able to play all my favorite apps, watch movies, and  videos it's awesome." **** 'favorite'
----'very responsive with apps.' **** 'responsive'
----"do yourself a favor and get a 32 gig micro sd card if you're into downloading a lot or taking your movies or shows on the go, also great for storing lots of extra apps and pics." **** 'extra'
----'i love my new phone ,i have had it for a few months now and it is the best.it is fast,the pics are great, lots of functional apps, clear reception and big screen for watching videos and movies!!!' **** 'functional'
----'without going in to full detail because i am running out of words this definitely a smart buy because of the security features and because of the many apps that come available and my god the space the samsung galaxy is the s*** pardon me get one you will love it.' **** 'available'
----'also, plenty of space on the hard drive for apps and you can actually save apps to the sd card.' **** 'drive'
+---'But I think Android is better and anything Apple is way overpriced.' **** 'better'
+---'The new Android 4.' **** 'new'
+---"They are undoubtedly the two next best Android handsets in Virgin's lineup, but I decided against them for the following reasons:Victory: Spotty USB OTG support, camera shutter delay." **** 'best'
+---"To summarize, the Virgin S3 is easily the best Android handset in the carrier's lineup and arguably the best handset period." **** 'best'
+---"It is the best android phone I've ever owned." **** 'best'
+---"Using the phone itself presented the fairly similar Android Jelly Bean experience with Sony's few additions but overall very familiar to the other flagship devices on other carriers." **** 'similar'
 
 Negative Reviews:
 
----"(7)access to far more decent and free apps than the iphone.it's sounds pretty good, right?" **** 'free'
+---'3 jelly bean android system.' **** 'bean'
+---"These are the fastest and crispest Android handset cameras I've seen- in fact, I think they're even better than any of the iPhone cameras." **** 'crispest'
+---"Battery life kind of varies depending on what features you have on but is generally very acceptable for an Android handset- I can easily go a whole day on one charge, even though I usually don't." **** 'acceptable'
+
+
+================================================================================================================
+__________('smart',)__________
+
+
+Positive Reviews:
+
+---"Okay, so this is the first smart phone I've ever had." **** 'first'
+---'As my first smart phone purchase, I wanted one that was easy to use and simple to learn.' **** 'first'
+---'My first smart phone, and I love it.' **** 'first'
+---'So phone is a good smart phone - &#34; five star&#34;.' **** 'good'
+---'I replaced an HTC One which was my first smart phone.' **** 'first'
+---'Since this is my first smart phone, I had some difficulty choosing a phone from the ones on sale but finally settled on a known brand, Samsung.' **** 'first'
+---'I needed a new smart phone to take to a friend in Africa.' **** 'new'
+---'I kept the original packaging and can only hope that when I return 2 months later that I will be able to get a refund and start the process again of looking for an unlocked smart phone.' **** 'unlocked'
+
+Negative Reviews:
+
+---"For my first smart phone, I wanted nothing but the best, and it came down to this phone or the iPhone 4 for Virgin Mobile, and even though I have more experience with Apple products, namely the iTouch that I can't bear to part with, I chose the Galaxy." **** 'first'
+
+
+================================================================================================================
+__________('network',)__________
+
+
+Positive Reviews:
+
+---'While they are reliable and have the best network in the nation, I only need a service to make and recieve calls/texts and check email/stream music when Im on the go.' **** 'reliable'
+---'While they are reliable and have the best network in the nation, I only need a service to make and recieve calls/texts and check email/stream music when Im on the go.' **** 'best'
+---"Doesn't transition from one network to the other well." **** 'other'
+---"I'm in the middle of a CITY, and no mobile network is available!!" **** 'available'
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -1055,71 +338,125 @@ __________('on', 'virgin', 'mobile')__________
 
 Positive Reviews:
 
----'also very happy with virgin mobile service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
----'great phone and only compatible with virgin mobile which was exactly what i was looking for.' **** 'compatible'
----'the box that i received is the typical virgin mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
----'so far virgin mobile has been great too and only $35 a month.' **** 'virgin'
+---'I picked this phone after researching what Virgin Mobile phones were good and from feedback from friends with this phone.' **** 'good'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
+---'The box that I received is the typical Virgin Mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
 
 Negative Reviews:
 
----"so i'm happy to stay with virgin mobile, no issues since 2008, and i'm happy with the new s3 phone, and i'm happy my phone bill is not going up any in price per month." **** 'happy'
----'with its poor virgin mobile network platform, i have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+---"So I'm happy to stay with Virgin Mobile, no issues since 2008, and I'm happy with the new S3 phone, and I'm happy my phone bill is not going up any in price per month." **** 'happy'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
 
 
 ================================================================================================================
-__________('days',)__________
+__________('data',)__________
 
 
 Positive Reviews:
 
----"i haven't put it down for the past 3 days... except for the times i was asleep." **** 'past'
----'virgin mobile restricts your ( unlimited ) 4g within the first three days of usage.' **** 'first'
+---"I don't talk on the phone much, so the $35 a month plan is pretty darn amazing for unlimited data." **** 'unlimited'
+---'You are responsible for all data activity from and to your mobile phone or device regardless who initiates the activity.' **** 'responsible'
+---'But when I visit my mom 90 minutes away (a very small town), service and data speed is simply stellar.' **** 'stellar'
+---"VM is great: you can't go wrong with plans starting at $35/month with unlimited data and texts." **** 'unlimited'
 
 Negative Reviews:
 
----'i have only had it for a few days, but i am glad i chose this over the much more expensive iphone 5 through virgin.' **** 'glad'
----'i live in the san francisco bay area, and what i learned within the first 3 days of having a cell phone with virgin is that-----****** virgin mobile does not yet have the infrastructure in place to handle basic cell service******in a few "pockets" of san francisco, and throughout the bay area (in urban settings!' **** 'first'
----'got it for $262.00 less than i expected and was delivered within a few days.' **** 'less'
+---'The $35 plan with Virgin is great, 300 minutes (more than enough for me) with unlimited data and messaging.' **** 'unlimited'
 
 
 ================================================================================================================
-__________('lg', 'optimus', 'elite')__________
+__________('galaxy', 's3')__________
 
 
 Positive Reviews:
 
----'i picked this phone up about a week ago as a replacement for my dying lg optimus elite.' **** 'elite'
----'i had an lg optimus elite and it finally died.' **** 'elite'
+---'I def love the galaxy s3!' **** 'love'
 
 Negative Reviews:
 
----"i just upgraded from the lg optimus elite to the samsung galaxy s3 and couldn't be more pleased." **** 'elite'
 
 
 ================================================================================================================
-__________('4g', 'lte')__________
+__________('virgin', 'mobile', 'service')__________
 
 
 Positive Reviews:
 
+---'Amazon usually has it for a decent price, and Virgin Mobile has good service in my area.' **** 'good'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
+---'I picked this phone after researching what Virgin Mobile phones were good and from feedback from friends with this phone.' **** 'good'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
+---'The box that I received is the typical Virgin Mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
+---'Took a bit of work to get my number transferred but Virgin Mobile was very helpful and had it up in a few minutes.' **** 'helpful'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
+---'The box that I received is the typical Virgin Mobile box, comes with a phone, usb charger, electricity plug, and instructions.' **** 'typical'
+---"The S3 is definitely the best phone of it's generation and the best phone Virgin has made available by far." **** 'available'
+---'Great phone does really well with virgin better than iphone 4s satisfied tail something new xomesyayyay yaye is so good' **** 'better'
+---'Amazon usually has it for a decent price, and Virgin Mobile has good service in my area.' **** 'good'
+---'"In other words: We cripple your internet experience so that you\'ll buy our more expensive mobile tethering device (which a completely separate service, not even available with pay-as-you-go) and if we catch you trying to use the internet you\'ve paid for on anything other than our phone we\'ll terminate your service.' **** 'separate'
+---"Call Quality/NetworkNo problems whatsoever with texting or calling, I always seem to have a signal and 3G service that isn't drastically slow." **** 'slow'
+---'I picked this phone after researching what Virgin Mobile phones were good and from feedback from friends with this phone.' **** 'good'
+---'Took a bit of work to get my number transferred but Virgin Mobile was very helpful and had it up in a few minutes.' **** 'helpful'
 
 Negative Reviews:
 
----'the only downside is the external speakers are not that good, but i use the earbuds anyway so this in not really a problem for me.4g lte is blazingly fast and so nice coming off a 3g phone.the screen size is wonderful too.you can add a memory card for extra storage up to 32 gb.' **** 'nice'
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
+---"So I'm happy to stay with Virgin Mobile, no issues since 2008, and I'm happy with the new S3 phone, and I'm happy my phone bill is not going up any in price per month." **** 'happy'
+---'Still, it was much cheaper than going through Virgin Mobile directly.' **** 'cheaper'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+---"So I'm happy to stay with Virgin Mobile, no issues since 2008, and I'm happy with the new S3 phone, and I'm happy my phone bill is not going up any in price per month." **** 'happy'
+---'Still, it was much cheaper than going through Virgin Mobile directly.' **** 'cheaper'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+---'No different than the one my wife bought directly from Virgin, only this was cheaper.' **** 'cheaper'
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
 
 
 ================================================================================================================
-__________('fast',)__________
+__________('for', 'virgin', 'mobile')__________
 
 
 Positive Reviews:
 
----"i'm not concerned with watching hd video in the middle of the woods.the good: super fast phone, excellent response time opening and closing apps, great camerathe bad: sprint does not currently have 4g in my area." **** 'super'
----'easy to set up and use...fast downloads....good call quality....and great screen.' **** 'easy'
+---'Also very happy with Virgin Mobile Service $45 a month for unlimited everything and no stupid contracts.' **** 'happy'
 
 Negative Reviews:
 
----'the screen is really nice and the data is still super fast.' **** 'super'
+---'Definitely try something cheaper with Virgin Mobile first to make sure you like their service before buying something like this.' **** 'sure'
+---'With its poor virgin mobile network platform, I have been introduced to the world of a cell phone sized tablet.' **** 'poor'
+
+
+================================================================================================================
+__________('apps',)__________
+
+
+Positive Reviews:
+
+---"I'm able to play all my favorite apps, watch movies, and  videos it's awesome." **** 'able'
+---"I'm able to play all my favorite apps, watch movies, and  videos it's awesome." **** 'favorite'
+---"Do yourself a favor and get a 32 gig micro SD card if you're into downloading a lot or taking your movies or shows on the go, also great for storing lots of extra apps and pics." **** 'extra'
+---'It is fast, the pics are great, lots of functional apps, clear reception and big screen for watching videos and movies!!!!' **** 'functional'
+---'Without going in to full detail because I am running out of words this definitely a smart buy because of the security features and because of the many apps that come available and my god the space the Samsung galaxy is the s*** pardon me get one you will love it.' **** 'available'
+---'Also, plenty of space on the hard drive for apps AND you can actually save apps to the sd card.' **** 'drive'
+
+Negative Reviews:
+
+---'(7)Access to far more decent and free apps than the iPhone.' **** 'free'
+
+
+================================================================================================================
+__________('amazon',)__________
+
+
+Positive Reviews:
+
+---"It's so bad that AMAZON couldn't fulfill what was promised to me." **** 'bad'
+---'Amazon was good in sending out replacement unit.' **** 'good'
+
+Negative Reviews:
+
+---'I found this one on Amazon for cheaper in a sealed package.' **** 'cheaper'
+---'Amazon:I was able to buy the phone when it was on sale and saved another few percent on sales tax.' **** 'able'
 
 
 ================================================================================================================

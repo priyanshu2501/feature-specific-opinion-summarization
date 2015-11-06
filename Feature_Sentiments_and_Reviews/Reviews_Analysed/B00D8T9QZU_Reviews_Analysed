@@ -1,24 +1,41 @@
-__________('model',)__________
+__________('happy', 'with', 'purchase')__________
 
 
 Positive Reviews:
 
----"i selected one star, because i don't recommend the seller.he sent me an incorrect battery, the battery is the other model of phone.i don't have way to communicate with him." **** 'other'
+---"I'm happy with this purchase." **** 'happy'
+---'Overall, I am happy with the purchase and experience with Amazon/Open Wireless Group and would recommend this phone.' **** 'happy'
+---"I got the right model, the battery and everything else seems to be operating well, and I'm happy with my purchase." **** 'happy'
 
 Negative Reviews:
 
----'they sent me the wrong model.' **** 'wrong'
+---'Overall, I am happy with the purchase and experience with Amazon/Open Wireless Group and would recommend this phone.' **** 'overall'
 
 
 ================================================================================================================
-__________('perfect',)__________
+__________('battery', 'life')__________
 
 
 Positive Reviews:
 
+---'battery last forever' **** 'last'
+---'Excellent mobile, great capabilyties and for me the perfect size with powerful proccessor, amazing optimized battery perfomed, now i can listen mp3 more than 9 hrs and able to make calls ans sms without been recharged, i buyed with extra battery case but even needed till now.' **** 'extra'
+---'I received the phone with all accessories and in time I was told it would receive but my complaint is that the phone came with manufacturing defects such as: is very slow, the battery will not last more than half a day without uasarlo far overheats even without using it, does not save the time and allows downloads Serbian mobile data network!' **** 'slow'
+---"While the larger phones are better suited to watch videos, I'm more interested in using it with useful apps and, of course, as an actual phone..... :)Key features of this phone that sold me is the ability to add up to 64gb of storage with its micro sd slot and the removable battery." **** 'removable'
+---"It's great to easily be able to replace a failing battery, or simply be able to carry a spare battery if you find yourself unable to recharge your phone when your traveling." **** 'able'
+---'The battery last all day even when I use it a lot during the day.' **** 'last'
+---"My guess is a defective battery I'm not sure." **** 'sure'
 
 Negative Reviews:
 
+---"In fairness some people on XDA forums seem to get good battery life out of this phone on cm but I don't know what kind of customizations they have used (most undervolt) or how they use the phone I'm just talking of my experience here." **** 'good'
+---'Only one minus - short battery life.' **** 'short'
+---"I just could not make it through the day without having to recharge it at work and I HATE to charge twice a day, it also isn't very good for the battery's health over the long term." **** 'good'
+---"In fairness some people on XDA forums seem to get good battery life out of this phone on cm but I don't know what kind of customizations they have used (most undervolt) or how they use the phone I'm just talking of my experience here." **** 'good'
+---'I like how long the battery lasts.' **** 'long'
+---'I like the phone and get at least what I do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.' **** 'original'
+---"I have been trying to be conscious about the battery usage and turning of features I don't need, but it's still bad." **** 'conscious'
+---'Only one minus - short battery life.' **** 'short'
 
 
 ================================================================================================================
@@ -27,10 +44,10 @@ __________('cellphone',)__________
 
 Positive Reviews:
 
----"i'm so happy with my cellphone, and the price still going down... all the functions are better than other cellphones, the camera resolution it's excellent, ive got my better pictures ever." **** 'happy'
+---"I'm so happy with my cellphone, and the price still going down... All the functions are better than other cellphones, the camera resolution it's excellent, Ive got my better pictures ever." **** 'happy'
 ---"this cellphone is locked it's a bad seller because is no true... my cellphone is locked, and the page say ( unlocked from factory)...." **** 'true'
----'really good cellphone, was much more than i expected, really good touch screen, perfect size, and operational system excellent, and awsome camera' **** 'good'
----'really good cellphone, was much more than i expected, really good touch screen, perfect size, and operational system excellent, and awsome camera' **** 'much'
+---'Really good cellphone, was much more than I expected, really good touch screen, perfect size, and operational system excellent, and awsome camera' **** 'good'
+---'Really good cellphone, was much more than I expected, really good touch screen, perfect size, and operational system excellent, and awsome camera' **** 'much'
 
 Negative Reviews:
 
@@ -38,125 +55,255 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('nice',)__________
+__________('a', 'micro', 'sim')__________
 
 
 Positive Reviews:
 
----"it is an excellent choice if you are looking for portability, strenght and realibity; nice small cellphone with a heart plenty of power.and don't forget: it's a phone &#8211;i mean you can do calls all day long- with nice and great audio.i will keep testing my s4mini for some months more and then i will go for a second review" **** 'small'
+---'People complaining about the Micro SIM are just delusional, any major carrier will provide a new SIM for free.' **** 'new'
+---'My older SIM card, witch is on a Samsung Galaxy SIII mini is a minicard, whilst the  Samsung Galaxy SIV mini requires a Microcard, so I have to proceed to change the older SIM Card by a new, SIM microcard.' **** 'new'
+
+Negative Reviews:
+
+---'I double checked with the manual that was provided and it said ONLY MICRO SIM CARD.' **** 'manual'
+---'This one lady was like &#34; Oh, you just break open your SIM card and the micro one I inside of it&#34;.' **** 'open'
+---'So, I googled it and then found this DIY on cnet that instructs you how to make a microSIM card out of your regular SIM card by cutting it.' **** 'regular'
+---'People complaining about the Micro SIM are just delusional, any major carrier will provide a new SIM for free.' **** 'free'
+---'It uses a micro-SIM which fortunately BrightSpot SIM cards can be used as both a regular SIM and a micro-SIM.' **** 'regular'
+
+
+================================================================================================================
+__________('i.', 'e.')__________
+
+
+Positive Reviews:
+
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('reviews',)__________
+__________('samsung', 's4', 'mini')__________
 
 
 Positive Reviews:
 
----'i order from cell-source, even though it was little pricier than some of the other orders listed because it was amazon prime and the percentage of positive reviews posted was a few percent higher than other sellers.' **** 'positive'
----"i was still a little nervous about it because of seeing other reviews with unnamed sellers that were not unlocked and because the price for the phone on amazon.fr after applying the conversion made me think there can't be much profit in the business of selling unlocked phones.the phone arrived friday in an unopened box." **** 'other'
----'i was a bit concerned about buying this phone, not just because of the incorrect spelling of samsung, but also because of the negative reviews and the number of people whose phones were locked when they arrived.' **** 'negative'
----'i  bought the phone from cell-source as they had good reviews and i have been happy with their service so far.' **** 'good'
----'the last problem i had prevented my data from working and youll notice others commented about this in the in the other reviews.' **** 'other'
----'there are many good reviews and a few bad so i decided to weigh the odds and purchase.' **** 'good'
----"mine runs on at&t; hspa+ and i'm happy with the speed.don't listen to the bad reviews here." **** 'bad'
----"i regret buying the phone.i should have considered some of the honest reviews here before i went ahead.i found my old galaxy s vibrantfar better than this galaxy s 4 mini 19195.you struggle hard to click a news item you want to read.it's worth far less than the price to menext time i am buying anything, i will consider only the cons before i make a any stupid choiceit messed up my sim cardit came with apps written in frenchunlike my old galaxy it doesnr vibrate while typing on the key board.it freezes sometimes" **** 'honest'
+---"I just got my new samsung galaxy S4 mini 19195 Wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
+---'I recommend it to buy and enjoy it, Samsung is the best!!!' **** 'best'
+---'I am happy with my new Samsung cell phone.' **** 'happy'
+---'I am happy with my new Samsung cell phone.' **** 'new'
+---'The phone came in a sealed box, its Samsung original and fully unlocked.' **** 'original'
+---"I just got my new samsung galaxy S4 mini 19195 Wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
+---'Recent Region-locking of newer Samsung units (including the one I received)... Excelent phone.' **** 'recent'
+---'Recent Region-locking of newer Samsung units (including the one I received)... Excelent phone.' **** 'newer'
+---"I have been with it for two weeks, and i can say that this is one of the best mini flagship phones that there're out there." **** 'best'
+---'I was so happy to find the mini one.' **** 'happy'
 
 Negative Reviews:
 
----'do you want to risk buying from crooks like these?read the other reviews for this phone.' **** 'other'
----'there are many good reviews and a few bad so i decided to weigh the odds and purchase.' **** 'bad'
+---'I purchased this product because I like all my other Samsung products, However, this phone, I am already having an issue.' **** 'other'
+---'Just make sure you get a SAMSUNG SEALED PHONE or send it back!' **** 'sure'
+---'This handset is the perfect size and has just about all the features of the regular Samsung 4 .' **** 'regular'
 
 
 ================================================================================================================
-__________('version',)__________
+__________('service',)__________
 
 
 Positive Reviews:
 
----'when each phone was unboxed, every box had an adapter enclosed.shopebest, your service was not bad, the phone works well, however i would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked and i will have to unlock it to use it' **** 'international'
----'i was looking for an unlocked version of this phone with a reasonable price and i found the straighttrading company.' **** 'unlocked'
----"don't purchase this phone with this scammer, they sent me the european version and not the international now i have to pay to unlock it when the seller clearly said that it works, but it doesnt!!!!!!!!!!" **** 'international'
----'i have not had problems with the phone, but i should have read better the ad because the international version charger is for europe (i guess) i had to buy another charger, but it was my fault.' **** 'international'
----'it is not no international version.' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'international'
----"good evening, i address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in venezuela (movistar) does not work; i do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that i saw works well and is the version offered.because i'm unhappy because the product did not arrive as it was.i like the phone and get at least what i do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.i would not really recommend it to anyone and each see things so much da weighing, so i want an answer as to the team and i leave so many doubts." **** 'international'
----'someone buying am "unlocked international version no warranty " phone, is doing it for only one reason: to use it outside the us.so a crook seller sees an oportunity to commit fraud: let\'s sell them some $50 used cel phone with a sticker that says i9195 for $300 and when they noticed they where ripped off, they\'ll be out of the country and won\'t be able to complain.that was almost my story.' **** 'international'
----'after buying this factory unlocked, international version and try to used, a sim unlocked code was requested...i contact seller &#34;sold by mercate group&#34; they answer back next day apologizing and ask for imei and s/n to obtain free code and i did not get any answer back... almost a month later an 5 or 6 mail to them asking for status on my request, decide to return it and clasify them negative....very unsatisfied costumer ...' **** 'international'
----"you can go 32 mb via microsd; so don't worry about about the storage capability for program downloads, music  or even pictures from its digital 8mb camera.i9095 is an international version; it's means that the device comes with the european plug charger ( round pin instead of the standard american flat paddle pin -up ) ." **** 'international'
----'the one thing i wish it did have though was the notification light but other than that its a truly customizable phone.i was a little worried when i read that some persons got the wrong version, but everything has been working quite well so far.' **** 'wrong'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'likely'
+---'I  bought the phone from Cell-Source as they had good reviews and I have been happy with their service so far.' **** 'happy'
+---'SHOPEBEST, your service was not bad, the phone works well, however I would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'bad'
+---'I do not qualify the quality of this product since the parcel service declared it as lost.' **** 'lost'
 
 Negative Reviews:
 
----'this phone is supposed to be an international version i.e.' **** 'international'
----'this is my forth samsung and i love it.if you need a smaller and lighter version of the s4 this is it.' **** 'smaller'
----'this is my forth samsung and i love it.if you need a smaller and lighter version of the s4 this is it.' **** 'lighter'
----'i feel the phone is just nice.... because i was expecting the 16gb version but he sold me the 8gb version and more over the price is little expensive.it could be sold cheaper for this version.' **** 'cheaper'
----'fyi, i bought this as an unlocked, international version.' **** 'international'
----'this  samsung galaxy s4 mini gt-i9195 8gb-unlocked international version no warranty white lte 800 / 850 / 900 / 1800 / 2100 / 2600mhz (new)this blocked... ask me pin of unlock sim card network... is the phone that sent me the following imei  351616061382238/01i need the pin to unlock it.' **** 'international'
----'the phone says international version unlocked but you sent me an european version locked out of europe.' **** 'international'
----"this is not the fake chinese version, it's original." **** 'original'
----'i bought this phone, because it is supposed to be the &#34;international version&#34; and i wanted to used in latin america.' **** 'international'
----'the feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
----'i bought the 4g model i9195, but instead they sent me the cheaper version i9192.' **** 'cheaper'
----'how could they have described it as an international version?' **** 'international'
----'however, the company that sells it says it is "unlocked" and is the "international version" and it is false.' **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'aware'
+---'the about the delivery it was so slow, poor service.' **** 'slow'
+---'the about the delivery it was so slow, poor service.' **** 'poor'
+---'good service and good attention but the team did not get released as the description saysthe evaluation is based on the equipment is not released' **** 'good'
+---"I'm happy to leave a five-star rating for this seller straighttrading; not only shipped my cell phone the same day was purchased regardless that I chose free shipping, but delivered an all-round good service: good packaging, excellent quality product and they solved every question I had." **** 'good'
+---'No guarantee because they do not provide good service.' **** 'good'
+---'The fact the phone is unlocked enables you to use any service you please- not being bound to a service is nice.' **** 'nice'
+
+
+================================================================================================================
+__________('perfect', 'size')__________
+
+
+Positive Reviews:
+
+---'I really think it is the perfect size, not too big or too small.' **** 'small'
+---'I recomend 100% The size is perfect!!!!' **** 'perfect'
+---'The size is perfect too.' **** 'perfect'
+---'Is a great phone, the size is perfect.' **** 'perfect'
+---'The phone is easy to use, and pretty fast, and the size is just perfect.' **** 'perfect'
+---'The size is perfect for me.' **** 'perfect'
+---'And the size it is just perfect for me' **** 'perfect'
+
+Negative Reviews:
+
+---'well for me this a modern phone and it does its job well, and the size is perfect for people who do not like big phones.' **** 'perfect'
+
+
+================================================================================================================
+__________('an', 'international', 'version')__________
+
+
+Positive Reviews:
+
+---"The phone is faulty, the battery runs out very quickly and the phone turns off constantly.... Good evening, I address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in Venezuela (Movistar) does not work; I do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that I saw works well and is the version offered." **** 'international'
+---'My son love it he says super cute and service is fast, even in another country,, and he said he just insert a sim card all the way working, is really amazing,, The feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'likely'
+
+Negative Reviews:
+
+---'This phone is supposed to be an international version i. e. it should carry an adapter, after all it is intended for international use.' **** 'international'
+---'I bought this phone, because it is supposed to be the &#34; international version&#34; and I wanted to used in Latin America.' **** 'international'
+---'How could they have described it as an international version?' **** 'international'
+---"I9095 is an international version; it's means that the device comes with the European plug charger ( round pin instead of the standard American flat paddle pin -up ) ." **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'aware'
+
+
+================================================================================================================
+__________('custom', 'roms')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---"Glad I found it since I now have alternatives in case I don't find good custom roms (for this phone they're all mostly cyanogenmod-based)." **** 'good'
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---'The camera is really good as well' **** 'good'
+---'3) Pictures taken with this camera definitely inferior to Note 2.' **** 'inferior'
+---'The camera is some weak compared with my previous iphone, but it is not an issue for me since I use DSLRs.' **** 'weak'
+---"Is relatively fast, the only thing I don't like is that the camera is slow." **** 'slow'
+
+Negative Reviews:
+
+---"You can go 32 Mb via microSD; so don't worry about about the storage capability for program downloads, music  or even pictures from its digital 8Mb camera." **** 'digital'
+---'Love the phone - Only one problem is I cant seem to be able to turn off the camera sounds.' **** 'able'
+
+
+================================================================================================================
+__________('iphone',)__________
+
+
+Positive Reviews:
+
+---'My co-workers who have iPhone 5Ss actually admire this little beast and constantly compliment me on it.' **** 'admire'
+---'I needed a lighter phone than my Google Nexus and was very close to getting an iPhone 5 due to the size and weight, but thankfully a colleague told me about the S4 mini before switching over!' **** 'due'
+---"Additionally, I decided, since I am an avid music fan, I'd need a phone with expandable memory so I wouldn't have to pay out several orifices for a large-memory iPhone." **** 'large-memory'
+---'I really wanted a new iPhone 5s but with only about 6 months away from the release of a new iPhone 6, I decided to buy something else until then.' **** 'new'
+---'I really wanted a new iPhone 5s but with only about 6 months away from the release of a new iPhone 6, I decided to buy something else until then.' **** 'new'
+
+Negative Reviews:
+
+---"I'm not sure if I can change the settings on my new iPhone to do same but I keep meaning to try.&#10003; iPhone4SHANDSET LOCK: I don't know why but the screen lock on the S4 Mini kept malfunctioning, especially when the phone was in my pocket." **** 'new'
+---'Going back to an iPhone felt like being reunited with a long-lost dearly loved relative.' **** 'long-lost'
+---'Going back to an iPhone felt like being reunited with a long-lost dearly loved relative.' **** 'relative'
+
+
+================================================================================================================
+__________('straight', 'talk')__________
+
+
+Positive Reviews:
+
+---'I use it on the straight talk and it was very hard to get the internet working.' **** 'straight'
+---'I have Straight Talk and this phone works like a dream.' **** 'straight'
+
+Negative Reviews:
+
+---"After much deliberation, I decided I'd purchase an unlocked phone to use with Straight Talk - cheapest individual plan I could find." **** 'cheapest'
+
+
+================================================================================================================
+__________('internet',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'I Dont know if its becuase its unlocked or what, but the speed of the phone and the conection with the internet is much more slower than with the iphone.' **** 'much'
+
+
+================================================================================================================
+__________('mobile',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('notification', 'light')__________
+
+
+Positive Reviews:
+
+---'The one thing I wish it did have though was the notification light but other than that its a truly customizable phone.' **** 'other'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('recommend', 'to', 'anyone')__________
+
+
+Positive Reviews:
+
+---"It really runs fast and smooth that's my main thing I was looking for, and camera is normal nothing special, I love the size and look it's really cool just enough ram, would like to use more memory but I can buy a SD card, it can handle a lot of apps and run it fast and smooth like I said before, I was a little nervous before buying because I use T-Mobile and this phone doesn't support T-Mobiles 4G LTE band but I get H+ on T-Mobile that's pretty fast so I can't complain otherwise I recommend this phone for anyone who wants am average or high functional smartphone but not as big as the s4, by the way it's almost or exactly the same size as the iPhone 4 I just hope it will last a long time without any problems meanwhile I am using it already for 2 weeks will update if any problems." **** 'average'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('unlocked', 'international', 'version')__________
+
+
+Positive Reviews:
+
+---"The phone is faulty, the battery runs out very quickly and the phone turns off constantly.... Good evening, I address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in Venezuela (Movistar) does not work; I do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that I saw works well and is the version offered." **** 'international'
+---'My son love it he says super cute and service is fast, even in another country,, and he said he just insert a sim card all the way working, is really amazing,, The feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
+---'SHOPEBEST, your service was not bad, the phone works well, however I would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'international'
+---'It is not no international version.' **** 'international'
+---"The phone is faulty, the battery runs out very quickly and the phone turns off constantly.... Good evening, I address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in Venezuela (Movistar) does not work; I do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that I saw works well and is the version offered." **** 'international'
+---'My son love it he says super cute and service is fast, even in another country,, and he said he just insert a sim card all the way working, is really amazing,, The feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'likely'
+
+Negative Reviews:
+
+---'I did choose this specific product the advertisement says it is a factory unlocked international version.' **** 'international'
+---'This phone is supposed to be an international version i. e. it should carry an adapter, after all it is intended for international use.' **** 'international'
+---'I did choose this specific product the advertisement says it is a factory unlocked international version.' **** 'international'
+---'I bought this phone, because it is supposed to be the &#34; international version&#34; and I wanted to used in Latin America.' **** 'international'
+---'How could they have described it as an international version?' **** 'international'
+---"I9095 is an international version; it's means that the device comes with the European plug charger ( round pin instead of the standard American flat paddle pin -up ) ." **** 'international'
+---"I have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from Europe and therefore the charger plug has 220v round prongs." **** 'aware'
 ---'because of the international version.' **** 'international'
 
 
 ================================================================================================================
-__________('purchase',)__________
-
-
-Positive Reviews:
-
----"i'm happy with this purchase." **** 'happy'
----'very happy with this purchase!' **** 'happy'
----'overall, i am happy with the purchase and experience with amazon/open wireless group and would recommend this phone.' **** 'happy'
----'i wanted to tell them that this was no more, the best purchase that i have made in these times.' **** 'best'
----'very happy with this purchase!' **** 'happy'
----'good purchase for a nice price!' **** 'good'
----"it's a good purchase considering the price, works fine in venezuela" **** 'good'
----'excellent phone, i was not sure of the purchase but really left very satisfied, the phone is not for me, is a gift for my sister' **** 'sure'
-
-Negative Reviews:
-
----"in my case, i received a damage item and now i can't have warranty neither support..... and the seller was not what i expected.. they were not kind, neither polite, very disappointed with the seller.to all buyers, before to make an expensive purchase, please make sure you know everything about all this issues that happened to me, that way you will not lose the money." **** 'expensive'
----'overall, i am happy with the purchase and experience with amazon/open wireless group and would recommend this phone.' **** 'overall'
-
-
-================================================================================================================
-__________('a', 'samsung', 'galaxy')__________
-
-
-Positive Reviews:
-
----"i just got my new samsung galaxy s4 mini 19195 wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('sd', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'it did not come with an extra sd card, but it has enough internal memory for apps.' **** 'extra'
-
-
-================================================================================================================
-__________('english',)__________
+__________('cover', 'warranties')__________
 
 
 Positive Reviews:
@@ -167,7 +314,63 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('5', 'stars')__________
+__________('micro', 'sim', 'card')__________
+
+
+Positive Reviews:
+
+---'My older SIM card, witch is on a Samsung Galaxy SIII mini is a minicard, whilst the  Samsung Galaxy SIV mini requires a Microcard, so I have to proceed to change the older SIM Card by a new, SIM microcard.' **** 'new'
+---'HOWEVER, the phone does not take a regular SIM Card.' **** 'regular'
+---'My older SIM card, witch is on a Samsung Galaxy SIII mini is a minicard, whilst the  Samsung Galaxy SIV mini requires a Microcard, so I have to proceed to change the older SIM Card by a new, SIM microcard.' **** 'new'
+---'People complaining about the Micro SIM are just delusional, any major carrier will provide a new SIM for free.' **** 'new'
+---'My older SIM card, witch is on a Samsung Galaxy SIII mini is a minicard, whilst the  Samsung Galaxy SIV mini requires a Microcard, so I have to proceed to change the older SIM Card by a new, SIM microcard.' **** 'new'
+
+Negative Reviews:
+
+---'I double checked with the manual that was provided and it said ONLY MICRO SIM CARD.' **** 'manual'
+---'This one lady was like &#34; Oh, you just break open your SIM card and the micro one I inside of it&#34;.' **** 'open'
+---'So, I googled it and then found this DIY on cnet that instructs you how to make a microSIM card out of your regular SIM card by cutting it.' **** 'regular'
+---'It uses a micro-SIM which fortunately BrightSpot SIM cards can be used as both a regular SIM and a micro-SIM.' **** 'regular'
+---'This one lady was like &#34; Oh, you just break open your SIM card and the micro one I inside of it&#34;.' **** 'open'
+---'So, I googled it and then found this DIY on cnet that instructs you how to make a microSIM card out of your regular SIM card by cutting it.' **** 'regular'
+---'On European netwroks, I tried three different foreign SIM card on this phone, ONESIM (UK), Vodafone (UK) and Lebara (Germany), without doing any unlock, it all works well.' **** 'foreign'
+---'Second, the SIM card can not put into the SIM card hole.' **** 'second'
+---'It uses a micro-SIM which fortunately BrightSpot SIM cards can be used as both a regular SIM and a micro-SIM.' **** 'regular'
+---'I double checked with the manual that was provided and it said ONLY MICRO SIM CARD.' **** 'manual'
+---'This one lady was like &#34; Oh, you just break open your SIM card and the micro one I inside of it&#34;.' **** 'open'
+---'So, I googled it and then found this DIY on cnet that instructs you how to make a microSIM card out of your regular SIM card by cutting it.' **** 'regular'
+---'People complaining about the Micro SIM are just delusional, any major carrier will provide a new SIM for free.' **** 'free'
+---'It uses a micro-SIM which fortunately BrightSpot SIM cards can be used as both a regular SIM and a micro-SIM.' **** 'regular'
+
+
+================================================================================================================
+__________('factory',)__________
+
+
+Positive Reviews:
+
+---'This was not the case with this device and it was unblemished and factory fresh in sealed box.' **** 'fresh'
+---'I am returning it because I ordered this phone and WIRELESS EXPERTS sent me a OPEN BOX PHONE, sealed security tape was broken, a white sticker was affixed over the original seal trying to conceal that, also a false original description decal was put over the original factory one.' **** 'original'
+
+Negative Reviews:
+
+---'I was definitely worried about buying this phone at first because it was an international, factory unlocked phone.' **** 'international'
+
+
+================================================================================================================
+__________('sd', 'slot')__________
+
+
+Positive Reviews:
+
+---'It has an SD slot which is good.' **** 'good'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('latin', 'america')__________
 
 
 Positive Reviews:
@@ -175,25 +378,83 @@ Positive Reviews:
 
 Negative Reviews:
 
----"reasons why i'm giving it 5 stars: it's new, it's the original gt-i9195 it is not a cheap clone, it works perfectly on 4g netwoks, it is unlocked i've used this phone in the uk, germany, france and canada it works perfectly." **** 'new'
+---"When I went to the place, they told me they were not able to help me due to 2 things: 1- The IMEI of the phone belong to Europe specific FRANCE and in my country the only cover warranties of IMEI's that belong to Latin America, that way the weren't able to cover the warranty, neither can fix the phone if I was willing to pay for it, because they can not even fix item that doesn't belong to Latin America, that way I had no choices to can fix the phone in my country." **** 'belong'
+---'It does say on the box that only European SIM cards are to be used but that is because this is the European model GT-I9195 and works on the same frequencies as here in Venezuela and probably the same in other Latin American countries too.' **** 'other'
 
 
 ================================================================================================================
-__________('venezuela',)__________
+__________('u.', 's.')__________
 
 
 Positive Reviews:
 
----'its a beatiful cellphone and it works in venezuela very well, i only see 1 detail, its dont have a charger for venezuela, that is bad.' **** 'bad'
+---'delivery was great everything came full that the only thing wrong was the power charger for European countries and I got to buy an adapter for u. s. have to specify when purchasing international  buy or for u. s. it was functional, and cute.' **** 'functional'
 
 Negative Reviews:
 
----'the phone its not unlocked please you has to be honest in venezuela it not easy find dolars i lose that monney please tell me de name of de original carrier to try the imei unlock for try to used and not lose everything' **** 'honest'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'possible'
 
 
 ================================================================================================================
-__________('excellent',)__________
+__________('seller',)__________
+
+
+Positive Reviews:
+
+---'Be extremely aware from what seller you buy this "international" phone, because some are just waiting to rip you off' **** 'aware'
+---'Anyone can recommend a reliable seller?' **** 'reliable'
+
+Negative Reviews:
+
+---"In my case, I received a damage item and now i can't have warranty neither support..... and the seller was not what i expected.. they were not kind, neither polite, very disappointed with the seller." **** 'polite'
+---"this cellphone is locked it's a bad seller because is no true... my cellphone is locked, and the page say ( unlocked from factory)...." **** 'bad'
+---'I ordered mine from the seller &#34; WorldWide Distributors&#34; and had no problem at all.' **** 'mine'
+
+
+================================================================================================================
+__________('s3', 'mini')__________
+
+
+Positive Reviews:
+
+---'This phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a fectuares that can manage at tv control for tv, blu ray, proyector, for the price is a good product not to big like the S4 and not too small like the S3 mini have the right palm hand side with good proportions' **** 'small'
+---'This phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a features that can manage at tv control for tv, blu ray, proyector, for the price is a good product not to big like the S4 and not too small like the S3 mini have the right palm hand side with good proportions' **** 'small'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('apps',)__________
+
+
+Positive Reviews:
+
+---"It's from the UK and has foreign apps so don't purchase if your from the United States and speak English!!!" **** 'foreign'
+
+Negative Reviews:
+
+---'With a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular.' **** 'other'
+---'With a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular.' **** 'regular'
+
+
+================================================================================================================
+__________('i9195',)__________
+
+
+Positive Reviews:
+
+---'Phone arrived the next day in sealed box with correct i9195 model S4 Mini.' **** 'correct'
+
+Negative Reviews:
+
+---'I received the I9192 model not the I9195, I returned the phone and already created a new order fo the I9195, I am waiting receive the correct one.' **** 'receive'
+---'I received the I9192 model not the I9195, I returned the phone and already created a new order fo the I9195, I am waiting receive the correct one.' **** 'correct'
+---'Luckily I was able to notice ON TIME, that the model number behind the battery was for an used S7562 (a $50 cel) and not a new  i9195 (a $300 one).' **** 'new'
+---"The i9195 is a GREAT phone, just google i9195 review and you'll see." **** 'google'
+
+
+================================================================================================================
+__________('network',)__________
 
 
 Positive Reviews:
@@ -209,32 +470,30 @@ __________('language',)__________
 
 Positive Reviews:
 
----'very good, but it was set to danish or sweden language at startup.no english instruction on how to change language, so i was blind to changedit to english.finnally with an online translator help, i made it, and everything was ok.' **** 'good'
----'i received the phone with operation manual booklet written in polish language.' **** 'polish'
----'however, was not happy that the manual was in another language.' **** 'manual'
----'when i turned it on, the default language was french, but i was easily able to change it to english.' **** 'able'
+---'However, was not happy that the manual was in another language.' **** 'manual'
+---'LOL It did come in French but was pretty easy to change the language.' **** 'easy'
+---'When I turned it on, the default language was French, but I was easily able to change it to English.' **** 'able'
 
 Negative Reviews:
 
----'very good, but it was set to danish or sweden language at startup.no english instruction on how to change language, so i was blind to changedit to english.finnally with an online translator help, i made it, and everything was ok.' **** 'blind'
----'however, was not happy that the manual was in another language.' **** 'happy'
+---'No english instruction on how to change language, so i was blind to changedit to english.' **** 'blind'
+---'However, was not happy that the manual was in another language.' **** 'happy'
 
 
 ================================================================================================================
-__________('sim', 'card')__________
+__________('work', 'in', 'venezuela')__________
 
 
 Positive Reviews:
 
----'however, the phone does not take a regular sim card.' **** 'regular'
----'my older sim card, witch is on a samsung galaxy siii mini is a minicard, whilst the  samsung galaxy siv mini requires a microcard, so i have to proceed to change the older sim card by a new, sim microcard.' **** 'new'
+---'Its a beatiful cellphone and it works in Venezuela very well, i only see 1 detail, its dont have a charger for venezuela, that is bad.' **** 'bad'
+---'Its a beatiful cellphone and it works in Venezuela very well, i only see 1 detail, its dont have a charger for venezuela, that is bad.' **** 'bad'
 
 Negative Reviews:
 
----'this one lady was like &#34;oh, you just break open your sim card and the micro one i inside of it&#34;.' **** 'open'
----'so, i googled it and then found this diy on cnet that instructs you how to make a microsim card out of your regular sim card by cutting it.' **** 'regular'
----'on european netwroks, i tried three different foreign sim card on this phone, onesim (uk), vodafone (uk) and lebara (germany), without doing any unlock, it all works well.' **** 'foreign'
----'it uses a micro-sim which fortunately brightspot sim cards can be used as both a regular sim and a micro-sim.' **** 'regular'
+---'Although the offer says the is factory unlocked - International Version, that was not true, the phone is locked, I need the pin unlock network sim card please send it to me as soon as possible, I am from Venezuela' **** 'possible'
+---'the phone its not unlocked please you has to be honest in Venezuela it not easy find dolars i lose that monney please tell me de name of de original carrier to try the imei unlock for try to used and not lose everything' **** 'honest'
+---'Although the offer says the is factory unlocked - International Version, that was not true, the phone is locked, I need the pin unlock network sim card please send it to me as soon as possible, I am from Venezuela' **** 'possible'
 
 
 ================================================================================================================
@@ -243,44 +502,22 @@ __________('samsung', 'galaxy', 's4')__________
 
 Positive Reviews:
 
----"i just got my new samsung galaxy s4 mini 19195 wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
----"it is smaller than a full size samsung galaxy s4 but as long as it works, i'm happy." **** 'happy'
+---"I just got my new samsung galaxy S4 mini 19195 Wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
+---"It is smaller than a full size samsung galaxy s4 but as long as it works, I'm happy." **** 'happy'
+---"I just got my new samsung galaxy S4 mini 19195 Wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
+---"It is smaller than a full size samsung galaxy s4 but as long as it works, I'm happy." **** 'happy'
+---'I am not a big fan of the large interface screen of a regular Galaxy so I decided to go for the mini with the hope that it would fit better in my hand.' **** 'regular'
+---'3" screen, it is narrower than the original Galaxy S1 (Captivate, Vibrant, etc.)' **** 'original'
+---'Is just what I need, my last was a Galaxy S2, big difference with this two toys, nice screen and very smooth design.' **** 'last'
 
 Negative Reviews:
 
+---"It takes great pictures and has a beautiful little screen (not as sharp as the Galaxy S4 or Note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'sharp'
+---"It takes great pictures and has a beautiful little screen (not as sharp as the Galaxy S4 or Note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'sharp'
 
 
 ================================================================================================================
-__________('micro', 'sim')__________
-
-
-Positive Reviews:
-
----'people complaining about the micro sim are just delusional, any major carrier will provide a new sim for free.' **** 'new'
-
-Negative Reviews:
-
----'i double checked with the manual that was provided and it said only micro sim card.' **** 'manual'
----'this one lady was like &#34;oh, you just break open your sim card and the micro one i inside of it&#34;.' **** 'open'
----'so, i googled it and then found this diy on cnet that instructs you how to make a microsim card out of your regular sim card by cutting it.' **** 'regular'
----'people complaining about the micro sim are just delusional, any major carrier will provide a new sim for free.' **** 'free'
----'it uses a micro-sim which fortunately brightspot sim cards can be used as both a regular sim and a micro-sim.' **** 'regular'
-
-
-================================================================================================================
-__________('change',)__________
-
-
-Positive Reviews:
-
----'the phone is incredibly... small as me... totally recomend it.. i was a bb user, and i am totally happy for the change to samsung' **** 'happy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('on', 's4', 'mini')__________
+__________('sd', 'card')__________
 
 
 Positive Reviews:
@@ -288,789 +525,19 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'It did not come with an extra sd card, but it has enough internal memory for apps.' **** 'extra'
 
 
 ================================================================================================================
-__________('customer', 'service')__________
+__________('a', 'samsung', 'galaxy')__________
 
 
 Positive Reviews:
 
+---"I just got my new samsung galaxy S4 mini 19195 Wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('n', 'french')__________
-
-
-Positive Reviews:
-
----'lol it did come in french but was pretty easy to change the language.' **** 'easy'
-
-Negative Reviews:
-
----'manual in french.' **** 'manual'
-
-
-================================================================================================================
-__________('fast',)__________
-
-
-Positive Reviews:
-
----'the best smartphone, everything i was looking in a phone, is small fast, strong, have no negative details, buy this with your eyes closed' **** 'strong'
-
-Negative Reviews:
-
----'the best smartphone, everything i was looking in a phone, is small fast, strong, have no negative details, buy this with your eyes closed' **** 'small'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'i had it small problem with multimedia message service that not even the metropcs reps could help me (i just had to factory reset the phone and got everything working) the only problem that i have with this phone is that the eye scrolling down does not seem to work, but smart stay does work when you get it perfectly aligned with good lighting.' **** 'small'
----'some asian network was built on a special tdd/fdd mixed mode, like hong kong, so it might take up to one hour for this phone to move from hspa+ to 4g.this phone comes with preseted french language, as some comments said before, but if you\'re familiar with the android system you can find the "setting" menu and change it to english in one second, no problem as all.' **** 'second'
----'the main problem is why the f*** does amazon continues to sell this as &#34;factory-unlocked&#34;.' **** 'main'
----'no problem at first, card recognized and worked fine.' **** 'first'
----'i googled and i found that it seems to be an usual problem for phones with bluetooth 4.0 and running android 4.2.2.  since the rumor says that this phone is getting an upgrade to the android kitkat in june, i will keep the phone and hope the upgrade can fix it.' **** 'usual'
----'battery seems to be an usual problem for smart phones, so we just have to learn how to deal with it.' **** 'usual'
----"the s4 wasn't unlocked when it arrived but mercategroup took responsibility and help me unlocked the phone free of charge.the phone works well with movistar in venezuela and colombia, but sometimes rarely it  freeze and need to be restarted, besides that i haven't found any other problem." **** 'other'
----'the only little problem that i have noticed is the battery lifetime that is poor if you turn on you bluetooth, listen to music or play videos.' **** 'little'
-
-Negative Reviews:
-
----'the last problem i had prevented my data from working and youll notice others commented about this in the in the other reviews.' **** 'last'
----'due to a problem with the delivery, my cousin could not bring the phone when she returned and because of that, my aunt had to send me the phone by ups to my country.' **** 'due'
-
-
-================================================================================================================
-__________('a', 'micro', 'sim')__________
-
-
-Positive Reviews:
-
----'people complaining about the micro sim are just delusional, any major carrier will provide a new sim for free.' **** 'new'
-
-Negative Reviews:
-
----'i double checked with the manual that was provided and it said only micro sim card.' **** 'manual'
----'this one lady was like &#34;oh, you just break open your sim card and the micro one i inside of it&#34;.' **** 'open'
----'so, i googled it and then found this diy on cnet that instructs you how to make a microsim card out of your regular sim card by cutting it.' **** 'regular'
----'people complaining about the micro sim are just delusional, any major carrier will provide a new sim for free.' **** 'free'
----'it uses a micro-sim which fortunately brightspot sim cards can be used as both a regular sim and a micro-sim.' **** 'regular'
-
-
-================================================================================================================
-__________('money',)__________
-
-
-Positive Reviews:
-
----'i had to pay extra money for install a program to read the sim card.' **** 'extra'
----'definitely worth the money.' **** 'worth'
-
-Negative Reviews:
-
----"very nice phone with a few minor glitches.on the down side- battery won't last long with regular use- battery happens to overheat (although rarely)overall very good value for money - even better now when it is significantly cheaper than 8 months ago." **** 'better'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'my older sim card, witch is on a samsung galaxy siii mini is a minicard, whilst the  samsung galaxy siv mini requires a microcard, so i have to proceed to change the older sim card by a new, sim microcard.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'i was looking for an unlocked version of this phone with a reasonable price and i found the straighttrading company.' **** 'reasonable'
----'offers everything that is required of a smartphone at a reasonable price, without going to the top end.' **** 'reasonable'
----'it was a good price.' **** 'good'
----'i have no regrets buying this phone and i must say it is worth the price.' **** 'worth'
----'i love this item, anyway i buy 3 at work perfect, work in venezuelan red, and good price!' **** 'good'
----"the price wasn't bad for an unlocked gsm phone." **** 'bad'
----'for the price its the best that you can get.' **** 'best'
----'good purchase for a nice price!' **** 'nice'
-
-Negative Reviews:
-
----'add the fact that at the sprint store and with current plan it was a similar price to apple&#8217;s year old models and i was sold.i was not disappointed.' **** 'similar'
-
-
-================================================================================================================
-__________('service',)__________
-
-
-Positive Reviews:
-
----'i  bought the phone from cell-source as they had good reviews and i have been happy with their service so far.' **** 'happy'
----'when each phone was unboxed, every box had an adapter enclosed.shopebest, your service was not bad, the phone works well, however i would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'bad'
----'i do not qualify the quality of this product since the parcel service declared it as lost.' **** 'lost'
-
-Negative Reviews:
-
----'over all the phone has all other features i needed.the about the delivery it was so slow, poor service.' **** 'slow'
----'over all the phone has all other features i needed.the about the delivery it was so slow, poor service.' **** 'poor'
----'good service and good attention but the team did not get released as the description saysthe evaluation is based on the equipment is not released' **** 'good'
----"if someone wants to ask something specific about how it works in some countries, maybe i could help.i'm happy to leave a five-star rating for this seller straighttrading; not only shipped my cell phone the same day was purchased regardless that i chose free shipping, but delivered an all-round good service: good packaging, excellent quality product and they solved every question i had." **** 'good'
----'no guarantee because they do not provide good service.' **** 'good'
----'the fact the phone is unlocked enables you to use any service you please- not being bound to a service is nice.' **** 'nice'
-
-
-================================================================================================================
-__________('galaxy', 's4')__________
-
-
-Positive Reviews:
-
----"it is smaller than a full size samsung galaxy s4 but as long as it works, i'm happy." **** 'happy'
-
-Negative Reviews:
-
----"it takes great pictures and has a beautiful little screen (not as sharp as the galaxy s4 or note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'sharp'
-
-
-================================================================================================================
-__________('custom', 'roms')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"glad i found it since i now have alternatives in case i don't find good custom roms (for this phone they're all mostly cyanogenmod-based)." **** 'good'
-
-
-================================================================================================================
-__________('a', 'little', 'bit')__________
-
-
-Positive Reviews:
-
----"it's pretty much the same size as the iphone 5 (i have made side by side comparisons) except a little bit larger and as powerful as android allows it to be." **** 'larger'
-
-Negative Reviews:
-
----'exactly what i have been looking for.almost same s4 capabilities , a little bit smaller, good value for money.' **** 'smaller'
-
-
-================================================================================================================
-__________('recommend',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'good product.' **** 'good'
----"beware when you buy this product as it is not certain that you'll be able to use it." **** 'certain'
----'good product and excellent service.' **** 'good'
----"the phone wasn't unlocked as advertised it is incorrect  to describe the product as unlocked." **** 'incorrect'
-
-Negative Reviews:
-
----'this phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a fectuares that can manage at tv control for tv,blu ray, proyector, for the price is a good product not to big like the s4 and not too small like the s3 mini have the right palm hand side with good proportions' **** 'good'
----'this product is really good even though it is not for me,i bought it as a gift to my friend ,she really loveiit.what i concered before i will get something fake or something like that.' **** 'good'
----'security seals were open, not just receive my product in that state, i buy a new product is not open product.the phone is faulty, the battery runs out very quickly and the phone turns off constantly....' **** 'receive'
----'security seals were open, not just receive my product in that state, i buy a new product is not open product.the phone is faulty, the battery runs out very quickly and the phone turns off constantly....' **** 'new'
----"beware when you buy this product as it is not certain that you'll be able to use it." **** 'able'
----'this phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a features that can manage at tv control for tv,blu ray, proyector, for the price is a good product not to big like the s4 and not too small like the s3 mini have the right palm hand side with good proportions' **** 'good'
----'definitely glad i picked this over an iphone - getting an equally good product from my point of view, if not better, depending on opinion, and saving a few hundred bucks at the same time.' **** 'good'
----'i needed a new phone and trusted to receive a product new never used before!' **** 'new'
-
-
-================================================================================================================
-__________('an', 'nternational', 'version')__________
-
-
-Positive Reviews:
-
----'when each phone was unboxed, every box had an adapter enclosed.shopebest, your service was not bad, the phone works well, however i would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked and i will have to unlock it to use it' **** 'international'
----"don't purchase this phone with this scammer, they sent me the european version and not the international now i have to pay to unlock it when the seller clearly said that it works, but it doesnt!!!!!!!!!!" **** 'international'
----'i have not had problems with the phone, but i should have read better the ad because the international version charger is for europe (i guess) i had to buy another charger, but it was my fault.' **** 'international'
----"good evening, i address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in venezuela (movistar) does not work; i do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that i saw works well and is the version offered.because i'm unhappy because the product did not arrive as it was.i like the phone and get at least what i do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.i would not really recommend it to anyone and each see things so much da weighing, so i want an answer as to the team and i leave so many doubts." **** 'international'
----'someone buying am "unlocked international version no warranty " phone, is doing it for only one reason: to use it outside the us.so a crook seller sees an oportunity to commit fraud: let\'s sell them some $50 used cel phone with a sticker that says i9195 for $300 and when they noticed they where ripped off, they\'ll be out of the country and won\'t be able to complain.that was almost my story.' **** 'international'
----'after buying this factory unlocked, international version and try to used, a sim unlocked code was requested...i contact seller &#34;sold by mercate group&#34; they answer back next day apologizing and ask for imei and s/n to obtain free code and i did not get any answer back... almost a month later an 5 or 6 mail to them asking for status on my request, decide to return it and clasify them negative....very unsatisfied costumer ...' **** 'international'
----"you can go 32 mb via microsd; so don't worry about about the storage capability for program downloads, music  or even pictures from its digital 8mb camera.i9095 is an international version; it's means that the device comes with the european plug charger ( round pin instead of the standard american flat paddle pin -up ) ." **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'likely'
-
-Negative Reviews:
-
----'this phone is supposed to be an international version i.e.' **** 'international'
----'fyi, i bought this as an unlocked, international version.' **** 'international'
----'this  samsung galaxy s4 mini gt-i9195 8gb-unlocked international version no warranty white lte 800 / 850 / 900 / 1800 / 2100 / 2600mhz (new)this blocked... ask me pin of unlock sim card network... is the phone that sent me the following imei  351616061382238/01i need the pin to unlock it.' **** 'international'
----'the phone says international version unlocked but you sent me an european version locked out of europe.' **** 'international'
----'i bought this phone, because it is supposed to be the &#34;international version&#34; and i wanted to used in latin america.' **** 'international'
----'the feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
----'how could they have described it as an international version?' **** 'international'
----'however, the company that sells it says it is "unlocked" and is the "international version" and it is false.' **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'aware'
-
-
-================================================================================================================
-__________('n', 'perfect')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----"i have been trying to be conscious about the battery usage and turning of features i don't need, but it's still bad." **** 'bad'
-
-Negative Reviews:
-
----'over all the phone has all other features i needed.the about the delivery it was so slow, poor service.' **** 'other'
----'the old adage of "if it ain\'t broke don\'t fix it" was never truer.-- comparison of the key features of the samsung galaxy s4 mini vs the iphone 4s for a business user:size and weight: the height/width is about the same on the two phones but not the depth.' **** 'key'
----"while the larger phones are better suited to watch videos,  i'm more interested in using it with useful apps and,  of course,  as an actual phone..... :)key features of this phone that sold me is the ability to add up to 64gb of storage with its micro sd slot and the removable battery.it's great to easily be able to replace a failing battery, or simply be able to carry a spare battery if you find yourself unable to recharge your phone when your traveling.i purchased 2 unlocked phones and one of the phones was not unlocked when i received it." **** 'key'
----'aside from the two aforementioned average features, there is really no other bone to pick with this product.' **** 'average'
-
-
-================================================================================================================
-__________('n', 'country')__________
-
-
-Positive Reviews:
-
----'the phone doesnt work in venezuela.it shows this message: pin de desbloqueo de red de tarjeta sim.in amazon says: unlocked international versi&oacute;ni need the unlock codein the box shows an email: support@entyle.com, and says if you have any questions about activation with foreign country carriers please email us.' **** 'foreign'
-
-Negative Reviews:
-
----'wifi feature is excellent ( much much better than my previous lg 4x).even 4g/lte service is not yet available in my country i am running 3g+ from movistar with no problem.its processor is fast and furious; i mean, really fast and no freezings nor hangs-outs, so far (thumbs up!).' **** 'available'
-
-
-================================================================================================================
-__________('micro', 'sim', 'card')__________
-
-
-Positive Reviews:
-
----'my older sim card, witch is on a samsung galaxy siii mini is a minicard, whilst the  samsung galaxy siv mini requires a microcard, so i have to proceed to change the older sim card by a new, sim microcard.' **** 'new'
-
-Negative Reviews:
-
----'i double checked with the manual that was provided and it said only micro sim card.' **** 'manual'
----'this one lady was like &#34;oh, you just break open your sim card and the micro one i inside of it&#34;.' **** 'open'
----'so, i googled it and then found this diy on cnet that instructs you how to make a microsim card out of your regular sim card by cutting it.' **** 'regular'
----'it uses a micro-sim which fortunately brightspot sim cards can be used as both a regular sim and a micro-sim.' **** 'regular'
-
-
-================================================================================================================
-__________('factory',)__________
-
-
-Positive Reviews:
-
----'the phone was shipped and delivered very fast.it was in good conditions but was unlocked.i did choose this specific product the advertisement says it is a factory unlocked international version.that is not true.' **** 'international'
----'this was not the case with this device and it was unblemished and factory fresh in sealed box.' **** 'fresh'
-
-Negative Reviews:
-
----'the phone was shipped and delivered very fast.it was in good conditions but was unlocked.i did choose this specific product the advertisement says it is a factory unlocked international version.that is not true.' **** 'true'
----'i was definitely worried about buying this phone at first because it was an international, factory unlocked phone.' **** 'international'
----'i am returning it because i ordered this phone and wireless experts sent me a open box phone, sealed security tape was broken, a white sticker was affixed over the original seal trying to conceal that,  also a false original description decal was put over the original factory one.plus this s4 mini is from orange cell company (i think from uk) orange logo is on the box.it is not an international version.do not buy it from wireless experts inc. they will make you waste your time.if you receive a s4 mini with this description return it immediatelyin my opinion this is a rip off , thanks for amazon.com for having such a great returning policy.by the way, i have pictures of everything i am writing here.' **** 'original'
-
-
-================================================================================================================
-__________('s3', 'mini')__________
-
-
-Positive Reviews:
-
----'this phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a fectuares that can manage at tv control for tv,blu ray, proyector, for the price is a good product not to big like the s4 and not too small like the s3 mini have the right palm hand side with good proportions' **** 'small'
----'this phone is really amazing so fast to navigate a internet, very nice touchscreen that makes easy to operate an navigate true the apps, this has a features that can manage at tv control for tv,blu ray, proyector, for the price is a good product not to big like the s4 and not too small like the s3 mini have the right palm hand side with good proportions' **** 'small'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('network',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('thing',)__________
-
-
-Positive Reviews:
-
----'it is a great phone and the best thing is that it has endured her usage and torture so far.' **** 'best'
----'for 200 dollars extra you get the best phone on the market, superior in every aspect.the only good thing - it is, indeed, amazingly light and small.' **** 'good'
----'this little thing packs a good punch..if you dont like holding a huge phone to your head..get this little device.. the other thing i like is that its an android phone not iphone..' **** 'little'
----'this little thing packs a good punch..if you dont like holding a huge phone to your head..get this little device.. the other thing i like is that its an android phone not iphone..' **** 'other'
----"the only other thing i've noticed is that when i play games on it, it tends to get pretty warm, but that's the only time." **** 'other'
-
-Negative Reviews:
-
----"it really runs fast and smooth that's my main thing i was looking for, and camera is normal nothing special, i love the size and look it's really cool just enough ram, would like to use more memory but i can buy a sd card, it can handle a lot of apps and run it fast and smooth like i said before, i was a little nervous before buying because i use t-mobile and this phone doesn't support t-mobiles 4g lte band but i get h+ on t-mobile that's pretty fast so i can't complain otherwise i recommend this phone for anyone who wants am average or high functional smartphone but not as big as the s4, by the way it's almost or exactly the same size as the iphone 4 i just hope it will last a long time without any problems meanwhile i am using it already for 2 weeks will update if any problems." **** 'main'
----'for 200 dollars extra you get the best phone on the market, superior in every aspect.the only good thing - it is, indeed, amazingly light and small.' **** 'light'
----'for 200 dollars extra you get the best phone on the market, superior in every aspect.the only good thing - it is, indeed, amazingly light and small.' **** 'small'
----'delivery was great everything came full that the only thing wrong was the power charger for european countries and i got to buy an adapter for u.s.have to specify when purchasing international  buy or for u.s.' **** 'wrong'
-
-
-================================================================================================================
-__________('country',)__________
-
-
-Positive Reviews:
-
----'the phone doesnt work in venezuela.it shows this message: pin de desbloqueo de red de tarjeta sim.in amazon says: unlocked international versi&oacute;ni need the unlock codein the box shows an email: support@entyle.com, and says if you have any questions about activation with foreign country carriers please email us.' **** 'foreign'
-
-Negative Reviews:
-
----'wifi feature is excellent ( much much better than my previous lg 4x).even 4g/lte service is not yet available in my country i am running 3g+ from movistar with no problem.its processor is fast and furious; i mean, really fast and no freezings nor hangs-outs, so far (thumbs up!).' **** 'available'
-
-
-================================================================================================================
-__________('a', 'sim', 'card')__________
-
-
-Positive Reviews:
-
----'however, the phone does not take a regular sim card.' **** 'regular'
----'my older sim card, witch is on a samsung galaxy siii mini is a minicard, whilst the  samsung galaxy siv mini requires a microcard, so i have to proceed to change the older sim card by a new, sim microcard.' **** 'new'
-
-Negative Reviews:
-
----'this one lady was like &#34;oh, you just break open your sim card and the micro one i inside of it&#34;.' **** 'open'
----'so, i googled it and then found this diy on cnet that instructs you how to make a microsim card out of your regular sim card by cutting it.' **** 'regular'
----'on european netwroks, i tried three different foreign sim card on this phone, onesim (uk), vodafone (uk) and lebara (germany), without doing any unlock, it all works well.' **** 'foreign'
----'it uses a micro-sim which fortunately brightspot sim cards can be used as both a regular sim and a micro-sim.' **** 'regular'
-
-
-================================================================================================================
-__________('size',)__________
-
-
-Positive Reviews:
-
----'it is fast, and its size makes it really practical.' **** 'practical'
----'i really think it is the perfect size, not too big or too small.' **** 'small'
----'i changed the language to us english and i still have some things on french.i must say the phone charasteristics are great, nice size and color.' **** 'nice'
----"it's pretty much the same size as the iphone 5 (i have made side by side comparisons) except a little bit larger and as powerful as android allows it to be." **** 'much'
----"i love the size, not so small and not too big..it's just right for me." **** 'small'
----'its size is ideal, can carry comfortably in his pockets.' **** 'ideal'
----'i love, is easy to handle, its size and weight are suitable, it is what i expected, a great phone at a great price' **** 'easy'
----'i recomend 100% the size is perfect!!!!' **** 'perfect'
----'it reacts quickly and despite its small size they keyboard is fairly easy to pinpoint what i want to type, even after coming from the note platforms.' **** 'small'
----'the size is perfect too.' **** 'perfect'
----'i have used this cell phone for 1 month, so far so good.it is light, with proper size.' **** 'proper'
----'is a great phone, the size is perfect.' **** 'perfect'
----'the phone is easy to use, and pretty fast, and the size is just perfect.' **** 'perfect'
----'the size is perfect for me.' **** 'perfect'
----'very fast and have good size.' **** 'good'
----'and the size it is just perfect for me' **** 'perfect'
----'small and powerfull, good size phone ... galaxys4 mini  worth every penny.' **** 'good'
-
-Negative Reviews:
-
----'it reacts quickly and despite its small size they keyboard is fairly easy to pinpoint what i want to type, even after coming from the note platforms.' **** 'easy'
----'it is very light and in the size i want!' **** 'light'
----"the colors really pop and the screen is very bright, i would argue as much as the full size s4.the processor (dual core instead of the full size's quad core) is pretty much the same story, for nearly all activities it is very responsive, the only times i have encountered noticeable lag is running games like temple run 2. with a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular." **** 'much'
----'i have used this cell phone for 1 month, so far so good.it is light, with proper size.' **** 'light'
----'well for me this a modern phone and it does its job well, and the size is perfect for people who do not like big phones.' **** 'perfect'
----"it is smaller than a full size samsung galaxy s4 but as long as it works, i'm happy." **** 'smaller'
----'small and powerfull, good size phone ... galaxys4 mini  worth every penny.' **** 'small'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'too many times have i found settings will get turned on or off after pulling my phone out of my pocket at the end of a long work day, because the options on the drag down window were hit.' **** 'long'
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"in fairness some people on xda forums seem to get good battery life out of this phone on cm but i don't know what kind of customizations they have used (most undervolt) or how they use the phone i'm just talking of my experience here." **** 'good'
----'only one minus - short battery life.' **** 'short'
-
-
-================================================================================================================
-__________('happy', 'with', 'purchase')__________
-
-
-Positive Reviews:
-
----"i'm happy with this purchase." **** 'happy'
----'very happy with this purchase!' **** 'happy'
----'overall, i am happy with the purchase and experience with amazon/open wireless group and would recommend this phone.' **** 'happy'
----'very happy with this purchase!' **** 'happy'
-
-Negative Reviews:
-
----'overall, i am happy with the purchase and experience with amazon/open wireless group and would recommend this phone.' **** 'overall'
-
-
-================================================================================================================
-__________('came',)__________
-
-
-Positive Reviews:
-
----"i see a lot of reviews saying that the phone is not unlocked but mine came unlocked and it's working well on t-mobile (3g+, no 4g) in the philadelphia, pa area." **** 'mine'
-
-Negative Reviews:
-
----'i felt really adventurous and decided to give it a try because if worse came to worse i would just have to pay $25 for a microsim.' **** 'worse'
----'thx god is not my case, funny thing is that came from samsung.it totally seal.' **** 'seal'
-
-
-================================================================================================================
-__________('samsung', 's4', 'mini')__________
-
-
-Positive Reviews:
-
----"i just got my new samsung galaxy s4 mini 19195 wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('perfect', 'size')__________
-
-
-Positive Reviews:
-
----'i really think it is the perfect size, not too big or too small.' **** 'small'
----'i recomend 100% the size is perfect!!!!' **** 'perfect'
----'the size is perfect too.' **** 'perfect'
----'is a great phone, the size is perfect.' **** 'perfect'
----'the phone is easy to use, and pretty fast, and the size is just perfect.' **** 'perfect'
----'the size is perfect for me.' **** 'perfect'
----'and the size it is just perfect for me' **** 'perfect'
-
-Negative Reviews:
-
----'well for me this a modern phone and it does its job well, and the size is perfect for people who do not like big phones.' **** 'perfect'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the replacement came few days later, and i had to ship the black one back.' **** 'black'
-
-
-================================================================================================================
-__________('nternational', 'version')__________
-
-
-Positive Reviews:
-
----'when each phone was unboxed, every box had an adapter enclosed.shopebest, your service was not bad, the phone works well, however i would like to suggest that the international version of this phone be sourced from one of the other regions listed on the box.' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked and i will have to unlock it to use it' **** 'international'
----"don't purchase this phone with this scammer, they sent me the european version and not the international now i have to pay to unlock it when the seller clearly said that it works, but it doesnt!!!!!!!!!!" **** 'international'
----'i have not had problems with the phone, but i should have read better the ad because the international version charger is for europe (i guess) i had to buy another charger, but it was my fault.' **** 'international'
----'it is not no international version.' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'international'
----"good evening, i address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in venezuela (movistar) does not work; i do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that i saw works well and is the version offered.because i'm unhappy because the product did not arrive as it was.i like the phone and get at least what i do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.i would not really recommend it to anyone and each see things so much da weighing, so i want an answer as to the team and i leave so many doubts." **** 'international'
----'someone buying am "unlocked international version no warranty " phone, is doing it for only one reason: to use it outside the us.so a crook seller sees an oportunity to commit fraud: let\'s sell them some $50 used cel phone with a sticker that says i9195 for $300 and when they noticed they where ripped off, they\'ll be out of the country and won\'t be able to complain.that was almost my story.' **** 'international'
----'after buying this factory unlocked, international version and try to used, a sim unlocked code was requested...i contact seller &#34;sold by mercate group&#34; they answer back next day apologizing and ask for imei and s/n to obtain free code and i did not get any answer back... almost a month later an 5 or 6 mail to them asking for status on my request, decide to return it and clasify them negative....very unsatisfied costumer ...' **** 'international'
----"you can go 32 mb via microsd; so don't worry about about the storage capability for program downloads, music  or even pictures from its digital 8mb camera.i9095 is an international version; it's means that the device comes with the european plug charger ( round pin instead of the standard american flat paddle pin -up ) ." **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'likely'
-
-Negative Reviews:
-
----'this phone is supposed to be an international version i.e.' **** 'international'
----'fyi, i bought this as an unlocked, international version.' **** 'international'
----'this  samsung galaxy s4 mini gt-i9195 8gb-unlocked international version no warranty white lte 800 / 850 / 900 / 1800 / 2100 / 2600mhz (new)this blocked... ask me pin of unlock sim card network... is the phone that sent me the following imei  351616061382238/01i need the pin to unlock it.' **** 'international'
----'the phone says international version unlocked but you sent me an european version locked out of europe.' **** 'international'
----'i bought this phone, because it is supposed to be the &#34;international version&#34; and i wanted to used in latin america.' **** 'international'
----'the feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
----'how could they have described it as an international version?' **** 'international'
----'however, the company that sells it says it is "unlocked" and is the "international version" and it is false.' **** 'international'
----"i have a few of those lying around the house, so it wasn't a problem for me, but you should be aware that this international version likely comes from europe and therefore the charger plug has 220v round prongs.the phone is still going strong a few months in, and i love it very much." **** 'aware'
----'because of the international version.' **** 'international'
-
-
-================================================================================================================
-__________('unlocked', 'nternational', 'version')__________
-
-
-Positive Reviews:
-
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked and i will have to unlock it to use it' **** 'international'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'international'
----"good evening, i address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in venezuela (movistar) does not work; i do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that i saw works well and is the version offered.because i'm unhappy because the product did not arrive as it was.i like the phone and get at least what i do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.i would not really recommend it to anyone and each see things so much da weighing, so i want an answer as to the team and i leave so many doubts." **** 'international'
----'someone buying am "unlocked international version no warranty " phone, is doing it for only one reason: to use it outside the us.so a crook seller sees an oportunity to commit fraud: let\'s sell them some $50 used cel phone with a sticker that says i9195 for $300 and when they noticed they where ripped off, they\'ll be out of the country and won\'t be able to complain.that was almost my story.' **** 'international'
----'after buying this factory unlocked, international version and try to used, a sim unlocked code was requested...i contact seller &#34;sold by mercate group&#34; they answer back next day apologizing and ask for imei and s/n to obtain free code and i did not get any answer back... almost a month later an 5 or 6 mail to them asking for status on my request, decide to return it and clasify them negative....very unsatisfied costumer ...' **** 'international'
-
-Negative Reviews:
-
----'fyi, i bought this as an unlocked, international version.' **** 'international'
----'this  samsung galaxy s4 mini gt-i9195 8gb-unlocked international version no warranty white lte 800 / 850 / 900 / 1800 / 2100 / 2600mhz (new)this blocked... ask me pin of unlock sim card network... is the phone that sent me the following imei  351616061382238/01i need the pin to unlock it.' **** 'international'
----'the phone says international version unlocked but you sent me an european version locked out of europe.' **** 'international'
----'the feature of the phone specified clearly that it is unlocked and international version but it is locked.' **** 'international'
----'however, the company that sells it says it is "unlocked" and is the "international version" and it is false.' **** 'international'
-
-
-================================================================================================================
-__________('straight', 'talk')__________
-
-
-Positive Reviews:
-
----'i use it on the straight talk and it was very hard to get the internet working.' **** 'straight'
----"after much deliberation, i decided i'd purchase an unlocked phone to use with straight talk - cheapest individual plan i could find." **** 'straight'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('mini',)__________
-
-
-Positive Reviews:
-
----"i have been with it for two weeks, and i can say that this is one of the best mini flagship phones that there're out there." **** 'best'
----'i was so happy to find the mini one.' **** 'happy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('fine',)__________
-
-
-Positive Reviews:
-
----'very good....... its a fine product and very handy, exceeds mi expectations since i had the big g4s ........until broken' **** 'good'
----'fine very good is a phone amazing and wonderful yours page is fabolous always buy yours products and the sale off course' **** 'good'
-
-Negative Reviews:
-
----'it is international, unlocked, and fine.' **** 'international'
-
-
-================================================================================================================
-__________('notification', 'light')__________
-
-
-Positive Reviews:
-
----'the one thing i wish it did have though was the notification light but other than that its a truly customizable phone.i was a little worried when i read that some persons got the wrong version, but everything has been working quite well so far.' **** 'other'
-
-Negative Reviews:
-
----"i highly recommend those who are interested to purchase this product.the only downside about it is there's no notification light.. other than that, everything else is fine." **** 'interested'
----"i highly recommend those who are interested to purchase this product.the only downside about it is there's no notification light.. other than that, everything else is fine." **** 'downside'
-
-
-================================================================================================================
-__________('s4', 'mini')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('adapter',)__________
-
-
-Positive Reviews:
-
----'in second thought, the packaging could be better, but they even sent an electric adapter for 115v-60hz standard.' **** 'electric'
----"some reviewers said that their order came with an extra 110v-220v adapter, but mine didn't." **** 'mine'
-
-Negative Reviews:
-
----'box also included an adapter for us power adapter.' **** 'power'
----"i got the right model, the battery and everything else seems to be operating well, and i'm happy with my purchase.my only issue was the charger; although it came with a changeable adapter, it doesn't quite stay on, it always pops back out." **** 'changeable'
----"some reviewers said that their order came with an extra 110v-220v adapter, but mine didn't." **** 'extra'
-
-
-================================================================================================================
-__________('use', 't', 'n')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'it should carry an adapter, after all it is intended for international use.' **** 'international'
----'about two hours of gaming (mostly a game that makes intensive use of internet data, battle run) and you still have a lot of juice for the phone to last you the rest of the day.for custom roms users: for me the battery life is way worse with cyanogenmod.' **** 'intensive'
-
-
-================================================================================================================
-__________('cover', 'warranties')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('seller',)__________
-
-
-Positive Reviews:
-
----'hopeful that the seller replies soon!' **** 'hopeful'
----'but you are reading this review, because you pay for the phone you get, and at first i didn\' get what i ordered.be extremely aware from what seller you buy this "international" phone, because some are just waiting to rip you off' **** 'aware'
----'anyone can recommend a reliable seller?' **** 'reliable'
-
-Negative Reviews:
-
----"this cellphone is locked it's a bad seller because is no true... my cellphone is locked, and the page say ( unlocked from factory)...." **** 'bad'
----'i ordered mine from the seller &#34;worldwide distributors&#34; and had no problem at all.' **** 'mine'
-
-
-================================================================================================================
-__________('n', 'r', 'pocket')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"it's small enough to fit in my pocket (even with a gel case on it), but it still has a large screen to enjoy." **** 'small'
-
-
-================================================================================================================
-__________('work', 'n', 'venezuela')__________
-
-
-Positive Reviews:
-
----'its a beatiful cellphone and it works in venezuela very well, i only see 1 detail, its dont have a charger for venezuela, that is bad.' **** 'bad'
-
-Negative Reviews:
-
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'possible'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'battery last forever' **** 'last'
----'excellent mobile, great capabilyties and for me the perfect size with powerful proccessor, amazing optimized battery perfomed, now i can listen mp3 more than 9 hrs and able to make calls ans sms without been recharged, i buyed with extra battery case but even needed till now.' **** 'extra'
----'i received the phone with all accessories and in time i was told it would receive but my complaint is that the phone came with manufacturing defects such as: is very slow, the battery will not last more than half a day without uasarlo far overheats even without using it, does not save the time and allows downloads serbian mobile data network!' **** 'slow'
----'the battery last all day even when i use it a lot during the day.' **** 'last'
-
-Negative Reviews:
-
----"i just could not make it through the day without having to recharge it at work and i hate to charge twice a day, it also isn't very good for the battery's health over the long term." **** 'good'
----"in fairness some people on xda forums seem to get good battery life out of this phone on cm but i don't know what kind of customizations they have used (most undervolt) or how they use the phone i'm just talking of my experience here." **** 'good'
----'i like how long the battery lasts.' **** 'long'
----"good evening, i address you for the reason that when you get the equipment you buy will not come in the original box samsumg, does not bring the original stack and does not come unlocked because when putting on the chip from my operator in venezuela (movistar) does not work; i do not think it's fair to say that the computer is one way and the reality is different and really send him to unlock inplica here in my country and other expenses paid for a product that supposedly came unlocked (international version), in relation to phone so little that i saw works well and is the version offered.because i'm unhappy because the product did not arrive as it was.i like the phone and get at least what i do not like is that nowhere was saying that the phone would not come in original box, without original battery and not actually unlocked.i would not really recommend it to anyone and each see things so much da weighing, so i want an answer as to the team and i leave so many doubts." **** 'original'
----"i have been trying to be conscious about the battery usage and turning of features i don't need, but it's still bad." **** 'conscious'
----"while the larger phones are better suited to watch videos,  i'm more interested in using it with useful apps and,  of course,  as an actual phone..... :)key features of this phone that sold me is the ability to add up to 64gb of storage with its micro sd slot and the removable battery.it's great to easily be able to replace a failing battery, or simply be able to carry a spare battery if you find yourself unable to recharge your phone when your traveling.i purchased 2 unlocked phones and one of the phones was not unlocked when i received it." **** 'able'
----'only one minus - short battery life.' **** 'short'
-
-
-================================================================================================================
-__________('samsung', 'galaxy')__________
-
-
-Positive Reviews:
-
----"i just got my new samsung galaxy s4 mini 19195 wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'my cell is extraordinary.' **** 'extraordinary'
----'it came as a t-mobile cell but was also unlocked which i was happy about.' **** 'happy'
----'some few weeks ago i bought my new cell s4mini samsung 4g/lte model i9095 , international/unlocked version , i use it with movistar carrier in venezuela.' **** 'new'
-
-Negative Reviews:
-
----"the cell manual was in hungarian so i've had to figure out many of the features on my own but it's been an adventure.nice ear-buds and a charger with an american outlet adapter were provided as well." **** 'manual'
-
-
-================================================================================================================
-__________('t-mobile', 'hungary')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'really not all that significant issues but i thought i could trust amazon prime description to be accurate and to not sell items, which really cannot be used out of the box in the country they are being sold (in this case because of the power adopter)since it was meant for t-mobile hungary (no logo on the outside of the box but you can see it on the initial splash screen when powering the device up) i suspect any software updates to the device will be coming to the device if an when t-mobile hungary decided to push them out.' **** 'meant'
 
 
 ================================================================================================================
@@ -1082,7 +549,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it was a great purched can't ask for more is the best xmas present ever!!" **** 'best'
+---"It was a great purched can't ask for more is the best xmas present ever!!!" **** 'best'
 
 
 ================================================================================================================
@@ -1108,17 +575,83 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('n', 'venezuela')__________
+__________('country',)__________
 
 
 Positive Reviews:
 
----'its a beatiful cellphone and it works in venezuela very well, i only see 1 detail, its dont have a charger for venezuela, that is bad.' **** 'bad'
 
 Negative Reviews:
 
----'the phone its not unlocked please you has to be honest in venezuela it not easy find dolars i lose that monney please tell me de name of de original carrier to try the imei unlock for try to used and not lose everything' **** 'honest'
----'although the offer says the is factory unlocked - international version, that was not true, the phone is locked, i need the pin unlock network sim card please send it to me as soon as possible, i am from venezuela' **** 'possible'
+---'com, and says if you have any questions about activation with foreign country carriers please email us.' **** 'foreign'
+---"So a crook seller sees an oportunity to commit fraud: Let's sell them some $50 used cel phone with a sticker that says i9195 for $300 and when they noticed they where ripped off, they'll be out of the country and won't be able to complain." **** 'able'
+---'Even 4G/LTE service is not yet available in my country I am running 3G+ from Movistar with no problem.' **** 'available'
+
+
+================================================================================================================
+__________('a', 'sim', 'card')__________
+
+
+Positive Reviews:
+
+---'HOWEVER, the phone does not take a regular SIM Card.' **** 'regular'
+---'My older SIM card, witch is on a Samsung Galaxy SIII mini is a minicard, whilst the  Samsung Galaxy SIV mini requires a Microcard, so I have to proceed to change the older SIM Card by a new, SIM microcard.' **** 'new'
+
+Negative Reviews:
+
+---'This one lady was like &#34; Oh, you just break open your SIM card and the micro one I inside of it&#34;.' **** 'open'
+---'So, I googled it and then found this DIY on cnet that instructs you how to make a microSIM card out of your regular SIM card by cutting it.' **** 'regular'
+---'On European netwroks, I tried three different foreign SIM card on this phone, ONESIM (UK), Vodafone (UK) and Lebara (Germany), without doing any unlock, it all works well.' **** 'foreign'
+---'Second, the SIM card can not put into the SIM card hole.' **** 'second'
+---'It uses a micro-SIM which fortunately BrightSpot SIM cards can be used as both a regular SIM and a micro-SIM.' **** 'regular'
+
+
+================================================================================================================
+__________('on', 's4', 'mini')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('english',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('s4', 'mini', 'a')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('amazon',)__________
+
+
+Positive Reviews:
+
+---'Second, Amazon delivery is also very punctual, sometimes two days earlier to.' **** 'second'
+---'^_^It arrived on time through amazon prime, and I had no issues at all.' **** 'prime'
+
+Negative Reviews:
+
+---"For example, I bought one from a seller that said only &#34; unlocked&#34; for $30 less than Amazon's price." **** 'less'
+---'I bought a &#34; factory unlocked&#34; Samsung Galaxy Note II from Amazon last year and was totally pleased with the purchase.' **** 'last'
 
 
 ================================================================================================================
@@ -1127,303 +660,11 @@ __________('moto', 'g')__________
 
 Positive Reviews:
 
----"this is an excellent phone for those who don't like the super-sized phones that are coming out now a days, its slightly smaller than the moto g http://amzn.to/1iefduo and unlike the moto g, it can accept microsd cards and has an ir blaster for controlling he tv or stereo.the camera is way better than my p&s; camera, it has become my everyday camera, only use my micro 4/3 http://amzn.to/1lker35 when i really need to." **** 'smaller'
+---"This is an excellent phone for those who don't like the super-sized phones that are coming out now a days, its slightly smaller than the Moto G http://amzn." **** 'smaller'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'i highly recommend this phone i like it better than my old iphone because of its larger screen, lighter weight plus i can easily change the battery or add memory.' **** 'larger'
----"due to the smaller screen size the battery life is great but this isn't apparent in the beginning, after a few charge-discharge cycles is that you begin to experience the real capacity of the battery." **** 'smaller'
----"it takes great pictures and has a beautiful little screen (not as sharp as the galaxy s4 or note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'little'
----"the colors really pop and the screen is very bright, i would argue as much as the full size s4.the processor (dual core instead of the full size's quad core) is pretty much the same story, for nearly all activities it is very responsive, the only times i have encountered noticeable lag is running games like temple run 2. with a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular." **** 'bright'
----'also the new lock screen is very nice.' **** 'nice'
----'the s4 mini is a great phone very good screen very fast but the battery down very quickly.' **** 'good'
----'the screen is crystal clear and the functions quick.' **** 'clear'
----'its about iphone 5 sized but still has a bigger screen.' **** 'bigger'
----'i really wanted a new iphone 5s but with only about 6 months away from the release of a new iphone 6, i decided to buy something else until then.i have to say that i am really impressed with this phone, it has a nice screen, bright colours etc and feels great in the hands.' **** 'nice'
----'beautiful screen and really fast!no lag when playing games or opening multiple app at the same time.' **** 'beautiful'
----'is just what i need, my last was a galaxy s2, big difference with this two toys, nice screen and very smooth design.' **** 'nice'
-
-Negative Reviews:
-
----"due to the smaller screen size the battery life is great but this isn't apparent in the beginning, after a few charge-discharge cycles is that you begin to experience the real capacity of the battery." **** 'due'
----"it takes great pictures and has a beautiful little screen (not as sharp as the galaxy s4 or note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'beautiful'
----'this phone is really nice, the screen is a little smaller than i thought it would be.' **** 'smaller'
----"media options are plentiful, even though the gs4 mini doesn't have the best screen on which to watch movies.to wrap-up its  for what you get: a smaller, more user-friendly handset that isn't quite the flagship it pretends to be." **** 'best'
----'the battery charge is really fast with standard traveler charger supplied by samsung ( about 45 minutes or less to full charge).touch screen is really bright and extremely sensitive.' **** 'bright'
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"this is the phone i was expecting and i haven't got complaints at all, the only thing i'd suggest is that if you're buying this phone from the uk you are going to need to buy an adaptor for the charger as the original charger is made for eu socket only, but that's not a problem." **** 'original'
----'you will need to buy a separate charger if you live in the us.' **** 'separate'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----'when i open the box everything was original but the cellphone.' **** 'original'
----'it is slick, easy to use, has everything that i need.' **** 'slick'
----'it is slick, easy to use, has everything that i need.' **** 'easy'
-
-Negative Reviews:
-
----'thanks for promote your product, but did not come all the operators released as i said in the product description, i hope it is more responsible about it, thanks for everything' **** 'responsible'
----'really no big deal at all considering everything else is perfect and as described in the listing.i hope that amazon will not delete this part because i know that so many people always ask who the seller was.' **** 'perfect'
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----'i am happy with my new samsung cell phone.' **** 'happy'
----'i am happy with my new samsung cell phone.' **** 'new'
----'the phone came in a sealed box, its samsung original and fully unlocked.' **** 'original'
----"i just got my new samsung galaxy s4 mini 19195 wow, it's just awesome and i must tell you that i am very satisfied with it." **** 'new'
----'recent region-locking of newer samsung units (including the one i received)...' **** 'recent'
----'recent region-locking of newer samsung units (including the one i received)...' **** 'newer'
----"this handset is the perfect size and has just about all the features of the regular samsung 4 .the motion gestures are not as responsive as described,so far the dial by watching phone no and placing by ear is the only one that's worked according to manual but overall very good performance." **** 'regular'
-
-Negative Reviews:
-
----'i purchased this product because i like all my other samsung products, however, this phone, i am already having an issue.' **** 'other'
----'just make sure you get a samsung sealed phone or send it back!' **** 'sure'
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'the camera is really good as well' **** 'good'
----'note 2 sounds noticeably better.3) pictures taken with this camera definitely inferior to note 2. it may also be 8 mb, but it is not the same 8 mb.4) had weird issue with sd card.' **** 'inferior'
----'the signal is strong.the camera is some weak compared with my previous iphone, but it is not an issue for me since i use dslrs.the android system is not that bad, different from what i have heard.sufficient for me, so far, quite happy with it.' **** 'weak'
----"is relatively fast, the only thing i don't like is that the camera is slow." **** 'slow'
-
-Negative Reviews:
-
----'love the phone - only one problem is i cant seem to be able to turn off the camera sounds.' **** 'able'
-
-
-================================================================================================================
-__________('using',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"while the larger phones are better suited to watch videos,  i'm more interested in using it with useful apps and,  of course,  as an actual phone..... :)key features of this phone that sold me is the ability to add up to 64gb of storage with its micro sd slot and the removable battery.it's great to easily be able to replace a failing battery, or simply be able to carry a spare battery if you find yourself unable to recharge your phone when your traveling.i purchased 2 unlocked phones and one of the phones was not unlocked when i received it." **** 'interested'
-
-
-================================================================================================================
-__________('mobile',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('galaxy',)__________
-
-
-Positive Reviews:
-
----'i am not a big fan of the large interface screen of a regular galaxy so i decided to go for the mini with the hope that it would fit better in my hand.' **** 'regular'
----'although it has a 4.3" screen, it is narrower than the original galaxy s1 (captivate, vibrant, etc.)' **** 'original'
----'is just what i need, my last was a galaxy s2, big difference with this two toys, nice screen and very smooth design.' **** 'last'
-
-Negative Reviews:
-
----"it takes great pictures and has a beautiful little screen (not as sharp as the galaxy s4 or note 3, but once you adapt to it you won't notice) and can run all the same apps at comparable efficiency." **** 'sharp'
-
-
-================================================================================================================
-__________('group', 'wireless')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'for all those wondering, i got mine from open group wireless with fulfillment by amazon.' **** 'mine'
----'for all those wondering, i got mine from open group wireless with fulfillment by amazon.' **** 'open'
----'i called up the seller (open wireless group) and they gave me the unlock pin number over the phone.' **** 'open'
----'open group wireless products are packaged very well.' **** 'open'
----'thumbs up samsung,open group wireless and carrier service.' **** 'open'
-
-
-================================================================================================================
-__________('people',)__________
-
-
-Positive Reviews:
-
----'the colors are beautifulcons:it could be tough to people with not a good view (high pixel per inch)is up to you:size:it is not a size for playing i think, but is the size i want... i can handle it with only one hand and that is what i want for a phonepictures:it is not an s4, an iphone 5 or a htc one, but it still get great pictures.' **** 'tough'
----"i contacted my local provider- i read reviews from other people on here that said to do so- but they weren't much help." **** 'other'
----'there are a lot of people that  want a good solid android phone thats not so huge and i think this is it.' **** 'want'
----"and you'll se some happy people and some angry ones." **** 'happy'
----"some sellers are s***ty_services_worst_practices and they commit fraud to people, hoping they can't complaing from abroad.the i9195 is a great phone, just google i9195 review and you'll see." **** 'fraud'
----"it's very complete to people who like to use smartphones, that is why i recommend it." **** 'complete'
-
-Negative Reviews:
-
----'the celphone never turn on again, the battery or phone died, overheat and i have return it, now at least 1 month waiting, very unhappy and disappointed, i just hope that people sold me that  returned me a new one, for now not recommend' **** 'new'
----'this is where the understanding of the os comes into play.all in all id recommend this phone to people, but make sure you have the propper frequwncies broadcasted in your country to recieve a signal.' **** 'sure'
----'i am one of those people who hate big screen phones, so this is a godsend for me.' **** 'hate'
----"small but with very good performance like i expect samsung to do these days.a great phone to people that want 4' phone" **** 'want'
-
-
-================================================================================================================
-__________('latin', 'america')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'it does say on the box that only european sim cards are to be used but that is because this is the european model gt-i9195 and works on the same frequencies as here in venezuela and probably the same in other latin american countries too.' **** 'other'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'i recommend adding additional memory other then that excellent phone works fast battery last forever just cannot find urban protector cover for it' **** 'battery'
----'and it is best that works perfect in venezuela with all operators and ltg of digitel is great!' **** 'best'
-
-Negative Reviews:
-
----'samsung galaxy s4 mini gt-i9195 8gb-unlocked international works ok in venezuela.' **** 'international'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'i received it in good time with all the extras.' **** 'good'
----"the phone to uncover you'll put my microsim card, i find that it is not open bands manufactures, in short this time i could not make use of the" **** 'short'
----"it really runs fast and smooth that's my main thing i was looking for, and camera is normal nothing special, i love the size and look it's really cool just enough ram, would like to use more memory but i can buy a sd card, it can handle a lot of apps and run it fast and smooth like i said before, i was a little nervous before buying because i use t-mobile and this phone doesn't support t-mobiles 4g lte band but i get h+ on t-mobile that's pretty fast so i can't complain otherwise i recommend this phone for anyone who wants am average or high functional smartphone but not as big as the s4, by the way it's almost or exactly the same size as the iphone 4 i just hope it will last a long time without any problems meanwhile i am using it already for 2 weeks will update if any problems." **** 'long'
-
-Negative Reviews:
-
----"for instance, for the day to day, i don't miss my compact camera.battery:i use it a lot... like 2 hour for listening radio through internet, wifi all the time and 3g/4g all the time and it last like 20 hours" **** 'last'
----'i browse the internet in my free time,  mostly social network sites or watching videos or listening to lectures or podcasts.' **** 'free'
----'i received the phone with all accessories and in time i was told it would receive but my complaint is that the phone came with manufacturing defects such as: is very slow, the battery will not last more than half a day without uasarlo far overheats even without using it, does not save the time and allows downloads serbian mobile data network!' **** 'told'
----"i got the european version, now i'm traveling tomorrow, have to return the cellphone and i don't have time to buy a new one." **** 'new'
-
-
-================================================================================================================
-__________('device',)__________
-
-
-Positive Reviews:
-
----'it has the capabilities of any smartphone in a much smaller size.i recommend this phone to anyone looking for a reliable and practical device.' **** 'reliable'
----'it has the capabilities of any smartphone in a much smaller size.i recommend this phone to anyone looking for a reliable and practical device.' **** 'practical'
----'here it is my very first review after a few weeks of intense use.when i set out to buy a new phone my priorities were portability, power / strength and reliability.the s4 -mini is a very powerful device dressed in a pocket -size) .' **** 'powerful'
-
-Negative Reviews:
-
----'so i was able to just insert my micro chip and use it as any other device.' **** 'other'
-
-
-================================================================================================================
-__________('amazon', 'prime')__________
-
-
-Positive Reviews:
-
----'^_^it arrived on time through amazon prime, and i had no issues at all.' **** 'prime'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('buying',)__________
-
-
-Positive Reviews:
-
----"i was afraid of buying it because of some reviews written here but i decided to give it a try, i must say i don't regret it." **** 'afraid'
----'im writing this review specially because i was so worried thinking that my phone wouldnt work in my country just because i had read reviews saying that it didnt come unlocked.... but let me say something... this cellphone works perfectly, i just put the the movistar microsimcard and immediately it started working... so if you are from vzla and you are not sure about buying this cellphone, go ahead and buy it...!!' **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('light',)__________
-
-
-Positive Reviews:
-
----"i hated the calendar on the samsung.&#10003; iphone4sin the light of the above which, to repeat, was my experience after only ten days' usage of the s4 mini, i have to say that for me there is no comparison with the iphone 4/4s." **** 'above'
----'the one thing i wish it did have though was the notification light but other than that its a truly customizable phone.i was a little worried when i read that some persons got the wrong version, but everything has been working quite well so far.' **** 'other'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('apps',)__________
-
-
-Positive Reviews:
-
----'i love it!also standard is a bunch of sprint money grabbing apps that are trying to be as good as google&#8217;s. apps like the sprintzone or internet program i quickly replaced with things like the youtube and chrome apps and have no intention of going back.' **** 'good'
----"it's from the uk and has foreign apps so don't purchase if your from the united states and speak english!!" **** 'foreign'
----"the colors really pop and the screen is very bright, i would argue as much as the full size s4.the processor (dual core instead of the full size's quad core) is pretty much the same story, for nearly all activities it is very responsive, the only times i have encountered noticeable lag is running games like temple run 2. with a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular." **** 'other'
----"the colors really pop and the screen is very bright, i would argue as much as the full size s4.the processor (dual core instead of the full size's quad core) is pretty much the same story, for nearly all activities it is very responsive, the only times i have encountered noticeable lag is running games like temple run 2. with a standard picture wallpaper, this very rarely happened, running a complex live wallpaper and other apps made it somewhat more regular." **** 'regular'
----'powerful enough for all my apps (and i use them a lot).it came with a yellow flip cover which i really appreciated.' **** 'powerful'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i do also have plenty of days when i can go a day and a half without a charge because i will only use my phone for calling (i am not a terribly popular person so it doesn&#8217;t say too much).i did get a speck case for my phone and it has been dropped several times but has never lost an anything, not even a scratch when it was dropped onto a concrete driveway.in summary: i like the samsung galaxy s4 mini; i would recommend it to anyone who likes a phone with a simple interface that will fit in your pocket.' **** 'plenty'
----'because of that, i received the phone 28 days later than when i made the purchase.anyway, i get the phone and i started use it and i was working very well the first 4 days, after that, the phone start to fail, the screen remained paralyzed  without making any movement, and none of the functions worked up after a while of being immobile, one of the days, the battery overheat and i had to pull out the battery fast and leave the phone off for around 12 hours.i contacted the seller telling the situation, thinking that maybe was the battery, the told me how warranty works with samsung and the gave the steps to follow.' **** 'first'
+---'No complaints about performance, just saying that the Moto G is better and its screen is obviously better' **** 'better'
 
 
 ================================================================================================================

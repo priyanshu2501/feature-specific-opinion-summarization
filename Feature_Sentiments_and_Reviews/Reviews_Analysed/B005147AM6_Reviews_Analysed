@@ -1,29 +1,29 @@
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'not a single problem yet.' **** 'single'
----"the only other problem was that the battery didn't last long." **** 'other'
-
-Negative Reviews:
-
-
-
-================================================================================================================
 __________('battery', 'life')__________
 
 
 Positive Reviews:
 
----'one durable phone  that has went thru some rough handling with the silicone skin attached.battery life last a while before it needs charging.' **** 'last'
----'this phone is really good , it has really good battery life and amazing volume.' **** 'good'
+---'Battery life last a while before it needs charging.' **** 'last'
+---'This phone is really good , it has really good battery life and amazing volume.' **** 'good'
+---'Battery life last a while before it needs charging.' **** 'last'
+---'This phone is really good , it has really good battery life and amazing volume.' **** 'good'
+---'battery last more than 4-5 days, speaker phone are loud and clear , text are so easy to used .' **** 'last'
+---'I bought this phone to use in Jamaica, and am loving it, it fell from my 3yr old more than once and I just pick it up put the battery back in and its good to go, very light and the price is good....' **** 'good'
+---'So far, the battery only last 3 days without phone calls.' **** 'last'
+---"The only other problem was that the battery didn't last long." **** 'long'
 
 Negative Reviews:
 
----'battery life is short.' **** 'short'
+---'Battery life is short.' **** 'short'
 ---'over all i like this phone a lot and i would recogmend it to anyone who like texting and talking a lot because its has a long battery life.' **** 'long'
----'so, i was quite disapointed given other reviews stated with long battery life.' **** 'long'
+---'So, I was quite disapointed given other reviews stated with long battery life.' **** 'long'
+---'Battery life is short.' **** 'short'
+---'Only problem I had with this phone is that they sent it originally with the wrong battery, however Amazon accepted my return and refunded my money.' **** 'wrong'
+---'over all i like this phone a lot and i would recogmend it to anyone who like texting and talking a lot because its has a long battery life.' **** 'long'
+---'So, I was quite disapointed given other reviews stated with long battery life.' **** 'long'
+---"The only other problem was that the battery didn't last long." **** 'last'
+---'For the amount of time that I used the phone the battery should have lasted longer.' **** 'longer'
+---"I give this product and the company only 1 star, because the phone they sent me - Samsung A187 - doesn't have the original battery." **** 'original'
 
 
 ================================================================================================================
@@ -32,13 +32,37 @@ __________('keyboard',)__________
 
 Positive Reviews:
 
----'i am returning this phone and getting one with a larger keyboard.' **** 'larger'
----'texting is exceedingly easy because of a nice full keyboard and a very handy and useful shortcuts toolbar on the home screen.' **** 'easy'
----'texting is exceedingly easy because of a nice full keyboard and a very handy and useful shortcuts toolbar on the home screen.' **** 'nice'
+---'I am returning this phone and getting one with a larger keyboard.' **** 'larger'
+---'Texting is exceedingly easy because of a nice full keyboard and a very handy and useful shortcuts toolbar on the home screen.' **** 'easy'
+---'Texting is exceedingly easy because of a nice full keyboard and a very handy and useful shortcuts toolbar on the home screen.' **** 'nice'
+---"The phone's keys extend beyond the flat surface of the keyboard so it is easy to accidentally key something while in your pocket." **** 'easy'
 
 Negative Reviews:
 
----"i'm back & ready to review.bottom line...it worked in france, it's ok for a few weeks a year but i wouldn't want it for my full time phone.the phone's keys extend beyond the flat surface of the keyboard so it is easy to accidentally key something while in your pocket." **** 'easy'
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---'Could have come with a better camera.' **** 'better'
+
+Negative Reviews:
+
+---'It has very low camera and video quality that would be the only con.' **** 'low'
+
+
+================================================================================================================
+__________('sim', 'card')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -47,26 +71,48 @@ __________('keys',)__________
 
 Positive Reviews:
 
----"it just arrived today and it is still charging but i couldn't wait to get familiar with it.pros: small, lightweight,keys stand up so you know when you hit them,easy enough to uselove that i didn't have to do a new contract!" **** 'small'
----"i wouldn't recommend it for older people (50+) i bought one for my mom she had difficulty using it said the keys are to small but for me it's pretty easy," **** 'small'
----'it may not be the best phone for someone with big hands as the keys are pretty small and take some getting used to.' **** 'small'
----'the only drawback were the keys and how small they are, but she has nimble fingers so not a problem for her.' **** 'small'
----'this phone is nice, the writing on the keys are very tiny but other than that, it work perfect.' **** 'perfect'
+---"i wouldn't recommend it for older people (50+) i bought one for my mom she had difficulty using it said the keys are to small but for me it's pretty easy, I bought this phone only, because it said it has wifi and it does not, only with an AT&T acount." **** 'small'
+---'It may not be the best phone for someone with big hands as the keys are pretty small and take some getting used to.' **** 'small'
+---'The only drawback were the keys and how small they are, but she has nimble fingers so not a problem for her.' **** 'small'
+---'This phone is nice, the writing on the keys are very tiny but other than that, it work perfect.' **** 'perfect'
 
 Negative Reviews:
 
----'the keys are pretty small for my stubby fingers.' **** 'small'
----"at first it is a little hard to manage because of the qwerty's small keys." **** 'small'
----"it just arrived today and it is still charging but i couldn't wait to get familiar with it.pros: small, lightweight,keys stand up so you know when you hit them,easy enough to uselove that i didn't have to do a new contract!" **** 'familiar'
----"it just arrived today and it is still charging but i couldn't wait to get familiar with it.pros: small, lightweight,keys stand up so you know when you hit them,easy enough to uselove that i didn't have to do a new contract!" **** 'easy'
----'this phone has the smallest keys i have ever seen.' **** 'smallest'
----"i wouldn't recommend it for older people (50+) i bought one for my mom she had difficulty using it said the keys are to small but for me it's pretty easy," **** 'easy'
----'this phone is nice, the writing on the keys are very tiny but other than that, it work perfect.' **** 'other'
----'the keys for texting are very small.' **** 'small'
+---'The keys are pretty small for my stubby fingers.' **** 'small'
+---"At first it is a little hard to manage because of the Qwerty's small keys." **** 'small'
+---'This phone has the smallest keys I have ever seen.' **** 'smallest'
+---'This phone is nice, the writing on the keys are very tiny but other than that, it work perfect.' **** 'other'
+---'The keys for texting are very small.' **** 'small'
 
 
 ================================================================================================================
-__________('texting',)__________
+__________('reception',)__________
+
+
+Positive Reviews:
+
+---'Reception is good even in rural, hilly environments.' **** 'good'
+---'Cuts out during conversatons while you are at home in a good reception area.' **** 'good'
+
+Negative Reviews:
+
+---"Better than the samsung magnet which didn't have 3g like this phone, so it has much better reception." **** 'better'
+
+
+================================================================================================================
+__________('great', 'price')__________
+
+
+Positive Reviews:
+
+---'Great price, easy to use, hard to break, and lots of fun.' **** 'easy'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('internet',)__________
 
 
 Positive Reviews:
@@ -74,47 +120,7 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----"i don't have to deal with that whole text correcing crude she does...meaning because of the keypad on the front of the phone i just type and like magic my words turn out just like i typed them!!" **** 'crude'
----'only thing i do not like is when you hold back space down for 2 seconds it erases your whole text message.... that is pretty depressing when you happened to have written a long text.' **** 'long'
-
-Negative Reviews:
-
----"i don't have to deal with that whole text correcing crude she does...meaning because of the keypad on the front of the phone i just type and like magic my words turn out just like i typed them!!" **** 'whole'
-
-
-================================================================================================================
-__________('nice',)__________
-
-
-Positive Reviews:
-
----'the speaker phone is very clear and i can hear the other person nice and clear.' **** 'clear'
----'phone was very atractive nice new.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'however if you need a lot of web access, it would be inconvenient on this phone: the screen is too small for it.also a couple of notes:1. the alarm is affected by the volume setting of the phone, that is if you turn off or mute the phone, the alarm will not sound.' **** 'small'
----'has a good weight without being heavy, very clear screen res., calls are crystal clear even with the bluetooth, the buttons seem small but i have had no problem with them so far.' **** 'clear'
-
-Negative Reviews:
-
----'i had a blackberry when i was with sprint, but had to switch to at&t and did not like their touch screen phones.' **** 'touch'
+---'The internet is sufficient for my needs.' **** 'sufficient'
 
 
 ================================================================================================================
@@ -123,27 +129,15 @@ __________('call', 'quality')__________
 
 Positive Reviews:
 
----'call quality is very good and there is an external memory slot which is really handy.' **** 'good'
----'she called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'good'
----'she called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'better'
+---'Call quality is very good and there is an external memory slot which is really handy.' **** 'good'
+---'She called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'good'
+---'She called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'better'
 
 Negative Reviews:
 
----'this is a great phone to have if u dont want to have a smart phone...it has a pretty nice key board..the buttens are feel small at times but u get used to it..other wise its reliable and has good call quality ..the battery life is great and it picks up signal better than other phones that i have had even though they might cost 100s more..i recomned thus phone..' **** 'good'
----'the call quality is awful.' **** 'awful'
----'it keeps its battery life, and the call quality is average.' **** 'average'
-
-
-================================================================================================================
-__________('samsung', 'cell')__________
-
-
-Positive Reviews:
-
----"if you're looking for a no-frill, functional cell phone for phone calls only, this samsung phone does the job." **** 'functional'
-
-Negative Reviews:
-
+---'This is a great phone to have if u dont want to have a smart phone... it has a pretty nice key board.. the buttens are feel small at times but u get used to it.. other wise its reliable and has good call quality .. the battery life is great and it picks up signal better than other phones that i have had even though they might cost 100s more.. i recomned thus phone..' **** 'good'
+---'The call quality is awful.' **** 'awful'
+---'It keeps its battery life, and the call quality is average.' **** 'average'
 
 
 ================================================================================================================
@@ -159,124 +153,31 @@ Negative Reviews:
 
 
 ================================================================================================================
+__________('texting',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
 __________('samsung',)__________
 
 
 Positive Reviews:
 
----'i checked the battery and found the seller replaced the original samsung battery with replica.' **** 'original'
+---'I checked the battery and found the seller replaced the original Samsung battery with replica.' **** 'original'
 
 Negative Reviews:
 
----"better than the samsung magnet which didn't have 3g like this phone, so it has much better reception." **** 'better'
----'my new samsung phone is just too cool!' **** 'new'
----'item did not come with an original samsung charger, charger that came along, did not work, had to buy another charger in order to see if phone works.' **** 'original'
----'it is not an original samsung packing, all parts inside where loose.' **** 'original'
----"now, i'm afraid to wear my samsung phone on my neck because it looks a bit like blackberry phone (or when the samsung phone is flipped to its back side, it looks like a smartphone)." **** 'afraid'
-
-
-================================================================================================================
-__________('need',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'could have come with a better camera.' **** 'better'
-
-Negative Reviews:
-
----'it has very low camera and video quality that would be the only con.' **** 'low'
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('reception',)__________
-
-
-Positive Reviews:
-
----'reception is good even in rural, hilly environments.' **** 'good'
----'cuts out during conversatons while you are at home in a good reception area.' **** 'good'
-
-Negative Reviews:
-
----"better than the samsung magnet which didn't have 3g like this phone, so it has much better reception." **** 'better'
----'low reception sometimes.' **** 'low'
-
-
-================================================================================================================
-__________('fine',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'other than that, it works fine on the web too.' **** 'other'
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'one durable phone  that has went thru some rough handling with the silicone skin attached.battery life last a while before it needs charging.' **** 'last'
-
-Negative Reviews:
-
----'battery life is short.' **** 'short'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----'but still, the user manual seems incomplete.4) some nice features: stop watch, timer, measurement converter for length, width, height, weight, volume, area (convert to & from metric system), tip calculator and regular calculator.' **** 'nice'
----'good features.' **** 'good'
----'it is an outstanding basic messaging phone that has most of the key features one would want in a basic cell phone.' **** 'key'
-
-Negative Reviews:
-
----"i bought this model and it hasn't dropped a call yet and it also has some nice features." **** 'nice'
----'she said the other features of the phone are good, camera is just ok but at this price, amazed there is a camera.our family has owned several samsung cell phones over the years, and they have been sturdy and reliable phones.so far so good!' **** 'other'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
----'that being said, the following at&t; features do not work with t-mobile: instant messaging, mobile e-mail, appcenter, mobile web, mobile care.however, the items that i do care about work fine and these include the camera, the multiple alarms, texting, address book, sound recorder, etc.i gave this item 4 stars instead of 5 because the speaker phone feature is practically worthless due to its low volume capabilities.' **** 'care'
-
-Negative Reviews:
-
----"what can i says  about this cute little phone , the phone work really good and for 50 bucks i can not aspect it to be this good .battery last more than 4-5 days, speaker phone are loud and clear ,text are so easy to used .i don't think this kind of phone will last at this price....you better be hurry to get it asap." **** 'good'
+---'My new Samsung phone is just too cool!' **** 'new'
+---'Item did not come with an original SAMSUNG charger, charger that came along, did not work, had to buy another charger in order to see if phone works.' **** 'original'
+---'it is not an original SAMSUNG packing, all parts inside where loose.' **** 'original'
+---"Now, I'm afraid to wear my Samsung phone on my neck because it looks a bit like Blackberry phone (or when the Samsung phone is flipped to its back side, it looks like a smartphone)." **** 'afraid'
+---'Overall, this Samsung does the job for receiving and sending phone calls.' **** 'overall'
 
 
 ================================================================================================================
@@ -285,28 +186,15 @@ __________('fingers',)__________
 
 Positive Reviews:
 
----"i have slim and small fingers so it isn't really hard." **** 'small'
----'she said she could see how someone might be frustrated with key size if they had larger fingers.' **** 'larger'
----"however, i have normal size women's fingers and it is almost impossible to text fast due to the small size of the keys without having a ton of spelling errors and letters that didn't even belong there." **** 'impossible'
+---"I have slim and small fingers so it isn't really hard." **** 'small'
+---'She said she could see how someone might be frustrated with key size if they had larger fingers.' **** 'larger'
+---"However, I have normal size women's fingers and it is almost impossible to text fast due to the small size of the keys without having a ton of spelling errors and letters that didn't even belong there." **** 'impossible'
 
 Negative Reviews:
 
----'i have small fingers but sometimes i still find it hard to type on small keypads.' **** 'small'
----'if you have smaller that average fingers it might work out ok for you.' **** 'smaller'
----'if you have smaller that average fingers it might work out ok for you.' **** 'average'
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'it work fine for the reasons i want it: text and call, is the best' **** 'best'
-
-Negative Reviews:
-
----'this is a great phone to have if u dont want to have a smart phone...it has a pretty nice key board..the buttens are feel small at times but u get used to it..other wise its reliable and has good call quality ..the battery life is great and it picks up signal better than other phones that i have had even though they might cost 100s more..i recomned thus phone..' **** 'good'
+---'I have small fingers but sometimes I still find it hard to type on small keypads.' **** 'small'
+---'If you have smaller that average fingers it might work out ok for you.' **** 'smaller'
+---'If you have smaller that average fingers it might work out ok for you.' **** 'average'
 
 
 ================================================================================================================
@@ -315,100 +203,12 @@ __________('music', 'player')__________
 
 Positive Reviews:
 
----'the camera, music player, and speakerphone are great.' **** 'music'
----'features such as calendar, camera, inbox, create a message, music player can all be added here.' **** 'music'
+---'The camera, music player, and speakerphone are great.' **** 'music'
+---'Features such as calendar, camera, inbox, create a message, music player can all be added here.' **** 'music'
 
 Negative Reviews:
 
----"also it says music player but yet it doesn't have a slot for my headphones." **** 'music'
-
-
-================================================================================================================
-__________('user',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the user manual that came with the packaging seem to be missing a big chunk of the user manual instructions.' **** 'manual'
----'the user manual that came with the packaging seem to be missing a big chunk of the user manual instructions.' **** 'manual'
----"i went to samsung's website to see the user manual online which contains many more pages." **** 'manual'
----'but still, the user manual seems incomplete.4) some nice features: stop watch, timer, measurement converter for length, width, height, weight, volume, area (convert to & from metric system), tip calculator and regular calculator.' **** 'manual'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'this phone is really good , it has really good battery life and amazing volume.' **** 'good'
----'only problem i had with this phone is that they sent it originally with the wrong battery, however amazon accepted my return and refunded my money.when ordering the phone for the second time it worked great.' **** 'amazon'
----'i bought this phone to use in jamaica, and am loving it, it fell from my 3yr old more than once and i just pick it up put the battery back in and its good to go, very light and the price is good....' **** 'good'
----'so far, the battery only last 3 days without phone calls.' **** 'last'
----"the only other problem was that the battery didn't last long." **** 'long'
-
-Negative Reviews:
-
----'only problem i had with this phone is that they sent it originally with the wrong battery, however amazon accepted my return and refunded my money.when ordering the phone for the second time it worked great.' **** 'wrong'
----'over all i like this phone a lot and i would recogmend it to anyone who like texting and talking a lot because its has a long battery life.' **** 'long'
----'so, i was quite disapointed given other reviews stated with long battery life.' **** 'long'
----"the only other problem was that the battery didn't last long." **** 'last'
----'for the amount of time that i used the phone the battery should have lasted longer.' **** 'longer'
----"i give this product and the company only 1 star, because the phone they sent me - samsung a187 - doesn't have the original battery." **** 'original'
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----"good cell phone, the qwerty key board made easier to work messages, i am very glad with the purchase i've make" **** 'good'
----"if you're looking for a no-frill, functional cell phone for phone calls only, this samsung phone does the job." **** 'functional'
----'great first cell phone for my twelve year old daughter.' **** 'first'
-
-Negative Reviews:
-
----'i would still recommend it to others who are looking for an inexpensive unlocked cell phone.' **** 'inexpensive'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----'incoming and outgoing calls are easier.' **** 'easier'
-
-Negative Reviews:
-
----'stuck in some kind of loop that would not allow you to call out, only receive calls.' **** 'receive'
-
-
-================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'installed new sim card and took to repair shop and i was told it was not repairable.' **** 'new'
+---"Also it says music player but yet it doesn't have a slot for my headphones." **** 'music'
 
 
 ================================================================================================================
@@ -417,155 +217,26 @@ __________('text', 'messages')__________
 
 Positive Reviews:
 
+---"I don't have to deal with that whole text correcing crude she does... meaning because of the keypad on the front of the phone I just type and like magic my words turn out just like I typed them!!" **** 'crude'
+---'Only thing I do not like is when you hold back space down for 2 seconds it erases your whole text message.... That is pretty depressing when you happened to have written a long text.' **** 'long'
 
 Negative Reviews:
 
----'i bought this phone because i needed a full keyboard as i am sending out more text messages than i needed to in the past.' **** 'past'
+---'I bought this phone because I needed a full keyboard as I am sending out more text messages than I needed to in the past.' **** 'past'
+---"I don't have to deal with that whole text correcing crude she does... meaning because of the keypad on the front of the phone I just type and like magic my words turn out just like I typed them!!" **** 'whole'
 
 
 ================================================================================================================
-__________('music',)__________
+__________('calls',)__________
 
 
 Positive Reviews:
 
+---'Incoming and outgoing calls are easier.' **** 'easier'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('picture',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"there is also an issue with picture messaging that i haven't resolved yet, she only receives the first half of a picture in a picture message." **** 'first'
----'however, i do have trouble seeing the picture mails.' **** 'trouble'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----"what can i says  about this cute little phone , the phone work really good and for 50 bucks i can not aspect it to be this good .battery last more than 4-5 days, speaker phone are loud and clear ,text are so easy to used .i don't think this kind of phone will last at this price....you better be hurry to get it asap." **** 'hurry'
----'this is a quality phone at a reasonable price.' **** 'reasonable'
----'great price, easy to use, hard to break, and lots of fun.' **** 'easy'
----'i bought this phone to use in jamaica, and am loving it, it fell from my 3yr old more than once and i just pick it up put the battery back in and its good to go, very light and the price is good....' **** 'good'
----'but it is worth for its price.' **** 'worth'
----'the price was very reasonable.' **** 'reasonable'
-
-Negative Reviews:
-
----"what can i says  about this cute little phone , the phone work really good and for 50 bucks i can not aspect it to be this good .battery last more than 4-5 days, speaker phone are loud and clear ,text are so easy to used .i don't think this kind of phone will last at this price....you better be hurry to get it asap." **** 'better'
----'i bought this phone to use in jamaica, and am loving it, it fell from my 3yr old more than once and i just pick it up put the battery back in and its good to go, very light and the price is good....' **** 'light'
----'i really like the features and the price is second to none.' **** 'second'
----'after looking at many lower price unlocked phones, we decided on this one.' **** 'lower'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'only problem i had with this phone is that they sent it originally with the wrong battery, however amazon accepted my return and refunded my money.when ordering the phone for the second time it worked great.' **** 'second'
----'very disapointed with this item, first time i make a 1 star rate on an amazon buy.' **** 'first'
----'good phone for temporary time.' **** 'temporary'
-
-Negative Reviews:
-
----'i used this phone as a primary phone for a long time.' **** 'long'
----'took it in again to their repair place and this time they could not fix and said i would have to buy a new one.' **** 'new'
----"the buttons are way to small and i've a hard time reading them.i believe it is more for the younger kids" **** 'hard'
----"from the little time i spent setting it up for her, i can say it's quite old school." **** 'little'
----'this phone has all the features i need & keeps its power a long time between charges.' **** 'long'
----'the phone is lightweight and holds charge for a long time.' **** 'long'
----'for just a phone sometimes he said he had a hard time hearing on it.' **** 'hard'
----"like, i press three letters with one finger and then spend the whole time trying to backtrack to fix my spelling mistakes so people don't think i am a total idiot." **** 'whole'
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'call quality is very good and there is an external memory slot which is really handy.' **** 'good'
----'she called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'good'
----'she called me and the sound quality was very good, actually better than her previous, more expensive phone.' **** 'better'
----'it has a large screen and picture quality is also good.' **** 'good'
----'too bad because the voice quality was awesome and very user friendly.' **** 'friendly'
-
-Negative Reviews:
-
----'this phone sounded good in the write-up, but once we received it, we could see that it is very poor quality.' **** 'poor'
----'the call quality is awful.' **** 'awful'
----'it keeps its battery life, and the call quality is average.' **** 'average'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('great', 'price')__________
-
-
-Positive Reviews:
-
----'great price, easy to use, hard to break, and lots of fun.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('looking',)__________
-
-
-Positive Reviews:
-
----'if you are looking for a nice looking phone that you can make calls on and text from, this is it!' **** 'nice'
----'she has had a few people mistake her new phone for a blackberry, it is that good looking.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('months',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'very good product.' **** 'good'
-
-Negative Reviews:
-
+---'Stuck in some kind of loop that would not allow you to call out, only receive calls.' **** 'receive'
 
 
 ================================================================================================================

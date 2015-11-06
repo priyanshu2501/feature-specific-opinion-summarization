@@ -3,50 +3,67 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'i went with amazon instead of an independent seller due to reputation, and still ended up disappointed.' **** 'independent'
----'i went with amazon instead of an independent seller due to reputation, and still ended up disappointed.' **** 'due'
-
-Negative Reviews:
-
----'*****beware and be advised that this seller is very dishonest and a crook!!!!' **** 'dishonest'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'it turned out to be a perfect gift for a loved one  works well as expected but i had to unlock it.' **** 'loved'
----'this phone was purchased used and it came like new and works great.' **** 'new'
+---'I went with Amazon instead of an independent seller due to reputation, and still ended up disappointed.' **** 'independent'
+---'I went with Amazon instead of an independent seller due to reputation, and still ended up disappointed.' **** 'due'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('time',)__________
+__________('iphone',)__________
 
 
 Positive Reviews:
 
+---'Working old iPhone, with charger & ear buds.' **** 'charger'
+---'this is the best iphone old, good item, i like its interface, very good equipment, the seller good product.' **** 'best'
+---'I am sooooooo happy about this iphone, it was brand spanking new.' **** 'happy'
+---'I am sooooooo happy about this iphone, it was brand spanking new.' **** 'new'
+---'At this point I should have sprung for a new iphone!' **** 'new'
 
 Negative Reviews:
 
----'the phone that amazon sent me was all scratched up, and it honestly looked as if the dropped it a few time then rubbed steel wool on the back of it.' **** 'dropped'
+---'what I ordered was a black 8GB Iphone.' **** 'black'
+---'What I received was a white 16GB iphone.' **** 'white'
+---'Don\'t buy a "new" iphone 3GS if you need any of these, because none of them will work with the most current IOS for that model.' **** 'new'
+---"I didn't like the iphone at first because it arrived locked." **** 'first'
 
 
 ================================================================================================================
-__________('product',)__________
+__________('in', 'good', 'condition')__________
 
 
 Positive Reviews:
 
----'case in point, iphone 3gs released in 2008, now many years old and still being shipped as a "new" product at amazon five years later.' **** 'new'
+---'Still phone is in good condition.' **** 'good'
+---'(:It arrived in very good condition, just as it was described and I have had no problems with this product(:I would definitely buy from this seller again!' **** 'good'
+---'yes it was in good condition and meet all expectations.' **** 'good'
+---'Hey for a cheap price it was good I bought it and thought it was going to be broken, but really good condition but don listen to anyone else the phone is amazing and I only spent around $45 for the phone, charger, and a SIM card but from different sellers too' **** 'good'
+---'Love the phone, still in good condition, screen is perfect.' **** 'good'
+---'Still phone is in good condition.' **** 'good'
+---'seller said good condition.' **** 'good'
+---'(:It arrived in very good condition, just as it was described and I have had no problems with this product(:I would definitely buy from this seller again!' **** 'good'
+---'yes it was in good condition and meet all expectations.' **** 'good'
+---'Hey for a cheap price it was good I bought it and thought it was going to be broken, but really good condition but don listen to anyone else the phone is amazing and I only spent around $45 for the phone, charger, and a SIM card but from different sellers too' **** 'good'
+---'Love the phone, still in good condition, screen is perfect.' **** 'good'
 
 Negative Reviews:
 
----'overall i am really satisfied with this product.' **** 'overall'
+---'The phone was in good condition the only problem I had was that I could not open the slide were you put the sim card and it was very hard to open and closed, also the phone did not work with my AT & T sim card, however I did not had to much of a problem getting my money back, Amazon help me with my credit being put back to my account.... thanks Amazon for your help.' **** 'good'
+---'The phone was in good condition the only problem I had was that I could not open the slide were you put the sim card and it was very hard to open and closed, also the phone did not work with my AT & T sim card, however I did not had to much of a problem getting my money back, Amazon help me with my credit being put back to my account.... thanks Amazon for your help.' **** 'good'
+
+
+================================================================================================================
+__________('waste', 'of', 'money')__________
+
+
+Positive Reviews:
+
+---'Seems this was a complete waste of money.' **** 'complete'
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -61,87 +78,17 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('condition',)__________
+__________('apple',)__________
 
 
 Positive Reviews:
 
----'seller said good condition.' **** 'good'
----'(:it arrived in very good condition, just as it was described and i have had no problems with this product(:i would definitely buy from this seller again!godblessxoxo' **** 'good'
----'yes it was in good condition and meet all expectations.' **** 'good'
----'*****i bought the 3g phone from you by your amazon listing stating that the phone is like new condition with no scratches or any issues or problems with the phone what so ever!' **** 'new'
----'hey for a cheap price it was good i bought it and thought it was going to be broken, but really good condition but don listen to anyone else the phone is amazing and i only spent around $45 for the phone, charger, and a sim card but from different sellers too' **** 'good'
----'love the phone, still in good condition, screen is perfect.' **** 'good'
+---"That wouldn't be so bad if Apple was willing to supply archive copies of the versions you need, but they don't." **** 'bad'
+---"Apple's business model may be good for Apple, but is planned obsolescence best for you?" **** 'good'
 
 Negative Reviews:
 
----'i got iphone it was locked.so i have to unlock it & i have to pay another $40.00.still phone is in good condition.' **** 'good'
----'the phone was in good condition the only problem i had was that i could not open the slide were you put the sim card and it was very hard to open and closed, also the phone did not work with my at & t sim card, however i did not had to much of a problem getting my money back, amazon help me with my credit being put back to my account....thanks amazon for your help.' **** 'good'
-
-
-================================================================================================================
-__________('good', 'condition')__________
-
-
-Positive Reviews:
-
----'seller said good condition.' **** 'good'
----'(:it arrived in very good condition, just as it was described and i have had no problems with this product(:i would definitely buy from this seller again!godblessxoxo' **** 'good'
----'yes it was in good condition and meet all expectations.' **** 'good'
----'hey for a cheap price it was good i bought it and thought it was going to be broken, but really good condition but don listen to anyone else the phone is amazing and i only spent around $45 for the phone, charger, and a sim card but from different sellers too' **** 'good'
----'love the phone, still in good condition, screen is perfect.' **** 'good'
-
-Negative Reviews:
-
----'i got iphone it was locked.so i have to unlock it & i have to pay another $40.00.still phone is in good condition.' **** 'good'
----'the phone was in good condition the only problem i had was that i could not open the slide were you put the sim card and it was very hard to open and closed, also the phone did not work with my at & t sim card, however i did not had to much of a problem getting my money back, amazon help me with my credit being put back to my account....thanks amazon for your help.' **** 'good'
-
-
-================================================================================================================
-__________('came',)__________
-
-
-Positive Reviews:
-
----'the phone is as described.it works great.it came with a new charger.fast shipping.we are very pleased with our purchase.thank you' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('next', 'day')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('money',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i feel that you knew that there was an internal issue and you took advantage of me and took my money knowing good and well that the phone could never be restored activated by another carrier!!!!' **** 'good'
-
-
-================================================================================================================
-__________('waste', 'of', 'money')__________
-
-
-Positive Reviews:
-
----'seems this was a complete waste of money.' **** 'complete'
-
-Negative Reviews:
-
+---"That wouldn't be so bad if Apple was willing to supply archive copies of the versions you need, but they don't." **** 'willing'
 
 
 ================================================================================================================
@@ -150,28 +97,27 @@ __________('apps',)__________
 
 Positive Reviews:
 
----"if you do not use any apps, it's a great deal; but if you need your apps don't even bother." **** 'bother'
----'if all you want to do is make phone calls, ok. but most people pay the hundreds of extra dollars for the icing on the cake, all those fancy apps available only at the apple store and installable only with the free itunes program.well, i just happen to have one of them and it is next to useless compared to a current model device because three-quarters of the apps for it give an error message saying that the app is incompatible with my ios.' **** 'available'
----'so you bite the bullet and download a fresh copy of your growing list of favorite apps.' **** 'favorite'
+---"If you do not use any apps, it's a great deal; but if you need your apps don't even bother." **** 'bother'
+---'But most people pay the hundreds of extra dollars for the icing on the cake, all those fancy apps available only at the Apple store and installable only with the free itunes program.' **** 'available'
+---'So you bite the bullet and download a fresh copy of your growing list of favorite apps.' **** 'favorite'
 
 Negative Reviews:
 
----'but to download apps was hard because of the ios' **** 'hard'
----'honest supplierhowever just know that you would not be able to download apps but this is not a fault of the supplier this is just a messed up thing with apple.' **** 'able'
+---'Honest supplierHowever just know that you would not be able to download apps but this is not a fault of the supplier this is just a messed up thing with APPLE.' **** 'able'
 ---'was very disappointed by not being able to get apps which are compatible with 3g , it is useless now.' **** 'able'
 ---'was very disappointed by not being able to get apps which are compatible with 3g , it is useless now.' **** 'compatible'
 
 
 ================================================================================================================
-__________('back',)__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
+---'It would be good if amazon described it to let the customer the understand the product well' **** 'good'
 
 Negative Reviews:
 
----'which is fine but the phone they sent me was severely cracked on the back and chipped out on the top.' **** 'top'
 
 
 ================================================================================================================
@@ -180,28 +126,10 @@ __________('works', 'fine')__________
 
 Positive Reviews:
 
----'i recharged it and it works just fine...like new.' **** 'new'
+---'I recharged it and it works just fine... like new.' **** 'new'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('n', 'good', 'condition')__________
-
-
-Positive Reviews:
-
----'seller said good condition.' **** 'good'
----'(:it arrived in very good condition, just as it was described and i have had no problems with this product(:i would definitely buy from this seller again!godblessxoxo' **** 'good'
----'yes it was in good condition and meet all expectations.' **** 'good'
----'hey for a cheap price it was good i bought it and thought it was going to be broken, but really good condition but don listen to anyone else the phone is amazing and i only spent around $45 for the phone, charger, and a sim card but from different sellers too' **** 'good'
----'love the phone, still in good condition, screen is perfect.' **** 'good'
-
-Negative Reviews:
-
----'i got iphone it was locked.so i have to unlock it & i have to pay another $40.00.still phone is in good condition.' **** 'good'
----'the phone was in good condition the only problem i had was that i could not open the slide were you put the sim card and it was very hard to open and closed, also the phone did not work with my at & t sim card, however i did not had to much of a problem getting my money back, amazon help me with my credit being put back to my account....thanks amazon for your help.' **** 'good'
 
 
 ================================================================================================================

@@ -1,4 +1,17 @@
-__________('model',)__________
+__________('seller',)__________
+
+
+Positive Reviews:
+
+---'I have spoken to both Motorola and the seller and I have returned it for an extra $5.' **** 'extra'
+
+Negative Reviews:
+
+---"Excellent condition for a used phone no scratches or signs of wear, wouldn't have thought it was used if the seller had not listed as such , good but for me !!!!!" **** 'good'
+
+
+================================================================================================================
+__________('weeks',)__________
 
 
 Positive Reviews:
@@ -6,10 +19,6 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it wasn't as new a model as i had previously, but that one is on me, i suppose." **** 'new'
----'the first of this model i was sent was not the new one i ordered and paid full price for.' **** 'first'
----'the first of this model i was sent was not the new one i ordered and paid full price for.' **** 'new'
----'due to another reviewer stating they had received a european model, i called in first to verify that this was the us version and was assured that it was.' **** 'first'
 
 
 ================================================================================================================
@@ -35,7 +44,7 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('purchase',)__________
+__________('razor',)__________
 
 
 Positive Reviews:
@@ -43,19 +52,44 @@ Positive Reviews:
 
 Negative Reviews:
 
----"i'm very glad that i made this purchase." **** 'glad'
+---'I could not believe I was able to buy a Razor phone for less than 80 bucks.' **** 'able'
 
 
 ================================================================================================================
-__________('customer', 'service')__________
+__________('battery', 'cover')__________
 
 
 Positive Reviews:
 
----'customer service was prompt and polite when returning both shipments and because of that experience i can still feel confident shopping here.' **** 'polite'
+---'Ordered an (advertised NEW) RAZR3 from UNLIMITED PHONES 4 LESS- came without battery cover or charger.' **** 'charger'
+---"I have the previos model of this Motorola and it works fine, but this one I received about a month ago, is useless, the battery goes dead even if you don't use it." **** 'dead'
+---'I replaced the battery with a new one and turned it on and in just min it got hot so I assumed it was shot.' **** 'new'
+---'the screen kept going off and on , could not make calls when that happened and it would drain the battery to the point where even if i only made one phone call the battery would be dead at the end of the day.... sent it back to be repaired or replaced ten days ago , still waiting for the phone to be returned.' **** 'dead'
+---'Battery runs good.' **** 'good'
+---"The battery that came with it says it was incompatible and wouldn't work." **** 'incompatible'
+---"The battery was dead and the phone doesn't work (doesn't turn on), battery wouldn't charge." **** 'dead'
+---'I asked whether the battery is new and he said, "Everything in there *should* be new."' **** 'new'
+---'I have bought a new battery but have been traveling and think that the charge is unreliable so I have used my old, partially broken but (barely) able to remain charged, phone.' **** 'new'
 
 Negative Reviews:
 
+---'It had been refurbished, the screen was damaged and the battery half dead and would not do anything but offer to send a new battery when i told him his phone was not what he announced on the ad.!' **** 'new'
+---'The Razr phones hold up well under extreme conditions and long battery life.' **** 'long'
+---'later only l realized the phone was suuplied with the wrong battery.' **** 'wrong'
+
+
+================================================================================================================
+__________('us', 'version')__________
+
+
+Positive Reviews:
+
+---'A brand new unlocked US Version V3 in the original Motorola packaging with all the protective films still applied.' **** 'unlocked'
+
+Negative Reviews:
+
+---'I was sent the same model again, a U. S. version, yes, but it was not new as it had been pre-loaded with Cingular (now AT&T;) software and after using over 2 hours of minutes of time on another cellular with TMobile it was determined by TMobile that Amazon had again sent me a used phone that was completely incompatible with TMobile (no matter what Roberta or Mary or Jason or... anyone from Amazon kept telling me, that the phone was listed as being compatible with TMobile)) that I could not use again and so, had to return as well.' **** 'new'
+---'The previous comments about it not being the US version is correct: preset notes are in Italian.' **** 'correct'
 
 
 ================================================================================================================
@@ -67,348 +101,35 @@ Positive Reviews:
 
 Negative Reviews:
 
----'i got a look-alike repaired, international version dated 10 july 04. amazon refunded me $25.00.' **** 'international'
----'i was sent the same model again, a u.s. version, yes, but it was not new as it had been pre-loaded with cingular (now at&t;) software and after using over 2 hours of minutes of time on another cellular with tmobile it was determined by tmobile that amazon had again sent me a used phone that was completely incompatible with tmobile (no matter what roberta or mary or jason or... anyone from amazon kept telling me, that the phone was listed as being compatible with tmobile)) that i could not use again and so, had to return as well.' **** 'new'
----'make sure to verify that it is a us version, otherwise great website' **** 'sure'
----'the previous comments about it not being the us version is correct: preset notes are in italian.' **** 'correct'
+---'I got a look-alike repaired, international version dated 10 July 04.' **** 'international'
+---'I was sent the same model again, a U. S. version, yes, but it was not new as it had been pre-loaded with Cingular (now AT&T;) software and after using over 2 hours of minutes of time on another cellular with TMobile it was determined by TMobile that Amazon had again sent me a used phone that was completely incompatible with TMobile (no matter what Roberta or Mary or Jason or... anyone from Amazon kept telling me, that the phone was listed as being compatible with TMobile)) that I could not use again and so, had to return as well.' **** 'new'
+---'The previous comments about it not being the US version is correct: preset notes are in Italian.' **** 'correct'
 
 
 ================================================================================================================
-__________('money',)__________
+__________('motorola', 'razr', 'v3')__________
 
 
 Positive Reviews:
 
+---'This classic RAZR was poorly built.' **** 'classic'
+---"My advice is to buy a used Razr that's made of metal." **** 'used'
+---'I was more that happy with my old RAZR and still under contract with my service provider.' **** 'happy'
+---'Replaced it with new RAZR about 2 weeks ago, and it is a pale substitute for the original.' **** 'new'
+---'So I ordered from ZENA and received promptly a "new" Razr.' **** 'new'
+---')If you can find a new Motorola V3 at best buy or the like, get it there.' **** 'new'
+---'A brand new unlocked US Version V3 in the original Motorola packaging with all the protective films still applied.' **** 'original'
 
 Negative Reviews:
 
----'was not worth the money at all.' **** 'worth'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('service',)__________
-
-
-Positive Reviews:
-
----'customer service was prompt and polite when returning both shipments and because of that experience i can still feel confident shopping here.' **** 'polite'
----'i hope to get the same good service from this razor as the previous razor.' **** 'good'
----'i then went with whatever phone was being offered for free with renewal of my service plan.' **** 'renewal'
----'overall i was happy with the service' **** 'happy'
----'fast and good service from supplier.' **** 'good'
-
-Negative Reviews:
-
----"the first time i received the phone it was two different colors and made of complete cheap plastic we didn't like the color so asked for a silver one that was shipped pretty quickly (good service)." **** 'good'
----'overall i was happy with the service' **** 'overall'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"since that i don't experience this error no more.i have been using it for more than a month now and everything is good." **** 'good'
----'the cover from my old v3 works fine although its color doesn\'t match.we never did get the web to work after some lengthy procedures to set settings, so beware if that matters to you.i asked whether the battery is new and he said, "everything in there *should* be new."' **** 'new'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'for some reason i also bought an extra back up battery that worked and my new phone worked just fine.' **** 'extra'
-
-Negative Reviews:
-
----"the fourth and final straw that broke the camel's back is that it is impossible to send or receive texts 99% of the time." **** 'impossible'
----'half of the front and half of the back are blue, the bottom part of the front and the bottom part of the back are violet.' **** 'violet'
-
-
-================================================================================================================
-__________('version',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i got a look-alike repaired, international version dated 10 july 04. amazon refunded me $25.00.' **** 'international'
----'i was sent the same model again, a u.s. version, yes, but it was not new as it had been pre-loaded with cingular (now at&t;) software and after using over 2 hours of minutes of time on another cellular with tmobile it was determined by tmobile that amazon had again sent me a used phone that was completely incompatible with tmobile (no matter what roberta or mary or jason or... anyone from amazon kept telling me, that the phone was listed as being compatible with tmobile)) that i could not use again and so, had to return as well.' **** 'new'
----'make sure to verify that it is a us version, otherwise great website' **** 'sure'
----'however, we had received the international version with no explanation and with no warning.' **** 'international'
----'the previous comments about it not being the us version is correct: preset notes are in italian.' **** 'correct'
-
-
-================================================================================================================
-__________('years',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'of course i knew it was not going to be new since it has not been made in years.' **** 'new'
-
-
-================================================================================================================
-__________('refund',)__________
-
-
-Positive Reviews:
-
----'what a waist of money, i would ask for a money refund if that was possible.' **** 'possible'
----'it was returned for a refund, which i did receive.' **** 'receive'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('fine',)__________
-
-
-Positive Reviews:
-
----'worked fine when received it.' **** 'received'
-
-Negative Reviews:
-
----'everything was working fine until all of a sudden it turned off.' **** 'sudden'
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----"this has been my only bad experience with them so i'm confident this product is/was just labeled incorrectly in their system." **** 'confident'
-
-Negative Reviews:
-
----'the seller sold this product for a new one and it was not !' **** 'new'
-
-
-================================================================================================================
-__________('mobile',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('u.s.', 'version')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i was sent the same model again, a u.s. version, yes, but it was not new as it had been pre-loaded with cingular (now at&t;) software and after using over 2 hours of minutes of time on another cellular with tmobile it was determined by tmobile that amazon had again sent me a used phone that was completely incompatible with tmobile (no matter what roberta or mary or jason or... anyone from amazon kept telling me, that the phone was listed as being compatible with tmobile)) that i could not use again and so, had to return as well.' **** 'new'
-
-
-================================================================================================================
-__________('cover',)__________
-
-
-Positive Reviews:
-
----'they agreed to send a new cover and assisted with other initial problems with this phone.' **** 'new'
----'ordered an (advertised new) razr3 from unlimited phones 4 less- came without battery cover or charger.' **** 'charger'
-
-Negative Reviews:
-
----"first, the cover panels were of different color, making it look obviously refurb'd.second, it took at&t; several resets to activate the phone.third, the phone would not stay in network after first calls." **** 'first'
-
-
-================================================================================================================
-__________('sim', 'cards')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'needed a phone for overseas use with foreign sim cards.' **** 'foreign'
-
-
-================================================================================================================
-__________('send', 't', 'back')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"the fourth and final straw that broke the camel's back is that it is impossible to send or receive texts 99% of the time." **** 'impossible'
-
-
-================================================================================================================
-__________('seller',)__________
-
-
-Positive Reviews:
-
----'overall, i am happy with it.the seller shipped it fast, arrived in sealed box that contain the phone, charger, manual, earphone and cd.' **** 'happy'
-
-Negative Reviews:
-
----"excellent condition for a used phone no scratches or signs of wear, wouldn't have thought it was used if the seller had not listed as such , good but for me !!!!" **** 'good'
----'overall, i am happy with it.the seller shipped it fast, arrived in sealed box that contain the phone, charger, manual, earphone and cd.' **** 'overall'
-
-
-================================================================================================================
-__________('weeks',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('customer',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----"it's even cheaper and it came with a charger that works in the u.s. and se asia.reading the reviews makes it obvious that there are no more new v3s anywhere; they're all gone!" **** 'charger'
-
-Negative Reviews:
-
----"it's even cheaper and it came with a charger that works in the u.s. and se asia.reading the reviews makes it obvious that there are no more new v3s anywhere; they're all gone!" **** 'cheaper'
-
-
-================================================================================================================
-__________('razor',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i could not believe i was able to buy a razor phone for less than 80 bucks.' **** 'able'
-
-
-================================================================================================================
-__________('battery', 'cover')__________
-
-
-Positive Reviews:
-
----'ordered an (advertised new) razr3 from unlimited phones 4 less- came without battery cover or charger.' **** 'charger'
-
-Negative Reviews:
-
----'the cover from my old v3 works fine although its color doesn\'t match.we never did get the web to work after some lengthy procedures to set settings, so beware if that matters to you.i asked whether the battery is new and he said, "everything in there *should* be new."' **** 'new'
-
-
-================================================================================================================
-__________('us', 'version')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i was sent the same model again, a u.s. version, yes, but it was not new as it had been pre-loaded with cingular (now at&t;) software and after using over 2 hours of minutes of time on another cellular with tmobile it was determined by tmobile that amazon had again sent me a used phone that was completely incompatible with tmobile (no matter what roberta or mary or jason or... anyone from amazon kept telling me, that the phone was listed as being compatible with tmobile)) that i could not use again and so, had to return as well.' **** 'new'
----'make sure to verify that it is a us version, otherwise great website' **** 'sure'
----'the previous comments about it not being the us version is correct: preset notes are in italian.' **** 'correct'
-
-
-================================================================================================================
-__________('motorola',)__________
-
-
-Positive Reviews:
-
----')if you can find a new motorola v3 at best buy or the like, get it there.' **** 'new'
----'a brand new unlocked us version v3 in the original motorola packaging with all the protective films still applied.i stuck in my us sim to test it then put in an israeli sim and headed for tel aviv.' **** 'original'
-
-Negative Reviews:
-
+---'Wish me luck with another new Motorola RAZR V3' **** 'new'
+---'Wish me luck with another new Motorola RAZR V3' **** 'new'
+---'I bought this phone for my wife because her other RAZR of three years finally fell apart.' **** 'other'
+---"I didn't have much hope that I would really get a new phone, since the last Razr was made about 2006." **** 'last'
 ---'motorola went green and you have to look it up online.' **** 'green'
----"it might have been new but wasn't like the original motorola i had." **** 'new'
----"it might have been new but wasn't like the original motorola i had." **** 'original'
----'wish me luck with another new motorola razr v3' **** 'new'
-
-
-================================================================================================================
-__________('order',)__________
-
-
-Positive Reviews:
-
----'it came with a br56 rather than the usual br 50. so, will the supplier send me the correct battery or l have to order a new one myself before l can use it again?' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('color',)__________
-
-
-Positive Reviews:
-
----'they explained that the differences in color are normal when new and the respective carriers had the proper colored jackets.' **** 'new'
-
-Negative Reviews:
-
----"the color is nice and the battery holds a charge for 2-4 days if you don't (can't) talk." **** 'nice'
-
-
-================================================================================================================
-__________('motorola', 'razr')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'wish me luck with another new motorola razr v3' **** 'new'
+---"It might have been new but wasn't like the original Motorola I had." **** 'new'
+---"It might have been new but wasn't like the original Motorola I had." **** 'original'
+---'Wish me luck with another new Motorola RAZR V3' **** 'new'
 
 
 ================================================================================================================
@@ -417,87 +138,21 @@ __________('replacement',)__________
 
 Positive Reviews:
 
----'i promptly returned the phones, both the original and the replacement.' **** 'original'
+---'I promptly returned the phones, both the original and the replacement.' **** 'original'
 
 Negative Reviews:
 
----'their site states that cell phones are only eligible for replacement and a refund option is not provided.' **** 'eligible'
+---'Their site states that cell phones are only eligible for replacement and a refund option is not provided.' **** 'eligible'
 
 
 ================================================================================================================
-__________('month',)__________
+__________('refund',)__________
 
 
 Positive Reviews:
 
----'i had an iphone since they came out years but i prefer the razr without the $20 extra each month for the data service.' **** 'extra'
-
-Negative Reviews:
-
----"this last one didn't even last a month because the hinge came out." **** 'last'
----"this last one didn't even last a month because the hinge came out." **** 'last'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"first, the cover panels were of different color, making it look obviously refurb'd.second, it took at&t; several resets to activate the phone.third, the phone would not stay in network after first calls." **** 'first'
-
-
-================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'two stars because the razr was a classic/good phone.minus 3 stars because this is one of our worst amazon purchase experiences.i purchased this razr because it was advertised as new and from amazon versus a fly-by-nite cell phone etailer.the phone was not new nor was it from amazon.i opened the box and it was a mess:- not properly packed- screen protectors half on- battery cover did not fit correctly.i thought i was buying from amazon but there was a note saying it was from another company that is selling them for amazon, call them if you have any problems.i needed a phone though so i shaved some plastic off the battery cover to make it kind of fit, i put a sim card in it and it worked like our old razr from days of old.the phone lasted 3 months then died:"insert sim card" message is displayed but the sim card works fine in other phones.' **** 'fit'
----'needed a phone for overseas use with foreign sim cards.' **** 'foreign'
-
-
-================================================================================================================
-__________('charge',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i have bought a new battery but have been traveling and think that the charge is unreliable so i have used my old, partially broken but (barely) able to remain charged, phone.' **** 'unreliable'
-
-
-================================================================================================================
-__________('experience',)__________
-
-
-Positive Reviews:
-
----'overall a better then expected shopping experience!!!' **** 'better'
----"this is also the first bad experience i've ever had with amazon." **** 'first'
-
-Negative Reviews:
-
----"this has been my only bad experience with them so i'm confident this product is/was just labeled incorrectly in their system." **** 'bad'
----'if you order this product from this seller, please do so with caution, because you may very well get the same negative experience.' **** 'negative'
----'overall a better then expected shopping experience!!!' **** 'overall'
----"this is also the first bad experience i've ever had with amazon." **** 'bad'
-
-
-================================================================================================================
-__________('military', 'time')__________
-
-
-Positive Reviews:
-
+---'What a waist of money, I would ask for a money refund if that was possible.' **** 'possible'
+---'It was returned for a refund, which I did receive.' **** 'receive'
 
 Negative Reviews:
 
@@ -509,84 +164,16 @@ __________('warranty',)__________
 
 Positive Reviews:
 
----'i went to the carrier and was told too bad out of warranty.' **** 'bad'
+---'I went to the carrier and was told too bad out of warranty.' **** 'bad'
 
 Negative Reviews:
 
----'my bad, but it would have been appreciated to have warranty explained clearer.my cellular phone died and i needed a replacement.' **** 'bad'
----'the 3 month old motorola razr v3 with a two month warranty is dead!' **** 'dead'
+---'My bad, but it would have been appreciated to have warranty explained clearer.' **** 'bad'
+---'i did and they said no warranty since it was not new.' **** 'new'
 
 
 ================================================================================================================
-__________('company',)__________
-
-
-Positive Reviews:
-
----'i am amazed that a reputable company like amazon can promote a product with deceptive advertising.' **** 'reputable'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----"it was worth the $55 to have both numbers working all the time and still be able to make and receive calls without paying roaming (26 cents a minute vs $3 at t-mobile's roaming rates).i carried a v3 for many years before upgrading to an hd2 so this was a perfect choics (i also still had a holster, charger, spare battery etc." **** 'able'
-
-Negative Reviews:
-
----"it's been sitting on the shelf for a very long time." **** 'long'
----"the first time i received the phone it was two different colors and made of complete cheap plastic we didn't like the color so asked for a silver one that was shipped pretty quickly (good service)." **** 'first'
----"i couldn't always remember to take it off.update: i am overseas now and it worked, but it broke the first time i dropped it!" **** 'first'
----'i really wanted this phone had one like it before and loved but my great granddaughter dropped it and broke i was excited about getting another one but it didnt work i asked for another one to be sent back to me but just got a refund so i was really let down about the phone but its ok i feel this was the fault of the company that the phone came from not amazon  first time i had a complaint with a product' **** 'amazon'
----'i really wanted this phone had one like it before and loved but my great granddaughter dropped it and broke i was excited about getting another one but it didnt work i asked for another one to be sent back to me but just got a refund so i was really let down about the phone but its ok i feel this was the fault of the company that the phone came from not amazon  first time i had a complaint with a product' **** 'first'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----"i have the previos model of this motorola and it works fine, but this one i received about a month ago, is useless, the battery goes dead even if you don't use it." **** 'dead'
----'when i received it in the caribbean about 3 weeks after, i did not use it for another 2 weeks, i found the following problems, there was a message of invalid battery, the item ran hot, and the colour was not the metallic blue advertised.' **** 'invalid'
----'the screen kept going off and on , could not make calls when that happened and it would drain the battery to the point where even if i only made one phone call the battery would be dead at the end of the day....sent it back to be repaired or replaced ten days ago , still waiting for the phone to be returned.expected it back sooner , especially as it took only two days to get here when i ordered it' **** 'dead'
----'battery runs good.' **** 'good'
----"the battery that came with it says it was incompatible and wouldn't work." **** 'incompatible'
----"the battery was dead and the phone doesn't work (doesn't turn on), battery wouldn't charge." **** 'dead'
----'i have bought a new battery but have been traveling and think that the charge is unreliable so i have used my old, partially broken but (barely) able to remain charged, phone.' **** 'new'
-
-Negative Reviews:
-
----"i recived the cell phone on time and promptlythe product was in new packaging however had been opened.the phone worked fine for about a week and when i went to get it from the charger and it was so hot you couldn't hold it.i replaced the battery with a new one and turned it on and in just min it got hot so i assumed it was shot.i did't know if it had any warrnties or who to contact.at&t; would not help with the phone and a repair shop wanted a 100. bucks just to check it out.i realy love the razor 3 phone and would like to get another one." **** 'new'
----'it had been refurbished, the screen was damaged and the battery half dead and would not do anything but offer to send a new battery when i told him his phone was not what he announced on the ad.!' **** 'new'
----'the razr phones hold up well under extreme conditions and long battery life.' **** 'long'
----'later only l realized the phone was suuplied with the wrong battery.' **** 'wrong'
----'the cover from my old v3 works fine although its color doesn\'t match.we never did get the web to work after some lengthy procedures to set settings, so beware if that matters to you.i asked whether the battery is new and he said, "everything in there *should* be new."' **** 'new'
-
-
-================================================================================================================
-__________('n', 'box')__________
-
-
-Positive Reviews:
-
----'new in box with charger ... i saw it for sale elsewhere online for several hundreds of dollars ... glad i looked at amazon' **** 'new'
----'new in box with charger ... i saw it for sale elsewhere online for several hundreds of dollars ... glad i looked at amazon' **** 'charger'
-
-Negative Reviews:
-
----'googling this may be a side effect of whatever they did to unlock the phone.if you do opt for this razr and you receive one that is not pristine "new in the box" return it immediately and save yourself a headache.' **** 'new'
----'also phone was just bouncing around loose in box - no internal packing.' **** 'loose'
----'back piece of phone along with battery and charger were also loose in box.' **** 'loose'
-
-
-================================================================================================================
-__________('card',)__________
+__________('calls',)__________
 
 
 Positive Reviews:
@@ -594,102 +181,55 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'Third, the phone would not stay in network after first calls.' **** 'first'
 
 
 ================================================================================================================
-__________('charger',)__________
+__________('sim', 'card')__________
 
 
 Positive Reviews:
 
----'no way for amazon to send new charger so you have to buy one or wait weeks for refund or new phone.' **** 'new'
----'i ordered a new charger and the phone works great.' **** 'new'
+---'I needed a phone though so I shaved some plastic off the battery cover to make it kind of fit, I put a sim card in it and it worked like our old razr from days of old.' **** 'fit'
 
 Negative Reviews:
 
----'overall, i am happy with it.the seller shipped it fast, arrived in sealed box that contain the phone, charger, manual, earphone and cd.' **** 'manual'
+---'Needed a phone for overseas use with foreign SIM cards.' **** 'foreign'
 
 
 ================================================================================================================
-__________('razr', 'v3')__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
+---'I purchase this phone from Amazon, advertised as new, it had a sim card in it with some personal information on it.' **** 'new'
+---'I purchased this RAZR because it was advertised as new and from Amazon versus a fly-by-nite cell phone etailer.' **** 'new'
+---'If it is a new one, no way could I be convinced it is new... Amazon should review this dealer and why there are so many problems with this dealers product.' **** 'new'
 
 Negative Reviews:
 
----'i clicked on "motorola razr v3 unolcked...new from $51.99", and here is what happened.the phone was not new.the phone had been cobbled together from at least 2 different phones.the body was dark blue, but the battery cover and face plate were light blue!was the phone assembled by a blind person, or by someone who was aesthetically challenged?was the phone assembled by a malfunctioning robot?did the seller think customers wouldn\'t care about having different colored parts on the phone; like a car assembled from junkyardparts, with body one color, and doors another color?does the seller think it is fair, or even lawful, to advertise items as new, while delivering used items instead?the plastic bag containing the phone, and the plastic bag containing the charger, were old and mashed up, the way plastic bags are old and mashed up, when you walk on them in dirt, and then throw them in the garbage.like those old plastic bags this phone belongs in the trash.i requested a refund.' **** 'new'
+---'Minus 3 stars because this is one of our worst Amazon purchase experiences.' **** 'worst'
+---"I just opened my boxes to get a charger out, and these phones do not charge, itis one bar on the phone after charging for a while, the phones aren't navy blue either, they are some other teal blue, I'm going to open all of them and if they don't clear, I'm sending them back and let amazon know about it." **** 'clear'
 
 
 ================================================================================================================
-__________('screen',)__________
+__________('customer', 'service')__________
 
 
 Positive Reviews:
 
+---'Customer service was prompt and polite when returning both shipments and because of that experience I can still feel confident shopping here.' **** 'polite'
+---'Customer service was prompt and polite when returning both shipments and because of that experience I can still feel confident shopping here.' **** 'polite'
+---'I hope to get the same good service from this Razor as the previous Razor.' **** 'good'
+---'I then went with whatever phone was being offered for free with renewal of my service plan.' **** 'renewal'
+---'Overall I was happy with the service' **** 'happy'
+---'Fast and good service from supplier.' **** 'good'
 
 Negative Reviews:
 
----'first i paid for  new phone and was obviously sent a refurbished one and secondly the screen did not work?!' **** 'refurbished'
----'the keypad is difficult to read (silver on silver - no contrast) and the screen is grainy and unclear.' **** 'unclear'
----'it lasted 28 days and the screen went black.' **** 'black'
-
-
-================================================================================================================
-__________('motorola', 'razr', 'v3')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i clicked on "motorola razr v3 unolcked...new from $51.99", and here is what happened.the phone was not new.the phone had been cobbled together from at least 2 different phones.the body was dark blue, but the battery cover and face plate were light blue!was the phone assembled by a blind person, or by someone who was aesthetically challenged?was the phone assembled by a malfunctioning robot?did the seller think customers wouldn\'t care about having different colored parts on the phone; like a car assembled from junkyardparts, with body one color, and doors another color?does the seller think it is fair, or even lawful, to advertise items as new, while delivering used items instead?the plastic bag containing the phone, and the plastic bag containing the charger, were old and mashed up, the way plastic bags are old and mashed up, when you walk on them in dirt, and then throw them in the garbage.like those old plastic bags this phone belongs in the trash.i requested a refund.' **** 'new'
----'wish me luck with another new motorola razr v3' **** 'new'
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'i paid for a new cell phone, but it looks like it is a refurbished item.' **** 'new'
----'i was so happy to find the cell phone that i like very much..' **** 'happy'
----"it's the first cell phone that i've been happy with." **** 'first'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('razr',)__________
-
-
-Positive Reviews:
-
----'this classic razr was poorly built.' **** 'classic'
----'i was more that happy with my old razr and still under contract with my service provider.' **** 'happy'
----'replaced it with new razr about 2 weeks ago, and it is a pale substitute for the original.' **** 'new'
----'mine did 4 years ago.so i ordered from zena and received promptly a "new" razr.' **** 'new'
-
-Negative Reviews:
-
----"the phone drops calls and half the time i will answer the phone i can't hear the person on the other end but they can hear me.my advice is to buy a used razr that's made of metal." **** 'used'
----'i bought this phone for my wife because her other razr of three years finally fell apart.' **** 'other'
----"i didn't have much hope that i would really get a new phone, since the last razr was made about 2006.  even refurbished at this price is fine with me." **** 'last'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---"The first time i received the phone it was two different colors and made of complete cheap plastic we didn't like the color so asked for a silver one that was shipped pretty quickly (good service)." **** 'good'
+---'Overall I was happy with the service' **** 'overall'
 
 
 ================================================================================================================
@@ -698,7 +238,18 @@ __________('old', 'razr')__________
 
 Positive Reviews:
 
----'i was more that happy with my old razr and still under contract with my service provider.' **** 'happy'
+---'I was more that happy with my old RAZR and still under contract with my service provider.' **** 'happy'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('military', 'time')__________
+
+
+Positive Reviews:
+
 
 Negative Reviews:
 

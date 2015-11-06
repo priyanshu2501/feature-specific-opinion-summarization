@@ -3,16 +3,26 @@ __________('battery', 'life')__________
 
 Positive Reviews:
 
----'that can be remedied by buying an extended life battery.' **** 'extended'
----"my only complaint would have to be that the siii's battery life is at most just average." **** 'average'
----'android is continuing to show how much better it is than ios.note: battery life is weak, yet still stronger than the iphone.' **** 'weak'
----"it's fast, has a good battery life, and does everything i need it to." **** 'good'
+---'That can be remedied by buying an extended life battery.' **** 'extended'
+---"My only complaint would have to be that the SIII's battery life is at most just average." **** 'average'
+---'Note: Battery life is weak, yet still stronger than the iPhone.' **** 'weak'
+---"It's fast, has a good battery life, and does everything I need it to." **** 'good'
+---'That can be remedied by buying an extended life battery.' **** 'extended'
+---"My only complaint would have to be that the SIII's battery life is at most just average." **** 'average'
+---'Note: Battery life is weak, yet still stronger than the iPhone.' **** 'weak'
+---'Get an extended battery.' **** 'extended'
+---'Takes a bit for it to calibrate to the new battery in case any take my advice.' **** 'new'
+---"It's fast, has a good battery life, and does everything I need it to." **** 'good'
 
 Negative Reviews:
 
----'the battery loses over half the life in less than 6 hours' **** 'less'
----"other than that, it's a very good phone.the only negative i would give to this phone is its short battery life." **** 'short'
----"the battery life could be better, but hey, couldn't they all?!" **** 'better'
+---'The battery loses over half the life in less than 6 hours' **** 'less'
+---'The only negative I would give to this phone is its short battery life.' **** 'short'
+---"The battery life could be better, but hey, couldn't they all?!" **** 'better'
+---'The battery loses over half the life in less than 6 hours' **** 'less'
+---"The battery life could be better, but hey, couldn't they all?!" **** 'better'
+---"Since it is easy to reboot or remove the battery I don't view this as a deal breaker but it could become annoying." **** 'easy'
+---'The only negative I would give to this phone is its short battery life.' **** 'short'
 
 
 ================================================================================================================
@@ -24,16 +34,108 @@ Positive Reviews:
 
 Negative Reviews:
 
----'okay the second day after i got the verizon samsung galaxy s 3 hooked up (supposedly purchased new from verizon), the stupid keyboard gave me an error and shut off in the middle of facebook.' **** 'stupid'
----'i much rather use a full sized screen with a regular keyboard.' **** 'regular'
+---'Okay the second day after I got the Verizon Samsung Galaxy S 3 hooked up (supposedly purchased new from Verizon), the stupid keyboard gave me an error and shut off in the middle of Facebook.' **** 'stupid'
+---'I much rather use a full sized screen with a regular keyboard.' **** 'regular'
 
 
 ================================================================================================================
-__________('price',)__________
+__________('droid',)__________
 
 
 Positive Reviews:
 
+---'Upgraded from a Droid Incredible with a Verizon customer appreciation discount and caught the phone on sale.' **** 'upgraded'
+---"This is a first for me as I've had this compelling need with every smartphone I've owned since the original droid to upgrade before the next best thing was out." **** 'original'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('smartphone',)__________
+
+
+Positive Reviews:
+
+---"Tried to avoid getting a smartphone because I felt that I wouldn't use it often, but I was so wrong." **** 'wrong'
+---'This is by far the best smartphone I have had!!' **** 'best'
+---'* The smartphone is bigger and therefore harder to carry.' **** 'bigger'
+
+Negative Reviews:
+
+---'* The smartphone is bigger and therefore harder to carry.' **** 'harder'
+---"Bought this for my wife - our first smartphone and we didn't want to spend a lot for state of the art." **** 'first'
+
+
+================================================================================================================
+__________('galaxy',)__________
+
+
+Positive Reviews:
+
+---'Overall compared to the Galaxy Nexus the S3 has a better display, faster speed and a bunch of cool features in the touch wiz that the Galaxy Nexus does not have.' **** 'overall'
+---'I was so frustrated - but the size and features of my new Galaxy make it easy to keep up with emails and Facebook on the go.' **** 'new'
+---'I was so frustrated - but the size and features of my new Galaxy make it easy to keep up with emails and Facebook on the go.' **** 'easy'
+
+Negative Reviews:
+
+---':)Overall, I love my galaxy.' **** 'overall'
+
+
+================================================================================================================
+__________('smart',)__________
+
+
+Positive Reviews:
+
+---'My first smart phone.' **** 'first'
+---'It is far and away the best smart phone I have used.' **** 'best'
+---'The Samsung Galaxy SIII is the best smart phone ever made.' **** 'best'
+---'This is my first smart phone, so i might be a little biased in saying that, when I bought this phone in March 2013, it is the best smart phone out there.' **** 'first'
+---'This is my first smart phone, so i might be a little biased in saying that, when I bought this phone in March 2013, it is the best smart phone out there.' **** 'best'
+
+Negative Reviews:
+
+---'My first smart phone and I regret not getting one sooner.' **** 'first'
+---'I have also used other smart phones with similar results.' **** 'other'
+
+
+================================================================================================================
+__________('big', 'screen')__________
+
+
+Positive Reviews:
+
+---'Wow... many features.. screen is bigger than my old phone & battery life is fantastic!' **** 'bigger'
+---"it's big enough to see my screen just perfect and I love it!" **** 'perfect'
+
+Negative Reviews:
+
+---'And the size is perfect, big screen and its really thin and light.' **** 'thin'
+---'And the size is perfect, big screen and its really thin and light.' **** 'light'
+
+
+================================================================================================================
+__________('wireless',)__________
+
+
+Positive Reviews:
+
+---"I was assured by the Verizon Wireless technical specialist that under Verizon's worry-free guarantee, a new phone would be sent free of charge but that I had to contact Amazon Wireless directly in order to process the guarantee." **** 'technical'
+
+Negative Reviews:
+
+---'After spending several hours of my time with the Verizon Wireless technical department, it was determined that this phone was defective (not connecting to the network properly).' **** 'technical'
+
+
+================================================================================================================
+__________('upgrade',)__________
+
+
+Positive Reviews:
+
+---'It was a major upgrade over my last phone the T-Mobile G2x (LG) and my work phone the Droid X2.' **** 'major'
+---'I bought it because i was due for an upgrade and decided that I wanted everything (phone calls, texts, emails, pictures, music, etc) all under one roof so to speak.' **** 'due'
 
 Negative Reviews:
 
@@ -45,25 +147,12 @@ __________('service',)__________
 
 Positive Reviews:
 
----"it's nice to know the service provided by samsung and verizon is so great," **** 'nice'
+---"It's nice to know the service provided by Samsung and Verizon is so great, Perhaps it's because my last phone (Motorola Droid) was on it's way to the graveyard when I got this phone but I LOVE it." **** 'nice'
 
 Negative Reviews:
 
----'customer service is marginal at best and they will not budge on this policy.' **** 'best'
----'it knows where restaurants, entertainment venues, gas stations, and any other service are located.' **** 'other'
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----'for me, this was my last samsung product - ever.' **** 'last'
----"i did the disable safe mode steps four or five times - it won't work.i'm going to buy a cheap phone with regular texting and internet usage and sell this stupid samsung on craig's list in my local area." **** 'stupid'
-
-Negative Reviews:
-
+---'Customer service is marginal at best and they will not budge on this policy.' **** 'best'
+---'It knows where restaurants, entertainment venues, gas stations, and any other service are located.' **** 'other'
 
 
 ================================================================================================================
@@ -72,339 +161,7 @@ __________('camera',)__________
 
 Positive Reviews:
 
----'at the time, i had one of the first internet accessible phones for calls/texts, a digital camera for pictures, and an ipod touch for music.' **** 'digital'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'great shipping fast and easy product is absolutely incredible!' **** 'easy'
-
-Negative Reviews:
-
----'sorry, but $600 is too much for a product that only lasts two months.update:  in the process of investigating the possibility of a class action against samsung, i have noted a number of states already have class actions filed over hidden and uncorrected known defects in the galaxy s. if you have one of these phones, do you research and join a class action.' **** 'much'
----"while this would cost about $150 more than the cheaper chinese 4 in 1 system i think in the long run you'd have a better product that is easier to maintain with parts and service.hope that helps." **** 'better'
----"while this would cost about $150 more than the cheaper chinese 4 in 1 system i think in the long run you'd have a better product that is easier to maintain with parts and service.hope that helps." **** 'easier'
-
-
-================================================================================================================
-__________('droid',)__________
-
-
-Positive Reviews:
-
----"this is a first for me as i've had this compelling need with every smartphone i've owned since the original droid to upgrade before the next best thing was out." **** 'original'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('galaxy',)__________
-
-
-Positive Reviews:
-
----'overall compared to the galaxy nexus the s3 has a better display, faster speed and a bunch of cool features in the touch wiz that the galaxy nexus does not have.' **** 'overall'
----'i was so frustrated - but the size and features of my new galaxy make it easy to keep up with emails and facebook on the go.' **** 'new'
----'i was so frustrated - but the size and features of my new galaxy make it easy to keep up with emails and facebook on the go.' **** 'easy'
----"if you're an older person and not that computer savvy, the galaxy offers a wonderful &#34;starter mode&#34; so you can get used to all of the options surrounding customizing the galaxy, little by little (yes, apple lovers, you can customize everything on this phone: app icons, colors, keyboards, widgets --mini programs that display stuff like the weather, new texts, fb statuses, task lists, etc).all in all, if you're reading this review you are probably interested in buying an android phone." **** 'little'
-
-Negative Reviews:
-
----':)overall,  i love my galaxy.' **** 'overall'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----"although svoice isn't the best, it has other features to make up for it." **** 'other'
----'i just wish there was more of a manual on all the features i am not accustomed to.' **** 'manual'
----'very easy to use and has great features.' **** 'easy'
----'love all of the new features.' **** 'new'
----'i loved all the new features as well as the screen resolution.' **** 'new'
-
-Negative Reviews:
-
----"still getting used to all the features but comfortable with the ones i've used so far..  pretty easy to navigate and learn." **** 'comfortable'
-
-
-================================================================================================================
-__________('verizon',)__________
-
-
-Positive Reviews:
-
----'okay the second day after i got the verizon samsung galaxy s 3 hooked up (supposedly purchased new from verizon), the stupid keyboard gave me an error and shut off in the middle of facebook.' **** 'new'
-
-Negative Reviews:
-
----'i recently took a trip to minot, nd and verizon was even stronger there than out here in wa.' **** 'stronger'
-
-
-================================================================================================================
-__________('fast',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'get an extended battery.' **** 'extended'
----'takes a bit for it to calibrate to the new battery in case any take my advice.' **** 'new'
----"it's fast, has a good battery life, and does everything i need it to." **** 'good'
-
-Negative Reviews:
-
----"since it is easy to reboot or remove the battery i don't view this as a deal breaker but it could become annoying." **** 'easy'
----"other than that, it's a very good phone.the only negative i would give to this phone is its short battery life." **** 'short'
-
-
-================================================================================================================
-__________('upgrade',)__________
-
-
-Positive Reviews:
-
----'it was a major upgrade over my last phone the t-mobile g2x (lg) and my work phone the droid x2.' **** 'major'
----'i bought it because i was due for an upgrade and decided that i wanted everything (phone calls, texts, emails, pictures, music, etc) all under one roof so to speak.' **** 'due'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----'my first smart phone.' **** 'first'
----'it is far and away the best smart phone i have used.' **** 'best'
----'simply put... the samsung galaxy siii is the best smart phone ever made.' **** 'best'
----'this is my first smart phone, so i might be a little biased in saying that, when i bought this phone in march 2013, it is the best smart phone out there.' **** 'first'
----'this is my first smart phone, so i might be a little biased in saying that, when i bought this phone in march 2013, it is the best smart phone out there.' **** 'best'
-
-Negative Reviews:
-
----'my first smart phone and i regret not getting one sooner.' **** 'first'
----'i have also used other smart phones with similar results.i got this "smartphone" in january with a good promotion deal.' **** 'other'
-
-
-================================================================================================================
-__________('big', 'screen')__________
-
-
-Positive Reviews:
-
----"it's big enough to see my screen just perfect and i love it!" **** 'perfect'
-
-Negative Reviews:
-
----'and the size is perfect, big screen and its really thin and light.' **** 'thin'
----'and the size is perfect, big screen and its really thin and light.' **** 'light'
----'big upgrade for me from my old moto droid.fast, bright screen.' **** 'bright'
-
-
-================================================================================================================
-__________('awesome',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'continues to amaze me at how much better it is than the iphone.' **** 'much'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'as i grow older i find being able to see and read the screen becomes more important to me.as a phone, it does everything i need.' **** 'able'
----'as i grow older i find being able to see and read the screen becomes more important to me.as a phone, it does everything i need.' **** 'important'
----"it's big enough to see my screen just perfect and i love it!" **** 'perfect'
----'much larger screen than my old iphone 4s and great shipping.' **** 'larger'
-
-Negative Reviews:
-
----'and the size is perfect, big screen and its really thin and light.' **** 'thin'
----'and the size is perfect, big screen and its really thin and light.' **** 'light'
----'big upgrade for me from my old moto droid.fast, bright screen.' **** 'bright'
----'* for web browsing the combination of small screen and touch makes it a non starter for me.' **** 'small'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"i feel compelled to be fair and update my previous negative review of this product, not the seller who doesn't support the product after the sale, but just the product itself.as my review above indicates after first using this product one time last fall when i first received it i was unable to get the trimmer to start this spring after storage." **** 'last'
----'it does have too much bloat ware that was time consuming to get rid of.' **** 'rid'
-
-
-================================================================================================================
-__________('verizon', 'wireless')__________
-
-
-Positive Reviews:
-
----"i was assured by the verizon wireless technical specialist that under verizon's worry-free guarantee, a new phone would be sent free of charge but that i had to contact amazon wireless directly in order to process the guarantee.when i contacted amazon wireless i was informed that there was only 2 options for replacing this phone." **** 'technical'
-
-Negative Reviews:
-
----'after spending several hours of my time with the verizon wireless technical department, it was determined that this phone was defective (not connecting to the network properly).' **** 'technical'
-
-
-================================================================================================================
-__________('smartphone',)__________
-
-
-Positive Reviews:
-
----"tried to avoid getting a smartphone because i felt that i wouldn't use it often, but i was so wrong." **** 'wrong'
----'this is by far the best smartphone i have had!!' **** 'best'
----'* the smartphone is bigger and therefore harder to carry.' **** 'bigger'
-
-Negative Reviews:
-
----'* the smartphone is bigger and therefore harder to carry.' **** 'harder'
----"bought this for my wife - our first smartphone and we didn't want to spend a lot for state of the art." **** 'first'
-
-
-================================================================================================================
-__________('love',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"it feels good in my hand and the screen is large enough to make reading twitter, email and the internet easy and comfortable.my only complaints are the placement of the buttons at the bottom corners and the light, almost fragile feeling of the device,  but a cover gave it some much needed stability and the raised edge of the cover keeps me from accidentally tapping the back and menu buttons.i love being able to put shortcut icons on the lock screen,  i'm lazy like that." **** 'able'
-
-
-================================================================================================================
-__________('size',)__________
-
-
-Positive Reviews:
-
----'and the size is perfect, big screen and its really thin and light.' **** 'perfect'
----'the size is perfect for my needs.' **** 'perfect'
----'only to find she really liked the bigger size a lot!' **** 'bigger'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('wireless',)__________
-
-
-Positive Reviews:
-
----"i was assured by the verizon wireless technical specialist that under verizon's worry-free guarantee, a new phone would be sent free of charge but that i had to contact amazon wireless directly in order to process the guarantee.when i contacted amazon wireless i was informed that there was only 2 options for replacing this phone." **** 'technical'
-
-Negative Reviews:
-
----'after spending several hours of my time with the verizon wireless technical department, it was determined that this phone was defective (not connecting to the network properly).' **** 'technical'
-
-
-================================================================================================================
-__________('months',)__________
-
-
-Positive Reviews:
-
----"i'm cynical enough at this point to expect this phone to start lagging annoyingly within about 18 months, but we'll see... so far so good!" **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'that can be remedied by buying an extended life battery.' **** 'extended'
----"my only complaint would have to be that the siii's battery life is at most just average." **** 'average'
----'android is continuing to show how much better it is than ios.note: battery life is weak, yet still stronger than the iphone.' **** 'weak'
-
-Negative Reviews:
-
----'the battery loses over half the life in less than 6 hours' **** 'less'
----"the battery life could be better, but hey, couldn't they all?!" **** 'better'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
----'i can get 3-4 days easy.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('azon', 'wireless')__________
-
-
-Positive Reviews:
-
----"i was assured by the verizon wireless technical specialist that under verizon's worry-free guarantee, a new phone would be sent free of charge but that i had to contact amazon wireless directly in order to process the guarantee.when i contacted amazon wireless i was informed that there was only 2 options for replacing this phone." **** 'technical'
+---'At the time, I had one of the first internet accessible phones for calls/texts, a digital camera for pictures, and an iPod Touch for music.' **** 'digital'
 
 Negative Reviews:
 

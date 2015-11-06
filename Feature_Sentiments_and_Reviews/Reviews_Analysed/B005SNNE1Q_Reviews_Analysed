@@ -1,32 +1,41 @@
+__________('good', 'product')__________
+
+
+Positive Reviews:
+
+---'It is a very good product.' **** 'good'
+
+Negative Reviews:
+
+---"This is a good product in general however the system is slow sometime and you can't get several program running at the same time." **** 'good'
+---'Good buy for the money - just concerned about whether or not i was given an original product or some sub-stardard version.' **** 'original'
+
+
+================================================================================================================
 __________('battery', 'life')__________
 
 
 Positive Reviews:
 
----'the one criticism i have, and its a major one, is the battery life.' **** 'major'
----'the real problem of this phone is short battery life: it comes with a a tiny 930ma battery, which drains completely with in few hours, even if you do not talk or chat... when i realize that, i wanted to throw the phone against the wall... well, after reading for awhile, i find some possible measures to improve the situation: i upgrade the os to 7.1 (the phone came with 7.0), and disabled 3g... after that, the battery lasts whole day (from 7am to 10 pm), including a lot of chat, email and phone calls.' **** 'short'
----'a week after, it started not to allow the use of internet, no bbm, no whatsup... the battery life was less than 6 hours.' **** 'less'
----'buy it if you are looking for quality to your life; soft and easy to use it, but check battery level as well.' **** 'easy'
+---'The one criticism I have, and its a major one, is the battery life.' **** 'major'
+---'The real problem of this phone is short battery life: it comes with a a tiny 930mA battery, which drains completely with in few hours, even if you do not talk or chat...' **** 'short'
+---'A week after, it started not to allow the use of internet, no bbm, no whatsup... the battery life was less than 6 hours.' **** 'less'
+---'Buy it if you are looking for quality to your life; soft and easy to use it, but check battery level as well.' **** 'easy'
+---'A week after, it started not to allow the use of internet, no bbm, no whatsup... the battery life was less than 6 hours.' **** 'less'
+---'Buy it if you are looking for quality to your life; soft and easy to use it, but check battery level as well.' **** 'easy'
+---'The one criticism I have, and its a major one, is the battery life.' **** 'major'
+---'The real problem of this phone is short battery life: it comes with a a tiny 930mA battery, which drains completely with in few hours, even if you do not talk or chat...' **** 'short'
 
 Negative Reviews:
 
----'?by the way, for those who experience problems with blackberry battery life, just remove those facebook tweeters and other social network guys, and you battery will be back to life.' **** 'blackberry'
+---'by the way, for those who experience problems with blackberry battery life, just remove those facebook tweeters and other social network guys, and you battery will be back to life.' **** 'blackberry'
+---'by the way, for those who experience problems with blackberry battery life, just remove those facebook tweeters and other social network guys, and you battery will be back to life.' **** 'blackberry'
+---'Battery is very weak' **** 'weak'
+---'A friend told me that it had serious battery problems.' **** 'serious'
 
 
 ================================================================================================================
-__________('purchase',)__________
-
-
-Positive Reviews:
-
----'it was a good purchase, mi wife had this cellphone by eigth months and this worked well until mi wife decide change to android phone.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('3g', 'bands')__________
+__________('movistar',)__________
 
 
 Positive Reviews:
@@ -34,26 +43,10 @@ Positive Reviews:
 
 Negative Reviews:
 
----'phone was delevered in date, came with the right 3g bands (1,2,5,6) and make sure to upgrade to the 7.1 bb os, as soon as you get it.' **** 'sure'
 
 
 ================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----'i ordered this phone and in less than a week was in the box in miami when they send it to venezuela i check it and everything was perfect the phone is new brought a 2g memory is unlocked came in perfect condition and the seller very kindly answered all my questions !' **** 'perfect'
----'everything is a little easier to use than in previous versions.' **** 'easier'
----'the purchase was excellent the product arrived on time and i am very happy and satisfied with everything in general.' **** 'happy'
-
-Negative Reviews:
-
----'experienced users will appreciate that it feels basically the same but with plenty of improvements, newcomers will like how simple and neat everything is compared to a messy android desktop.- update!' **** 'simple'
-
-
-================================================================================================================
-__________('problems',)__________
+__________('bands',)__________
 
 
 Positive Reviews:
@@ -61,6 +54,50 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'Phone was delevered in date, came with the right 3G bands (1, 2, 5, 6) and make sure to upgrade to the 7.' **** 'sure'
+
+
+================================================================================================================
+__________('network',)__________
+
+
+Positive Reviews:
+
+---'I live in Venezuela and I use a network compatible with this phone version.' **** 'compatible'
+
+Negative Reviews:
+
+---'Theres also some basic network diagnostic tools which is nice to see, again mostly for power users, but also good if your IT person is trying to setup your corporate phone and doesnt want to download additional apps for this.' **** 'diagnostic'
+
+
+================================================================================================================
+__________('en', 'venezuela')__________
+
+
+Positive Reviews:
+
+---'I want to know if the 9360 team at & t works for Telefonica Movistar in Venezuela and if available I buy 2 teams and let me know if you give me a discount' **** 'available'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('apps',)__________
+
+
+Positive Reviews:
+
+---'Lots of apps and very easy to operate all the extras that come on the phone.' **** 'easy'
+---'All the usual apps are here like To do and memo and Office to go.' **** 'usual'
+---'Apparently the new OS 7 lacks backward compatibility with old apps, which is nice if you thought blackberry needed a total refresh but if you have a bunch of old stuff (especially paid) you may be unhappy with the change and lack of modern apps in the market.' **** 'modern'
+---'Latest OS and new apps plus advanced stuff like NFC make this a winner.' **** 'new'
+
+Negative Reviews:
+
+---"Cons:-  The app store:  it's OK but the apps are definitely not as good and there are not as many as the iPhone." **** 'good'
+---"Android is starting to get better apps, but Android's horrendous power management will suck any joy out of using any application.- Small screen size- Internet browser not as good as iPhone, Android." **** 'better'
+---'Apparently the new OS 7 lacks backward compatibility with old apps, which is nice if you thought blackberry needed a total refresh but if you have a bunch of old stuff (especially paid) you may be unhappy with the change and lack of modern apps in the market.' **** 'nice'
 
 
 ================================================================================================================
@@ -76,112 +113,7 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('soy', 'de')__________
-
-
-Positive Reviews:
-
----'es que soy de venezuela y utilizo movistar...saludos quedo a la espera para culminar la compra..muchas graciasss' **** 'soy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('version',)__________
-
-
-Positive Reviews:
-
----'the whole reason i bought this was to replace my old similar version that broke!' **** 'similar'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('de', 'venezuela', 'y')__________
-
-
-Positive Reviews:
-
----'es que soy de venezuela y utilizo movistar...saludos quedo a la espera para culminar la compra..muchas graciasss' **** 'soy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('apps',)__________
-
-
-Positive Reviews:
-
----'good bye bell,  hello freedom 65i easily hooked up the unlocked 9360, kept my house number, with koodo and the phone works great.lots of apps and very easy to operate all the extras that come on the phone.works off my wifi to allow me to read my mail anywhere in the house.this phone is very smart and what a difference from my previous one.' **** 'easy'
----'all the usual apps are here like to do and memo and office to go.' **** 'usual'
----'you can access the sd card while the phone is on but i think it gets upset if you do.apparently the new os 7 lacks backward compatibility with old apps, which is nice if you thought blackberry needed a total refresh but if you have a bunch of old stuff (especially paid) you may be unhappy with the change and lack of modern apps in the market.' **** 'modern'
----'latest os and new apps plus advanced stuff like nfc make this a winner.' **** 'new'
-
-Negative Reviews:
-
----"you do need to update the phone software to 7.1 however.- maps works better and faster than the android map program, which seems to stall endlessly and is slow as a snail.cons:-  the app store:  it's ok but the apps are definitely not as good and there are not as many as the iphone." **** 'good'
----"android is starting to get better apps, but android's horrendous power management will suck any joy out of using any application.- small screen size- internet browser not as good as iphone, android.so it depends what you value." **** 'better'
----'you can access the sd card while the phone is on but i think it gets upset if you do.apparently the new os 7 lacks backward compatibility with old apps, which is nice if you thought blackberry needed a total refresh but if you have a bunch of old stuff (especially paid) you may be unhappy with the change and lack of modern apps in the market.' **** 'nice'
-
-
-================================================================================================================
-__________('recommend',)__________
-
-
-Positive Reviews:
-
----"hello, i'm from venezuela and the product is excellent, to digitel 3g (t movile) brand new, 100% recommend reliable product" **** 'reliable'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'a week after, it started not to allow the use of internet, no bbm, no whatsup... the battery life was less than 6 hours.' **** 'less'
----'buy it if you are looking for quality to your life; soft and easy to use it, but check battery level as well.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'in fairness, the other features of the phone work fine, but if you are considering purchase of a blackberry or other phone on amazon because you want access to features and benefits your carrier offers you may be quite frustrated and disappointed.' **** 'other'
-
-
-================================================================================================================
-__________('curve',)__________
-
-
-Positive Reviews:
-
----'my last curve had a little button you could press easily to make the back open.' **** 'last'
-
-Negative Reviews:
-
----"if you love blackberry's and like the small curve you will love this one." **** 'blackberry'
----"if you love blackberry's and like the small curve you will love this one." **** 'small'
-
-
-================================================================================================================
-__________('en', 'venezuela')__________
+__________('en', 'la')__________
 
 
 Positive Reviews:
@@ -197,11 +129,21 @@ __________('blackberry', 'curve')__________
 
 Positive Reviews:
 
+---'My last Curve had a little button you could press easily to make the back open.' **** 'last'
+---'"The phone arrived without key Blackberry software loaded and the touch pad appears to be indented.' **** 'key'
+---'I bought this blackberry and it works very good.' **** 'good'
+---'Overall it works as a new blackberry and has no problems.' **** 'new'
+---"This was my first time using the newer trackpad on blackberry's and it was nice." **** 'nice'
+---'Battery strength is as good or better than any other Blackberry, it charges quickly as well.' **** 'better'
 
 Negative Reviews:
 
----"if you love blackberry's and like the small curve you will love this one." **** 'blackberry'
----"if you love blackberry's and like the small curve you will love this one." **** 'small'
+---"If you love Blackberry's and like the small Curve you will love this one." **** 'small'
+---"If you love Blackberry's and like the small Curve you will love this one." **** 'small'
+---'Overall it works as a new blackberry and has no problems.' **** 'overall'
+---'Battery strength is as good or better than any other Blackberry, it charges quickly as well.' **** 'other'
+---'I like the design so that it is thinner than other blackberry models.' **** 'thinner'
+---'I like the design so that it is thinner than other blackberry models.' **** 'other'
 
 
 ================================================================================================================
@@ -213,280 +155,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----"the physical condition of this phone appears good - touch pad is not defective on this one - and even though i still had to find a way to download the bb world app, (apparently on universal type phones such as these available aftermarket), it's possible not to have them all loaded." **** 'touch'
-
-
-================================================================================================================
-__________('good', 'product')__________
-
-
-Positive Reviews:
-
----'very good the product, i recommend it widely, persons in charge.' **** 'good'
----'the blackberry curve 3g 9360 qwerty also known as javelin or two black good product, it works fine, came with all accessories, good operating system.' **** 'good'
----'good product, usefull!!!' **** 'good'
-
-Negative Reviews:
-
----"this is a good product in general however the system is slow sometime and you can't get several program running at the same time." **** 'good'
----'good buy for the money - just concerned about whether or not i was given an original product or some sub-stardard version.' **** 'original'
----'the blackberry curve 3g 9360 qwerty also known as javelin or two black good product, it works fine, came with all accessories, good operating system.' **** 'black'
-
-
-================================================================================================================
-__________('case',)__________
-
-
-Positive Reviews:
-
----'to lift venezuela movistar 3g signal, and when i arrived it turned out that no use for 3g, these phones are for other phone company ...... besides this one came with case and the other not, .... one came with standard wall charger and the other with european wall charger .. very bad' **** 'other'
-
-Negative Reviews:
-
----'big improvement here and rim should be proud.theres also some basic network diagnostic tools which is nice to see, again mostly for power users, but also good if your it person is trying to setup your corporate phone and doesnt want to download additional apps for this.nitpicks:box did not include a nice protective case like the last bb curve i bought.' **** 'nice'
----'big improvement here and rim should be proud.theres also some basic network diagnostic tools which is nice to see, again mostly for power users, but also good if your it person is trying to setup your corporate phone and doesnt want to download additional apps for this.nitpicks:box did not include a nice protective case like the last bb curve i bought.' **** 'protective'
----"no self-portrait mirror on the back but it did have a flash which not all bb's use, even some of the newer models.battery case was weird to get off." **** 'newer'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('venezuela',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'the one criticism i have, and its a major one, is the battery life.' **** 'major'
----"not a good phone i've had it less than a month and it sticks all the time.. battery is very weak" **** 'weak'
----'the real problem of this phone is short battery life: it comes with a a tiny 930ma battery, which drains completely with in few hours, even if you do not talk or chat... when i realize that, i wanted to throw the phone against the wall... well, after reading for awhile, i find some possible measures to improve the situation: i upgrade the os to 7.1 (the phone came with 7.0), and disabled 3g... after that, the battery lasts whole day (from 7am to 10 pm), including a lot of chat, email and phone calls.' **** 'short'
-
-Negative Reviews:
-
----'?by the way, for those who experience problems with blackberry battery life, just remove those facebook tweeters and other social network guys, and you battery will be back to life.' **** 'blackberry'
----'a friend told me that it had serious battery problems.' **** 'serious'
-
-
-================================================================================================================
-__________('bands',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'phone was delevered in date, came with the right 3g bands (1,2,5,6) and make sure to upgrade to the 7.1 bb os, as soon as you get it.' **** 'sure'
-
-
-================================================================================================================
-__________('network',)__________
-
-
-Positive Reviews:
-
----'i would like to know if you have availability for the at&t; version of the phone?i live in venezuela and i use a network compatible with this phone version.thanks!lucy' **** 'compatible'
-
-Negative Reviews:
-
----'big improvement here and rim should be proud.theres also some basic network diagnostic tools which is nice to see, again mostly for power users, but also good if your it person is trying to setup your corporate phone and doesnt want to download additional apps for this.nitpicks:box did not include a nice protective case like the last bb curve i bought.' **** 'diagnostic'
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'i wanted to buy a new product, the quality unused blackberry are not new housings also have original factory not, really is not what it says on the details of the product, nor bring the latest version of software i touch update to add spanish language, at the time i had to send a change a cell housing was loose since.' **** 'loose'
-
-Negative Reviews:
-
----'currently, i have a dead cell phone with no internet options at all.' **** 'dead'
-
-
-================================================================================================================
-__________('venezuela', 'y')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('blackberry',)__________
-
-
-Positive Reviews:
-
----'"the phone arrived without key blackberry software loaded and the touch pad appears to be indented.' **** 'key'
----'i bought this blackberry and it works very good.' **** 'good'
----'overall it works as a new blackberry and has no problems.' **** 'new'
----"the menu buttons also have a nice click to them even though they are flat and flush with the body.this was my first time using the newer trackpad on blackberry's and it was nice." **** 'nice'
----"i dont know if this unit supports at&t;'s 3g network.i love having a multicolored indicator light on the top, wish more phones would do that.battery strength is as good or better than any other blackberry, it charges quickly as well." **** 'other'
-
-Negative Reviews:
-
----'overall it works as a new blackberry and has no problems.' **** 'overall'
----"i dont know if this unit supports at&t;'s 3g network.i love having a multicolored indicator light on the top, wish more phones would do that.battery strength is as good or better than any other blackberry, it charges quickly as well." **** 'better'
----'i like the design so that it is thinner than other blackberry models.' **** 'thinner'
----'i like the design so that it is thinner than other blackberry models.' **** 'other'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----"the menu buttons also have a nice click to them even though they are flat and flush with the body.this was my first time using the newer trackpad on blackberry's and it was nice." **** 'first'
-
-Negative Reviews:
-
----'5 stars because i got it in a short time and in good conditions this shop is great and other things' **** 'short'
-
-
-================================================================================================================
-__________('en', 'el')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('de', 'venezuela')__________
-
-
-Positive Reviews:
-
----'es que soy de venezuela y utilizo movistar...saludos quedo a la espera para culminar la compra..muchas graciasss' **** 'soy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'good bb, it goes slow with sim card due to the network it can be fixed if you setup well step by step.' **** 'due'
-
-Negative Reviews:
-
----'the package did not contain the microsd card as marked on the box.' **** 'marked'
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
----'le charger is loose and not allow the load.i hope that many customers read this information, and see what i step to me that can happen to them also.scammers.' **** 'loose'
----'to lift venezuela movistar 3g signal, and when i arrived it turned out that no use for 3g, these phones are for other phone company ...... besides this one came with case and the other not, .... one came with standard wall charger and the other with european wall charger .. very bad' **** 'other'
----'to lift venezuela movistar 3g signal, and when i arrived it turned out that no use for 3g, these phones are for other phone company ...... besides this one came with case and the other not, .... one came with standard wall charger and the other with european wall charger .. very bad' **** 'bad'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('n', 'venezuela')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('movistar',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
----'good night, you will have 2 phones available blackberry curve 9360 unlocked new work with at & t?, greetings.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'i am very happy with the product.' **** 'happy'
----'very good the product, i recommend it widely, persons in charge.' **** 'good'
----'the blackberry curve 3g 9360 qwerty also known as javelin or two black good product, it works fine, came with all accessories, good operating system.' **** 'good'
----"i'm really pleased to have purchased the equipment with you, the attention is very friendly and soon, the service provided is top quality ... and for the product purchased is reliable and high-tech ... grateful" **** 'reliable'
----"i'm really pleased to have purchased the equipment with you, the attention is very friendly and soon, the service provided is top quality ... and for the product purchased is reliable and high-tech ... grateful" **** 'high-tech'
----"i'm really pleased to have purchased the equipment with you, the attention is very friendly and soon, the service provided is top quality ... and for the product purchased is reliable and high-tech ... grateful" **** 'grateful'
----'original product, arrived on the date.' **** 'original'
----'good product, usefull!!!' **** 'good'
-
-Negative Reviews:
-
----'called to make sure my product came in and was exactly what i needed.' **** 'sure'
----'i wanted to buy a new product, the quality unused blackberry are not new housings also have original factory not, really is not what it says on the details of the product, nor bring the latest version of software i touch update to add spanish language, at the time i had to send a change a cell housing was loose since.' **** 'new'
----"this is a good product in general however the system is slow sometime and you can't get several program running at the same time." **** 'good'
----'am really interested in this product but i have to be sure about if it works with this band' **** 'sure'
----'good buy for the money - just concerned about whether or not i was given an original product or some sub-stardard version.' **** 'original'
----'the blackberry curve 3g 9360 qwerty also known as javelin or two black good product, it works fine, came with all accessories, good operating system.' **** 'black'
----'too bad the product, the battery lasts very little.' **** 'bad'
-
-
-================================================================================================================
-__________('en', 'la')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---"The physical condition of this phone appears good - touch pad is not defective on this one - and even though I still had to find a way to download the BB World app, (apparently on universal type phones such as these available aftermarket), it's possible not to have them all loaded." **** 'touch'
 
 
 ================================================================================================================
@@ -495,18 +164,22 @@ __________('soy', 'de', 'venezuela')__________
 
 Positive Reviews:
 
----'es que soy de venezuela y utilizo movistar...saludos quedo a la espera para culminar la compra..muchas graciasss' **** 'soy'
+---'es que soy de Venezuela y utilizo Movistar... Saludos quedo a la espera para culminar la compra.. muchas graciasss' **** 'soy'
+---'es que soy de Venezuela y utilizo Movistar... Saludos quedo a la espera para culminar la compra.. muchas graciasss' **** 'soy'
+---'es que soy de Venezuela y utilizo Movistar... Saludos quedo a la espera para culminar la compra.. muchas graciasss' **** 'soy'
+---'I want to know if the 9360 team at & t works for Telefonica Movistar in Venezuela and if available I buy 2 teams and let me know if you give me a discount' **** 'available'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('send',)__________
+__________('venezuela', 'y')__________
 
 
 Positive Reviews:
 
+---'I want to know if the 9360 team at & t works for Telefonica Movistar in Venezuela and if available I buy 2 teams and let me know if you give me a discount' **** 'available'
 
 Negative Reviews:
 

@@ -1,77 +1,105 @@
-__________('model',)__________
+__________('key', 'pad')__________
 
 
 Positive Reviews:
 
----"replacement for wife's phone of same model that she was very happy with." **** 'happy'
+---'I wanted a phone with a key pad and I liked the really old LG enV I had that was lost.' **** 'key'
+---'I decided on this phone to have a key pad to help speed up texting and it works well for me' **** 'key'
+---'I only have time to text on a key pad.' **** 'key'
 
 Negative Reviews:
 
----'my phone is also used, which means that problems are to be expected.although this is a decent phone with a very large keypad for texting, i recommend that you save yourself from a potential headache by investing in another, more reliable model.' **** 'reliable'
+---'The numbers on key pad seem to stick a little or not respond as quickly as they should on this one.' **** 'key'
+---'The phone is easy to handle and use that has comfortable key pad front and when opened up.' **** 'comfortable'
 
 
 ================================================================================================================
-__________('purchase',)__________
+__________('a', 'data', 'plan')__________
 
 
 Positive Reviews:
 
----'so i just went out and brought a smart phone it was the best purchase that i made.' **** 'best'
----'this is a good purchase.' **** 'good'
----"i bought it for my sister because her other phone broke, and it was the worst purchase i've ever made off amazon." **** 'amazon'
----'extremely happy with my purchase and experience with amazon !!' **** 'happy'
----'i am definately happy with this purchase of the lg env3 phone.' **** 'happy'
----'i am very happy with my purchase.' **** 'happy'
+---'(I had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
+---'The rugged phone required a minimal data plan so we already had a plan in place, but we found out when we started the activation process for the enV3 that we were going to be forced to buy a bigger plan.' **** 'bigger'
+---'Verizon activates a data plan  but was able to call them and have the data turned off.' **** 'able'
+---'I was able to activate this through Verizon and although when I tried to do it online, it told me I needed a data plan with it, when I called a representative, they were able to activate it without a data plan.' **** 'able'
+---'(I had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
+---'The rugged phone required a minimal data plan so we already had a plan in place, but we found out when we started the activation process for the enV3 that we were going to be forced to buy a bigger plan.' **** 'bigger'
+---'Verizon activates a data plan  but was able to call them and have the data turned off.' **** 'able'
+---'I was able to activate this through Verizon and although when I tried to do it online, it told me I needed a data plan with it, when I called a representative, they were able to activate it without a data plan.' **** 'able'
 
 Negative Reviews:
 
----'i am not happy about this purchase.' **** 'happy'
----'very unhappy with this purchase!' **** 'unhappy'
----"i bought it for my sister because her other phone broke, and it was the worst purchase i've ever made off amazon." **** 'worst'
----'not happy at all with this purchase.' **** 'happy'
+---'Verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
+---"He doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
+---'To save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
+---'Verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
+---"He doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
+---'To save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
 
 
 ================================================================================================================
-__________('keyboard',)__________
+__________('need', 'a', 'smart')__________
 
 
 Positive Reviews:
 
----'the separate keyboard makes it fast and easy to send and receive text messages.' **** 'easy'
----"i love the keyboard and it's very easy to text." **** 'easy'
----'i love the functionality, the look and the keyboard is nice and big!' **** 'nice'
----'of all the phones i have seen with the keyboard - i like this one best.' **** 'best'
----'they needed a basic phone but with a keyboard to make texting easier.' **** 'easier'
----'the key board is great for me, reliable phone keyboard is large, easy to use, and the program is easy to follow.' **** 'easy'
----'the qwerty keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'easy'
----"this phone was so easy to text on as i like texting way better on a real keyboard, and i have found the size and layout of this phone's keyboard was the best!" **** 'best'
----'good for a non smart phone though and has a decent camera and good keyboard for texting' **** 'good'
----'camera good quality, keyboard easy to use, setup easy.' **** 'easy'
----'camera good quality, keyboard easy to use, setup easy.' **** 'easy'
----'the keyboard is bigger than the slide-out phones.' **** 'bigger'
----'my first keyboard phone and i love it.' **** 'first'
+---'decebt features does eveything you would need.. Biggest problem i have upgrading to a new smart phone, is this phone....' **** 'new'
+---'For me next best to a smart phone.' **** 'best'
+---'decebt features does eveything you would need.. Biggest problem i have upgrading to a new smart phone, is this phone....' **** 'new'
 
 Negative Reviews:
 
----'the separate keyboard makes it fast and easy to send and receive text messages.' **** 'separate'
----'i liked the style of a full set of number buttons outside and full texting keyboard when flipped open.' **** 'open'
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'easy'
----"a few days into owning it the screen's image will randomly change colors and the 'w' key on the keyboard doesn't work very well." **** 'key'
----"larger keyboard on the inside for texting yet the phone is small enough it doesn't take up a lot of room." **** 'larger'
----'the qwerty keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'comfortable'
----'they do have an easy work around.so if you want a nice phone with a separate keyboard that still has actual buttons to dial, this is a good phone.' **** 'separate'
----'this is the best texting phone for those who love an actual keyboard.' **** 'actual'
----"i'm not much of a text user but the flip open keyboard certainly makes it easier." **** 'easier'
 
 
 ================================================================================================================
-__________('nice',)__________
+__________('great', 'for', 'texting')__________
 
 
 Positive Reviews:
 
----'very nice cell, mine was dark red, excellent keyboard for texting, nice layout, easy to handle, looks great, i went to the verizon store to have my old cell transferred to this one, & the very knowledgeable employee told me that this was one of their best phones ever & one of the most popular.' **** 'easy'
----'nice keyboard that is easy to use.' **** 'easy'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---'Very simple and pretty decent camera along with nice key board.' **** 'decent'
+---"Mom likes the phone, it's the exact same as her old one (v1 I believe) with a better camera for her to take photos of her cat with." **** 'better'
+---"I'll start with what I liked:-  The overall design of the phone was pretty nice.-  It has a larger than usual QWERTY keyboard which was awesome because I've got some fat sausage fingers.-  3MP camera which is pretty much double what you get on most similar phones.-  MicroSD support up to 16GBNow for what I didn't like:-  Didn't hold a battery charge for very long compared to other similar phones.-  Any time I wanted to make a phone call I had to power cycle the phone or else the person I called couldn't hear me and I couldn't hear them.-  Bluetooth issues where it took forever to get the phone to pair with SYNC in my car, and then it would only stay paired for that one car ride, so I had to delete the phone from my car and then re-pair it.-  No tech support for the phone / Hard to find information online (Although this is my fault for buying an older phone, with this many glitches and issues I feel you need help to figure out what's going on so it's relevant)." **** 'double'
+---"I loved this phone when Verizon offered it (it's the best camera I've ever seen in a cellphone)." **** 'best'
+---'It is simple, has decent sound quality, fairly good quality camera, easy to use qwerty keyboard.' **** 'easy'
+---'It looked good, felt good holding it, and has a good camera.' **** 'good'
+---'The phone camera is relatively decent.' **** 'decent'
+---'And the camera, while attractive for being 3MP, is clumsy and tries to go to video mode a lot.' **** 'attractive'
+---'The phone is solid, reliable and the camera is great.' **** 'reliable'
+---'If you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'good'
+
+Negative Reviews:
+
+---"It also has a very good camera for taking pics and videos, I don't use those a whole lot but the pics always look great and videos are a bit laggy, but surprisingly good if you hold it steady." **** 'good'
+---"The camera isn't worth a s***." **** 'worth'
+
+
+================================================================================================================
+__________('key', 'board')__________
+
+
+Positive Reviews:
+
+---'Very simple and pretty decent camera along with nice key board.' **** 'nice'
+---'Very simple and pretty decent camera along with nice key board.' **** 'key'
+---'They like the larger key board and the flip action instead of the slide.' **** 'larger'
+---'They like the larger key board and the flip action instead of the slide.' **** 'key'
+---'I needed a phone with a physical key board on the outside and inside that flips open, this fits the bill perfectly.' **** 'key'
+---'The key board is great for me, reliable phone keyboard is large, easy to use, and the program is easy to follow.' **** 'key'
+---'I got this phone for my daughter because she wanted a flip screen with a key board that would be easier to text on.' **** 'key'
+---'I got this phone for my daughter because she wanted a flip screen with a key board that would be easier to text on.' **** 'easier'
 
 Negative Reviews:
 
@@ -83,35 +111,160 @@ __________('qwerty', 'keyboard')__________
 
 Positive Reviews:
 
----"and if i do want to text, i just open the hinge and there's a nice qwerty keyboard with a good tactile feel on the keys, they're separated enough so that you rarely type the wrong key, they're slightly raised, good feel, and they have great keyboard features, like the most commonly used punctuation marks right on the keyboard (comma, exclamation point, question mark, apostrophe, quote, etc.)." **** 'nice'
----'the qwerty keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'easy'
----'about the only thing this phone is good for is texting, with outer and inner keyboards (the inner being a qwerty and much easier to work with).' **** 'easier'
+---"And if I do want to text, I just open the hinge and there's a nice QWERTY keyboard with a good tactile feel on the keys, they're separated enough so that you rarely type the wrong key, they're slightly raised, good feel, and they have great keyboard features, like the most commonly used punctuation marks right on the keyboard (comma, exclamation point, question mark, apostrophe, quote, etc.)." **** 'nice'
+---'The QWERTY keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'easy'
 
 Negative Reviews:
 
----"i'll start with what i liked:-  the overall design of the phone was pretty nice.-  it has a larger than usual qwerty keyboard which was awesome because i've got some fat sausage fingers.-  3mp camera which is pretty much double what you get on most similar phones.-  microsd support up to 16gbnow for what i didn't like:-  didn't hold a battery charge for very long compared to other similar phones.-  any time i wanted to make a phone call i had to power cycle the phone or else the person i called couldn't hear me and i couldn't hear them.-  bluetooth issues where it took forever to get the phone to pair with sync in my car, and then it would only stay paired for that one car ride, so i had to delete the phone from my car and then re-pair it.-  no tech support for the phone / hard to find information online (although this is my fault for buying an older phone, with this many glitches and issues i feel you need help to figure out what's going on so it's relevant).i had high hopes for this phone because the features i liked, i really liked." **** 'larger'
----"i'll start with what i liked:-  the overall design of the phone was pretty nice.-  it has a larger than usual qwerty keyboard which was awesome because i've got some fat sausage fingers.-  3mp camera which is pretty much double what you get on most similar phones.-  microsd support up to 16gbnow for what i didn't like:-  didn't hold a battery charge for very long compared to other similar phones.-  any time i wanted to make a phone call i had to power cycle the phone or else the person i called couldn't hear me and i couldn't hear them.-  bluetooth issues where it took forever to get the phone to pair with sync in my car, and then it would only stay paired for that one car ride, so i had to delete the phone from my car and then re-pair it.-  no tech support for the phone / hard to find information online (although this is my fault for buying an older phone, with this many glitches and issues i feel you need help to figure out what's going on so it's relevant).i had high hopes for this phone because the features i liked, i really liked." **** 'usual'
----'the qwerty keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'comfortable'
+---"I'll start with what I liked:-  The overall design of the phone was pretty nice.-  It has a larger than usual QWERTY keyboard which was awesome because I've got some fat sausage fingers.-  3MP camera which is pretty much double what you get on most similar phones.-  MicroSD support up to 16GBNow for what I didn't like:-  Didn't hold a battery charge for very long compared to other similar phones.-  Any time I wanted to make a phone call I had to power cycle the phone or else the person I called couldn't hear me and I couldn't hear them.-  Bluetooth issues where it took forever to get the phone to pair with SYNC in my car, and then it would only stay paired for that one car ride, so I had to delete the phone from my car and then re-pair it.-  No tech support for the phone / Hard to find information online (Although this is my fault for buying an older phone, with this many glitches and issues I feel you need help to figure out what's going on so it's relevant)." **** 'larger'
+---"I'll start with what I liked:-  The overall design of the phone was pretty nice.-  It has a larger than usual QWERTY keyboard which was awesome because I've got some fat sausage fingers.-  3MP camera which is pretty much double what you get on most similar phones.-  MicroSD support up to 16GBNow for what I didn't like:-  Didn't hold a battery charge for very long compared to other similar phones.-  Any time I wanted to make a phone call I had to power cycle the phone or else the person I called couldn't hear me and I couldn't hear them.-  Bluetooth issues where it took forever to get the phone to pair with SYNC in my car, and then it would only stay paired for that one car ride, so I had to delete the phone from my car and then re-pair it.-  No tech support for the phone / Hard to find information online (Although this is my fault for buying an older phone, with this many glitches and issues I feel you need help to figure out what's going on so it's relevant)." **** 'usual'
+---'The QWERTY keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'comfortable'
 
 
 ================================================================================================================
-__________('quality',)__________
+__________('a', 'good', 'price')__________
 
 
 Positive Reviews:
 
----'very easy to transfer mobile number, very surprised of the ease of use, picture quality is really good, highly impressed!' **** 'good'
----"the sound quality while it is open is really good, and only gets bad if there is a lot of bass or many instruments playing loudly all at once, because come on its only stereo and doesn't have any size to make a rumbling bass sound." **** 'open'
----'it is simple, has decent sound quality, fairly good quality camera, easy to use qwerty keyboard.' **** 'good'
----'call quality is good, and it gets service just about anywhere.' **** 'good'
+---'Expected a piece of crap but got a workable phone at a good price.' **** 'good'
+---'Great phone at a good price.' **** 'good'
+---'I did buy it for a good price.' **** 'good'
+---'Would recommend to anyone who wants a basic phone for a good price.' **** 'good'
+---'Good phone and good price.' **** 'good'
+---'So when I came across it here on Amazon, I bought for a good price.' **** 'good'
+---'The price was good, I purchased this phone as a new phone, received it prior to the estimated arrival time, fully charged and works great!' **** 'good'
+---'This is a good phone, at a good price, and it needed No data package to use.' **** 'good'
+---'Price was good and easy to transfer from broken phone to this one.' **** 'good'
+---'Price was good and easy to transfer from broken phone to this one.' **** 'easy'
 
 Negative Reviews:
 
----"overall, i have been impressed with it's quality." **** 'overall'
----"the sound quality while it is open is really good, and only gets bad if there is a lot of bass or many instruments playing loudly all at once, because come on its only stereo and doesn't have any size to make a rumbling bass sound." **** 'good'
----'apparently not a good quality phone.' **** 'good'
----'but instead they sent me what looked like a new phone but was obviously a rebuild of poor quality with tons of problems.' **** 'poor'
----"it is a good quality phone and you don't need to get a data package if you don't want to." **** 'good'
+---'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'best'
+---'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'good'
+---'A good phone at a good price, whats not to like.' **** 'good'
+
+
+================================================================================================================
+__________('a', 'touch', 'screen')__________
+
+
+Positive Reviews:
+
+---'I am not ready to convert to a touch screen phone yet.' **** 'ready'
+---'I wanted an older style phone without the touch screen, this is perfect!!!!!!!' **** 'touch'
+---'Verizon gave him a new touch screen, but he felt more comfort w/what he was used to the LG VX9200.' **** 'new'
+---'Beats the pants of any touch screen I have used.' **** 'touch'
+---'I am not ready to convert to a touch screen phone yet.' **** 'ready'
+---'I wanted an older style phone without the touch screen, this is perfect!!!!!!!' **** 'touch'
+---'Verizon gave him a new touch screen, but he felt more comfort w/what he was used to the LG VX9200.' **** 'new'
+---'Beats the pants of any touch screen I have used.' **** 'touch'
+
+Negative Reviews:
+
+---'I am not ready to convert to a touch screen phone yet.' **** 'touch'
+---"I purchased this phone for my husband who didn't want a smart phone or a phone with a touch screen." **** 'touch'
+---'This cell phone is decent for the person that does not care for the touch screen smart phone type of cell.' **** 'touch'
+---'I bought this phone because my touch screen decided to stop responding on my other one.' **** 'other'
+---"He had this phone before and liked it because it didn't have the touch screen (which always seemed to break on the smart phone)." **** 'touch'
+---"I actually like that it's not touch screen." **** 'touch'
+---'Those touch screen wont apply to my always cold finger tips.' **** 'touch'
+---"This LG enV3 VX9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'touch'
+---"It's hard to find a good phone anymore that doesn't have a touch screen." **** 'touch'
+---"I don't want a touch screen phone." **** 'touch'
+---'I am not ready to convert to a touch screen phone yet.' **** 'touch'
+---"I purchased this phone for my husband who didn't want a smart phone or a phone with a touch screen." **** 'touch'
+---'This cell phone is decent for the person that does not care for the touch screen smart phone type of cell.' **** 'touch'
+---'I bought this phone because my touch screen decided to stop responding on my other one.' **** 'other'
+---"He had this phone before and liked it because it didn't have the touch screen (which always seemed to break on the smart phone)." **** 'touch'
+---"I actually like that it's not touch screen." **** 'touch'
+---'Those touch screen wont apply to my always cold finger tips.' **** 'touch'
+---"This LG enV3 VX9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'touch'
+---"It's hard to find a good phone anymore that doesn't have a touch screen." **** 'touch'
+---"I don't want a touch screen phone." **** 'touch'
+
+
+================================================================================================================
+__________('apple', 'wireless')__________
+
+
+Positive Reviews:
+
+---'The phone itself as sold by Apple Wireless comes as described and in perfect working condition.' **** 'sold'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('easy', 'to', 'text')__________
+
+
+Positive Reviews:
+
+---'The separate keyboard makes it fast and easy to send and receive text messages.' **** 'receive'
+
+Negative Reviews:
+
+---'I had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what I needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'new'
+
+
+================================================================================================================
+__________('internet',)__________
+
+
+Positive Reviews:
+
+---'Phone was advertised as no data package required but when I attempted to activate via internet I was told I had to have data package.' **** 'told'
+
+Negative Reviews:
+
+---'This is not a good internet phone.' **** 'good'
+---'Browsing the internet is incredibly slow with a difficult interface to use.' **** 'slow'
+
+
+================================================================================================================
+__________('a', 'data', 'package')__________
+
+
+Positive Reviews:
+
+---'Got tired of paying $30 per month for a data package I rarely used.' **** 'used'
+---'tired of the data package thing...... love this phone.... is everything I need in a phone.... quite satisfied with all the functions of this phone' **** 'tired'
+---'Got tired of paying $30 per month for a data package I rarely used.' **** 'used'
+---'tired of the data package thing...... love this phone.... is everything I need in a phone.... quite satisfied with all the functions of this phone' **** 'tired'
+
+Negative Reviews:
+
+---'Verizon is my provider and since I have this phone they require a small data package for this phone.' **** 'small'
+---'In short if you are going to buy a phone that requires a data package make sure it is useful with internet capability.' **** 'sure'
+---'Verizon is my provider and since I have this phone they require a small data package for this phone.' **** 'small'
+---'In short if you are going to buy a phone that requires a data package make sure it is useful with internet capability.' **** 'sure'
+
+
+================================================================================================================
+__________('lg', 'env3', 'vx9200')__________
+
+
+Positive Reviews:
+
+---'I searched LG and Verizon for various phones, but finally found the Env3 here, brand new, and at a low price.' **** 'new'
+---"No scratches, but the battery  just doesn't last like all the other LG enV3s we have owned." **** 'other'
+---'Its my second LG enV3.' **** 'second'
+---"The first LG Env3 I rec'd had problems with the speaker." **** 'first'
+---'Beware of old software on &#34; new&#34; LG enV3 phones.' **** 'new'
+---'I searched LG and Verizon for various phones, but finally found the Env3 here, brand new, and at a low price.' **** 'new'
+---'First one got washed and when I went to get a replacement I was told the enV3 was no longer being made.' **** 'told'
+---"I've had my first enV3 (the burgundy red one) for well over 3 yrs, and it's finally showing its age." **** 'first'
+
+Negative Reviews:
+
+---"This LG enV3 VX9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'solid'
+---'Apparently, my new enV3 has the latest firmware and LG seems to have addressed all of the issues and then some.' **** 'new'
+---"I've had several brand new enV3, which I absolutely love, but I really regret purchasing this one!" **** 'regret'
+---'Overall, I am impressed with the enV3 and would definitely buy one again if I were to lose or damage it.' **** 'overall'
+---'The ENV3 is hard to find, but Just Cellular is a great place to look for cell phones.' **** 'hard'
+---'Apparently, my new enV3 has the latest firmware and LG seems to have addressed all of the issues and then some.' **** 'new'
 
 
 ================================================================================================================
@@ -120,29 +273,29 @@ __________('verizon',)__________
 
 Positive Reviews:
 
----'i was able to have verizon turn it on with no problems.' **** 'able'
----'easy to set up on verizon, but as others said, make sure the data option is off.' **** 'easy'
----'great texting, very good phone calling & recieving clarity.i got rid of my expensive verizon service & switched over to a very affordable pageplus service.' **** 'expensive'
----'i love this phone & i bought my original from verizon.' **** 'original'
----'when i had problems and took it into verizon i was told two other people had the phone before me.' **** 'told'
----'not really sure why verizon thinks that this is a smartphone because it\'s the dumbest "smartphone" i\'ve ever seen.' **** 'sure'
----'the first 1 and the 4th were both new from verizon.' **** 'first'
----'the first 1 and the 4th were both new from verizon.' **** 'new'
----"unfortunately this is the best of the worst, but seeing as verizon wants to shove a data plan down everyone's throat i can see why they are trying to kill feature phones." **** 'best'
----'i took a chance on ordering because this model looked so appealing.the lg env3 arrived in its original verizon box clean & untouched from p.m. out of boise.' **** 'original'
----'it was unlocked and i was able to use it as soon as it was enabled by verizon' **** 'able'
----"well worth the price!anyways, i spoke to several verizon reps before purchasing this phone to make sure that it would be compatible with verizon's new $35 monthly prepaid plan." **** 'compatible'
----"well worth the price!anyways, i spoke to several verizon reps before purchasing this phone to make sure that it would be compatible with verizon's new $35 monthly prepaid plan." **** 'new'
+---'I was able to have Verizon turn it on with no problems.' **** 'able'
+---'I got rid of my expensive Verizon service & switched over to A very affordable Pageplus service.' **** 'rid'
+---'I got rid of my expensive Verizon service & switched over to A very affordable Pageplus service.' **** 'expensive'
+---'Added it to our Verizon Unlimited Family Share plan - one time service charge of $35 and $30 per month for the phone.' **** 'added'
+---'I love this phone & I bought my original from Verizon.' **** 'original'
+---'Not really sure why Verizon thinks that this is a smartphone because it\'s the dumbest "smartphone" I\'ve ever seen.' **** 'sure'
+---'The first 1 and the 4th were both new from Verizon.' **** 'first'
+---'The first 1 and the 4th were both new from Verizon.' **** 'new'
+---"Unfortunately this is the best of the worst, but seeing as Verizon wants to shove a data plan down everyone's throat I can see why they are trying to kill feature phones." **** 'best'
+---'I was able to activate this through Verizon and although when I tried to do it online, it told me I needed a data plan with it, when I called a representative, they were able to activate it without a data plan.' **** 'able'
+---'The LG enV3 arrived in its original Verizon box clean & untouched from P. M. out of Boise.' **** 'original'
+---'It was unlocked and I was able to use it as soon as it was enabled by Verizon' **** 'able'
+---"Anyways, I spoke to several Verizon reps before purchasing this phone to make sure that it would be compatible with Verizon's new $35 monthly prepaid plan." **** 'compatible'
+---"Anyways, I spoke to several Verizon reps before purchasing this phone to make sure that it would be compatible with Verizon's new $35 monthly prepaid plan." **** 'new'
 
 Negative Reviews:
 
----"however, the third phone was still active under someone else's contract so verizon was unable to activate." **** 'unable'
----"because it is a basic phone and data isn't needed, it was easy to go to the verizon online account and turn off that feature so that there wasn't an extra $15 charge every month." **** 'easy'
----"unfortunately this is the best of the worst, but seeing as verizon wants to shove a data plan down everyone's throat i can see why they are trying to kill feature phones." **** 'worst'
----"first one was from verizon and it lasted 3 years and then wouldn't charge the battery." **** 'first'
+---"However, the third phone was still active under someone else's contract so verizon was unable to activate." **** 'unable'
+---"Because it is a basic phone and data isn't needed, it was easy to go to the Verizon online account and turn off that feature so that there wasn't an extra $15 charge every month." **** 'easy'
+---"Unfortunately this is the best of the worst, but seeing as Verizon wants to shove a data plan down everyone's throat I can see why they are trying to kill feature phones." **** 'worst'
 ---'i got told by verizon that they can not use this phone on my husbands prepaid because this one is not set up for verizon prepaid.' **** 'told'
----'i got mine before verizon made it mandatory for you to buy a data plan with some phones, so beware that this is one of those phones.' **** 'mine'
----"i kept being channelled into pages trying to sell me something: ringtones, new verizon services i don't need or want." **** 'new'
+---'I got mine before Verizon made it mandatory for you to buy a data plan with some phones, so beware that this is one of those phones.' **** 'mine'
+---"I kept being channelled into pages trying to sell me something: Ringtones, new Verizon services I don't need or want." **** 'new'
 
 
 ================================================================================================================
@@ -151,12 +304,36 @@ __________('need', 'a', 'data')__________
 
 Positive Reviews:
 
----'this was a great way to give him the benefit of a phone for calls as well as an easier way to text because of the full keyboard on the inside.i was able to activate this through verizon and although when i tried to do it online, it told me i needed a data plan with it, when i called a representative, they were able to activate it without a data plan.' **** 'able'
----'tired of the data package thing......love this phone....is everything i need in a phone....quite satisfied with all the functions of this phone' **** 'tired'
+---'I was able to activate this through Verizon and although when I tried to do it online, it told me I needed a data plan with it, when I called a representative, they were able to activate it without a data plan.' **** 'able'
+---'tired of the data package thing...... love this phone.... is everything I need in a phone.... quite satisfied with all the functions of this phone' **** 'tired'
+---'it is the best no data phone i could ever find the phone works great and i got it before i expected.' **** 'best'
+---'(I had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
+---'I was able to activate this through Verizon and although when I tried to do it online, it told me I needed a data plan with it, when I called a representative, they were able to activate it without a data plan.' **** 'able'
+---'tired of the data package thing...... love this phone.... is everything I need in a phone.... quite satisfied with all the functions of this phone' **** 'tired'
+---'After calling customer support and explaining my situation they told me that since it has an HTML Browser is it considered an enhanced device and therefore requires the extra data charge.' **** 'extra'
 
 Negative Reviews:
 
----"he doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
+---"He doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
+---'Easy to set up on Verizon, but as others said, make sure the data option is off.' **** 'sure'
+---'Verizon is my provider and since I have this phone they require a small data package for this phone.' **** 'small'
+---'Verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
+---"He doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
+---'Representative stated when the phone originally came out it did require data but no longer does.' **** 'longer'
+---'To save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
+
+
+================================================================================================================
+__________('hold', 'a', 'charge')__________
+
+
+Positive Reviews:
+
+---"I'll start with what I liked:-  The overall design of the phone was pretty nice.-  It has a larger than usual QWERTY keyboard which was awesome because I've got some fat sausage fingers.-  3MP camera which is pretty much double what you get on most similar phones.-  MicroSD support up to 16GBNow for what I didn't like:-  Didn't hold a battery charge for very long compared to other similar phones.-  Any time I wanted to make a phone call I had to power cycle the phone or else the person I called couldn't hear me and I couldn't hear them.-  Bluetooth issues where it took forever to get the phone to pair with SYNC in my car, and then it would only stay paired for that one car ride, so I had to delete the phone from my car and then re-pair it.-  No tech support for the phone / Hard to find information online (Although this is my fault for buying an older phone, with this many glitches and issues I feel you need help to figure out what's going on so it's relevant)." **** 'long'
+---"just replaced the original battery a few days ago, because the battery didn't seem to hold a charge for very long." **** 'long'
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -179,9 +356,37 @@ Positive Reviews:
 
 Negative Reviews:
 
----'got it free with contract so it was worth the price.' **** 'free'
----"i purchased this again since i didn't need the data plan and no new contract with verizon." **** 'new'
----"i had just signed a new contract with verizon when my phone got submerged in water and destroyed, with no cell phone insurance i  didn't want to pay 100 for a new phone from verizon so i bought this one." **** 'new'
+---"I purchased this again since I didn't need the data plan and no new contract with Verizon." **** 'new'
+---"So glad I'm out of contract!" **** 'glad'
+---"I had just signed a new contract with verizon when my phone got submerged in water and destroyed, with no cell phone insurance I  didn't want to pay 100 for a new phone from verizon so I bought this one." **** 'new'
+
+
+================================================================================================================
+__________('went', 'fuzzy')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'The screen went fuzzy in less than 4 days of usage.' **** 'less'
+
+
+================================================================================================================
+__________('seller',)__________
+
+
+Positive Reviews:
+
+---'Fast shipping and good customer service from cellphones-4u seller, although "new" can actually mean the new handset is in an open box without any of the manuals (but can download those from the Internet).' **** 'new'
+---'So, as far as the LG Env3, its a great phone if you can get it to keep working, however as far as this seller.' **** 'working'
+
+Negative Reviews:
+
+---'Verizon rep told me that the consumer should always ask first from the seller what the MEID or ESN # is before purchasing any cell phone then to verify it with the carrier to make sure it is not a hot item.' **** 'first'
+---'I do wish seller had been up front about it being a rebuilt phone instead of implying it was a new phone... buyer beware ...' **** 'front'
+---'Contacted the seller and they were very easy to work with and immediately shipped another phone to me.' **** 'easy'
 
 
 ================================================================================================================
@@ -196,23 +401,89 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('charge',)__________
+__________('keyboard', 'for', 'texting')__________
 
 
 Positive Reviews:
 
----'the phone started to turn itself off even when it had a good charge.' **** 'good'
----'after a year of use it still can last me about a full week on a single charge while using it mostly for occasionally taking pictures and texting (i do not send or receive calls often).-camera; i knew what to expect of a 3mp camera and this phone has pleasantly exceeded my expectations.' **** 'single'
----"i'll start with what i liked:-  the overall design of the phone was pretty nice.-  it has a larger than usual qwerty keyboard which was awesome because i've got some fat sausage fingers.-  3mp camera which is pretty much double what you get on most similar phones.-  microsd support up to 16gbnow for what i didn't like:-  didn't hold a battery charge for very long compared to other similar phones.-  any time i wanted to make a phone call i had to power cycle the phone or else the person i called couldn't hear me and i couldn't hear them.-  bluetooth issues where it took forever to get the phone to pair with sync in my car, and then it would only stay paired for that one car ride, so i had to delete the phone from my car and then re-pair it.-  no tech support for the phone / hard to find information online (although this is my fault for buying an older phone, with this many glitches and issues i feel you need help to figure out what's going on so it's relevant).i had high hopes for this phone because the features i liked, i really liked." **** 'long'
----"everything about this phone is working fine except i charge it and it'll say the charge is complete but then i start to use it and the bars start dropping." **** 'complete'
----'charge last @4 days of daily use and it is a great phone!' **** 'last'
+---'good for a non smart phone though and has a decent camera and good keyboard for texting' **** 'good'
+---'The enV3 is a wonderful phone with good texting functionality.' **** 'good'
+---'very easy to use and wonderful for texting.' **** 'easy'
+---'This phone is really good for texting and calls, which is exactly what I wanted it for.' **** 'good'
+---"I'm a teenage girl who got this phone for Christmas because everyone had it and it seemed good for texting." **** 'good'
+---'Nice phone with good texting features.' **** 'good'
+---"This one is pretty, and again has good texting, but that's about it." **** 'good'
+---'This basic phone is sturdy, easy to use and is perfect for all his texting and calling needs.' **** 'perfect'
+---'If you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'easy'
+---'Its good for texting and has nice call quality.' **** 'good'
+---'The separate keyboard makes it fast and easy to send and receive text messages.' **** 'easy'
+---"I love the keyboard and it's very easy to text." **** 'easy'
+---'I love the functionality, the look and the keyboard is nice and big!' **** 'nice'
+---'Of all the phones I have seen with the keyboard - I like this one best.' **** 'best'
+---'they needed a basic phone but with a keyboard to make texting easier.' **** 'easier'
+---'The key board is great for me, reliable phone keyboard is large, easy to use, and the program is easy to follow.' **** 'easy'
+---'The QWERTY keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'easy'
+---"This phone was so easy to text on as I like texting way better on a real keyboard, and I have found the size and layout of this phone's keyboard was the best!" **** 'best'
+---'good for a non smart phone though and has a decent camera and good keyboard for texting' **** 'good'
+---'Camera good quality, keyboard easy to use, setup easy.' **** 'easy'
+---'Camera good quality, keyboard easy to use, setup easy.' **** 'easy'
+---'The keyboard is bigger than the slide-out phones.' **** 'bigger'
+---'My first keyboard phone and I love it.' **** 'first'
 
 Negative Reviews:
 
----'i can get 2 to 3 days out of charge with light to moderate use.' **** 'light'
----"because it is a basic phone and data isn't needed, it was easy to go to the verizon online account and turn off that feature so that there wasn't an extra $15 charge every month." **** 'extra'
----'need to constantly plug in... quite often when out for the day... do not have a phone avail b/c of no charge left...  i do not even talk on the phone much... keep this with me for emergency mostly... however, not reliable since charge down to one bar after just 2 hours without even talking or using it.....' **** 'reliable'
----'the phone had every thing we need to get the charge and ready for calls.' **** 'ready'
+---'I had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what I needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'easy'
+---'This is the best texting phone for those who love an actual keyboard.' **** 'actual'
+---"The flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'convenient'
+---'Just wanted a basic phone with good call quality and battery duration that could take a decent photo if needed and supported moderate to vigorous texting and this is it.' **** 'moderate'
+---"It's a good texting phone if you're not ready to pay for the data package for a smartphone." **** 'good'
+---'This LG phone is easy to use, lightweight and the texting is simple, even for a Grandma!' **** 'simple'
+---"The flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'convenient'
+---'The separate keyboard makes it fast and easy to send and receive text messages.' **** 'separate'
+---'I liked the style of a full set of number buttons outside and full texting keyboard when flipped open.' **** 'open'
+---'I had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what I needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'easy'
+---"A few days into owning it the screen's image will randomly change colors and the 'W' key on the keyboard doesn't work very well." **** 'key'
+---'The QWERTY keyboard is easy and comfortable to use, and the size of the inside screen is great for these (ahem!)' **** 'comfortable'
+---'So if you want a nice phone with a separate keyboard that still has actual buttons to dial, this is a good phone.' **** 'separate'
+---'This is the best texting phone for those who love an actual keyboard.' **** 'actual'
+---"I'm not much of a text user but the flip open keyboard certainly makes it easier." **** 'easier'
+
+
+================================================================================================================
+__________('replacement',)__________
+
+
+Positive Reviews:
+
+---'This has been one of the best replacement phones that I have ever used.' **** 'best'
+---'The only major concern I have with this phone is battery life, mine cant seem to stay charged, but that might be just be the reality of having an older phone.. :/I would recommend this phone to anyone looking for a cheaper replacement that feels like nicer quality.' **** 'cheaper'
+---"I'm glad I was able to find a replacement after my original phone finally bit the dust." **** 'able'
+---'I was happy I found this replacement phone on Amazon.' **** 'happy'
+---"I'm still searching for a good replacement because Verizon seems to be putting out crappy new phones for text and voice inorder to push us into a smart phone." **** 'good'
+---'An ok phone for temporary replacement.' **** 'temporary'
+
+Negative Reviews:
+
+---'I will recommend you DO NOT get a new replacement battery if this happens.' **** 'new'
+---"I really wanted to find a good replacement, there just isn't one." **** 'good'
+---'cheaper than replacement with insurance.' **** 'cheaper'
+---"I'm glad I was able to find a replacement after my original phone finally bit the dust." **** 'glad'
+
+
+================================================================================================================
+__________('calls',)__________
+
+
+Positive Reviews:
+
+---'It takes good pictures for the type of phone and the calls are very clear.' **** 'clear'
+
+Negative Reviews:
+
+---"Warning: If you only want to text and make calls be sure to put a data block on this phone with your svc provider or you'll inevitably hit one of the data usage buttons and get charged." **** 'sure'
+---'When it was new it would go for well over 5 days day and night with around 20 short calls and around 150 texts of different sizes.' **** 'short'
+---"This is a big problem when you are expecting important calls and haven't realized the phone has gone off!" **** 'important'
+---'not able to hear any calls.' **** 'able'
 
 
 ================================================================================================================
@@ -221,8 +492,48 @@ __________('waste', 'of', 'money')__________
 
 Positive Reviews:
 
----"not happy with this product a big waste of money i might as well as thrown my money in the trash not happy they don't follow up defective product" **** 'thrown'
----'this has turned out to be worse than a waste of money, since we cannot now return it, but we will also have to bear the cost of a new phone and the cost and hassle of visiting the phone store and having phones switched.' **** 'worse'
+---"not happy with this product a big waste of money I might as well as thrown my money in the trash not happy they don't follow up defective product" **** 'thrown'
+---'This has turned out to be worse than a waste of money, since we cannot now return it, but we will also have to bear the cost of a new phone and the cost and hassle of visiting the phone store and having phones switched.' **** 'worse'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('bells', 'and', 'whistles')__________
+
+
+Positive Reviews:
+
+---"Most phones at stores now are smart phones; this phone is great for texting when you don't want the other bells and whistles." **** 'other'
+
+Negative Reviews:
+
+---'No longer needed all the bells and whistles of a droid.' **** 'longer'
+
+
+================================================================================================================
+__________('speaker',)__________
+
+
+Positive Reviews:
+
+---'I do find it annoying that it has to be opened to be on speaker.' **** 'find'
+---"Well, you have to open the phone where the keyboard is and push speaker phone, but you can't use speaker while the phone is closed." **** 'push'
+---'Compact, easy to use, clear speaker, large buttons for fat fingers, flip open qwerty keypad and easy to see icons for the various programs.' **** 'clear'
+
+Negative Reviews:
+
+---"Sometimes when I text it turns itself off unexpectedly which is not good and I can only use it on speaker phone now because the outside earpiece isn't working anymore." **** 'good'
+
+
+================================================================================================================
+__________('body', 'glove')__________
+
+
+Positive Reviews:
+
+---'I shall just donate the new screen protectors and the new body glove to a non-profit organization like Goodwill or Salvation Army.' **** 'new'
 
 Negative Reviews:
 
@@ -234,10 +545,18 @@ __________('talk', 'and', 'text')__________
 
 Positive Reviews:
 
+---'The separate keyboard makes it fast and easy to send and receive text messages.' **** 'receive'
+---'Great for anyone who wants a solid basic text phone.' **** 'solid'
 
 Negative Reviews:
 
----'this phone is exactly what we expected - a simple text and talk phone that we plan to give the kids when they are away from home.' **** 'simple'
+---'This phone is exactly what we expected - a simple text and talk phone that we plan to give the kids when they are away from home.' **** 'simple'
+---"It's still very fast compared to anything I've seen anyone with, especially any smartphones with touch screens, but it just takes a few more seconds when loading music or when I write an extremely long text(like 100 words or more)." **** 'long'
+---'This phone is exactly what we expected - a simple text and talk phone that we plan to give the kids when they are away from home.' **** 'simple'
+---'I had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what I needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'new'
+---'I have had this phone even shut off in the middle of very long text messages.' **** 'long'
+---'I also experience very slow text messaging.' **** 'slow'
+---"(a common problem back in 2008-2010 when this baby was new) It'll still call and text and get compliments like &#34; I used to have that phone!&#34; I like that it does two things well: call & text." **** 'call'
 
 
 ================================================================================================================
@@ -249,8 +568,40 @@ Positive Reviews:
 
 Negative Reviews:
 
----'she is not yet interested in a true smartphone.' **** 'interested'
----'she is not yet interested in a true smartphone.' **** 'true'
+---'She is not yet interested in a true smartphone.' **** 'interested'
+---'She is not yet interested in a true smartphone.' **** 'true'
+
+
+================================================================================================================
+__________('in', 'new', 'condition')__________
+
+
+Positive Reviews:
+
+---'Like new condition, defective USB cable sent with unit requiring me to purchase one and explain to my mother (four times) that while the phone says the cable is incompatible, it will still charge.' **** 'new'
+---'Phone was in almost new condition.' **** 'new'
+---'I ordered this phone for my son and it came based on agreed delivery time frame in new condition and appears to be working as expected.' **** 'new'
+---'The phone was in excellent, new condition.' **** 'new'
+---'It looked like in new condition but I had problems with the screen and with it freezing from day one.' **** 'new'
+---'Phone arrived in new condition and was delivered quickly.' **** 'new'
+---'The phone would be fine if it were new or even used but in good condition.' **** 'good'
+
+Negative Reviews:
+
+---"Received this phone in new condition, but quickly found out , the battery doesn't hold a charge at all." **** 'new'
+---'This phone appears new and in good condition, but the battery will not hold a charge for more than 4 hours.' **** 'good'
+
+
+================================================================================================================
+__________('wall', 'charger')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'It came with a charging cable and wall charger and it has a removable battery.' **** 'wall'
 
 
 ================================================================================================================
@@ -259,11 +610,11 @@ __________('customer', 'service')__________
 
 Positive Reviews:
 
----'read the reviews carefully to select one that really would work with the lg envx models.fast shipping and good customer service from cellphones-4u seller, although "new" can actually mean the new handset is in an open box without any of the manuals (but can download those from the internet).' **** 'good'
+---'Fast shipping and good customer service from cellphones-4u seller, although "new" can actually mean the new handset is in an open box without any of the manuals (but can download those from the Internet).' **** 'good'
 
 Negative Reviews:
 
----"i guess i'm not used to good customer service." **** 'good'
+---"I guess I'm not used to good customer service." **** 'good'
 
 
 ================================================================================================================
@@ -272,12 +623,60 @@ __________('great', 'battery', 'life')__________
 
 Positive Reviews:
 
----'phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and i wasnt to happy with that since i wound up buying a new battery for it.overall it was fine, got me through being phoneless.' **** 'new'
----'great battery life and good for texting my daughter loves the phone.' **** 'good'
+---'Phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and I wasnt to happy with that since I wound up buying a new battery for it.' **** 'new'
+---'Great Battery life and good for texting my daughter loves the phone.' **** 'good'
+---'I chose this phone for 2 main reasons: I wanted a cell phone with very good battery life and one that could take quality pictures (for a cell phone) and save them to external memory.' **** 'good'
+---'battery life seems to be good.' **** 'good'
+---'Battery life is good, he likes the full keyboard, etc.' **** 'good'
+---'Phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and I wasnt to happy with that since I wound up buying a new battery for it.' **** 'new'
+---'Great Battery life and good for texting my daughter loves the phone.' **** 'good'
+---'Battery life is good, simple and easy to use.' **** 'good'
+---'Battery life is good, simple and easy to use.' **** 'easy'
+---'battery life seems to be good.' **** 'good'
+---'Battery life is good, he likes the full keyboard, etc.' **** 'good'
+---'Great Battery life and good for texting my daughter loves the phone.' **** 'good'
+---'Battery life is good, simple and easy to use.' **** 'good'
+---'Battery life is good, simple and easy to use.' **** 'easy'
+---'Needed the same cell phone since mine no longer charged and this way could charge new battery and put in old phone to download the backup assistant to get my contacts.' **** 'new'
+---"I guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and I don't use it a lot." **** 'daily'
+---'I chose this phone for 2 main reasons: I wanted a cell phone with very good battery life and one that could take quality pictures (for a cell phone) and save them to external memory.' **** 'good'
+---'I ended up purchasing a new battery.' **** 'new'
+---'I did this and the new battery did the same thing.' **** 'new'
+---'Since I was desperate I went and purchased a new battery.' **** 'new'
+---'I will probably have to purchase a new battery for it.' **** 'new'
+---'This battery is worse than the first one!' **** 'first'
+---'Strong battery, easy use/setup and clear reception on calls to date.' **** 'strong'
+---'I had the problem after over two years of perfect performance, and this Easy Fix came through when software/firmware updates, and a new battery fell short.' **** 'new'
+---'NOW to get all the information off of the LG I have to buy a new battery for it !!!' **** 'new'
+---'Phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and I wasnt to happy with that since I wound up buying a new battery for it.' **** 'new'
+---'I plan to get an extra battery at the same time I buy the blue version - that should cut down on those hassles in my situation.' **** 'extra'
+---'Then, it would randomly shut off and sometimes whenever I tried to turn it back on, it would say "improper battery" and shut off after 10 seconds.' **** 'improper'
+---'It is smaller than i expected and the battery will not hold a charge long.' **** 'smaller'
+---'It came with a charging cable and wall charger and it has a removable battery.' **** 'removable'
+---'I did, and the new battery came within days.' **** 'new'
+---'Phone was the same as what I had, but this one came with no book and the battery is bigger than the original one that should be in it.' **** 'bigger'
+---'Phone was the same as what I had, but this one came with no book and the battery is bigger than the original one that should be in it.' **** 'original'
 
 Negative Reviews:
 
----"the battery life it's great and ready to use." **** 'ready'
+---"The battery life it's great and ready to use." **** 'ready'
+---'It has bad reception and the battery life is awful.' **** 'awful'
+---"The battery life it's great and ready to use." **** 'ready'
+---'Battery life is good, simple and easy to use.' **** 'simple'
+---'It has bad reception and the battery life is awful.' **** 'awful'
+---"The battery life it's great and ready to use." **** 'ready'
+---'Battery life is good, simple and easy to use.' **** 'simple'
+---'Since I was desperate I went and purchased a new battery.' **** 'desperate'
+---'It will sometimes think the battery is dead even after hours of charging and then shut itself off.' **** 'dead'
+---"just replaced the original battery a few days ago, because the battery didn't seem to hold a charge for very long." **** 'original'
+---"No scratches, but the battery  just doesn't last like all the other LG enV3s we have owned." **** 'last'
+---"We even bought a new battery for it, but it apparently isn't the fault of the battery; it still doesn't hold a charge." **** 'new'
+---'I had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'new'
+---'I had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'better'
+---'This battery is worse than the first one!' **** 'worse'
+---'I had the problem after over two years of perfect performance, and this Easy Fix came through when software/firmware updates, and a new battery fell short.' **** 'short'
+---'When I received the phone the battery that was sent was the wrong battery, but they included a card stating that if the phone or battery is in error, please email them ASAP.' **** 'wrong'
+---"Battery doesn't seem to last very long compared to other phones I've had." **** 'last'
 
 
 ================================================================================================================
@@ -286,913 +685,34 @@ __________('good', 'for', 'texting')__________
 
 Positive Reviews:
 
----'this phone is really good for texting and calls, which is exactly what i wanted it for.' **** 'good'
----"i'm a teenage girl who got this phone for christmas because everyone had it and it seemed good for texting." **** 'good'
----'if you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'easy'
----'its good for texting and has nice call quality.' **** 'good'
+---'This phone is really good for texting and calls, which is exactly what I wanted it for.' **** 'good'
+---"I'm a teenage girl who got this phone for Christmas because everyone had it and it seemed good for texting." **** 'good'
+---'If you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'easy'
+---'Its good for texting and has nice call quality.' **** 'good'
 
 Negative Reviews:
 
----"it's a good texting phone if you're not ready to pay for the data package for a smartphone." **** 'good'
+---"It's a good texting phone if you're not ready to pay for the data package for a smartphone." **** 'good'
 
 
 ================================================================================================================
-__________('fast',)__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
+---'I explained that I bought it new from Amazon.' **** 'new'
+---'I found a new ENV-2 available at Amazon.' **** 'new'
+---'I found a new ENV-2 available at Amazon.' **** 'available'
+---'It would have been nice if Amazon had allowed me to send the phone AND accessories to them.' **** 'nice'
+---"this is my favorite phone and they just don't make them any more and i am so glad that i found amazon and they locaate vendors who have just what i want." **** 'glad'
 
 Negative Reviews:
 
----'it is a user friendly phone and shipping was super fast.' **** 'super'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and i wasnt to happy with that since i wound up buying a new battery for it.overall it was fine, got me through being phoneless.' **** 'charger'
----'would recommend this seller as if you do have a problem they are easy to work with and make sure you are satisfied.' **** 'easy'
-
-Negative Reviews:
-
----'would recommend this seller as if you do have a problem they are easy to work with and make sure you are satisfied.' **** 'sure'
----"i haven't had a problem with the new one, so i'm a happy customer." **** 'new'
-
-
-================================================================================================================
-__________('money',)__________
-
-
-Positive Reviews:
-
----'i just bought this phone for about $40 and it was worth the money.' **** 'worth'
----'does everything from texting to calling it came with the charger which was the part i was worried about, totally worth the money!' **** 'worth'
----"not happy with this product a big waste of money i might as well as thrown my money in the trash not happy they don't follow up defective product" **** 'thrown'
----'and it was the best money spent.' **** 'best'
-
-Negative Reviews:
-
----"i know, i was kind of foolish with my money back then, but i still don't regret it because this phone has never let me down and does more than i could have wanted because when i bought it i was just looking for a texting mania phone." **** 'kind'
----"i know, i was kind of foolish with my money back then, but i still don't regret it because this phone has never let me down and does more than i could have wanted because when i bought it i was just looking for a texting mania phone." **** 'foolish'
----'however, the phone seems to work this time...all in all, i paid extra money for shipping a phone which is not working, and waited for a very long time to get a replacement.' **** 'extra'
----"the phone was delivered faster than i expected and i didn't put out extra money to get it sooner." **** 'extra'
----"the phone was delivered faster than i expected and i didn't put out extra money to get it sooner." **** 'sooner'
----"those are only through vzw and are 'really' bare-bones, and not worth the money." **** 'worth'
-
-
-================================================================================================================
-__________('great', 'for', 'texting')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'expected a piece of crap but got a workable phone at a good price.' **** 'good'
----'good price.' **** 'good'
----'for the price, i am willing to arm-wrestle with verizon until they get it right.the accessories that work for this phone were very inexpensive at amazon.' **** 'willing'
----'i was happy with the price also.' **** 'happy'
----'great phone at a good price.' **** 'good'
----'i did buy it for a good price.' **** 'good'
----'got it free with contract so it was worth the price.' **** 'worth'
----'would recommend to anyone who wants a basic phone for a good price.' **** 'good'
----'good phone and good price.' **** 'good'
----'price was perfect !!' **** 'perfect'
----'the price was good, i purchased this phone as a new phone, received it prior to the estimated arrival time, fully charged and works great!' **** 'good'
----'this is a good phone, at a good price, and it needed no data package to use.' **** 'good'
----'price was good and easy to transfer from broken phone to this one.' **** 'good'
----'price was good and easy to transfer from broken phone to this one.' **** 'easy'
-
-Negative Reviews:
-
----'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'best'
----'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'good'
----'i searched lg and verizon for various phones, but finally found the env3 here, brand new, and at a low price.' **** 'low'
----"it's super durable and was a great price for something that i just needed for a temporary fix until my upgrade." **** 'super'
----'a good phone at a good price,whats not to like.' **** 'good'
-
-
-================================================================================================================
-__________('working',)__________
-
-
-Positive Reviews:
-
----'everything is in good working condition, that includes the battery and charger.' **** 'good'
-
-Negative Reviews:
-
----'it was not in good working condition when it was received.' **** 'good'
----'i am a senior citizen and believe you should check out to make sure everything is in good working condition....b e f o r e...you sell it to another person.....not offer help after the fact.' **** 'good'
-
-
-================================================================================================================
-__________('need',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'highly recommend for an inexpensive talk/text need phone' **** 'inexpensive'
-
-
-================================================================================================================
-__________('a', 'good', 'price')__________
-
-
-Positive Reviews:
-
----'expected a piece of crap but got a workable phone at a good price.' **** 'good'
----'great phone at a good price.' **** 'good'
----'i did buy it for a good price.' **** 'good'
----'would recommend to anyone who wants a basic phone for a good price.' **** 'good'
----'good phone and good price.' **** 'good'
----'the price was good, i purchased this phone as a new phone, received it prior to the estimated arrival time, fully charged and works great!' **** 'good'
----'this is a good phone, at a good price, and it needed no data package to use.' **** 'good'
----'price was good and easy to transfer from broken phone to this one.' **** 'good'
----'price was good and easy to transfer from broken phone to this one.' **** 'easy'
-
-Negative Reviews:
-
----'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'best'
----'it is not the best but for its price it is very good but because it is refurbished it is missing the center button' **** 'good'
----'a good phone at a good price,whats not to like.' **** 'good'
-
-
-================================================================================================================
-__________('apple', 'wireless')__________
-
-
-Positive Reviews:
-
----'so, unfortunately i had to send the device back and now have to look for a phone that will without a doubt be compatible with the $35 prepaid plan.the phone itself as sold by apple wireless comes as described and in perfect working condition.' **** 'sold'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('recommend',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'i was very happy with my product.' **** 'happy'
----'very much satisfied with this product from seller !' **** 'much'
-
-Negative Reviews:
-
----'but when you expect a new product as advertised & paid for that is what you should get not something that malfunctions & is refurbished.' **** 'new'
----'phone stopped working, turns off during random times, espcially when texting, not happy with this product, would not buy it again.' **** 'happy'
----"not happy with this product a big waste of money i might as well as thrown my money in the trash not happy they don't follow up defective product" **** 'happy'
----'excellent seller but the product, not so good.' **** 'good'
-
-
-================================================================================================================
-__________('right',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the item was listed as "very good", but the phone has a large dent/chunk missing right on top and whatever coating was on the buttons was peeling off.' **** 'top'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----"its many features available have yet to be exercised - someday i'll have free time to roam and test." **** 'available'
----'that is one of the most important features since i like tec things simple, but want great pictures of the grandkids.' **** 'important'
----'the camera and music player- both important features for me- are terrific for a cell phone.' **** 'important'
----'pictures are also ok.  the benefit is i am getting good features without having to pay the monthly data charges of a smartphone.' **** 'good'
-
-Negative Reviews:
-
----"it's reliable and has good features and does not require a data plan." **** 'reliable'
----"it's reliable and has good features and does not require a data plan." **** 'good'
----'i am having difficulty setting it up to work on their mobile web as it needs to be internally reconfigured, so have not yet been able to use any mobile features.' **** 'able'
----'the lg env3 may not be a flashy phone, but i think it is most reliable phone with the most features possible without buying a smart phone and the required data plan.' **** 'possible'
----'she likes the key board and other features on the phone.' **** 'other'
-
-
-================================================================================================================
-__________('hold', 'a', 'charge')__________
-
-
-Positive Reviews:
-
----"i'll start with what i liked:-  the overall design of the phone was pretty nice.-  it has a larger than usual qwerty keyboard which was awesome because i've got some fat sausage fingers.-  3mp camera which is pretty much double what you get on most similar phones.-  microsd support up to 16gbnow for what i didn't like:-  didn't hold a battery charge for very long compared to other similar phones.-  any time i wanted to make a phone call i had to power cycle the phone or else the person i called couldn't hear me and i couldn't hear them.-  bluetooth issues where it took forever to get the phone to pair with sync in my car, and then it would only stay paired for that one car ride, so i had to delete the phone from my car and then re-pair it.-  no tech support for the phone / hard to find information online (although this is my fault for buying an older phone, with this many glitches and issues i feel you need help to figure out what's going on so it's relevant).i had high hopes for this phone because the features i liked, i really liked." **** 'long'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('data', 'package')__________
-
-
-Positive Reviews:
-
----'got tired of paying $30 per month for a data package i rarely used.' **** 'used'
----'but after owning it for over a year i have a list of complaints.verizon is my provider and since i have this phone they require a small data package for this phone.' **** 'small'
----'good no data package phone.' **** 'good'
----'tired of the data package thing......love this phone....is everything i need in a phone....quite satisfied with all the functions of this phone' **** 'tired'
-
-Negative Reviews:
-
----'in short if you are going to buy a phone that requires a data package make sure it is useful with internet capability.' **** 'sure'
-
-
-================================================================================================================
-__________('went', 'fuzzy')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the screen went fuzzy in less than 4 days of usage.' **** 'less'
-
-
-================================================================================================================
-__________('a', 'long', 'time')__________
-
-
-Positive Reviews:
-
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'long'
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'long'
----"it doesn't hang loosely on his belt or in his pocket and it lasts a long time." **** 'long'
----'however, the phone seems to work this time...all in all, i paid extra money for shipping a phone which is not working, and waited for a very long time to get a replacement.' **** 'long'
-
-Negative Reviews:
-
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'new'
----'just got it and i hope it will last me a long time, only time will tell.' **** 'long'
----'it was a good phone for a long time, my husband and i both had one.' **** 'long'
----'affordable and will last a very long time.' **** 'long'
-
-
-================================================================================================================
-__________('years',)__________
-
-
-Positive Reviews:
-
----"i've had this phone for years and other than some butt-dialing in my pocket i've never had a problem with it." **** 'other'
----'i got this phone for christmas two years ago and at first i loved it, but in a few months it stopped working so well.' **** 'first'
----'i had my first one for years and then it finally needed to be replaced, so i ordered one just like it!' **** 'first'
-
-Negative Reviews:
-
----'love this phone still even though not my original one purchased 4 years ago.' **** 'original'
----"99 percent it not new  call your provider an give them the meid number on back of phone.mine  one i got was supposed to be new it wasn't it was  2 years old an even showing proof that  the item is used the seller would not work with me." **** 'new'
-
-
-================================================================================================================
-__________('replacement',)__________
-
-
-Positive Reviews:
-
----'this has been one of the best replacement phones that i have ever used.' **** 'best'
----'the only major concern i have with this phone is battery life, mine cant seem to stay charged, but that might be just be the reality of having an older phone.. :/i would recommend this phone to anyone looking for a cheaper replacement that feels like nicer quality.cute, great basic phone for the text savvy!' **** 'cheaper'
----"i'm glad i was able to find a replacement after my original phone finally bit the dust." **** 'able'
----"i'm still searching for a good replacement because verizon seems to be putting out crappy new phones for text and voice inorder to push us into a smart phone." **** 'good'
----'an ok phone for temporary replacement.' **** 'temporary'
-
-Negative Reviews:
-
----'i will recommend you do not get a new replacement battery if this happens.' **** 'new'
----"i really wanted to find a good replacement, there just isn't one." **** 'good'
----'cheaper than replacement with insurance.' **** 'cheaper'
----"i'm glad i was able to find a replacement after my original phone finally bit the dust." **** 'glad'
-
-
-================================================================================================================
-__________('thing',)__________
-
-
-Positive Reviews:
-
----'i cannot say one thing bad about this phone.' **** 'bad'
----"i have a pc at home and i can't think of a single thing i would need to do away from there on the internet.anyways, with the env3 i can type as fast as my thumbs can go and don't have to handle it like i'm holding a small computer." **** 'single'
----'i think it is just the phone getting old.the last thing i can think of to mention is the interface and menus.' **** 'last'
----"the only thing i'm afraid of is that i won't be able to buy enough of these to last me the rest of my life." **** 'afraid'
----"one thing that was a little weird and surprising is that i had expected to be able to just put the microsd card in the phone and transfer my contacts from my old phone to this lg but for some reason i couldn't figure out how to get it to recognize the card for that." **** 'surprising'
----'the only good thing about this phone is that is it indestructible.' **** 'good'
----'but after about a month the turning off issue was back so i put a new little plastic thing that does not collapse like the old ones and has been relatively permanent.' **** 'little'
----"the best thing about it is even with big hands, it's still easy to text with." **** 'best'
----'the best thing is that you get the functions without having to get locked into a smartphone data contract.' **** 'best'
-
-Negative Reviews:
-
----'the only thing bad is that you probably have to get a good cause because it gets scratches on it really quick.' **** 'bad'
----'but after about a month the turning off issue was back so i put a new little plastic thing that does not collapse like the old ones and has been relatively permanent.' **** 'new'
-
-
-================================================================================================================
-__________('data',)__________
-
-
-Positive Reviews:
-
----'it is the best no data phone i could ever find the phone works great and i got it before i expected.' **** 'best'
----'(i had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
----'but after owning it for over a year i have a list of complaints.verizon is my provider and since i have this phone they require a small data package for this phone.' **** 'small'
----'good no data package phone.' **** 'good'
----"make sure to tell them you don't want any data charges." **** 'sure'
----'this was a great way to give him the benefit of a phone for calls as well as an easier way to text because of the full keyboard on the inside.i was able to activate this through verizon and although when i tried to do it online, it told me i needed a data plan with it, when i called a representative, they were able to activate it without a data plan.' **** 'able'
----'tired of the data package thing......love this phone....is everything i need in a phone....quite satisfied with all the functions of this phone' **** 'tired'
----'after calling customer support and explaining my situation they told me that since it has an html browser is it considered an enhanced device and therefore requires the extra data charge.' **** 'extra'
-
-Negative Reviews:
-
----'easy to set up on verizon, but as others said, make sure the data option is off.' **** 'sure'
----'verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
----"he doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
----'representative stated when the phone originally came out it did require data but no longer does.' **** 'longer'
----'to save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
-
-
-================================================================================================================
-__________('n', 'great', 'condition')__________
-
-
-Positive Reviews:
-
----'will update my review then...the phone was in brand new condition and seemed to function great other than the fact that i could not activate it.' **** 'other'
----'the phone was in good condition and works great.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('easy', 'to', 'text')__________
-
-
-Positive Reviews:
-
----'the separate keyboard makes it fast and easy to send and receive text messages.' **** 'receive'
----'great for anyone who wants a solid basic text phone.easy to learn how to use.. nice size.' **** 'solid'
-
-Negative Reviews:
-
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'new'
-
-
-================================================================================================================
-__________('a', 'data', 'plan')__________
-
-
-Positive Reviews:
-
----'(i had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
----'the rugged phone required a minimal data plan so we already had a plan in place, but we found out when we started the activation process for the env3 that we were going to be forced to buy a bigger plan.' **** 'bigger'
----'verizon activates a data plan  but was able to call them and have the data turned off.' **** 'able'
----'this was a great way to give him the benefit of a phone for calls as well as an easier way to text because of the full keyboard on the inside.i was able to activate this through verizon and although when i tried to do it online, it told me i needed a data plan with it, when i called a representative, they were able to activate it without a data plan.' **** 'able'
-
-Negative Reviews:
-
----'verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
----"he doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
----'to save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
-
-
-================================================================================================================
-__________('condition',)__________
-
-
-Positive Reviews:
-
----'like new condition, defective usb cable sent with unit requiring me to purchase one and explain to my mother (four times) that while the phone says the cable is incompatible, it will still charge.' **** 'new'
----'the phone arrived in good condition.' **** 'good'
----'arrived promptly - new condition.' **** 'new'
----'phone was in almost new condition.' **** 'new'
----'i ordered this phone for my son and it came based on agreed delivery time frame in new condition and appears to be working as expected.' **** 'new'
----'i was very impressed on how nice condition the phone was and super fast!' **** 'nice'
----'i bought a used env3 it said it was used but in very good condition.' **** 'good'
----'the phone is in good condition.' **** 'good'
----'it came quickly and in good condition.' **** 'good'
----'when i bought it on the comments says it was very good condition.' **** 'good'
----'the phone was in excellent, new condition.' **** 'new'
----'the accessories were unused but appeared to be in good condition.' **** 'good'
----'i asked what "original condition" mean, since i peeled away the plastic cover for the screen.' **** 'original'
----'the phone came in record time and was in good condition.' **** 'good'
----'it looked like in new condition but i had problems with the screen and with it freezing from day one.' **** 'new'
----'phone arrived in new condition and was delivered quickly.' **** 'new'
----'the phone would be fine if it were new or even used but in good condition.' **** 'good'
----'the phone was in good condition and works great.' **** 'good'
-
-Negative Reviews:
-
----"received this phone in new condition, but quickly found out , the battery doesn't hold a charge at all." **** 'new'
----'trying to get a refund, but they told me they will charge me 20% for restocking if it is not in "original condition".' **** 'original'
----'phone was exactly if not in better condition then i anticipated.' **** 'better'
----'this phone appears new and in good condition, but the battery will not hold a charge for more than 4 hours.' **** 'good'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
----'they do have an easy work around.so if you want a nice phone with a separate keyboard that still has actual buttons to dial, this is a good phone.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('key', 'pad')__________
-
-
-Positive Reviews:
-
----'i wanted a phone with a key pad and i liked the really old lg env i had that was lost.' **** 'key'
----'i decided on this phone to have a key pad to help speed up texting and it works well for me' **** 'key'
----'i only have time to text on a key pad.' **** 'key'
-
-Negative Reviews:
-
----'the numbers on key pad seem to stick a little or not respond as quickly as they should on this one.' **** 'key'
----'the phone is easy to handle and use that has comfortable key pad front and when opened up.' **** 'comfortable'
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----'i chose this phone for 2 main reasons: i wanted a cell phone with very good battery life and one that could take quality pictures (for a cell phone) and save them to external memory.' **** 'good'
----'the alarm is loud and will wake you up.battery life seems to be good.' **** 'good'
----'battery life is good, he likes the full keyboard, etc.' **** 'good'
----'phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and i wasnt to happy with that since i wound up buying a new battery for it.overall it was fine, got me through being phoneless.' **** 'new'
----'great battery life and good for texting my daughter loves the phone.' **** 'good'
----'battery life is good, simple and easy to use.' **** 'good'
----'battery life is good, simple and easy to use.' **** 'easy'
----'good battery life, good sound quality, grabs signals well and has held up without a single scratch - impressive.' **** 'good'
-
-Negative Reviews:
-
----'it has bad reception and the battery life is awful.' **** 'awful'
----"the battery life it's great and ready to use." **** 'ready'
----'battery life is good, simple and easy to use.' **** 'simple'
-
-
-================================================================================================================
-__________('need', 'a', 'smart')__________
-
-
-Positive Reviews:
-
----'very simple to use and good if you do not need  a smart phone.' **** 'simple'
----'decebt features does eveything you would need..biggest problem i have upgrading to a new smart phone, is this phone....i like it!' **** 'new'
-
-Negative Reviews:
-
----'very simple to use and good if you do not need  a smart phone.' **** 'good'
-
-
-================================================================================================================
-__________('to', 'verizon', 'store')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('company',)__________
-
-
-Positive Reviews:
-
----'after purchasing this product, i went and read some of the negative reviews from others who have purchased from this company and at first was a little nervous about what i would receive.' **** 'first'
----'the company was very helpful and made suggestions for returning it.' **** 'helpful'
----"to bad the company i had doesn't have the plan i wanted because this was an awesome phone." **** 'bad'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
----'verizon replaced it but the second yeilded the same problems.' **** 'second'
----'my fourth one had the same problems as the first two and it even went as far to delete all my pictures and some of my contacts on its own, making the camera (the only decent thing on it) worthless.' **** 'first'
----'i wouldnt know since i didnt discover the major problems until it was too late.' **** 'late'
-
-Negative Reviews:
-
----'i wouldnt know since i didnt discover the major problems until it was too late.' **** 'major'
-
-
-================================================================================================================
-__________('key', 'board')__________
-
-
-Positive Reviews:
-
----'very simple and pretty decent camera along with nice key board.' **** 'nice'
----'very simple and pretty decent camera along with nice key board.' **** 'key'
----'they like the larger key board and the flip action instead of the slide.' **** 'larger'
----'they like the larger key board and the flip action instead of the slide.' **** 'key'
----'i needed a phone with a physical key board on the outside and inside that flips open, this fits the bill perfectly.' **** 'key'
----'the key board is great for me, reliable phone keyboard is large, easy to use, and the program is easy to follow.' **** 'key'
----'i got this phone for my daughter because she wanted a flip screen with a key board that would be easier to text on.' **** 'key'
----'i got this phone for my daughter because she wanted a flip screen with a key board that would be easier to text on.' **** 'easier'
-
-Negative Reviews:
-
----'key board did not work, took to local verizon to see if it was just on a lock that i could not figure out but it was not.' **** 'key'
-
-
-================================================================================================================
-__________('a', 'touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'ready'
----'i wanted an older style phone without the touch screen, this is perfect!!!!!!' **** 'touch'
----'beats the pants of any touch screen i have used.' **** 'touch'
-
-Negative Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'touch'
----"i purchased this phone for my husband who didn't want a smart phone or a phone with a touch screen." **** 'touch'
----'this cell phone is decent for the person that does not care for the touch screen smart phone type of cell.' **** 'touch'
----'i bought this phone because my touch screen decided to stop responding on my other one.' **** 'other'
----"he had this phone before and liked it because it didn't have the touch screen (which always seemed to break on the smart phone)." **** 'touch'
----"i actually like that it's not touch screen." **** 'touch'
----'those touch screen wont apply to my always cold finger tips.' **** 'touch'
----"this lg env3 vx9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'touch'
----"it's hard to find a good phone anymore that doesn't have a touch screen." **** 'touch'
----"i don't want a touch screen phone." **** 'touch'
----'i have not seen the item.my friend wanted a new(lg env3 vx9200)phone and not a refurb.verizon gave him a new touch screen,but he felt more comfort w/what he was used to the lg vx9200.' **** 'new'
-
-
-================================================================================================================
-__________('fine',)__________
-
-
-Positive Reviews:
-
----"i can't read the outside screen because it's so small, which is fine because i have to flip open phone to task anyway.works fine otherwise." **** 'small'
----'phone seemed fine at first then showed isues with camer, freezes up and has shut down on me as well.' **** 'first'
----'the phone would be fine if it were new or even used but in good condition.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'the alarm is loud and will wake you up.battery life seems to be good.' **** 'good'
----'battery life is good, he likes the full keyboard, etc.' **** 'good'
----'great battery life and good for texting my daughter loves the phone.' **** 'good'
----'battery life is good, simple and easy to use.' **** 'good'
----'battery life is good, simple and easy to use.' **** 'easy'
-
-Negative Reviews:
-
----'it has bad reception and the battery life is awful.' **** 'awful'
----"the battery life it's great and ready to use." **** 'ready'
----'battery life is good, simple and easy to use.' **** 'simple'
-
-
-================================================================================================================
-__________('env3',)__________
-
-
-Positive Reviews:
-
----'i searched lg and verizon for various phones, but finally found the env3 here, brand new, and at a low price.' **** 'new'
----'first one got washed and when i went to get a replacement i was told the env3 was no longer being made.' **** 'told'
----"i've had my first env3 (the burgundy red one) for well over 3 yrs, and it's finally showing its age." **** 'first'
-
-Negative Reviews:
-
----"i've had several brand new env3, which i absolutely love, but i really regret purchasing this one!" **** 'regret'
----'overall, i am impressed with the env3 and would definitely buy one again if i were to lose or damage it.' **** 'overall'
----'the env3 is hard to find, but just cellular is a great place to look for cell phones.' **** 'hard'
----'apparently, my new env3 has the latest firmware and lg seems to have addressed all of the issues and then some.' **** 'new'
-
-
-================================================================================================================
-__________('a', 'data', 'package')__________
-
-
-Positive Reviews:
-
----'got tired of paying $30 per month for a data package i rarely used.' **** 'used'
----'but after owning it for over a year i have a list of complaints.verizon is my provider and since i have this phone they require a small data package for this phone.' **** 'small'
----'good no data package phone.' **** 'good'
----'tired of the data package thing......love this phone....is everything i need in a phone....quite satisfied with all the functions of this phone' **** 'tired'
-
-Negative Reviews:
-
----'in short if you are going to buy a phone that requires a data package make sure it is useful with internet capability.' **** 'sure'
-
-
-================================================================================================================
-__________('seller',)__________
-
-
-Positive Reviews:
-
----'read the reviews carefully to select one that really would work with the lg envx models.fast shipping and good customer service from cellphones-4u seller, although "new" can actually mean the new handset is in an open box without any of the manuals (but can download those from the internet).' **** 'new'
----'so, as far as the lg env3, its a great phone if you can get it to keep working, however as far as this seller.' **** 'working'
-
-Negative Reviews:
-
----"i bought this phone but i cant make calls because the speaker doesn't work, i can only make a call with loudspeaker.i'll try to contact seller, but if you see this is because the seller didn't solve it.be careful from whim you buy!" **** 'careful'
----'verizon rep told me that the consumer should always ask first from the seller what the meid or esn # is before purchasing any cell phone then to verify it with the carrier to make sure it is not a hot item.' **** 'first'
----'i do wish seller had been up front about it being a rebuilt phone instead of implying it was a new phone... buyer beware ...' **** 'front'
----'contacted the seller and they were very easy to work with and immediately shipped another phone to me.' **** 'easy'
-
-
-================================================================================================================
-__________('plan',)__________
-
-
-Positive Reviews:
-
----'works with my current verizon plan and i was able to connect with no problems.' **** 'able'
----'the rugged phone required a minimal data plan so we already had a plan in place, but we found out when we started the activation process for the env3 that we were going to be forced to buy a bigger plan.' **** 'bigger'
----'verizon activates a data plan  but was able to call them and have the data turned off.' **** 'able'
----'this plan was perfect for my price range and had all the features i needed for my usage.' **** 'perfect'
-
-Negative Reviews:
-
----"my daughter really likes this phone and her's broke and our plan was not up for a renewal." **** 'renewal'
-
-
-================================================================================================================
-__________('great',)__________
-
-
-Positive Reviews:
-
----'i always wanted this phone when i was with t-mobile.i thought it was a solid great looking phone,but i was in the wrong cell company.' **** 'solid'
----'will update my review then...the phone was in brand new condition and seemed to function great other than the fact that i could not activate it.' **** 'other'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'needed the same cell phone since mine no longer charged and this way could charge new battery and put in old phone to download the backup assistant to get my contacts.' **** 'new'
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'daily'
----'i chose this phone for 2 main reasons: i wanted a cell phone with very good battery life and one that could take quality pictures (for a cell phone) and save them to external memory.' **** 'good'
----'i ended up purchasing a new battery.' **** 'new'
----'i did this and the new battery did the same thing.' **** 'new'
----'since i was desperate i went and purchased a new battery.' **** 'new'
----'i will probably have to purchase a new battery for it.' **** 'new'
----'this battery is worse than the first one!' **** 'first'
----'strong battery, easy use/setup and clear reception on calls to date.' **** 'strong'
----'i found a demonstration video quickly with a search.i had the problem after over two years of perfect performance, and this easy fix came through when software/firmware updates, and a new battery fell short.' **** 'new'
----'now to get all the information off of the lg i have to buy a new battery for it !!!' **** 'new'
----'phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and i wasnt to happy with that since i wound up buying a new battery for it.overall it was fine, got me through being phoneless.' **** 'new'
----"i plan to get an extra battery at the same time i buy the blue version - that should cut down on those hassles in my situation.now about the pix: i'm constantly amazed by the awesome ones i'm able to take on a phone(!)" **** 'extra'
----'then, it would randomly shut off and sometimes whenever i tried to turn it back on, it would say "improper battery" and shut off after 10 seconds.phones #2-4 all had the exact same issue, and probably my biggest issue.' **** 'improper'
----'it is smaller than i expected and the battery will not hold a charge long.it is not that ease to operate.' **** 'smaller'
----'i did, and the new battery came within days.' **** 'new'
----'good battery life, good sound quality, grabs signals well and has held up without a single scratch - impressive.' **** 'good'
----'phone was the same as what i had, but this one came with no book and the battery is bigger than the original one that should be in it.' **** 'bigger'
----'phone was the same as what i had, but this one came with no book and the battery is bigger than the original one that should be in it.' **** 'original'
-
-Negative Reviews:
-
----'it will sometimes think the battery is dead even after hours of charging and then shut itself off.' **** 'dead'
----"just replaced the original battery a few days ago, because the battery didn't seem to hold a charge for very long.if you can afford a smart phone, by all means get one!" **** 'original'
----"no scratches, but the battery  just doesn't last like all the other lg env3s we have owned." **** 'last'
----"we even bought a new battery for it, but it apparently isn't the fault of the battery; it still doesn't hold a charge." **** 'new'
----'i had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'new'
----'i had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'better'
----'this battery is worse than the first one!' **** 'worse'
----'i found a demonstration video quickly with a search.i had the problem after over two years of perfect performance, and this easy fix came through when software/firmware updates, and a new battery fell short.' **** 'short'
----'when i received the phone the battery that was sent was the wrong battery, but they included a card stating that if the phone or battery is in error, please email them asap.' **** 'wrong'
-
-
-================================================================================================================
-__________('keyboard', 'for', 'texting')__________
-
-
-Positive Reviews:
-
----'good for a non smart phone though and has a decent camera and good keyboard for texting' **** 'good'
-
-Negative Reviews:
-
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'easy'
----"larger keyboard on the inside for texting yet the phone is small enough it doesn't take up a lot of room." **** 'larger'
----'this is the best texting phone for those who love an actual keyboard.' **** 'actual'
----"the flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'convenient'
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----'very simple to use and good if you do not need  a smart phone.' **** 'simple'
----'for me next best to a smart phone.' **** 'best'
----'decebt features does eveything you would need..biggest problem i have upgrading to a new smart phone, is this phone....i like it!' **** 'new'
-
-Negative Reviews:
-
----'very simple to use and good if you do not need  a smart phone.' **** 'good'
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'did not want to buy a regular cell phone from verizon.' **** 'regular'
----'i purchased this cell phone and when i tried to activate the cell phone, i was told that the cell phone is listed as stolen or lost.' **** 'told'
----'very nice cell, mine was dark red, excellent keyboard for texting, nice layout, easy to handle, looks great, i went to the verizon store to have my old cell transferred to this one, & the very knowledgeable employee told me that this was one of their best phones ever & one of the most popular.' **** 'nice'
----'other than those small issues, it is a pretty good cell phone.' **** 'good'
----"i bought this phone because i am sick of my cell phone company trying to push technology on me that i don't want or need.i had this phone in the past and really loved it!so when i came across it here on amazon,i bought for a good price.the only regret that i have about this order is that the deal didn't come with the manual of operation.otherwise,the phone has been functioning great and i did receive the phone exactly as described by the distributor." **** 'sick'
----'not fancy but that allows me to have a lower cell phone bill.' **** 'lower'
----'for me, a new cell phone user, i found navigation difficult.' **** 'new'
-
-Negative Reviews:
-
----'there are some cons to this phone but i have not had any issues with the phone randomly turning off.pros:-battery life; my last cell phone was also an lg and it had great battery life, as does this phone.' **** 'last'
----'i always wanted this phone when i was with t-mobile.i thought it was a solid great looking phone,but i was in the wrong cell company.' **** 'wrong'
----'very nice cell, mine was dark red, excellent keyboard for texting, nice layout, easy to handle, looks great, i went to the verizon store to have my old cell transferred to this one, & the very knowledgeable employee told me that this was one of their best phones ever & one of the most popular.' **** 'mine'
----'other than that the cell phone works fine for what i needs it.' **** 'other'
----'this is a great little cell phone.' **** 'little'
----'does what you need for a simple cell phone, even can access facebook and e-mail.' **** 'simple'
----'needed a nice cell phone that was not a smart phone for my mother.' **** 'nice'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----'it takes good pictures for the type of phone and the calls are very clear.' **** 'clear'
-
-Negative Reviews:
-
----"warning: if you only want to text and make calls be sure to put a data block on this phone with your svc provider or you'll inevitably hit one of the data usage buttons and get charged." **** 'sure'
----'when it was new it would go for well over 5 days day and night with around 20 short calls and around 150 texts of different sizes.these days i have to charge it after 2 or 3 full days, and if i talk on phone for more than an hour straight, it might lose all battery just because of the heat of the phone for some reason.' **** 'short'
----"this is a big problem when you are expecting important calls and haven't realized the phone has gone off!" **** 'important'
----'not able to hear any calls.' **** 'able'
-
-
-================================================================================================================
-__________('front',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('speaker',)__________
-
-
-Positive Reviews:
-
----"well, you have to open the phone where the keyboard is and push speaker phone, but you can't use speaker while the phone is closed." **** 'push'
----'compact, easy to use, clear speaker, large buttons for fat fingers, flip open qwerty keypad and easy to see icons for the various programs.' **** 'clear'
-
-Negative Reviews:
-
----"sometimes when i text it turns itself off unexpectedly which is not good and i can only use it on speaker phone now because the outside earpiece isn't working anymore." **** 'good'
-
-
-================================================================================================================
-__________('microsd', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"one thing that was a little weird and surprising is that i had expected to be able to just put the microsd card in the phone and transfer my contacts from my old phone to this lg but for some reason i couldn't figure out how to get it to recognize the card for that." **** 'able'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'long'
----'i have had this phone for almost 4 years and loved it the whole time.' **** 'whole'
----"i didn't bother contacting the seller yet again because quite frankly, it wasn't worth my time and most likely, i'd get stuck with shipping charges again.if you are thinking about buying, i would move on to something else and buy from somewhere else." **** 'likely'
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'long'
----"it doesn't hang loosely on his belt or in his pocket and it lasts a long time." **** 'long'
----'this is the first time i purchased from amazon.' **** 'first'
----'however, the phone seems to work this time...all in all, i paid extra money for shipping a phone which is not working, and waited for a very long time to get a replacement.' **** 'long'
----'our toddler plays with it all the time and it is still going strong.' **** 'strong'
----'my dad got one the same time i got mine and he cant send or receive pictures.' **** 'mine'
----'it got here on time and came with a charger!' **** 'charger'
----'shipped in at a good time.' **** 'good'
-
-Negative Reviews:
-
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'new'
----"its many features available have yet to be exercised - someday i'll have free time to roam and test." **** 'free'
----"great as far as responding to issues but the fact that the phone is defective and you need one to use in the mean time and they can't send you a replacement." **** 'mean'
----"i didn't bother contacting the seller yet again because quite frankly, it wasn't worth my time and most likely, i'd get stuck with shipping charges again.if you are thinking about buying, i would move on to something else and buy from somewhere else." **** 'worth'
----'just got it and i hope it will last me a long time, only time will tell.' **** 'long'
----'it was a good phone for a long time, my husband and i both had one.' **** 'long'
----'affordable and will last a very long time.' **** 'long'
-
-
-================================================================================================================
-__________('lg', 'env3')__________
-
-
-Positive Reviews:
-
----'i searched lg and verizon for various phones, but finally found the env3 here, brand new, and at a low price.' **** 'new'
----"no scratches, but the battery  just doesn't last like all the other lg env3s we have owned." **** 'other'
----'its my second lg env3.' **** 'second'
----"the first lg env3 i rec'd had problems with the speaker." **** 'first'
----'beware of old software on &#34;new&#34; lg env3 phones.' **** 'new'
-
-Negative Reviews:
-
----'apparently, my new env3 has the latest firmware and lg seems to have addressed all of the issues and then some.' **** 'new'
-
-
-================================================================================================================
-__________('months',)__________
-
-
-Positive Reviews:
-
----"but don't expect it to make it past 4 months." **** 'past'
----'stupid me, bought another one here about six months ago.' **** 'stupid'
-
-Negative Reviews:
-
----'worked for less than 2 months.' **** 'less'
+---'The accessories that work for this phone were very inexpensive at Amazon.' **** 'inexpensive'
+---'She was very sad and so I went on Amazon to see if this phone was still out there for sale.' **** 'sad'
+---'i have never tried ordering a used or refurbished phone but glad i did, verizon was going to charge me over 100 for a replacement and i paid a little more than half that thru amazon, and it looked like new and worked as well... very pleased.' **** 'new'
+---'I am certain that Amazon could have sold the items.' **** 'certain'
 
 
 ================================================================================================================
@@ -1201,334 +721,17 @@ __________('flip',)__________
 
 Positive Reviews:
 
----'it does that with all my pictures, contacts and easy flip keyboard for texting.' **** 'easy'
----"it has a mind of it's own and will not let me use the flip open option at all." **** 'open'
----"it's easy to use with flip qwerty keyboard." **** 'easy'
----"the flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'open'
----"i'm not much of a text user but the flip open keyboard certainly makes it easier." **** 'open'
+---'It does that with all my pictures, contacts and easy flip keyboard for texting.' **** 'easy'
+---"It has a mind of it's own and will not let me use the flip open option at all." **** 'open'
+---"It's easy to use with flip qwerty keyboard." **** 'easy'
+---"The flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'open'
+---"I'm not much of a text user but the flip open keyboard certainly makes it easier." **** 'open'
 
 Negative Reviews:
 
----'compact, easy to use, clear speaker, large buttons for fat fingers, flip open qwerty keypad and easy to see icons for the various programs.' **** 'open'
----'the phone will only work with the flip open and on speaker.' **** 'open'
-
-
-================================================================================================================
-__________('touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'ready'
----'i wanted an older style phone without the touch screen, this is perfect!!!!!!' **** 'touch'
----'beats the pants of any touch screen i have used.' **** 'touch'
-
-Negative Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'touch'
----"i purchased this phone for my husband who didn't want a smart phone or a phone with a touch screen." **** 'touch'
----'this cell phone is decent for the person that does not care for the touch screen smart phone type of cell.' **** 'touch'
----'i bought this phone because my touch screen decided to stop responding on my other one.' **** 'other'
----"he had this phone before and liked it because it didn't have the touch screen (which always seemed to break on the smart phone)." **** 'touch'
----"i actually like that it's not touch screen." **** 'touch'
----'those touch screen wont apply to my always cold finger tips.' **** 'touch'
----"this lg env3 vx9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'touch'
----"it's hard to find a good phone anymore that doesn't have a touch screen." **** 'touch'
----"i don't want a touch screen phone." **** 'touch'
----'i have not seen the item.my friend wanted a new(lg env3 vx9200)phone and not a refurb.verizon gave him a new touch screen,but he felt more comfort w/what he was used to the lg vx9200.' **** 'new'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----'the separate keyboard makes it fast and easy to send and receive text messages.' **** 'receive'
----'great for anyone who wants a solid basic text phone.easy to learn how to use.. nice size.' **** 'solid'
-
-Negative Reviews:
-
----"it's still very fast compared to anything i've seen anyone with, especially any smartphones with touch screens, but it just takes a few more seconds when loading music or when i write an extremely long text(like 100 words or more)." **** 'long'
----'this phone is exactly what we expected - a simple text and talk phone that we plan to give the kids when they are away from home.' **** 'simple'
----'i had wanted one for a long time and recently had to go back to just texting and so for that great but when you go from an iphone to this was kinda depressing but all and all the phone did what i needed except took too many steps in doing a new text but love the idea of flipping open and the keyboard is very easy to use.' **** 'new'
----'i have had this phone even shut off in the middle of very long text messages.' **** 'long'
----'i also experience very slow text messaging.' **** 'slow'
----"(a common problem back in 2008-2010 when this baby was new) it'll still call and text and get compliments like &#34;i used to have that phone!&#34;i like that it does two things well: call & text." **** 'call'
-
-
-================================================================================================================
-__________('year',)__________
-
-
-Positive Reviews:
-
----'so i set out to find something else to use for at least a year until i was eligible.' **** 'eligible'
----'much less expensive then doing the two year deal with verizon.' **** 'expensive'
-
-Negative Reviews:
-
----"it arrived in absolutely excellent shape (it took three days with expedited shipping: it would have been sooner if it wasn't for the new year holiday), and i love it for it's simplicity." **** 'new'
----'much less expensive then doing the two year deal with verizon.' **** 'less'
----"this sucks because it costs and extra $120 per year for nothing, and that makes me mad, because i'm getting screwed by the phone company, verizon." **** 'extra'
----'perfect phone for our needs to wait to end the two long year contract required from verizon.' **** 'long'
-
-
-================================================================================================================
-__________('little',)__________
-
-
-Positive Reviews:
-
----"it's a good little phone for the price." **** 'good'
-
-Negative Reviews:
-
----'when i tried to dispute the seller would not contact me back.bottom line this may be a good little phone for the features ect.' **** 'good'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'ready'
----'i like this phone because its not to small and the screen is readable and i dont have to deal with the internet , love it for the price that verzion charges now .' **** 'small'
----"this phone was in excellent condition and although it is not a smart phone which is exactly what i didn't want, it has all the necessary/desired options such as a slot for sd card, a camera, and manual screen for typing that a lot of manly men seem to appreciate." **** 'manual'
----'upon receiving the phone the front screen was  almost a complete white out, after having the phone for 3 days the speakers went and now i am only able to talk on the phone if the speakerphone is on.' **** 'complete'
----"i purchased this phone to replace my old env3 because verizon has nothing for you if you don't want to invest in a smartphone.my old env3 got wet and lost it's outer screen but it was still a better phone with 1 display missing than anything currently being offered." **** 'outer'
----'i wanted an older style phone without the touch screen, this is perfect!!!!!!' **** 'touch'
----"my main qualm is the fact that all at once the external screen remains white and the inner screen is distorted to the point where i can't even see what i'm doing anymore." **** 'white'
----'does not hold a charge, locks up with a white screen and cuts out when talking!' **** 'white'
----'the external screen is too small.' **** 'small'
----'it is a basic phone and has enough functionality for him.the larger screen on the inside is nice for organizing contacts and viewing texts in an easier manner.' **** 'larger'
----'beats the pants of any touch screen i have used.' **** 'touch'
----'new screen and battery, works great so far!' **** 'new'
----'when first received, the screen was detached which was a big disappointment and i knew right then i would send it back.' **** 'first'
----'the flip full keyboard is wonderful for my simple texting needs, the larger inside screen is nice to veiw my pics on.' **** 'nice'
----'i like the bigger screen and more features to the camera--lighting, etc.' **** 'bigger'
----'it does texting with a full hardware keyboard, it has a good internal screen, and a decent camera/video function, and can hold music files internally like an mp3 player.' **** 'good'
-
-Negative Reviews:
-
----'i am not ready to convert to a touch screen phone yet.' **** 'touch'
----"i purchased this phone for my husband who didn't want a smart phone or a phone with a touch screen." **** 'touch'
----'i like the phone but the top screen started coming unglued by the 2nd week.' **** 'top'
----'upon receiving the phone the front screen was  almost a complete white out, after having the phone for 3 days the speakers went and now i am only able to talk on the phone if the speakerphone is on.' **** 'white'
----'this cell phone is decent for the person that does not care for the touch screen smart phone type of cell.' **** 'touch'
----'i bought this phone because my touch screen decided to stop responding on my other one.' **** 'other'
----"who's phone lost it's front screen (screen white, and no keypad functionality, me!)" **** 'front'
----"the phone's exterior and interior screen were scratched to hell, there was red marker scribbled on the inside screen and the phone didn't even turn on." **** 'interior'
----"he had this phone before and liked it because it didn't have the touch screen (which always seemed to break on the smart phone)." **** 'touch'
----"i actually like that it's not touch screen." **** 'touch'
----'those touch screen wont apply to my always cold finger tips.' **** 'touch'
----"this lg env3 vx9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'touch'
----"it's hard to find a good phone anymore that doesn't have a touch screen." **** 'touch'
----"i don't want a touch screen phone." **** 'touch'
----"nevertheless, i don't need the accessories since i don't have the phone.i shall just donate the new screen protectors and the new body glove to a non-profit organization like goodwill or salvation army." **** 'new'
----'the screen went black and the sound was muffled.' **** 'black'
----"mainly the outside screen is so small...it's worthless." **** 'small'
----'you really cannot use teh outside screen so just consider it as if you only have the inside screen.' **** 'consider'
----'small screen but ok. camera and video ok for a toy but i have a dedicated camera for pictures and video.' **** 'small'
----'the phone worked fine but there was a white screen on both screens.' **** 'white'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----'everything is easy.....i give it a &#34;6&#34; star rating!alice from tehachapi, ca' **** 'easy'
----'everything is easy.....i give it a &#34;6&#34; star rating!alice from tehachapi, ca' **** 'give'
----'everything was perfect.' **** 'perfect'
----'i am a senior citizen and believe you should check out to make sure everything is in good working condition....b e f o r e...you sell it to another person.....not offer help after the fact.' **** 'sure'
----'i received the phone earlier than expected, the phone works great so far, and i am happy with everything.' **** 'happy'
-
-Negative Reviews:
-
----'other than that everything went smoothly, shipping was on time and had no issues ordering.' **** 'other'
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'very simple and pretty decent camera along with nice key board.' **** 'decent'
----"no factory box despite being sold as new.mom likes the phone, it's the exact same as her old one (v1 i believe) with a better camera for her to take photos of her cat with." **** 'better'
----"i'll start with what i liked:-  the overall design of the phone was pretty nice.-  it has a larger than usual qwerty keyboard which was awesome because i've got some fat sausage fingers.-  3mp camera which is pretty much double what you get on most similar phones.-  microsd support up to 16gbnow for what i didn't like:-  didn't hold a battery charge for very long compared to other similar phones.-  any time i wanted to make a phone call i had to power cycle the phone or else the person i called couldn't hear me and i couldn't hear them.-  bluetooth issues where it took forever to get the phone to pair with sync in my car, and then it would only stay paired for that one car ride, so i had to delete the phone from my car and then re-pair it.-  no tech support for the phone / hard to find information online (although this is my fault for buying an older phone, with this many glitches and issues i feel you need help to figure out what's going on so it's relevant).i had high hopes for this phone because the features i liked, i really liked." **** 'double'
----"i loved this phone when verizon offered it (it's the best camera i've ever seen in a cellphone)." **** 'best'
----'it is simple, has decent sound quality, fairly good quality camera, easy to use qwerty keyboard.' **** 'easy'
----'it looked good, felt good holding it, and has a good camera.' **** 'good'
----'the phone camera is relatively decent.' **** 'decent'
----'and the camera, while attractive for being 3mp, is clumsy and tries to go to video mode a lot.' **** 'attractive'
----'the phone is solid, reliable and the camera is great.' **** 'reliable'
----'if you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'good'
-
-Negative Reviews:
-
----'very simple and pretty decent camera along with nice key board.' **** 'simple'
----"if you get this phone and it has a problem, you might want to replace it because mine does not.it also has a very good camera for taking pics and videos, i don't use those a whole lot but the pics always look great and videos are a bit laggy, but surprisingly good if you hold it steady." **** 'good'
----"the camera isn't worth a s***." **** 'worth'
-
-
-================================================================================================================
-__________('take',)__________
-
-
-Positive Reviews:
-
----"so take it for what it's worth..." **** 'worth'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('pictures',)__________
-
-
-Positive Reviews:
-
----'easy to shoot pictures.' **** 'easy'
----'it takes good pictures for the type of phone and the calls are very clear.' **** 'good'
----'the camera actually takes pretty decent pictures and i am glad i went refurbished- i saved a lot of money and i got a practically new phone (few scratches on the front face).' **** 'decent'
----'easy to use and can take pictures.' **** 'easy'
----'taking pictures with it is easy and it takes great pictures!' **** 'easy'
----'the camera takes very nice pictures for a phone with a 3mp camera.' **** 'nice'
----"as a basic phone this would actually have been alright, there's nothing outstanding and where things are less than optimal mechanically(the camera) the software isn't terrible, but if you're on prepaid with this thing, you're going to be stuck using the smart phone plans and that is insane for the following reasons:you're paying at least $60, and that's for the stripped down serviceyou're using a mobile web app that is even less impressive than that on the basic phoneif you try to use any of the data that you've bought your phone will probably freezethis phone also takes some pretty disappointing pictures, there are some options to edit them on the phone but there's only so much that can be done." **** 'disappointing'
-
-Negative Reviews:
-
----'i did not expect to be able to take pictures of animals that are running towards me to turn out perfectly clear and with no blur.' **** 'able'
----'the camera actually takes pretty decent pictures and i am glad i went refurbished- i saved a lot of money and i got a practically new phone (few scratches on the front face).' **** 'glad'
----'it does see my pictures and music but not my contacts.' **** 'music'
----'that is one of the most important features since i like tec things simple, but want great pictures of the grandkids.' **** 'want'
----"if you're looking for a phone that takes great pictures, is simple and straight-forward, and is compact and easy to navigate, this is your product." **** 'simple'
----"easy to text and send pictures and you can't beat the price for a new contract-free phone." **** 'easy'
----'occasionally, mine will turn off when i try to take pictures.' **** 'mine'
----'my dad got one the same time i got mine and he cant send or receive pictures.' **** 'receive'
-
-
-================================================================================================================
-__________('lg', 'env3', 'vx9200')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"this lg env3 vx9200 is a solid, dependable phone for teenagers or those who don't need a touch screen." **** 'solid'
-
-
-================================================================================================================
-__________('simple',)__________
-
-
-Positive Reviews:
-
----'simple fix to reinsert the battery.it is easy to use and understand.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'phone works really good though.' **** 'good'
----'works great and easy to use.' **** 'easy'
----'works like new.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('a', 'great', 'price')__________
-
-
-Positive Reviews:
-
----'great phone at a good price.' **** 'good'
----'the price was good, i purchased this phone as a new phone, received it prior to the estimated arrival time, fully charged and works great!' **** 'good'
-
-Negative Reviews:
-
----"it's super durable and was a great price for something that i just needed for a temporary fix until my upgrade." **** 'super'
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'this one is in much better condition and she takes better care of it.' **** 'much'
-
-Negative Reviews:
-
----'lg makes other better phones.' **** 'other'
-
-
-================================================================================================================
-__________('never',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'new never been used env3, bringing back the days!' **** 'new'
-
-
-================================================================================================================
-__________('bells', 'and', 'whistles')__________
-
-
-Positive Reviews:
-
----"most phones at stores now are smart phones; this phone is great for texting when you don't want the other bells and whistles." **** 'other'
-
-Negative Reviews:
-
----'no longer needed all the bells and whistles of a droid.' **** 'longer'
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'just wanted a basic phone with good call quality and battery duration that could take a decent photo if needed and supported moderate to vigorous texting and this is it.' **** 'good'
----'its good for texting and has nice call quality.' **** 'nice'
-
-Negative Reviews:
-
----'good call quality, battery is good length and warns before shutting down, the buttons on exterior of phone do not activate the phone when it is locked, full qwerty keyboard, good mp camera, etc.' **** 'good'
----'you can by-pass the data plan requirements with a very simple call to verizon customer service.' **** 'simple'
----"99 percent it not new  call your provider an give them the meid number on back of phone.mine  one i got was supposed to be new it wasn't it was  2 years old an even showing proof that  the item is used the seller would not work with me." **** 'new'
-
-
-================================================================================================================
-__________('body', 'glove')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"nevertheless, i don't need the accessories since i don't have the phone.i shall just donate the new screen protectors and the new body glove to a non-profit organization like goodwill or salvation army." **** 'new'
+---'Compact, easy to use, clear speaker, large buttons for fat fingers, flip open qwerty keypad and easy to see icons for the various programs.' **** 'open'
+---'Flip open style is better than a slider' **** 'open'
+---'The phone will only work with the flip open and on speaker.' **** 'open'
 
 
 ================================================================================================================
@@ -1537,107 +740,24 @@ __________('a', 'new', 'battery')__________
 
 Positive Reviews:
 
----'needed the same cell phone since mine no longer charged and this way could charge new battery and put in old phone to download the backup assistant to get my contacts.' **** 'new'
----"i guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and i don't use it a lot." **** 'daily'
----'i ended up purchasing a new battery.' **** 'new'
----'i did this and the new battery did the same thing.' **** 'new'
----'since i was desperate i went and purchased a new battery.' **** 'new'
----'i will probably have to purchase a new battery for it.' **** 'new'
----'i found a demonstration video quickly with a search.i had the problem after over two years of perfect performance, and this easy fix came through when software/firmware updates, and a new battery fell short.' **** 'new'
----'now to get all the information off of the lg i have to buy a new battery for it !!!' **** 'new'
----'phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and i wasnt to happy with that since i wound up buying a new battery for it.overall it was fine, got me through being phoneless.' **** 'new'
----'i did, and the new battery came within days.' **** 'new'
+---'Needed the same cell phone since mine no longer charged and this way could charge new battery and put in old phone to download the backup assistant to get my contacts.' **** 'new'
+---"I guess it is new as stated, but it must have been sitting a long time cause the battery needs to be charged daily, and I don't use it a lot." **** 'daily'
+---'I ended up purchasing a new battery.' **** 'new'
+---'I did this and the new battery did the same thing.' **** 'new'
+---'Since I was desperate I went and purchased a new battery.' **** 'new'
+---'I will probably have to purchase a new battery for it.' **** 'new'
+---'I had the problem after over two years of perfect performance, and this Easy Fix came through when software/firmware updates, and a new battery fell short.' **** 'new'
+---'NOW to get all the information off of the LG I have to buy a new battery for it !!!' **** 'new'
+---'Phone was in great condition, even came with a charger but the problem it had was that the battery life was horrible after a week and I wasnt to happy with that since I wound up buying a new battery for it.' **** 'new'
+---'I did, and the new battery came within days.' **** 'new'
 
 Negative Reviews:
 
----"we even bought a new battery for it, but it apparently isn't the fault of the battery; it still doesn't hold a charge." **** 'new'
----'i had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'new'
----'i had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'better'
----'i found a demonstration video quickly with a search.i had the problem after over two years of perfect performance, and this easy fix came through when software/firmware updates, and a new battery fell short.' **** 'short'
-
-
-================================================================================================================
-__________('data', 'plan')__________
-
-
-Positive Reviews:
-
----'(i had to specifically request no data plan when activating over the phone with a live person because activating online required it.)' **** 'request'
----'the rugged phone required a minimal data plan so we already had a plan in place, but we found out when we started the activation process for the env3 that we were going to be forced to buy a bigger plan.' **** 'bigger'
----'verizon activates a data plan  but was able to call them and have the data turned off.' **** 'able'
----'this was a great way to give him the benefit of a phone for calls as well as an easier way to text because of the full keyboard on the inside.i was able to activate this through verizon and although when i tried to do it online, it told me i needed a data plan with it, when i called a representative, they were able to activate it without a data plan.' **** 'able'
-
-Negative Reviews:
-
----'verizon is making it so that its older models require the minimum data plans which was really frustration to find out.' **** 'minimum'
----"he doesn't need a smart phone with expensive data plan and this is the perfect one for him ." **** 'expensive'
----'to save our niece some money since she was paying extra for a data plan she was not using, we replaced her smartphone with this phone.' **** 'extra'
-
-
-================================================================================================================
-__________('texting',)__________
-
-
-Positive Reviews:
-
----'the env3 is a wonderful phone with good texting functionality.' **** 'good'
----'very easy to use and wonderful for texting.' **** 'easy'
----'this phone is really good for texting and calls, which is exactly what i wanted it for.' **** 'good'
----"i'm a teenage girl who got this phone for christmas because everyone had it and it seemed good for texting." **** 'good'
----'nice phone with good texting features.' **** 'good'
----"this one is pretty, and again has good texting, but that's about it." **** 'good'
----'this basic phone is sturdy, easy to use and is perfect for all his texting and calling needs.' **** 'perfect'
----'if you are looking for a basic phone with easy texting and a good camera - this is the one for you!' **** 'easy'
----'its good for texting and has nice call quality.' **** 'good'
-
-Negative Reviews:
-
----'just wanted a basic phone with good call quality and battery duration that could take a decent photo if needed and supported moderate to vigorous texting and this is it.' **** 'moderate'
----"it's a good texting phone if you're not ready to pay for the data package for a smartphone." **** 'good'
----'this lg phone is easy to use, lightweight and the texting is simple, even for a grandma!' **** 'simple'
----"the flip open keyboard is very convenient for texting and it is way more durable than you would imagine, except it doesn't like water (thats what happened to the first one)." **** 'convenient'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
----'when it was new it would go for well over 5 days day and night with around 20 short calls and around 150 texts of different sizes.these days i have to charge it after 2 or 3 full days, and if i talk on phone for more than an hour straight, it might lose all battery just because of the heat of the phone for some reason.' **** 'new'
----'verizon will not replace the phone since i bought it used unknowingly and just cellular says the warranty is up in 60 days which sad passed.' **** 'sad'
----'this phone was sent out by amazon, it was 2 days late getting here, then it had the wrong stickers put on the buttons so you cant dial correctly.' **** 'late'
----'the whole process only took a few extra days and the new phone arrived.this is a perfect phone for my husband.' **** 'extra'
----'it worked adequately for the first 60 days or so and then it started randomly shutting down.' **** 'first'
----'within 3 days i had a new one that works great.' **** 'new'
-
-Negative Reviews:
-
----"the first few days it didn't made any problems." **** 'first'
----'owned it for little over 90 days and the screen went blank with a white light.' **** 'little'
----'only negative was delifery was 2 days late.' **** 'negative'
----'only negative was delifery was 2 days late.' **** 'late'
-
-
-================================================================================================================
-__________('n', 'good', 'condition')__________
-
-
-Positive Reviews:
-
----'the phone arrived in good condition.' **** 'good'
----'i bought a used env3 it said it was used but in very good condition.' **** 'good'
----'the phone is in good condition.' **** 'good'
----'it came quickly and in good condition.' **** 'good'
----'when i bought it on the comments says it was very good condition.' **** 'good'
----'the accessories were unused but appeared to be in good condition.' **** 'good'
----'the phone came in record time and was in good condition.' **** 'good'
----'the phone would be fine if it were new or even used but in good condition.' **** 'good'
----'the phone was in good condition and works great.' **** 'good'
-
-Negative Reviews:
-
----'this phone appears new and in good condition, but the battery will not hold a charge for more than 4 hours.' **** 'good'
+---'Since I was desperate I went and purchased a new battery.' **** 'desperate'
+---"We even bought a new battery for it, but it apparently isn't the fault of the battery; it still doesn't hold a charge." **** 'new'
+---'I had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'new'
+---'I had to request a new battery once & was quickly sent another used battery that is not any better.' **** 'better'
+---'I had the problem after over two years of perfect performance, and this Easy Fix came through when software/firmware updates, and a new battery fell short.' **** 'short'
 
 
 ================================================================================================================

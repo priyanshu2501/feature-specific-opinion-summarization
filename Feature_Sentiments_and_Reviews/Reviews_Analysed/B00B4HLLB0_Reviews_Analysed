@@ -3,95 +3,12 @@ __________('battery', 'life')__________
 
 Positive Reviews:
 
----'very easy to use,battery life it real good(so far) textting is easy this the keyboard, she tells me its a dumb smartphone and the price was good.' **** 'easy'
+---'Battery life reasonable.' **** 'reasonable'
+---'The battery life is good too.' **** 'good'
 
 Negative Reviews:
 
----'thankfully the battery life is long or i would have felt completely cheated for paying anything for this piece of garbage.' **** 'long'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'screen is nice and bright and the keyboard works well.' **** 'nice'
----'good little basic phone with touch screen.' **** 'touch'
----"as for the touch screen, it's slow and kind of unresponsive unless you really push down on it." **** 'touch'
-
-Negative Reviews:
-
----'replaced my old phone because the keypad was too small, and the screen was not touch effective.' **** 'touch'
----'replaced my old phone because the keypad was too small, and the screen was not touch effective.' **** 'effective'
----'i have tried a bunch of things, but cant get anything larger than 16gb to not crash the phone.otherwise the touch screen is fairly responsive, and it is more customizable than any other basic phone i have seen.' **** 'touch'
----'i have tried a bunch of things, but cant get anything larger than 16gb to not crash the phone.otherwise the touch screen is fairly responsive, and it is more customizable than any other basic phone i have seen.' **** 'responsive'
----'not too sensitive on the touch screen.' **** 'touch'
----'also, i found if you receive a long text, the screen is so small that it keeps closing the message on me while trying to read it.' **** 'small'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'he has owned it for over a month now and still has a hard time compared to his basic flip phone that had no texting or pictures capabilities.' **** 'hard'
-
-
-================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----'everything was easy to set up (much much easier than my smart phone) and i was texting away with hardly a pause as soon as i got it.' **** 'easier'
-
-Negative Reviews:
-
----"i'm not interested in a smart phone, and it's getting harder and harder to find these old gems." **** 'interested'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----'i wanted it to be able to transfer my text messages easily to my pc for archiving.' **** 'able'
----'in order to read multimedia messages that i sent via email, i have to press get which sends a second text message.' **** 'second'
-
-Negative Reviews:
-
----'also, i found if you receive a long text, the screen is so small that it keeps closing the message on me while trying to read it.' **** 'long'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'price was fair, shipping fast, and perfect for my needs.' **** 'fair'
----'very easy to use,battery life it real good(so far) textting is easy this the keyboard, she tells me its a dumb smartphone and the price was good.' **** 'good'
-
-Negative Reviews:
-
----'this dealer had the lowest price on the web for this phone.' **** 'lowest'
+---'Thankfully the battery life is long or i would have felt completely cheated for paying anything for this piece of garbage.' **** 'long'
 
 
 ================================================================================================================
@@ -100,14 +17,38 @@ __________('keyboard',)__________
 
 Positive Reviews:
 
----"the only thing i don't like is that the keyboard slides open to the side instead of down, not a big deal." **** 'open'
----'very easy to use,battery life it real good(so far) textting is easy this the keyboard, she tells me its a dumb smartphone and the price was good.' **** 'easy'
+---"The ONLY thing I don't like is that the keyboard slides open to the side instead of down, not a big deal." **** 'open'
+---'Very easy to use, battery life it real good(so far) textting is easy this the keyboard, She tells me its a dumb smartphone and the price was good.' **** 'easy'
 
 Negative Reviews:
 
----'screen is nice and bright and the keyboard works well.' **** 'bright'
----'the keyboard is impossible to read and maneuver even when wearing my reading glasses.' **** 'impossible'
----'i like that the keys on the keyboard are soft instead of hard making it easy to type.' **** 'hard'
+---'Screen is nice and bright and the keyboard works well.' **** 'bright'
+---'The keyboard is impossible to read and maneuver even when wearing my reading glasses.' **** 'impossible'
+---'I like that the keys on the keyboard are soft instead of hard making it easy to type.' **** 'hard'
+
+
+================================================================================================================
+__________('smart',)__________
+
+
+Positive Reviews:
+
+---'Everything was easy to set up (much much easier than my smart phone) and I was texting away with hardly a pause as soon as I got it.' **** 'easier'
+
+Negative Reviews:
+
+---"I'm not interested in a smart phone, and it's getting harder and harder to find these old gems." **** 'interested'
+
+
+================================================================================================================
+__________('data', 'plan')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -116,10 +57,43 @@ __________('texting',)__________
 
 Positive Reviews:
 
----"it's good for texting." **** 'good'
+---"It's good for texting." **** 'good'
 
 Negative Reviews:
 
+
+
+================================================================================================================
+__________('touch', 'screen')__________
+
+
+Positive Reviews:
+
+---'otherwise the touch screen is fairly responsive, and it is more customizable than any other basic phone i have seen.' **** 'responsive'
+---'Good little basic phone with touch screen.' **** 'touch'
+---"As for the touch screen, it's slow and kind of unresponsive unless you REALLY push down on it." **** 'touch'
+
+Negative Reviews:
+
+---'Replaced my old phone because the keypad was too small, and the screen was not touch effective.' **** 'touch'
+---'Replaced my old phone because the keypad was too small, and the screen was not touch effective.' **** 'effective'
+---'Not too sensitive on the touch screen.' **** 'touch'
+
+
+================================================================================================================
+__________('text', 'messages')__________
+
+
+Positive Reviews:
+
+---'I wanted it to be able to transfer my text messages easily to my PC for archiving.' **** 'able'
+---'In order to read multimedia messages that I sent via email, I have to press Get which sends a second text message.' **** 'second'
+---'I wanted it to be able to transfer my text messages easily to my PC for archiving.' **** 'able'
+---'In order to read multimedia messages that I sent via email, I have to press Get which sends a second text message.' **** 'second'
+
+Negative Reviews:
+
+---'Also, I found if you receive a long text, the screen is so small that it keeps closing the message on me while trying to read it.' **** 'long'
 
 
 ================================================================================================================

@@ -3,24 +3,11 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'everything works well, and the price was terrific.the seller was extremely helpful and supportive.' **** 'helpful'
----'everything works well, and the price was terrific.the seller was extremely helpful and supportive.' **** 'supportive'
+---'The seller was extremely helpful and supportive.' **** 'helpful'
+---'The seller was extremely helpful and supportive.' **** 'supportive'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'the other problem i saw was that the battery did not sit in the phone properly and the back cover did not want to lock in place.' **** 'other'
-
-Negative Reviews:
-
----"every one of the v3 razor's that we have purchased developed a fatal problem within a year or two, but this one broke the fastest of all." **** 'fatal'
 
 
 ================================================================================================================
@@ -29,119 +16,12 @@ __________('pink',)__________
 
 Positive Reviews:
 
----'i love my new pink razorv3 phone!' **** 'new'
----'and being available in pink for my daughter was a plus.i was positively surprised when the phone arrived (and quickly i might add).' **** 'available'
+---'I love my new pink RazorV3 phone!' **** 'new'
+---'And being available in pink for my daughter was a plus.' **** 'available'
 
 Negative Reviews:
 
----'!i ordered the above mentioned phone and i received the hot pink international version instead of this one.' **** 'international'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'everything works good, good reception and easy to use.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----'it also has darn good battery life.' **** 'good'
----'battery life is good and features are easy to use.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'we were not rough with the product, it was poorly crafted.' **** 'rough'
----'the description of the product was very good and matched the phone that was received.' **** 'good'
----'further, "motorola phone tools" software can be easily found on amazon, at very inexpensive prices, and some offerings include the cable.i will update this review should our longer term experiences vary, however thus far we are very happy with this product, its features, and accessories included.' **** 'happy'
-
-Negative Reviews:
-
----"having problem.....electronic not stables ....can be shut down anytime.....don't buy it.....avoid having problem....that why i send it back, i know this product don't have good review, but i give them a change to improve their product....but not too happy about it..." **** 'happy'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'i will continue to use my old phone and the new battery they sent me.if anyone else has a suggestion for someone who has difficulty using a phone and only has use of three fingers let me know.' **** 'new'
----'it also has darn good battery life.' **** 'good'
----'the phone would have been great if i could have found a new battery that was an original motorola battery.' **** 'new'
-
-Negative Reviews:
-
----'it also came with the wrong battery.' **** 'wrong'
----'i put the battery that came with the razr phone, and phone indicated invalid generic battery not motorola original battery, returned to seller with no problem , but stuck with all the cases chargers and car adaptor that i purchase separate.' **** 'original'
----'i never was able to charge the battery......changed 3 times the power cable and never worked.' **** 'able'
----'the product description was not very clear about what was included in the package, so i was relieved that the battery and the plug in charger were included.' **** 'relieved'
-
-
-================================================================================================================
-__________('motorola',)__________
-
-
-Positive Reviews:
-
----'the phone would have been great if i could have found a new battery that was an original motorola battery.' **** 'original'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('sent',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'by the way the phone sent to me was definitely new and not refurbished.' **** 'new'
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
----"i never had problems like this with any of the nokia phones i got directly from at&t...i;'m really not sure if it's the phone itself that's the problem or if something went wrong in unlocking it or if there is incompatibility because of it being european.also, the company sent the wrong charger with the phone and i had to buy my own charger." **** 'wrong'
----'i contacted them three separate times and was told on all three occasions that a new charger would be sent out "tomorrow."' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'this is a good, easy to use phone at a very good price.' **** 'good'
-
-Negative Reviews:
-
+---'I ordered the above mentioned phone and I received the hot pink international version instead of this one.' **** 'international'
 
 
 ================================================================================================================
@@ -150,14 +30,32 @@ __________('razr',)__________
 
 Positive Reviews:
 
----'all i wanted was a phone i could use for calls and texting and the razr is perfect for that.' **** 'perfect'
----'just popped the chip from my other razr and it was good to go.' **** 'good'
----'this is not the same razr i have, mine is chrome where hinged and this is a cheap plastic.' **** 'mine'
+---'All i wanted was a phone I could use for calls and texting and the Razr is perfect for that.' **** 'perfect'
+---'Just popped the chip from my other Razr and it was good to go.' **** 'good'
+---'This is not the same razr I have, mine is chrome where hinged and this is a cheap plastic.' **** 'mine'
 
 Negative Reviews:
 
----'just popped the chip from my other razr and it was good to go.' **** 'other'
----'wife wore out her original razr and wanted another.' **** 'original'
+---'Just popped the chip from my other Razr and it was good to go.' **** 'other'
+---'Wife wore out her original Razr and wanted another.' **** 'original'
+
+
+================================================================================================================
+__________('battery', 'life')__________
+
+
+Positive Reviews:
+
+---'It also has darn good battery life.' **** 'good'
+---'Battery life is good and features are easy to use.' **** 'good'
+---'I will continue to use my old phone and the new battery they sent me.' **** 'new'
+---'It also has darn good battery life.' **** 'good'
+---'The phone would have been great if I could have found a new battery that was an original Motorola battery.' **** 'new'
+
+Negative Reviews:
+
+---'It also came with the wrong battery.' **** 'wrong'
+---'The product description was not very clear about what was included in the package, so I was relieved that the battery and the plug in charger were included.' **** 'relieved'
 
 
 ================================================================================================================
@@ -166,47 +64,10 @@ __________('sim', 'card')__________
 
 Positive Reviews:
 
----'after changing the settings and getting a new sim card, the issue i have now is getting the browser to work along with picture messaging.' **** 'new'
+---'After changing the settings and getting a new SIM card, the issue I have now is getting the browser to work along with picture messaging.' **** 'new'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('charge',)__________
-
-
-Positive Reviews:
-
----'this arrived in perfect new packaging, brand new, in perfect condition.the included battery had reasonable charge to it, so we plugged in her sim card and immediately tested the phone.' **** 'reasonable'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'i had to order a new back.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('version',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'when they shipped 2nd, again not correct color & may be us version but not compatible to at&t services.' **** 'compatible'
----'i received an international version without a warranty.' **** 'international'
 
 
 ================================================================================================================

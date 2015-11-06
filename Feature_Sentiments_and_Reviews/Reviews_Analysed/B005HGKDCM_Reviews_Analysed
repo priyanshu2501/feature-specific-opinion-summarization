@@ -3,14 +3,14 @@ __________('pantech',)__________
 
 Positive Reviews:
 
----"this was actually our son's second pantech ease after he lost the first." **** 'second'
----'this pantech was the best out of them.' **** 'best'
+---"This was actually our son's second Pantech Ease after he lost the first." **** 'second'
+---'This Pantech was the best out of them.' **** 'best'
 
 Negative Reviews:
 
----'this phone is a replacement of my other pantech ease that i had for 3+ years.' **** 'other'
----'this is my second pantech phone.. and it will be my last...dont buy it...' **** 'second'
----'i should have searched longer before deciding on pantech ease.' **** 'longer'
+---'This phone is a replacement of my other Pantech Ease that I had for 3+ years.' **** 'other'
+---'This is my second pantech phone.. and it will be my last... Dont buy it...' **** 'second'
+---'I should have searched longer before deciding on Pantech Ease.' **** 'longer'
 
 
 ================================================================================================================
@@ -19,49 +19,26 @@ __________('battery', 'life')__________
 
 Positive Reviews:
 
----'big keys , easy to text, good speaker phone, lightweight, battery life is good, charges quickly,compact and easy to use' **** 'good'
+---'big keys , easy to text, good speaker phone, lightweight, battery life is good, charges quickly, compact and easy to use' **** 'good'
 
 Negative Reviews:
 
+---'Got a new battery, but it was not that.' **** 'new'
+---'It got stuck in the loading up page or just showed a low battery.' **** 'low'
 
 
 ================================================================================================================
-__________('ease',)__________
+__________('keyboard',)__________
 
 
 Positive Reviews:
 
----'i switched from verizon to at&t; and thought the pantech ease would be similar to my beloved lg voyager (vx10000) i used on verizon.' **** 'similar'
----"this was actually our son's second pantech ease after he lost the first." **** 'first'
+---'The keyboard is easy and travels well, the 3G powered Mobile Web is faster than I expected, it has threaded messaging, the touch screen is more responsive than the Pantech Laser, the call quality is satisfactory and there are many convenient features (Quick Contacts, Inbox, Voice Recognition, etc.).' **** 'easy'
+---'The phone is sturdy and has a nice keyboard for texting.' **** 'nice'
+---'The keyboard and texting is easy and comfortable but overall this phone is great!' **** 'easy'
 
 Negative Reviews:
 
----'it is simple, easy to use like its name &#34;ease&#34;a little heavy, but i love it!' **** 'heavy'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----"i have not figured out how to have the phone ring and vibrate, but i am sure if i spend more time fiddling with the phone i will learn how to use all of it's features." **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'got a new battery, but it was not that.' **** 'new'
----'it got stuck in the loading up page or just showed a low battery.' **** 'low'
 
 
 ================================================================================================================
@@ -70,12 +47,11 @@ __________('text',)__________
 
 Positive Reviews:
 
----'very easy to use and text on.' **** 'easy'
 
 Negative Reviews:
 
----'other text messaging phones i researched were utter crap having random issues with the os, camera, or battery life.' **** 'other'
----'a quick contact key lets you quickly call or text your top 3 contacts or access voicemail.' **** 'top'
+---'Other text messaging phones I researched were utter crap having random issues with the OS, camera, or battery life.' **** 'other'
+---'A Quick Contact key lets you quickly call or text your top 3 contacts or access voicemail.' **** 'top'
 
 
 ================================================================================================================
@@ -90,63 +66,18 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('keyboard',)__________
-
-
-Positive Reviews:
-
----'the keyboard is easy and travels well, the 3g powered mobile web is faster than i expected, it has threaded messaging, the touch screen is more responsive than the pantech laser, the call quality is satisfactory and there are many convenient features (quick contacts, inbox, voice recognition, etc.).' **** 'easy'
----'the phone is sturdy and has a nice keyboard for texting.' **** 'nice'
----'the keyboard and texting is easy and comfortable but overall this phone is great!' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('pantech', 'ease')__________
-
-
-Positive Reviews:
-
----'i switched from verizon to at&t; and thought the pantech ease would be similar to my beloved lg voyager (vx10000) i used on verizon.' **** 'similar'
----"this was actually our son's second pantech ease after he lost the first." **** 'second'
----"this was actually our son's second pantech ease after he lost the first." **** 'first'
-
-Negative Reviews:
-
----'this phone is a replacement of my other pantech ease that i had for 3+ years.' **** 'other'
----'i should have searched longer before deciding on pantech ease.' **** 'longer'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'the keyboard is easy and travels well, the 3g powered mobile web is faster than i expected, it has threaded messaging, the touch screen is more responsive than the pantech laser, the call quality is satisfactory and there are many convenient features (quick contacts, inbox, voice recognition, etc.).' **** 'responsive'
----'sound quality is okay, touch screen very responsive.' **** 'touch'
----'sound quality is okay, touch screen very responsive.' **** 'responsive'
-
-Negative Reviews:
-
----'sometimes the touch screen can be unresponsive - therefore the 4 rating.' **** 'unresponsive'
-
-
-================================================================================================================
 __________('touch', 'screen')__________
 
 
 Positive Reviews:
 
----'the keyboard is easy and travels well, the 3g powered mobile web is faster than i expected, it has threaded messaging, the touch screen is more responsive than the pantech laser, the call quality is satisfactory and there are many convenient features (quick contacts, inbox, voice recognition, etc.).' **** 'responsive'
----'sound quality is okay, touch screen very responsive.' **** 'touch'
----'sound quality is okay, touch screen very responsive.' **** 'responsive'
+---'The keyboard is easy and travels well, the 3G powered Mobile Web is faster than I expected, it has threaded messaging, the touch screen is more responsive than the Pantech Laser, the call quality is satisfactory and there are many convenient features (Quick Contacts, Inbox, Voice Recognition, etc.).' **** 'responsive'
+---'Sound quality is okay, touch screen very responsive.' **** 'touch'
+---'Sound quality is okay, touch screen very responsive.' **** 'responsive'
 
 Negative Reviews:
 
----'sometimes the touch screen can be unresponsive - therefore the 4 rating.' **** 'unresponsive'
+---'Sometimes the touch screen can be unresponsive - therefore the 4 rating.' **** 'unresponsive'
 
 
 ================================================================================================================
@@ -155,13 +86,12 @@ __________('easy', 'mode')__________
 
 Positive Reviews:
 
----'additionally, the easy mode is in fact, easy.' **** 'easy'
----'it has an easy mode and very largeprint.' **** 'easy'
+---'It has an easy mode and very largeprint.' **** 'easy'
 
 Negative Reviews:
 
----'in advanced mode its not that easy to use.' **** 'easy'
----'even on a full charge if you are on a call for more than 5 minutes (my usual talk time) it will drain the battery to nothing (even on "easy mode").' **** 'easy'
+---'In advanced mode its not that easy to use.' **** 'easy'
+---'Even on a full charge if you are on a call for more than 5 minutes (my usual talk time) it will drain the battery to nothing (even on "easy mode").' **** 'easy'
 
 
 ================================================================================================================

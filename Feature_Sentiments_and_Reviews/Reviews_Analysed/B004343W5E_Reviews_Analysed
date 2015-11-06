@@ -1,26 +1,30 @@
-__________('model',)__________
+__________('key', 'pad')__________
 
 
 Positive Reviews:
 
----'i run to buy online this model and found out it is very  reliable.' **** 'reliable'
+---'This is a refurbish phone that have several problems, some of which includes malfunctioning keypad and touch pad.' **** 'touch'
+---'So after about one month, the key pad especially the BB button started malfunctioning.' **** 'key'
+---'So i decided to cut my losses and buy a new key pad which i did.' **** 'new'
+---'So i decided to cut my losses and buy a new key pad which i did.' **** 'key'
 
 Negative Reviews:
 
----"well, to be honest i can not assure that amazon.com will always be sending this particular model because they don't make any difference about the 3g compatibility and believe me 'cause i expend a lot of mails to customers service and they couldn't give me this detailed info." **** 'honest'
----"well, to be honest i can not assure that amazon.com will always be sending this particular model because they don't make any difference about the 3g compatibility and believe me 'cause i expend a lot of mails to customers service and they couldn't give me this detailed info." **** 'honest'
+---'I then realized it was a problem not of the key pad, but in the underlying board.' **** 'key'
 
 
 ================================================================================================================
-__________('de', 'lo')__________
+__________('mobile',)__________
 
 
 Positive Reviews:
 
----'el contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla,frontal superior (donde dice "blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute;a, cable usb de 1,5 metros (mucho mas largo del que ten&iacute;a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada usb hembra como el que usa el ipod, pero vino el mismo de siempre), cd con el desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------actualizaci&oacute;n: en vista de varios comentarios sobre esta nota, me di cuenta que amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
+---'Although my first mobile is an iphone' **** 'first'
 
 Negative Reviews:
 
+---'I use the BB as a secondary mobile, if the price is good and goes well for messages is a handy software utility.' **** 'secondary'
+---'I discourage shopping online as in telephone coversacion exprece my desire for a new mobile phone, not refurbished.' **** 'new'
 
 
 ================================================================================================================
@@ -29,39 +33,17 @@ __________('battery', 'life')__________
 
 Positive Reviews:
 
----"however, for the price, unless you want a keyboard or the secure bes/bis email intergration, you had better steer clear, or grab something like the curve/pearl.pros/cons:pros:- secure email- great keyboard for long typing- comes with bbm- zippy os- good ppi density.- comes with microsd card slot.- versatile connectivity around the world.- alright camera, good for basic snaps.cons:- small battery life- no tethering wifi/bluetooth support- can't withstand alot of multitasking.- small app selection- very little gaming.- can feel a little bulk" **** 'small'
+---"Cons:- Small Battery Life- No tethering wifi/bluetooth support- Can't withstand alot of multitasking.- Small App Selection- Very little gaming.- Can feel a little bulk" **** 'small'
+---'I bought a new battery and the same happened.' **** 'new'
+---'I had to buy a new battery and the phone lit normally.' **** 'new'
+---"Cons:- Small Battery Life- No tethering wifi/bluetooth support- Can't withstand alot of multitasking.- Small App Selection- Very little gaming.- Can feel a little bulk" **** 'small'
+---'the battery even new after 5 years sitting in a box lasts a long time.' **** 'new'
 
 Negative Reviews:
 
----'my 8520 battery life is poor which was one  the reasons i wanted a  change but this  is the worst.' **** 'poor'
----"overall, it's extremely sturdy, and i really like the battery life of the device." **** 'overall'
-
-
-================================================================================================================
-__________('with', 'full', 'qwerty')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('key', 'pad')__________
-
-
-Positive Reviews:
-
----'this is a refurbish phone that have several problems, some of which includes malfunctioning keypad and touch pad.' **** 'touch'
----'!so after about one month, the key pad especially the bb button started malfunctioning.' **** 'key'
----'so i decided to cut my losses and buy a new key pad which i did.' **** 'new'
----'so i decided to cut my losses and buy a new key pad which i did.' **** 'key'
-
-Negative Reviews:
-
----"i then realized it was a problem not of the key pad, but in the underlying board.so i've had to live and struggle with the phone until yesterday when the screen went crazy." **** 'key'
+---'My 8520 battery life is poor which was one  the reasons I wanted a  change but this  is the WORST.' **** 'poor'
+---"Overall, it's extremely sturdy, and I really like the battery life of the device." **** 'overall'
+---"Overall, it's extremely sturdy, and I really like the battery life of the device." **** 'overall'
 
 
 ================================================================================================================
@@ -76,93 +58,33 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('little',)__________
-
-
-Positive Reviews:
-
----'hi, this is a really a grate little phone.you get very clear photo for a 5 mp camera also the speaker is loud and clear.' **** 'clear'
-
-Negative Reviews:
-
-
-
-================================================================================================================
 __________('que', 'el')__________
 
 
 Positive Reviews:
 
----'buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute;n en la grabaci&oacute;n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
+---'Buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute; n en la grabaci&oacute; n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('money',)__________
+__________('and', 'blackberry', 'bold')__________
 
 
 Positive Reviews:
 
----'we had to replace it and spend enough money on repairs.' **** 'enough'
+---'I thought I was purchasing a new Blackberry Bold.' **** 'new'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('que', 'es')__________
-
-
-Positive Reviews:
-
----'el equipo que recib&iacute; no es un producto "original".' **** 'original'
----'el 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el bb 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el bb bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde;o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
----'buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute;n en la grabaci&oacute;n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('da', 'ntilde')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'the new os is smooth as silk and your email, applications, contacts, social network sites, and everything else you need can be integrated into the dock on the main screen.' **** 'main'
----'when i went to a technical he told me the screen was damaged!!' **** 'technical'
-
-Negative Reviews:
-
----'the screen came up, so i decided to input the correct date and time, however when i went into the settings to do this the phone screen went black.' **** 'black'
----'i taught that the phone probably needed charging so i put it to charge, the screen remained black.' **** 'black'
----'i tried to up load the updated version of blackberry app world and the screen cut off again, i took out the battery and all the cards, left it for 10 minutes, put everything back in, turned on the phone but the screen still remained black.' **** 'black'
----'i was very happy to find a great deal on this blackberry... though sadly disappointed that after it arrived and i traveled halfway around the world with my new phone did i realize that there is a fault with the screen and it distorts at the slightest touch... of either the sides of the phone or the screen itself.' **** 'slightest'
----'this unit is easier to use even though the screen is smaller.' **** 'smaller'
-
-
-================================================================================================================
-__________('tel', 'eacute')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---'Both the iPhone and the Blackberry have MP3, and MP4 playback capabilities.-Like the iPhone, the Blackberry Bold 9780, can be highly productive, but a Blackberry is not as fun to operate.' **** 'productive'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'other'
+---'The Bold 9780 is another good blackberry phone.' **** 'good'
+---'Both the iPhone and the Blackberry have MP3, and MP4 playback capabilities.-Like the iPhone, the Blackberry Bold 9780, can be highly productive, but a Blackberry is not as fun to operate.' **** 'productive'
+---'The Blackberry Bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (Weatherbug or Poynt or Weather.' **** 'able'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'other'
 
 
 ================================================================================================================
@@ -171,32 +93,21 @@ __________('service',)__________
 
 Positive Reviews:
 
----"i have had trouble with my service provider, but that is not the phone's fault." **** 'trouble'
----'the product arrived with 2 failures.the product arrived at the right time and unlocked, but the battery was damaged, appeared to make it load a red x symbol on the battery, take it to a technical service and was dead.' **** 'technical'
----"?i was thinking that it's service were good, but it's very bad....i remember to you, that this cell phone was cost over 250$..." **** 'good'
----'the supplier never sent the product, a poor service by the supplier.never respond to an email which was sent.' **** 'poor'
----'good product , good service from amazon.' **** 'good'
+---"I have had trouble with my service provider, but that is not the phone's fault." **** 'trouble'
+---'It was checked by technical service and they said that it had problems of manufacture' **** 'technical'
+---'The product arrived at the right time and unlocked, but the battery was damaged, appeared to make it load a red X symbol on the battery, take it to a technical service and was dead.' **** 'technical'
+---"I was thinking that it's service were good, but it's very bad...." **** 'good'
+---'The supplier never sent the product, a poor service by the supplier.' **** 'poor'
+---'Good product , good service from AMAZON.' **** 'good'
 
 Negative Reviews:
 
----'the bb was not new, was refurbisched,to be used in the usa.the supplier not fulfilled the offered.the bb only worked for a few days.it was checked by technical service and they said that it had problems of manufacture' **** 'technical'
----'the product arrived with 2 failures.the product arrived at the right time and unlocked, but the battery was damaged, appeared to make it load a red x symbol on the battery, take it to a technical service and was dead.' **** 'dead'
+---'The product arrived at the right time and unlocked, but the battery was damaged, appeared to make it load a red X symbol on the battery, take it to a technical service and was dead.' **** 'dead'
+---"I was thinking that it's service were good, but it's very bad...." **** 'bad'
 
 
 ================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----'excellent cell phone, everything was new, but it only works with 3g 900, 1700 and 2100 mhz, that is to say 3g bands 1,4,8....' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('problems',)__________
+__________('el', 'telefono')__________
 
 
 Positive Reviews:
@@ -204,8 +115,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----'saludosel telefono que recientemente compre presenta graves problemas en la bateria, el tiempo que dura encendido es muy poco.regardsrecently bought the phone that has serious problems with the battery, the length of time on is very little.' **** 'serious'
----'other than that there is no problems with the phone, just no t-mobile 3g.' **** 'other'
+---'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
 
 
 ================================================================================================================
@@ -214,58 +124,10 @@ __________('y', 'el')__________
 
 Positive Reviews:
 
----'cuando utilizo el blackberry protect, la ubicaci&oacute;n de gps me da con un error de mas de 10 kms.compr&eacute; ese tel&eacute;fono porque el aviso dec&iacute;a original y nuevo.' **** 'original'
 
 Negative Reviews:
 
 ---'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'excelent product, works excelent on 3g, the camera is pretty good so as the flash, is pretty fast..totally recommended' **** 'good'
-
-Negative Reviews:
-
----'the camera is very poor' **** 'poor'
----"however, for the price, unless you want a keyboard or the secure bes/bis email intergration, you had better steer clear, or grab something like the curve/pearl.pros/cons:pros:- secure email- great keyboard for long typing- comes with bbm- zippy os- good ppi density.- comes with microsd card slot.- versatile connectivity around the world.- alright camera, good for basic snaps.cons:- small battery life- no tethering wifi/bluetooth support- can't withstand alot of multitasking.- small app selection- very little gaming.- can feel a little bulk" **** 'good'
-
-
-================================================================================================================
-__________('qwerty', 'keyboard')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('wall', 'charger')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
 
 
 ================================================================================================================
@@ -277,22 +139,7 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('purchase',)__________
-
-
-Positive Reviews:
-
----'not recommend it for any future purchase.' **** 'future'
----'i am happy with the purchase.' **** 'happy'
-
-Negative Reviews:
-
----'buenos d&iacute;as,la compra fue muy buena al momento de recibir el tel&eacute;fono aqu&iacute; en venezuela, lo puse a cargar las horas estipuladas que son 8 horas, la bater&iacute;a nunca tomo carga, prob&eacute; con otra bater&iacute;a y el tel&eacute;fono funciono bien la bater&iacute;a  vino da&ntilde;ada, a los 5 d&iacute;as de uso en la pantalla apareci&oacute; una mancha negra no se a que se debe dicha mancha ya que el tel&eacute;fono no se a ca&iacute;do, a mi parecer no es un producto de buena calidad no lo recomiendo a este fabricante como bueno.good morning,the purchase was very good at the time of the phone here in venezuela, i put it to charge the required hours are 8 hours, the battery never take charge, tried another battery and the phone worked fine wine damaged battery, at 5 days of use on the screen appeared a black spot is not a spot to be said because the phone was not dropped, in my opinion not a good quality product not recommend this manufacturer as well.' **** 'good'
----"i'm disappointed with the purchase." **** 'disappointed'
----'instead i had to make my purchase directly from blackberry or a local supplier.' **** 'blackberry'
+---'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
 
 
 ================================================================================================================
@@ -301,88 +148,22 @@ __________('lo', 'que')__________
 
 Positive Reviews:
 
----'buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute;n en la grabaci&oacute;n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
+---'Buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute; n en la grabaci&oacute; n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('quality',)__________
+__________('de', 'lo')__________
 
 
 Positive Reviews:
 
----'fair price and really good quality.' **** 'good'
----'shows videos with good quality and the browser is also very good.' **** 'good'
+---'El contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla, frontal superior (donde dice "Blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute; a, cable USB de 1, 5 metros (mucho mas largo del que ten&iacute; a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada USB hembra como el que usa el iPod, pero vino el mismo de siempre), CD con el Desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------Actualizaci&oacute; n: En vista de varios comentarios sobre esta nota, me di cuenta que Amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
 
 Negative Reviews:
 
----'buenos d&iacute;as,la compra fue muy buena al momento de recibir el tel&eacute;fono aqu&iacute; en venezuela, lo puse a cargar las horas estipuladas que son 8 horas, la bater&iacute;a nunca tomo carga, prob&eacute; con otra bater&iacute;a y el tel&eacute;fono funciono bien la bater&iacute;a  vino da&ntilde;ada, a los 5 d&iacute;as de uso en la pantalla apareci&oacute; una mancha negra no se a que se debe dicha mancha ya que el tel&eacute;fono no se a ca&iacute;do, a mi parecer no es un producto de buena calidad no lo recomiendo a este fabricante como bueno.good morning,the purchase was very good at the time of the phone here in venezuela, i put it to charge the required hours are 8 hours, the battery never take charge, tried another battery and the phone worked fine wine damaged battery, at 5 days of use on the screen appeared a black spot is not a spot to be said because the phone was not dropped, in my opinion not a good quality product not recommend this manufacturer as well.' **** 'good'
----"you can also find free themes, that's what i did after i got tired of the design.when it comes to quality, i really like how the blackberry has added grip to it, i've only dropped it a few times, and nothing has ever happened." **** 'tired'
----'very poor quality.' **** 'poor'
----'it was very bad quality product, the screen was broke with a simple fall down.' **** 'bad'
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----"i'm happy with the product !" **** 'happy'
----'good product, i found myself here on the page, the price is comfortable, and openly recommend, is exactly the sought' **** 'good'
----'the product is good.' **** 'good'
----'very nice and good product from blackberry!!' **** 'nice'
----'very nice and good product from blackberry!!' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'good product , good service from amazon.' **** 'good'
----'wish it was doing it properly to be a good product.' **** 'good'
----'i both and page for a new product and received a used product.' **** 'new'
-
-Negative Reviews:
-
----"i have a bad experience with this article, my phone only work for 5 month ago; then, the bb doest'n working; all the time was shutt off; and i think that it's not a product that i asked because i think that the seller send me a refurbish product; and i asked a new one; when i receive my bb; the office charge doesn't work; never.well it was a bad experience, i'm sorry, but the phone i can't to turn on more; it was dead.i never will buy telephone to you." **** 'refurbish'
----"i have a bad experience with this article, my phone only work for 5 month ago; then, the bb doest'n working; all the time was shutt off; and i think that it's not a product that i asked because i think that the seller send me a refurbish product; and i asked a new one; when i receive my bb; the office charge doesn't work; never.well it was a bad experience, i'm sorry, but the phone i can't to turn on more; it was dead.i never will buy telephone to you." **** 'new'
----'the seller told me to send it back but it was already in venezuela so it would be too expensive to return the product.' **** 'expensive'
----"phone stopped working after 2 weeks it was sold as a new product when it was refurbished i don't recommend blackberry anymore." **** 'new'
----'the last januare ileven 2012 buyed one blackberry 9780 whit price 337,99 usd on blutekusa, condition: new, yesterday januare twenty one 21  received the product and it dont was new, it is used did not bring your original components as the white box not blacberry, without memory card , without leather case, and the final product is used blacberry and my invoice show one new blacberry.' **** 'new'
----'buy this product as "new" and two weeks of use, the battery did not load, it takes technical sevice and had bad cell phone connection to the charger.' **** 'new'
----'i am not happy with the product.' **** 'happy'
----'i never received the product due to unknown cost accumulated at the end of the purhase.' **** 'due'
----'strangely you have not addressed my questions, the most important being whether what was sold to me was a new product as advertised.' **** 'new'
----'if you are going to make an investment in a product like this, at least make sure you are dealing with more reliable people who actually care about customer satisfaction.' **** 'sure'
-
-
-================================================================================================================
-__________('mobile',)__________
-
-
-Positive Reviews:
-
----'although my first mobile is an iphone' **** 'first'
-
-Negative Reviews:
-
----'i use the bb as a secondary mobile, if the price is good and goes well for messages is a handy software utility.' **** 'secondary'
----'i discourage shopping online as in telephone coversacion exprece my desire for a new mobile phone, not refurbished.' **** 'new'
-
-
-================================================================================================================
-__________('with', '3g', 'bands')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'only compatible with 3g bands 1,4,8.  this means that the phone will most likely not support 3g on your carrier only edge/gsm.' **** 'compatible'
 
 
 ================================================================================================================
@@ -391,7 +172,7 @@ __________('que', 'la')__________
 
 Positive Reviews:
 
----'buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute;n en la grabaci&oacute;n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
+---'Buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute; n en la grabaci&oacute; n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
 
 Negative Reviews:
 
@@ -414,54 +195,19 @@ __________('keyboard',)__________
 
 Positive Reviews:
 
----'it is a good phone, great, classic keyboard that blackberry uses love, and the trackpad, replacing the trackball.' **** 'classic'
+---'It is a good phone, great, classic keyboard that Blackberry uses love, and the trackpad, replacing the trackball.' **** 'classic'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('full', 'qwerty')__________
+__________('oacute', 'n', 'que')__________
 
 
 Positive Reviews:
 
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('4', 'and', 'blackberry')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'both the iphone and the blackberry have mp3, and mp4 playback capabilities.-like the iphone, the blackberry bold 9780, can be highly productive, but a blackberry is not as fun to operate.' **** 'productive'
----'with additional options for bold, extra-bold, or italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (ebay),-convert worldwide currencies (oanda currency converter),-check traffic conditions on highways (blackberry traffic),-back up contacts and messages over the air,-receive and send files through bluetooth technology,-store and encrypt passwords (password keeper),-update facebook status (facebook),-post tweets (twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your amazon kindle (amazon kindle app),-play brickbreaker,-communicate with other blackberry users across the globe (blackberry messenger),-switch through applications,-can disconnect from your wireless network and make voip calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingoverall, the iphone 4 and the blackberry bold 9780, embody similar features.' **** 'other'
-
-
-================================================================================================================
-__________('full', 'qwerty', 'keyboard')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('de', 'un')__________
-
-
-Positive Reviews:
-
----'el contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla,frontal superior (donde dice "blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute;a, cable usb de 1,5 metros (mucho mas largo del que ten&iacute;a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada usb hembra como el que usa el ipod, pero vino el mismo de siempre), cd con el desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------actualizaci&oacute;n: en vista de varios comentarios sobre esta nota, me di cuenta que amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
+---'Buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute; n en la grabaci&oacute; n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
 
 Negative Reviews:
 
@@ -473,18 +219,18 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'buenas tardes senores estoy totalmente decesionado por la compra ya que el telefono llego todo rallado sin cargado sin dispocitivo de manoslibre si viviera en usa los demandara por hacer una oferta enganosa eso no fue lo que yo compre esta total mente rallado y se que es usado pero en ningun momento me lo notificaron de las ralla duras como vendedor tienen 100 punto pero negativogood afternoon gentlemen i totally decesionado by buying since the phone came loaded without any crumbs without dispocitivo of manoslibre if i lived in the usa sued for misleading bidding that was not what i buy this total mind that is grated and used but at no time notified me of grated hard as seller have 100 point but negative' **** 'hard'
+---'buenas tardes senores estoy totalmente decesionado por la compra ya que el telefono llego todo rallado sin CARGADO sin dispocitivo de MANOSLIBRE si viviera en USA los demandara por hacer una oferta ENGANOSA eso no fue lo que yo compre esta total mente rallado y se que es USADO pero en ningun momento me lo notificaron de las ralla duras como vendedor tienen 100 punto pero NEGATIVOgood afternoon gentlemen I totally decesionado by buying since the phone came loaded without any crumbs without dispocitivo of MANOSLIBRE if I lived in the USA sued for misleading bidding that was not what I buy this total mind that is grated and used but at no time notified me of grated hard as seller have 100 point but negative' **** 'hard'
 
 Negative Reviews:
 
----"also it came with a memory card of 2gb, it did not gave me any problems.at first i was going to buy it to another seller, but then i wrote and asked them if the cellphone would work on any band for the 3g, and they told me they didn't guarantee it, so i decided to buy it directly from amazon.com and it was the best choice i could ever done!unfortunally i got stoled like 4 moths after i bought it, so i'm missing it, right now it is more expensive than it was when i bought it, so i hope that the price will go lower this month so i can buy it again :)------compre este telefono en abril de 2011 directamente a amazon.com." **** 'first'
----'the only problem i encountered was the seller i bought from was not totally honest.' **** 'honest'
----'the attitude i got from the seller is not very nice, and they are not very reasonable.' **** 'nice'
----'the attitude i got from the seller is not very nice, and they are not very reasonable.' **** 'reasonable'
----'i tried calling the seller but was unable to reach.' **** 'unable'
----'and the phone shuts off at random, often.what is worst, is that the seller is completely unprofessional and unhelpful.' **** 'unprofessional'
----'and the phone shuts off at random, often.what is worst, is that the seller is completely unprofessional and unhelpful.' **** 'unhelpful'
----'this is my first time buy a cellphone online.before buying my bb9780, i emailed the seller and make sure it works well with t-mobile 3g.' **** 'sure'
+---"At first I was going to buy it to another seller, but then I wrote and asked them if the cellphone would work on any band for the 3G, and they told me they didn't guarantee it, so I decided to buy it directly from amazon." **** 'first'
+---'The only problem I encountered was the seller I bought from was not totally honest.' **** 'honest'
+---'The attitude i got from the Seller is not very nice, and they are not very reasonable.' **** 'nice'
+---'The attitude i got from the Seller is not very nice, and they are not very reasonable.' **** 'reasonable'
+---'I tried calling the seller but was unable to reach.' **** 'unable'
+---'What is worst, is that the seller is completely unprofessional and unhelpful.' **** 'unprofessional'
+---'What is worst, is that the seller is completely unprofessional and unhelpful.' **** 'unhelpful'
+---'before buying my BB9780, I emailed the seller and make sure it works well with t-mobile 3G.' **** 'sure'
 
 
 ================================================================================================================
@@ -493,368 +239,19 @@ __________('de', 'la')__________
 
 Positive Reviews:
 
----'el contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla,frontal superior (donde dice "blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute;a, cable usb de 1,5 metros (mucho mas largo del que ten&iacute;a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada usb hembra como el que usa el ipod, pero vino el mismo de siempre), cd con el desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------actualizaci&oacute;n: en vista de varios comentarios sobre esta nota, me di cuenta que amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
+---'El contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla, frontal superior (donde dice "Blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute; a, cable USB de 1, 5 metros (mucho mas largo del que ten&iacute; a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada USB hembra como el que usa el iPod, pero vino el mismo de siempre), CD con el Desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------Actualizaci&oacute; n: En vista de varios comentarios sobre esta nota, me di cuenta que Amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('good', 'product')__________
+__________('bands',)__________
 
 
 Positive Reviews:
 
----'good product, i found myself here on the page, the price is comfortable, and openly recommend, is exactly the sought' **** 'good'
----'the product is good.' **** 'good'
----'very nice and good product from blackberry!!' **** 'nice'
----'very nice and good product from blackberry!!' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'good product , good service from amazon.' **** 'good'
----'wish it was doing it properly to be a good product.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('en', 'el')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
-
-
-================================================================================================================
-__________('3g', 'bands')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'only compatible with 3g bands 1,4,8.  this means that the phone will most likely not support 3g on your carrier only edge/gsm.' **** 'compatible'
-
-
-================================================================================================================
-__________('el', 'telefono')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'i bought a new battery and the same happened.' **** 'new'
----'i had to buy a new battery and the phone lit normally.the other flaw was the trackpad, came damaged too, had to buy a new one and now the phone is fully operational.' **** 'new'
----"however, for the price, unless you want a keyboard or the secure bes/bis email intergration, you had better steer clear, or grab something like the curve/pearl.pros/cons:pros:- secure email- great keyboard for long typing- comes with bbm- zippy os- good ppi density.- comes with microsd card slot.- versatile connectivity around the world.- alright camera, good for basic snaps.cons:- small battery life- no tethering wifi/bluetooth support- can't withstand alot of multitasking.- small app selection- very little gaming.- can feel a little bulk" **** 'small'
----'the battery even new after 5 years sitting in a box lasts a long time.' **** 'new'
-
-Negative Reviews:
-
----"overall, it's extremely sturdy, and i really like the battery life of the device." **** 'overall'
----'a return for a refund is in the works, although the inconvenience with the false advertising and crushed hopes of recieving a phone ready to use is most upsetting.i would have probably just used the phone because i needed i one had it not been for the unusable battery, but i refuse to buy one when one should have been provided with my "new" phonesincerely,thoroughly disappointed' **** 'new'
-
-
-================================================================================================================
-__________('sent',)__________
-
-
-Positive Reviews:
-
----'recommended product that i had before, however want to mention that i bought new and used sent me.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('el', 'tel')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
-
-
-================================================================================================================
-__________('product', 'excelente', 'aqui')__________
-
-
-Positive Reviews:
-
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('software',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the box content is: 9780 device with plastic label protection on screen, battery cover, upper front (where it\'s printed "blackberry"), camera lens and flash, leather pouch (the simple plane one, without belt clip, the leather looks like artificial type), earphones, battery, 5 feet usb cable (longer than the old one i had), standard wall charger with multiple international adapters (i was expecting ipod-like wall charger with female usb input, but it came with the usual one), desktop software cd, user manual and some quick guides.------------------------------------------------------------------------------------------------------------------------update: according to several comments about this review i noticed that amazon changed the product model number and description.' **** 'usual'
-
-
-================================================================================================================
-__________('very', 'good', 'product')__________
-
-
-Positive Reviews:
-
----'very nice and good product from blackberry!!' **** 'nice'
----'very nice and good product from blackberry!!' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'this cell is very very good... is hard!..' **** 'good'
----'this is a very good cell phone.' **** 'good'
----'the cell also very good very reliable and helpful article in excellent condition and perfect in all its accessories, and parts' **** 'good'
----'the item was sold as new, and it has a lot of air time and data, shame on you to be selling cell as new' **** 'new'
----'buy this product as "new" and two weeks of use, the battery did not load, it takes technical sevice and had bad cell phone connection to the charger.' **** 'bad'
-
-Negative Reviews:
-
----'this cell is very very good... is hard!..' **** 'hard'
----'i ordered from "cell lounge" a 9780 cell phone on july 3 / 2012, the item arrived on july 23 after i request a claim from amazon.com, the same day of this purchase (july 3 / 2012) i sent the seller, "cell lounge", an email with the specific bands and mhz of the phone that works for me, the arrived phone is a 1700/2100 mhz form t-mobile, no hands free set, no micro sd card, no software cd and no protector case, these items are the standard pack for this blackberry model, so please be aware from cell lounge dont let them steal your money, remenber this is not a $50 phone.' **** 'aware'
-
-
-================================================================================================================
-__________('bold', '9780', 'y')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'hi,the black berry bold 9780 is no good,after a couple of days the phone stop work,when open the casen it is a old phone this is not fare it is not right to take money for a old phone,that need to put in the garbage,i am on vacation and i cant used it,thank you for the garbage you all sold me.' **** 'good'
----'in productivity, all blackberry devices amplify the reach of businesses with applications similar to the iphone.-in shopping, for the iphone you may or may not have seen the commercial where you can scan a barcode of a product and compare prices, but what i discovered through curiosity, is that the blackberry bold 9780, embodies the same capability through an application called scope (available through the blackberry app world for free).the blackberry bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (weatherbug or poynt or weather.com),-block phone calls (mr. number),-be tracked down for free if lost or stolen then have the location sent to the local police department (offered by blackberry protect),-download music (amazon mp3 store),-listen to the radio stations across the country online (iheart radio),-share files and documents from your computers or devices (dropbox),-watch and upload youtube videos,-create and or export microsoft word documents ($14.99),-be synchronized and back up your data to your computer (blackberry desktop software),-view attachments on e-mails,-synchronize facebook friends to your contact lists,-provide global positioning services for free (blackberry maps),-bank online (wells fargo mobile, td bank, bank of america mobile, etc.' **** 'able'
-
-
-================================================================================================================
-__________('blackberry', 'bold')__________
-
-
-Positive Reviews:
-
----'i thought i was purchasing a new blackberry bold.' **** 'new'
-
-Negative Reviews:
-
----'the bold 9780 is another good blackberry phone.' **** 'bold'
----'the bold 9780 is another good blackberry phone.' **** 'good'
----'both the iphone and the blackberry have mp3, and mp4 playback capabilities.-like the iphone, the blackberry bold 9780, can be highly productive, but a blackberry is not as fun to operate.' **** 'productive'
----'in productivity, all blackberry devices amplify the reach of businesses with applications similar to the iphone.-in shopping, for the iphone you may or may not have seen the commercial where you can scan a barcode of a product and compare prices, but what i discovered through curiosity, is that the blackberry bold 9780, embodies the same capability through an application called scope (available through the blackberry app world for free).the blackberry bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (weatherbug or poynt or weather.com),-block phone calls (mr. number),-be tracked down for free if lost or stolen then have the location sent to the local police department (offered by blackberry protect),-download music (amazon mp3 store),-listen to the radio stations across the country online (iheart radio),-share files and documents from your computers or devices (dropbox),-watch and upload youtube videos,-create and or export microsoft word documents ($14.99),-be synchronized and back up your data to your computer (blackberry desktop software),-view attachments on e-mails,-synchronize facebook friends to your contact lists,-provide global positioning services for free (blackberry maps),-bank online (wells fargo mobile, td bank, bank of america mobile, etc.' **** 'able'
----'with additional options for bold, extra-bold, or italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (ebay),-convert worldwide currencies (oanda currency converter),-check traffic conditions on highways (blackberry traffic),-back up contacts and messages over the air,-receive and send files through bluetooth technology,-store and encrypt passwords (password keeper),-update facebook status (facebook),-post tweets (twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your amazon kindle (amazon kindle app),-play brickbreaker,-communicate with other blackberry users across the globe (blackberry messenger),-switch through applications,-can disconnect from your wireless network and make voip calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingoverall, the iphone 4 and the blackberry bold 9780, embody similar features.' **** 'other'
----'blackberry bold 9780 unlocked cell phone with full qwerty keyboard, 5 mp camera, wi-fi, 3g, music/video playback, bluetooth v2.1, and gps (black)upon opening the box, this blackberry bold 9780 which was fullfilled by amazon and sold on behalf of abe-123 did not seem new although it was advertised as such!1.the protective screens over the phone did not seem factory applied as they were wrinkled and not positioned correctly.2.the accessories that were placed in the box did not come in the usual blackberry packaging either.' **** 'usual'
-
-
-================================================================================================================
-__________('tel', 'eacute', 'fono')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('es', 'un')__________
-
-
-Positive Reviews:
-
----'el equipo que recib&iacute; no es un producto "original".' **** 'original'
----'el 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el bb 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el bb bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde;o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('ntilde',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('1', 'and', 'gps')__________
-
-
-Positive Reviews:
-
----'para la fecha 14/12/2011, realice la compra de un telefono celular blackberry bold 9780 unlocked cell phone with full qwerty keyboard, 5 mp camera, wi-fi, 3g, music/video playback, bluetooth v2.1, and gps (black, cuando llego el env&iacute;o, solo recibi la caja sin el telefono, le envie una nota al proveedor y no tuve respuesta en ningun momento, para analizar la situaci&oacute;n del caso.' **** 'black'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('black',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i was looking for the newest black berry which q10  i will surely not to recomend this to any of my customers.' **** 'newest'
-
-
-================================================================================================================
-__________('oacute', 'n', 'de')__________
-
-
-Positive Reviews:
-
----'el contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla,frontal superior (donde dice "blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute;a, cable usb de 1,5 metros (mucho mas largo del que ten&iacute;a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada usb hembra como el que usa el ipod, pero vino el mismo de siempre), cd con el desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------actualizaci&oacute;n: en vista de varios comentarios sobre esta nota, me di cuenta que amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('es', 'muy')__________
-
-
-Positive Reviews:
-
----'el 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el bb 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el bb bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde;o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('blackberry',)__________
-
-
-Positive Reviews:
-
----'i am a fan of the blackberry and this is my favorite so far.' **** 'favorite'
----'i had my first blackberry with hoping to enjoy internet access.' **** 'first'
----'i thought i was purchasing a new blackberry bold.' **** 'new'
----'well i bopugth this because it was a friend, i think the blackberry was good is his time, but now apple and andrid has the market' **** 'good'
-
-Negative Reviews:
-
----'i am not happybecause i pay a new blackberry and seller send a reconstructed blacberrynot usb cable and not free handis very sad all it.-' **** 'new'
----'the bold 9780 is another good blackberry phone.' **** 'bold'
----'the bold 9780 is another good blackberry phone.' **** 'good'
----'it is what seems like a "cheaper" blackberry.' **** 'cheaper'
----'just a thought but it may be helpful to indicate that the blackberry was international or domestic.' **** 'international'
----'both the iphone and the blackberry have mp3, and mp4 playback capabilities.-like the iphone, the blackberry bold 9780, can be highly productive, but a blackberry is not as fun to operate.' **** 'productive'
----'with additional options for bold, extra-bold, or italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (ebay),-convert worldwide currencies (oanda currency converter),-check traffic conditions on highways (blackberry traffic),-back up contacts and messages over the air,-receive and send files through bluetooth technology,-store and encrypt passwords (password keeper),-update facebook status (facebook),-post tweets (twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your amazon kindle (amazon kindle app),-play brickbreaker,-communicate with other blackberry users across the globe (blackberry messenger),-switch through applications,-can disconnect from your wireless network and make voip calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingoverall, the iphone 4 and the blackberry bold 9780, embody similar features.' **** 'other'
----'blackberry bold 9780 unlocked cell phone with full qwerty keyboard, 5 mp camera, wi-fi, 3g, music/video playback, bluetooth v2.1, and gps (black)upon opening the box, this blackberry bold 9780 which was fullfilled by amazon and sold on behalf of abe-123 did not seem new although it was advertised as such!1.the protective screens over the phone did not seem factory applied as they were wrinkled and not positioned correctly.2.the accessories that were placed in the box did not come in the usual blackberry packaging either.' **** 'usual'
----"the phone was announced as new when i bought it in early january 2012. to my surprise, and when the box came to me the first thing i've found is that the box is not original blackberry." **** 'original'
----'everything works perfectly.yes, to be able to configure your mail, twitter, facebook, blackberry messenger, and all the rest of the services the phone has, you need to enable the blackberry services with your provider (yes, you need to pay).i am not too informed about band systems for phones but since it worked here, i would assume it works with gsm 850/900/1800/1900mhz and hdspa (3g) 2100mhz/1900mhz/850mhz.i read on the reviews this was the t-mobile version.' **** 'enable'
-
-
-================================================================================================================
-__________('sold',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i am dissatisfied with the purchase because the wine equipment with flash imperfections in the camera, and i had to send to repairs where we realized that the phone was recontruido and it was not me as new sold, so manifest discontent with purch' **** 'new'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'this is my first time buy a cellphone online.before buying my bb9780, i emailed the seller and make sure it works well with t-mobile 3g.' **** 'first'
-
-Negative Reviews:
-
----'it started giving problems over a period of time and the last time we took it to a technician to have it checked, low and behold it is not a new phone...i am totally not impressed' **** 'last'
----'the battery even new after 5 years sitting in a box lasts a long time.' **** 'long'
----'saludosel telefono que recientemente compre presenta graves problemas en la bateria, el tiempo que dura encendido es muy poco.regardsrecently bought the phone that has serious problems with the battery, the length of time on is very little.' **** 'little'
----'bad experience, again i bought a blackberry phone and comes with problems, the phone is damaged and does not work any key, unfortunately this is the third time something happens to me, i paid shipping to venezuela about $ 100 and now i have send it back, pay the shipping and re-pay the return shipping cost.' **** 'key'
-
-
-================================================================================================================
-__________('ntilde', 'o')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('good', 'product', 'excelente')__________
-
-
-Positive Reviews:
-
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
----'very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.very good this product,excelente aqui en venezuela funciona a la perfeccion en todss sus bandas.' **** 'good'
+---'Only compatible with 3g bands 1, 4, 8.' **** 'compatible'
 
 Negative Reviews:
 
@@ -872,31 +269,167 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('charger',)__________
+__________('bold', '9780', 'y')__________
 
 
 Positive Reviews:
 
----'finally had to spend usd 50 more in repairs and buying a new charger' **** 'new'
+
+Negative Reviews:
+
+---'The Blackberry Bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (Weatherbug or Poynt or Weather.' **** 'able'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'extra-bold'
+---'I am glad to have my bold back in 2014' **** 'glad'
+---'The Blackberry Bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (Weatherbug or Poynt or Weather.' **** 'able'
+
+
+================================================================================================================
+__________('da', 'ntilde')__________
+
+
+Positive Reviews:
+
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('oacute', 'n', 'que')__________
+__________('en', 'la')__________
 
 
 Positive Reviews:
 
----'buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute;n en la grabaci&oacute;n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('problem',)__________
+__________('es', 'un')__________
+
+
+Positive Reviews:
+
+---'El equipo que recib&iacute; no es un producto "original".' **** 'original'
+---'El 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el BB 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el BB bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde; o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('black',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'i was looking for the newest black berry which Q10  i will surely not to recomend this to any of my customers.' **** 'newest'
+
+
+================================================================================================================
+__________('oacute', 'n', 'de')__________
+
+
+Positive Reviews:
+
+---'El contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla, frontal superior (donde dice "Blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute; a, cable USB de 1, 5 metros (mucho mas largo del que ten&iacute; a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada USB hembra como el que usa el iPod, pero vino el mismo de siempre), CD con el Desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------Actualizaci&oacute; n: En vista de varios comentarios sobre esta nota, me di cuenta que Amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('es', 'muy')__________
+
+
+Positive Reviews:
+
+---'El 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el BB 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el BB bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde; o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('con', 'la')__________
+
+
+Positive Reviews:
+
+---'Tambien si es GSM y es compatible con la banda850/1900 muchas gracias' **** 'compatible'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('4', 'and', 'blackberry')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'Both the iPhone and the Blackberry have MP3, and MP4 playback capabilities.-Like the iPhone, the Blackberry Bold 9780, can be highly productive, but a Blackberry is not as fun to operate.' **** 'productive'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'other'
+
+
+================================================================================================================
+__________('en', 'el')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
+
+
+================================================================================================================
+__________('tel', 'eacute', 'fono')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('que', 'es')__________
+
+
+Positive Reviews:
+
+---'El equipo que recib&iacute; no es un producto "original".' **** 'original'
+---'El 14 de abril de 2011, efectue la compra de un telefono blackberry bold 9780 el cual me fue entregado en el tiempo establecido en la compra, una vez recibido y puesto en funcionamiento puedo decir que cumple con mis espectativas de operatividad, nuevo en su caja con todos sus accesorios, estoy muy alegre con su operatividad ya que anteriormente tenia en uso un blackberry 9000 y comparado con el BB 9780 es superior en tecnologia, su camara y sobre todo su teclado qwerty que mejora el funcionamiento del telefono comparado con el BB bold 9000 que la bolita y la membrana tuve que mandarla a repararla en menos de un a&ntilde; o de uso, espero que este bb 9780 su funcionabilidad sea mas duradera, hasta ahora estoy contento de haber adquirido el telefono a traves de amazon.' **** 'superior'
+---'Buen equipo, telefono inteligente facil de utilizar, de peso ligero, alta calidad en las fotografias, alta definici&oacute; n en la grabaci&oacute; n de videos y lo mejor es un bold que para mi de todos los blackberry es el mejor.' **** 'bold'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('de', 'un')__________
+
+
+Positive Reviews:
+
+---'El contenido de la caja es: celular 9780 con lamina plastica protectora en la pantalla, frontal superior (donde dice "Blackberry"), tapa de la bateria, lente de la camara y flash, forro de cuero (el mas simple de todos, sin clip para poner en la correa, el cuero parece artificial), audifonos, bater&iacute; a, cable USB de 1, 5 metros (mucho mas largo del que ten&iacute; a antes), cargador de pared estandar con multiples adaptadores internacionales (estaba esperando uno con entrada USB hembra como el que usa el iPod, pero vino el mismo de siempre), CD con el Desktop sotware, manual de usuario y algunas guias rapidas.------------------------------------------------------------------------------------------------------------------------Actualizaci&oacute; n: En vista de varios comentarios sobre esta nota, me di cuenta que Amazon cambi&oacute; el modelo del producto y las descripciones.' **** 'manual'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('wall', 'charger')__________
 
 
 Positive Reviews:
@@ -915,12 +448,11 @@ Positive Reviews:
 
 Negative Reviews:
 
----'in productivity, all blackberry devices amplify the reach of businesses with applications similar to the iphone.-in shopping, for the iphone you may or may not have seen the commercial where you can scan a barcode of a product and compare prices, but what i discovered through curiosity, is that the blackberry bold 9780, embodies the same capability through an application called scope (available through the blackberry app world for free).the blackberry bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (weatherbug or poynt or weather.com),-block phone calls (mr. number),-be tracked down for free if lost or stolen then have the location sent to the local police department (offered by blackberry protect),-download music (amazon mp3 store),-listen to the radio stations across the country online (iheart radio),-share files and documents from your computers or devices (dropbox),-watch and upload youtube videos,-create and or export microsoft word documents ($14.99),-be synchronized and back up your data to your computer (blackberry desktop software),-view attachments on e-mails,-synchronize facebook friends to your contact lists,-provide global positioning services for free (blackberry maps),-bank online (wells fargo mobile, td bank, bank of america mobile, etc.' **** 'able'
 ---'el telefono bold 9780 es muy completo se lo recomiendo tiene muchas funciones las fotos y los videos se ven muy bueno me encanta mucho este telefono demaciado bello' **** 'bold'
 
 
 ================================================================================================================
-__________('bold',)__________
+__________('iacute',)__________
 
 
 Positive Reviews:
@@ -928,49 +460,11 @@ Positive Reviews:
 
 Negative Reviews:
 
----'hi,the black berry bold 9780 is no good,after a couple of days the phone stop work,when open the casen it is a old phone this is not fare it is not right to take money for a old phone,that need to put in the garbage,i am on vacation and i cant used it,thank you for the garbage you all sold me.' **** 'good'
----'i am glad to have my bold back in 2014' **** 'glad'
----'in productivity, all blackberry devices amplify the reach of businesses with applications similar to the iphone.-in shopping, for the iphone you may or may not have seen the commercial where you can scan a barcode of a product and compare prices, but what i discovered through curiosity, is that the blackberry bold 9780, embodies the same capability through an application called scope (available through the blackberry app world for free).the blackberry bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (weatherbug or poynt or weather.com),-block phone calls (mr. number),-be tracked down for free if lost or stolen then have the location sent to the local police department (offered by blackberry protect),-download music (amazon mp3 store),-listen to the radio stations across the country online (iheart radio),-share files and documents from your computers or devices (dropbox),-watch and upload youtube videos,-create and or export microsoft word documents ($14.99),-be synchronized and back up your data to your computer (blackberry desktop software),-view attachments on e-mails,-synchronize facebook friends to your contact lists,-provide global positioning services for free (blackberry maps),-bank online (wells fargo mobile, td bank, bank of america mobile, etc.' **** 'able'
+---'AL principio iba a comprarlo a otro vendedor, pero luego les escribi y les pregunte si el telefono funcionar&iacute; a en cualquier banda de 3G, y me respondieron diciendo que no me lo garantizaban, as&iacute; que decidi comprarlo directamente a amazon.' **** 'garantizaban'
 
 
 ================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i could not be able to make work my wireless.' **** 'able'
-
-
-================================================================================================================
-__________('bands',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'only compatible with 3g bands 1,4,8.  this means that the phone will most likely not support 3g on your carrier only edge/gsm.' **** 'compatible'
-
-
-================================================================================================================
-__________('y', 'en')__________
-
-
-Positive Reviews:
-
----'muy buen articulo, funciona  en mi pais , full desbloqueado y compatible, fue lo que esperaba ,nuevo y libre para cualquier banda gsm' **** 'compatible'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('en', 'la')__________
+__________('ntilde', 'o')__________
 
 
 Positive Reviews:
@@ -981,42 +475,51 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('nuevo', 'y')__________
+__________('very', 'good', 'product')__________
 
 
 Positive Reviews:
 
----'cuando utilizo el blackberry protect, la ubicaci&oacute;n de gps me da con un error de mas de 10 kms.compr&eacute; ese tel&eacute;fono porque el aviso dec&iacute;a original y nuevo.' **** 'original'
----'muy buen articulo, funciona  en mi pais , full desbloqueado y compatible, fue lo que esperaba ,nuevo y libre para cualquier banda gsm' **** 'compatible'
+---'Very nice and good product from blackberry!!' **** 'good'
+---'good product, I found myself here on the page, the price is comfortable, and openly recommend, is exactly the sought' **** 'good'
+---'The product is good.' **** 'good'
+---'Very nice and good product from blackberry!!' **** 'good'
+---'Wish it was doing it properly to be a good product.' **** 'good'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('and', 'blackberry', 'bold')__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
+---"I am not sure yet If I'll ever buy another electronic from Amazon." **** 'sure'
+---"I'm disappointed with amazon and would not eagerly recommend others since I have to now return the phone." **** 'disappointed'
+---'The BB phone to buy on Amazon is wrong: it is not recognized by the computer to charge information and not read the memory card.' **** 'wrong'
 
 Negative Reviews:
 
----'both the iphone and the blackberry have mp3, and mp4 playback capabilities.-like the iphone, the blackberry bold 9780, can be highly productive, but a blackberry is not as fun to operate.' **** 'productive'
----'in productivity, all blackberry devices amplify the reach of businesses with applications similar to the iphone.-in shopping, for the iphone you may or may not have seen the commercial where you can scan a barcode of a product and compare prices, but what i discovered through curiosity, is that the blackberry bold 9780, embodies the same capability through an application called scope (available through the blackberry app world for free).the blackberry bold 9780 is also able to: (in parenthesis are the names of the applications available)-check the weather around the world through a variety of applications (weatherbug or poynt or weather.com),-block phone calls (mr. number),-be tracked down for free if lost or stolen then have the location sent to the local police department (offered by blackberry protect),-download music (amazon mp3 store),-listen to the radio stations across the country online (iheart radio),-share files and documents from your computers or devices (dropbox),-watch and upload youtube videos,-create and or export microsoft word documents ($14.99),-be synchronized and back up your data to your computer (blackberry desktop software),-view attachments on e-mails,-synchronize facebook friends to your contact lists,-provide global positioning services for free (blackberry maps),-bank online (wells fargo mobile, td bank, bank of america mobile, etc.' **** 'able'
----'with additional options for bold, extra-bold, or italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (ebay),-convert worldwide currencies (oanda currency converter),-check traffic conditions on highways (blackberry traffic),-back up contacts and messages over the air,-receive and send files through bluetooth technology,-store and encrypt passwords (password keeper),-update facebook status (facebook),-post tweets (twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your amazon kindle (amazon kindle app),-play brickbreaker,-communicate with other blackberry users across the globe (blackberry messenger),-switch through applications,-can disconnect from your wireless network and make voip calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingoverall, the iphone 4 and the blackberry bold 9780, embody similar features.' **** 'other'
----'blackberry bold 9780 unlocked cell phone with full qwerty keyboard, 5 mp camera, wi-fi, 3g, music/video playback, bluetooth v2.1, and gps (black)upon opening the box, this blackberry bold 9780 which was fullfilled by amazon and sold on behalf of abe-123 did not seem new although it was advertised as such!1.the protective screens over the phone did not seem factory applied as they were wrinkled and not positioned correctly.2.the accessories that were placed in the box did not come in the usual blackberry packaging either.' **** 'usual'
+---'i am very disappointed and upset with amazon too.' **** 'upset'
+---'I recommended this product i bought mine from amazon.' **** 'mine'
 
 
 ================================================================================================================
-__________('send',)__________
+__________('mp', 'camera')__________
 
 
 Positive Reviews:
 
+---'You get very clear photo for a 5 MP camera also the speaker is loud and clear.' **** 'clear'
+---'PROS/CONS:Pros:- Secure Email- Great keyboard for long typing- Comes with BBM- Zippy OS- Good ppi density.- Comes with microSD card slot.- Versatile connectivity around the world.- Alright camera, good for basic snaps.' **** 'good'
+---'Excelent product, works excelent on 3G, the camera is pretty good so as the flash, is pretty fast..' **** 'good'
+---'It works really good, I love the camera.' **** 'good'
 
 Negative Reviews:
 
+---'The camera is very poor' **** 'poor'
 
 
 ================================================================================================================
@@ -1025,10 +528,24 @@ __________('blackberry', 'app', 'world')__________
 
 Positive Reviews:
 
+---'Funciona a la perfecci&oacute; n. I am a fan of the Blackberry and this is my favorite so far.' **** 'favorite'
+---'I had my first Blackberry with hoping to enjoy internet access.' **** 'first'
+---'I thought I was purchasing a new Blackberry Bold.' **** 'new'
+---'It is a good phone, great, classic keyboard that Blackberry uses love, and the trackpad, replacing the trackball.' **** 'love'
+---'well i bopugth this because it was a friend, i think the blackberry was good is his time, but now apple and andrid has the market' **** 'good'
+---'Yes, to be able to configure your mail, twitter, facebook, blackberry messenger, and all the rest of the services the phone has, you need to enable the blackberry services with your provider (yes, you need to pay).' **** 'enable'
 
 Negative Reviews:
 
----'with additional options for bold, extra-bold, or italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (ebay),-convert worldwide currencies (oanda currency converter),-check traffic conditions on highways (blackberry traffic),-back up contacts and messages over the air,-receive and send files through bluetooth technology,-store and encrypt passwords (password keeper),-update facebook status (facebook),-post tweets (twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your amazon kindle (amazon kindle app),-play brickbreaker,-communicate with other blackberry users across the globe (blackberry messenger),-switch through applications,-can disconnect from your wireless network and make voip calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingoverall, the iphone 4 and the blackberry bold 9780, embody similar features.' **** 'other'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'other'
+---'i am not happybecause i pay a new blackberry and seller send a reconstructed blacberrynot usb cable and not free handis very sad all it.-' **** 'new'
+---'The Bold 9780 is another good blackberry phone.' **** 'good'
+---'It is what seems like a "cheaper" blackberry.' **** 'cheaper'
+---'Just a thought but it may be helpful to indicate that the Blackberry was international or domestic.' **** 'international'
+---'Both the iPhone and the Blackberry have MP3, and MP4 playback capabilities.-Like the iPhone, the Blackberry Bold 9780, can be highly productive, but a Blackberry is not as fun to operate.' **** 'productive'
+---'with additional options for Bold, Extra-Bold, or Italic,-check inbox, write e-mails from up to 10 e-mail addresses,-shop online (Ebay),-convert worldwide currencies (Oanda Currency Converter),-check traffic conditions on highways (Blackberry Traffic),-back up contacts and messages over the air,-receive and send files through Bluetooth technology,-store and encrypt passwords (Password Keeper),-update Facebook status (Facebook),-post tweets (Twitter),-synchronize data through wi-fi,-read ebooks downloaded onto your Amazon Kindle (Amazon Kindle App),-play BrickBreaker,-communicate with other Blackberry users across the globe (BlackBerry Messenger),-switch through Applications,-can disconnect from your wireless network and make VoIp calls using your mobile number if connected to a wi-fi network..................... and the list keeps goingOverall, the iPhone 4 and the Blackberry Bold 9780, embody similar features.' **** 'other'
+---'The accessories that were placed in the box did not come in the usual blackberry packaging either.' **** 'usual'
+---"To my surprise, and when the box came to me the first thing I've found is that the box is not original Blackberry." **** 'original'
 
 
 ================================================================================================================

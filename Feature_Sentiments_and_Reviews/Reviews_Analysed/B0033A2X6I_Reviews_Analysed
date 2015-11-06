@@ -3,48 +3,13 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'my seller is true and honest about my deal with this product.' **** 'true'
+---'But The seller was respectful and considerate and quick to accept return and refund.' **** 'respectful'
+---'But The seller was respectful and considerate and quick to accept return and refund.' **** 'considerate'
+---'My seller is true and honest about my deal with this product.' **** 'true'
 
 Negative Reviews:
 
----'i would trust this seller... some other of same item, no way.' **** 'other'
----'a lot of the carriers do not support the phone.but the seller was respectful and considerate and quick to accept return and refund.so overall nothing ventured and nothing gained.i attempted to get this phones to see if myself and my children could benefit from them but was not successful.' **** 'respectful'
----'a lot of the carriers do not support the phone.but the seller was respectful and considerate and quick to accept return and refund.so overall nothing ventured and nothing gained.i attempted to get this phones to see if myself and my children could benefit from them but was not successful.' **** 'considerate'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('broken', 'iphones')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'this product is original.' **** 'original'
-
-Negative Reviews:
-
----'i bought the wrong product, so it was sort of my fault.' **** 'wrong'
+---'I would trust this seller... some other of same item, no way.' **** 'other'
 
 
 ================================================================================================================
@@ -53,7 +18,7 @@ __________('sim', 'card')__________
 
 Positive Reviews:
 
----'the company suggested to get a new sim card (without any charge) which i did.' **** 'new'
+---'The company suggested to get a new sim card (without any charge) which I did.' **** 'new'
 
 Negative Reviews:
 
@@ -65,7 +30,7 @@ __________('battery',)__________
 
 Positive Reviews:
 
----'i got tired of this since use of the phone has been unreliable from the beginning & i just figured it needed a new battery.' **** 'new'
+---'I got tired of this since use of the phone has been unreliable from the beginning & I just figured it needed a new battery.' **** 'new'
 
 Negative Reviews:
 
@@ -73,41 +38,26 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('charger',)__________
+__________('3g', 'iphone')__________
 
 
 Positive Reviews:
 
----"then that didn't work after a very short while, so i purchased a portable charger box that works for several older phones, & that seemed to work sometimes ..other times no." **** 'short'
+---"Now I understand why people lined up at their cellular provider's stores the day before to be the first to buy an iPhone 3G several years back." **** 'first'
+---"Now I understand why people lined up at their cellular provider's stores the day before to be the first to buy an iPhone 3G several years back." **** 'first'
+---'I was very eager to bring the iPhone with me and was feeling proud to use it.' **** 'eager'
+---'We paid $239 for a new unlocked iphone 3, we had lots of connection problems and screen problems and assumed it was the carrier &#34; Simple Mobile&#34; but when I took the phone to sprint to change carriers they said the phone had had the screen removed and was refurbished and damaged, refurbished has a lesser price, basically we now have a phone worth about $20.' **** 'new'
+---'She is familiar with the iPhone because she has an iPad.' **** 'familiar'
+---'The iPhone was new and in the factory package as promised, in absolutely perfect condition.' **** 'new'
+---'I really appreciate the personal service from the owner of Better Deals Faster, Kyle, and getting to know iPhones without spending $750 ( a new iPhone 5 without a contract).' **** 'new'
 
 Negative Reviews:
 
----"then that didn't work after a very short while, so i purchased a portable charger box that works for several older phones, & that seemed to work sometimes ..other times no." **** 'portable'
----"i made contact with the supplier to complain about the phone's inability to hold a charge and that the charger keeps shorting - they promised to send me a new charger but i never got it." **** 'new'
----'now i know not to let it go to 0 and if it does, use the better charger that comes with ipads.i really appreciate the personal service from the owner of better deals faster, kyle, and getting to know iphones without spending $750 ( a new iphone 5 without a contract).' **** 'better'
-
-
-================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----"i put it away as i intended to return it & had another phone i was using at the time, but since my other phone had a smaller screen that i don't prefer to view emails on, after a few weeks, i decided to give the i phone another shot." **** 'smaller'
-
-Negative Reviews:
-
+---'inside box was the same, clearly used items, and nice user manuals in french and german, well i speak english and spanish, so lucky this is not my first iphone.' **** 'lucky'
+---'inside box was the same, clearly used items, and nice user manuals in french and german, well i speak english and spanish, so lucky this is not my first iphone.' **** 'first'
+---'left than 1 month screen came off when to apple store and find out iphone was repair and screen was not apple screen i received 50$ dollars back for the repair' **** 'repair'
+---'The iPhone is dead at the moment.' **** 'dead'
+---'If this was really a new iPhone I would have not had all the problems I have with it.' **** 'new'
 
 
 ================================================================================================================
@@ -119,33 +69,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----'he had long dreamed of having the phone company apple, but was unable to buy.' **** 'unable'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
----'i lick phone and good work phone lock lick new and all part is good work i will gift to my friend and my friend is lick phone and he was happy' **** 'good'
----'i lick phone and good work phone lock lick new and all part is good work i will gift to my friend and my friend is lick phone and he was happy' **** 'good'
----"the charger is not working, very poor  wire quality,it was loose and does'n't  work properly,i just use it for a day and wont work anymore" **** 'loose'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('working',)__________
-
-
-Positive Reviews:
-
----'anyplace else i looked at had them to $100 less.i think that the seller misuses unlocked when it should be clear that this phone would have been jail-broken.all in all, i got a nice working phone, but i think that this seller is misleading and dishonest in dealings.buyer beware!' **** 'nice'
-
-Negative Reviews:
-
+---'He had long dreamed of having the phone company Apple, but was unable to buy.' **** 'unable'
 
 
 ================================================================================================================
@@ -154,11 +78,11 @@ __________('apps',)__________
 
 Positive Reviews:
 
----'no way to use some of the usual apps.' **** 'usual'
+---'No way to use some of the usual apps.' **** 'usual'
 
 Negative Reviews:
 
----"the system can't be updated so some apps are not available" **** 'available'
+---"The system can't be updated so some apps are not available" **** 'available'
 
 
 ================================================================================================================
@@ -167,30 +91,7 @@ __________('perfect', 'condition')__________
 
 Positive Reviews:
 
----'the iphone was new and in the factory package as promised, in absolutely perfect condition.' **** 'perfect'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'inside of the phone have a black back ground and can never change.' **** 'black'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('r', 'company')__________
-
-
-Positive Reviews:
-
+---'The iPhone was new and in the factory package as promised, in absolutely perfect condition.' **** 'perfect'
 
 Negative Reviews:
 

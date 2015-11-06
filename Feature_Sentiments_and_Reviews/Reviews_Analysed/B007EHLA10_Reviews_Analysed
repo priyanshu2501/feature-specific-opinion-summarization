@@ -3,51 +3,68 @@ __________('require', 'a', 'data')__________
 
 Positive Reviews:
 
+---'This is a good basic phone since I refuse to pay extra for a data plan.' **** 'extra'
 
 Negative Reviews:
 
+---'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
+---'00 and higher data plans for all their phones in the near future.' **** 'higher'
+---"I wanted a feature phone because I don't want to pay extra for a data plan." **** 'extra'
 
 
 ================================================================================================================
-__________('something',)__________
+__________('every', 'time')__________
 
 
 Positive Reviews:
 
----"* calls other people at random (i'm sure i accidentally touched something, i'm just not sure what, exactly)." **** 'sure'
----"not anything to write home about but if you forgot your camera and you see something unforgettable, it's there.4) it is expandable by sd card." **** 'unforgettable'
----"i can't wait for my 2-years to be up so i can get something else...it's really, really bad." **** 'bad'
+---"Yeah, that's great, I can see my beautiful dog's picture for about half a second every time I have to UNLOCK my phone and then I have to see its ugly menu screen." **** 'second'
 
 Negative Reviews:
 
----'even something as simple as disconnecting a call and carefully locking it, and putting it in my purse can somehow dial the voice mail or connect to the internet more times than i can count.5.' **** 'simple'
+---"Since I don't want to walk outside every time I make or receive a call, I returned the Samsung Brightside to my local Verizon store." **** 'outside'
 
 
 ================================================================================================================
-__________('keyboard',)__________
+__________('battery', 'life')__________
 
 
 Positive Reviews:
 
----'* when opening phone to use keyboard, it is likely you will either take a picture, or drop phone while attempting not to take a picture.' **** 'likely'
----'the keys on the keyboard are larger than my last phone (an extravert) so i can text super quickly in comparison.' **** 'larger'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'other'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'tough'
----'i text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so i drop it all the time.' **** 'difficult'
----'i text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so i drop it all the time.' **** 'open'
----'i text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so i drop it all the time.' **** 'thin'
----'i selected this as the newest keyboard phone available.' **** 'newest'
----'the screen is large and smooth, the keys on the full qwerty keyboard are large and easy to use, and the call quality is great!' **** 'easy'
+---'Very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.' **** 'reasonable'
+---'Battery life seems pretty good.' **** 'good'
+---'So far, the battery life seems good.' **** 'good'
+---"My battery is not short and nor does it die often or daily for that matter--this is probably because I have my phone to fall asleep within 45 seconds timer set for my backlight and I don't turn it off and on like a mad person." **** 'short'
+---'Its battery is good!' **** 'good'
+---"We'll see if the new battery fixes the issue." **** 'new'
+---"If you want make calls you can hear, and have a simple, well laid out, dependable phone, that won't leave you with a dead battery, when you need it most, give this a try." **** 'dead'
+---'My only other complaint is the low battery sound is completely loud, even when the phone is on silent.' **** 'low'
 
 Negative Reviews:
 
----'the keys are small--all smartphones are like that--the keyboard will be comfortable for those who are a bit touchy-touchy and oopsah-daisy!i imagine the battery life is drained for smartphone users who have the "web" on their phone.' **** 'comfortable'
----'i really like the slide-out keyboard on the overall -- the keypad feel is good and crisp.' **** 'overall'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'much'
----'the keyboard is small and hard to use unless you have long nails.' **** 'small'
----'the keyboard is small and hard to use unless you have long nails.' **** 'hard'
----"i purchased this phone when this patch was available, so maybe that's why there are some mixed reviews on this phone.pros:-i think the display is great-i can avoid the verizon wireless store, (please, we all know what that's like)-great keyboard -- it's responsive & has a good feel to it (not slippery)-touch screen for a basic phone -- i was quite surprised!" **** 'responsive'
----'this on screen keyboard is smaller so takes some getting used to as well, when typing on mobile web, but it works just fine.' **** 'smaller'
+---'Battery life is short.' **** 'short'
+---"It's been extremely buggy, won't turn on reliably, and is on its second battery." **** 'second'
+---'It also still makes the low battery beep after the phone has shut off because of low battery.' **** 'low'
+---'It also still makes the low battery beep after the phone has shut off because of low battery.' **** 'low'
+
+
+================================================================================================================
+__________('a', 'data', 'plan')__________
+
+
+Positive Reviews:
+
+---'This is a good basic phone since I refuse to pay extra for a data plan.' **** 'extra'
+---'This is a good basic phone since I refuse to pay extra for a data plan.' **** 'extra'
+
+Negative Reviews:
+
+---'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
+---'00 and higher data plans for all their phones in the near future.' **** 'higher'
+---"I wanted a feature phone because I don't want to pay extra for a data plan." **** 'extra'
+---'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
+---'00 and higher data plans for all their phones in the near future.' **** 'higher'
+---"I wanted a feature phone because I don't want to pay extra for a data plan." **** 'extra'
 
 
 ================================================================================================================
@@ -56,15 +73,30 @@ __________('lock', 'screen')__________
 
 Positive Reviews:
 
----'i have mine set to "lock key only" and "auto lock" on.if you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "menu" and go to "display settings"--change the menu options you have for your main screen.' **** 'main'
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
+---'Only complaint: Side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
 
 Negative Reviews:
 
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't like how there is a menu that takes up the whole unlocked screen and i cannot have a background picture there and only when the screen is locked i can see it." **** 'whole'
----'the touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---"I don't like how there is a menu that takes up the whole unlocked screen and I cannot have a background picture there and only when the screen is locked I can see it." **** 'whole'
+---'The touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
+
+
+================================================================================================================
+__________('bright', 'side')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'Other than that he would also have a bright side phone.' **** 'other'
+---'Other than that he would also have a bright side phone.' **** 'bright'
+---'Once I saw the phone and held the phone in my hands I knew I had to have the bright side, I knew that phone would work for me.' **** 'bright'
+---'Our children like the bright side as well.' **** 'bright'
+---'The bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'bright'
 
 
 ================================================================================================================
@@ -73,36 +105,203 @@ __________('call', 'quality')__________
 
 Positive Reviews:
 
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'good'
----'the call quality is perfect on speaker, and hand set.' **** 'perfect'
----'"the call quality is good, and verizon offers the best coast-to-coast coverage in the cellular industry.' **** 'good'
+---'Very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.' **** 'good'
+---'The call quality is perfect on speaker, and hand set.' **** 'perfect'
+---'"The call quality is good, and Verizon offers the best coast-to-coast coverage in the cellular industry.' **** 'good'
 
 Negative Reviews:
 
----"altho it views webpages decently, has email and a really good quality touch screen.pros:good responsive touchscreendecent webpage accessdecent e-maildoesn't count as a smartphone on verizon so you can get basic web browsing and e-mail cheaper if that's all you wanteasy to put files on via usb on computer for mp3s,ringtones and whatnot.cons:bad camera (terrible actually can't even take a photo of an address label or item to get model number off of very blurry and hard to get in focus)not so good mp3 player layout and hates having lots of music (i have 7 gigs takes a good 4 minutes to load all songs if you use it more often it doesn't have to take so long to open)sometimes the screen goes to sleep while talking and hard to get dial-pad upwhen phone is locked and in your pocket if it rings you have to carefully remove from your pocket so you don't hangup on whos calling.all in all its the best non smartphone i have found that has a good touchscreen and flows well great if you only want email and webpages and don't care about apps." **** 'good'
 
 
 ================================================================================================================
-__________('touch',)__________
+__________('customer', 'support')__________
 
 
 Positive Reviews:
 
----'hard to find good touch phones.' **** 'good'
----'touch screen is responsive and it is plenty fast.' **** 'responsive'
----'as with their galaxy tab, samsung has proven they can build a good touch screen.one uniqueness is that the brightside offers both a touchscreen and a slide-out physical keyboard.' **** 'good'
----'this is no android, but still it is a nice touch screen.' **** 'nice'
----'here is what you need to know:+3.1 inch touch screen - something that so many basic phones don\'t have.+slide out keyboard - not a "real" qwerty like the droid 4, but a very nice one and great for texting.+software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.2 mp camera - low res compared to the 8 mp smartphones out there, but top notch for basic phones.' **** 'single'
+---'I wasted hours on the phone with customer support and technical support regarding the issue.' **** 'technical'
 
 Negative Reviews:
 
----"i like having the favorite contacts on the front, so the four people i call the most are just a single touch away.the voice commands works quite well; i've become quite addicted to it." **** 'single'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'worth'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'other'
 
 
 ================================================================================================================
-__________('n', 'pocket')__________
+__________('a', 'text', 'message')__________
+
+
+Positive Reviews:
+
+---'So if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.' **** 'last'
+---'So if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.' **** 'last'
+---'So if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.' **** 'last'
+---'The only way I found to successfully send picture messages was to create a new message and add an attachment of the photo I wanted to send.' **** 'new'
+
+Negative Reviews:
+
+---'Gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
+---'Gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
+---'Gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
+---'Even worse, when responding to a text, the msg box covers up the last txt in the conversation.' **** 'worse'
+---"This took care of the new message icon, however I still couldn't send photos properly." **** 'new'
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---"Cons:Bad Camera (terrible actually can't even take a photo of an address label or item to get model number off of very blurry and hard to get in focus)not so good mp3 player layout and hates having lots of music (I have 7 gigs takes a good 4 minutes to load all songs if you use it more often it doesn't have to take so long to open)Sometimes the screen goes to sleep while talking and hard to get dial-pad upWhen phone is locked and in your pocket if it rings you have to carefully remove from your pocket so you don't hangup on whos calling." **** 'bad'
+---'2 megapixel camera is just what I need for those unplanned "Kodak moments" when I don\'t have a regular camera around.' **** 'regular'
+---'It was what i wanted -- good camera, great keyboard, no huge price or data plan.' **** 'good'
+
+Negative Reviews:
+
+---'Camera is weak, but call quality seems fine.' **** 'weak'
+---'The camera has not zooming capabilities, which makes the first camera phone that I have ever had that was without zooming.' **** 'first'
+---'The camera is awful.' **** 'awful'
+---'While the overall appearance and design were GREAT, the processor, the interface, the mic, and the camera were absolutely worthless.' **** 'worthless'
+---"Pros: Cheap, Quick, Easy access to most features, Touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices." **** 'good'
+
+
+================================================================================================================
+__________('samsung', 'brightside')__________
+
+
+Positive Reviews:
+
+---'Thankfully, amazon wireless was very understanding and has let me choose a different phone altogether (I hope the Pantech Jest 2 works well) to replace my second samsung brightside.' **** 'second'
+---'Thankfully, amazon wireless was very understanding and has let me choose a different phone altogether (I hope the Pantech Jest 2 works well) to replace my second samsung brightside.' **** 'second'
+---'I was told by a Samsung Live Chat tech that ONLY  MP3s work on this phone -- even though the manual list AAC, AAC +, wav etc-- and that you must use Windows Media Player app to rip your CDs or convert to MP3 to enable artist, album sorting to function.' **** 'told'
+---'In summary, Samsung over looked a lot of the basic little features that make phones easy to use.' **** 'looked'
+---'I have an iPod touch and assumed the touch screen of the Brightside would be similar; I was wrong!' **** 'similar'
+---'At first, the Brightside was frustrating.' **** 'first'
+---'So several months later and yes I am still happy with the Brightside.' **** 'happy'
+
+Negative Reviews:
+
+---'Overall, I like how Samsung designed this phone.' **** 'overall'
+---'It is so unfortunate that Samsung would tease the feature phone user with this piece of junk!' **** 'unfortunate'
+---'I am going to check out the ZTE Adamant at Best Buy in hopes of finding a phone that suits my needs after my LG Voyager was discontinued and I was stuck with a Samsung Intensity for 1 year.' **** 'stuck'
+---"RANDOMLY HANGS UP ON PEOPLE IF YOU PICK UP THE CALL THEN UNPLUG ITThis was a HORRID phone - like only second to the Samsung Reclaim I had with sprint which I happily saw runned over by a car  (even though it wasn't intended!)" **** 'second'
+---'I am not happy with the Brightside.' **** 'happy'
+---'I have an iPod touch and assumed the touch screen of the Brightside would be similar; I was wrong!' **** 'wrong'
+---"My main complaint about the Brightside is that you can't do much to customize it." **** 'much'
+
+
+================================================================================================================
+__________('slide', 'out', 'qwerty')__________
+
+
+Positive Reviews:
+
+---'It has a nice slide out QWERTY keyboard, and the buttons work flawlessly.' **** 'nice'
+---'It has a nice slide out QWERTY keyboard, and the buttons work flawlessly.' **** 'nice'
+---'It looks like a smartphone and the large touchscreen plus a very good slide out keyboard are great features to have.' **** 'good'
+---'The keys on the qwerty are bigger and work better with my hands.' **** 'bigger'
+
+Negative Reviews:
+
+---"If you're like me and don't want to pay the $30/month for data, but you want a nice big screen and a slide-out QWERTY, this is one of the best out there right now." **** 'best'
+---"If you're like me and don't want to pay the $30/month for data, but you want a nice big screen and a slide-out QWERTY, this is one of the best out there right now." **** 'best'
+
+
+================================================================================================================
+__________('go', 'to', 'settings')__________
+
+
+Positive Reviews:
+
+---':) That and it can also be that within "Settings"--in "Touch Settings" you have your phone set to "Auto Lock" and this will automatically lock your phone and go to sleep.' **** 'touch'
+---':) That and it can also be that within "Settings"--in "Touch Settings" you have your phone set to "Auto Lock" and this will automatically lock your phone and go to sleep.' **** 'touch'
+
+Negative Reviews:
+
+---'CONSIt is not as "cool" as the iPhoneIt is easy to punch a button by accident (like your voicemail)and that is super annoyingThe videos have to be put into another format to play on the Brightside and its a little annoying to put them onThe bluetooth settings are not very good and its very hard to get it to be compatibleIt needs more fonts and needs a larger font for people who have difficulty seeing.' **** 'good'
+---'CONSIt is not as "cool" as the iPhoneIt is easy to punch a button by accident (like your voicemail)and that is super annoyingThe videos have to be put into another format to play on the Brightside and its a little annoying to put them onThe bluetooth settings are not very good and its very hard to get it to be compatibleIt needs more fonts and needs a larger font for people who have difficulty seeing.' **** 'good'
+
+
+================================================================================================================
+__________('a', 'touch', 'screen')__________
+
+
+Positive Reviews:
+
+---'I enjoyed the camera, but the touch screen was very sensitive.' **** 'touch'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'If you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "Menu" and go to "Display Settings"--change the menu options you have for your main screen.' **** 'main'
+---'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
+---"It's touch screen is sensitive some of the time and other times I can touch it to open a text several times before it will respond." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'quiet'
+---'The touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
+---'Very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'responsive'
+---"Over all it's a nice phone for a regular phone I like the touch screen." **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Touch screen has unnecessary menus at the bottom which get bumped all the time and makes phone make unwanted calls.' **** 'touch'
+---'It loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
+---'But the touch screen is really touchy.' **** 'touch'
+---'The touch screen feels accurate and responsive.' **** 'accurate'
+---'The touch screen feels accurate and responsive.' **** 'responsive'
+---'As with their Galaxy Tab, Samsung has proven they can build a good touch screen.' **** 'good'
+---'But it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.' **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'nice'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
+---'My 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
+---'Only complaint: Side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
+---'This is no android, but still it is a nice touch screen.' **** 'nice'
+---'The phone itself works good but the touch screen is way to sensitive.' **** 'touch'
+---'1 inch touch screen - something that so many basic phones don\'t have.+Slide out keyboard - not a "real" QWERTY like the Droid 4, but a very nice one and great for texting.+Software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.' **** 'single'
+---'A touch screen was important to me but I had no use for texting, e-mail, Web surfing ect.' **** 'touch'
+---'A touch screen was important to me but I had no use for texting, e-mail, Web surfing ect.' **** 'important'
+---"(By the way I have an android tablet and love it, so I'm used to a touch screen." **** 'touch'
+---'The touch screen is perfectly responsive, and I like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
+---'I have been using the flip phones forever but thought I would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
+
+Negative Reviews:
+
+---'The touch screen is unpredictable.' **** 'unpredictable'
+---"Let's see, 1 display cracked while in my pocket, 2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, Verizon agreed to a swap." **** 'touch'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'top'
+---"When you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'touch'
+---"Sometimes when I push to call someone it doesn't register right away on the touch screen." **** 'touch'
+---"you don't have to touch the touch screen for it to be activated." **** 'touch'
+---"It has a touch screen that doesn't lag to much." **** 'touch'
+---"PRO (yes, I said pro, it's only got one):Touch screen is not just pressure sensitive but also static." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---'The touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
+---'A few things you will immediately notice when you power up this phone: The image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
+---"Unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars." **** 'touch'
+---"I didn't care about the touch screen initially." **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'other'
+---'As noted before the touch screen (the short time it worked) was very sensitive.' **** 'touch'
+---'The touch screen is awful and I hangup on almost every person that calls me.' **** 'awful'
+---"I don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
+
+
+================================================================================================================
+__________('blue', 'tooth')__________
+
+
+Positive Reviews:
+
+---'For me - I spend a bit of time on the highway - so blue tooth was very important to me.' **** 'important'
+
+Negative Reviews:
+
+---'I would not have thought that was possible as it would be the blue tooth that controls it - but its very noticeable.' **** 'possible'
+---'I would not have thought that was possible as it would be the blue tooth that controls it - but its very noticeable.' **** 'noticeable'
+---'So - this phone is not so good with blue tooth.' **** 'good'
+
+
+================================================================================================================
+__________('times', 'a', 'day')__________
 
 
 Positive Reviews:
@@ -110,55 +309,32 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it's great if you sit in one place all day long, but have to move around or pull it out of a pocket, etc." **** 'pull'
----"it's small enough that it fits easily into a pocket." **** 'small'
 
 
 ================================================================================================================
-__________('month',)__________
+__________('memory',)__________
 
 
 Positive Reviews:
 
----"i'm on a family plan and only pay $30 a month which is nice." **** 'nice'
----'within a month, the second one did the same.' **** 'second'
----"for that, you'll need to pay the extra $30 a month for a smartphone." **** 'extra'
+---"Considering it's limited memory, this is almost necessary." **** 'necessary'
 
 Negative Reviews:
 
----"they also wanted me to pay an extra 10$ a month to my cell bill for data just because it's a brightside when i already have unlimited internet in my cell plan and pay for that....also it's not very customizable but it will work until i get a smart phone." **** 'extra'
+---'Can also capture video but it is low res.+Expandable memory up to 32 GB SD - nice for picture takers, but a 4 GB is more than enough for a basic phone.' **** 'low'
 
 
 ================================================================================================================
-__________('quality',)__________
+__________('voice', 'mail')__________
 
 
 Positive Reviews:
 
----'buy a different verizon phone; an older one of better quality or save up for smartphone and data plan.' **** 'better'
----';)video usesound quality is good.' **** 'good'
----'i am not here to persuade not to buy it, but to gripe that i have a poor quality phone.' **** 'poor'
----'the call quality is perfect on speaker, and hand set.' **** 'perfect'
----'"the call quality is good, and verizon offers the best coast-to-coast coverage in the cellular industry.' **** 'good'
+---'The bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'clear'
 
 Negative Reviews:
 
----"altho it views webpages decently, has email and a really good quality touch screen.pros:good responsive touchscreendecent webpage accessdecent e-maildoesn't count as a smartphone on verizon so you can get basic web browsing and e-mail cheaper if that's all you wanteasy to put files on via usb on computer for mp3s,ringtones and whatnot.cons:bad camera (terrible actually can't even take a photo of an address label or item to get model number off of very blurry and hard to get in focus)not so good mp3 player layout and hates having lots of music (i have 7 gigs takes a good 4 minutes to load all songs if you use it more often it doesn't have to take so long to open)sometimes the screen goes to sleep while talking and hard to get dial-pad upwhen phone is locked and in your pocket if it rings you have to carefully remove from your pocket so you don't hangup on whos calling.all in all its the best non smartphone i have found that has a good touchscreen and flows well great if you only want email and webpages and don't care about apps." **** 'good'
----'this issue is further compounded by inconsistency and poor quality search engine.' **** 'poor'
----'what a mistake.this phone is cute but is of poor quality and large ergonomic issues.' **** 'poor'
----'the quality of the slid is flimsy.' **** 'flimsy'
-
-
-================================================================================================================
-__________('to', 'settings', 'scroll')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'&lt; anyway--go to "sound settings"--scroll to "touch & keypad volume" and turn it "off"this will save a lot of headache for those who do not like beeping all day when using their phones--and so they don\'t have to turn off their sounds and miss a call or miss a text, etc etc.you can also turn off the sound when turning your phone on or off in the same place--its on bottom of those settings.setting custom sounds to text - video - callingyou can custom set sounds and ringtones to contacts.' **** 'touch'
+---'I hear them fine but my voice is so low to them that they are frustrated and want to end the call.' **** 'low'
 
 
 ================================================================================================================
@@ -167,74 +343,242 @@ __________('menu',)__________
 
 Positive Reviews:
 
----'the set-up menu was fairly helpful, but there are only 2 color scheme options (orange or green) and the background picture you chose is only seen when the phone is locked.after a couple weeks i realized that my phone had been calling my voicemail all by itself.' **** 'helpful'
----"worse gui, easily slips out your hand, music only plays in the media center so you can't do other stuff while music is playing, silly random pictures while music is playing, permanently stuck on that awful menu page.improvements: web browser, bluetooth, keyboard, wider.with all that was lost on the phone i think it should be slimmer than the reality" **** 'awful'
----'it just takes me back to the main menu.' **** 'main'
----'other stuff was very configurable (having the main menu icons be chosen by you, etc)also on the picture viewing.' **** 'main'
+---'The set-up menu was fairly helpful, but there are only 2 color scheme options (orange or green) and the background picture you chose is only seen when the phone is locked.' **** 'helpful'
+---"Worse GUI, easily slips out your hand, music only plays in the media center so you can't do other stuff while music is playing, silly random pictures while music is playing, permanently stuck on that awful menu page." **** 'awful'
+---'It just takes me back to the main menu.' **** 'main'
+---'other stuff was very configurable (having the main menu icons be chosen by you, etc)Also on the picture viewing.' **** 'main'
 
 Negative Reviews:
 
----'i will agree that the screen is a bit sensitive to accidental touches, and the scan forward feature of the mp3 player is actually hard to hit the correct spot that senses your finger, but these are minor issues that go away with a little practice.if you want to only make calls, i would recommend having verizon block out all the data features, it is easy to accidentally open a menu for email, web or apps that ask if you want to activate(extra charge)the service.' **** 'open'
----"yeah, that's great, i can see my beautiful dog's picture for about half a second every time i have to unlock my phone and then i have to see its ugly menu screen." **** 'ugly'
+---'If you want to only make calls, I would recommend having Verizon block out all the data features, it is easy to accidentally open a menu for email, web or apps that ask if you want to activate(extra charge)the service.' **** 'open'
+---"Yeah, that's great, I can see my beautiful dog's picture for about half a second every time I have to UNLOCK my phone and then I have to see its ugly menu screen." **** 'ugly'
 
 
 ================================================================================================================
-__________('brightside',)__________
+__________('social', 'media')__________
 
 
 Positive Reviews:
 
----'i have an ipod touch and assumed the touch screen of the brightside would be similar; i was wrong!' **** 'similar'
----'at first, the brightside was frustrating.' **** 'first'
----'so several months later and yes i am still happy with the brightside.' **** 'happy'
+---"The icons are useful to some extent, although I'm not sure who needs their social media, e-mail, and various other apps on a basic phone lacking a data plan." **** 'sure'
 
 Negative Reviews:
 
----'i am not happy with the brightside.' **** 'happy'
----'i have an ipod touch and assumed the touch screen of the brightside would be similar; i was wrong!' **** 'wrong'
----"the construction feels solid and the buttons on the qwerty keypad are quieter but spaced closer together than those on the env3 which makes texting a bit tougher.my main complaint about the brightside is that you can't do much to customize it." **** 'much'
 
 
 ================================================================================================================
-__________('verizon',)__________
+__________('button',)__________
 
 
 Positive Reviews:
 
----"that'd have been at least another $20 from verizon, i'm sure." **** 'sure'
----'of course verizon says too bad and you can change it in two years.' **** 'bad'
----'verizon is aware of it but they continue to sell this defective product.' **** 'aware'
+---"If you block these features through Verizon, you won't have to worry about accidentally hitting a wrong button(or your kids hitting them)." **** 'wrong'
+---"The keys are well spaced so you won't end up pressing the wrong button often." **** 'wrong'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'easy'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
 
 Negative Reviews:
 
----'i was told at the verizon store after returning another non-smart phone that the samsung brightside is the best in class.' **** 'told'
----"can't use this phone for anything other then cell phone calls, today i couldn't even add a new contact, the keys are so sensitive have to turn it off when not in use so it doesn't do things i haven't typed in, it is a heavy phone, i am just using it as a backup since barely anything works on the samsung brightside, just don't feel it is reliable, verizon customer service is worthless with trying to resolve issues with this phone." **** 'reliable'
----'most people think this is the only decent basic phone that verizon has, not true!' **** 'true'
----"i can't believe i'm going to be stuck with this for another 20+ months because of my lovely verizon contract." **** 'lovely'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'wrong'
+---"The lock button is really nice--I haven't had any issues of having the phone pocket dial anyone; once it is locked, it stays locked for me." **** 'nice'
+---'No monthly data fee and great e-mail with push button QWERTY pad for only $5/month.' **** 'push'
 
 
 ================================================================================================================
-__________('side',)__________
+__________('to', 'make', 'calls')__________
 
 
 Positive Reviews:
 
+---'Calls were clear and loud enough, no problems really with the connection between the two.' **** 'clear'
+---'Calls were clear and loud enough, no problems really with the connection between the two.' **** 'loud'
+---"While quality of calls is acceptable, the audio jack port is flaky and the headphones I use (yes, I'm old enough to have trouble hearing and need the headphones) cut out even without moving the phone or the cord." **** 'acceptable'
+---"This, after pressing save (which apparently does nothing).-It's very difficult to answer calls without hanging up." **** 'difficult'
+---'They are unnecessary (except for keypad) because you have the menu screen already on the entire front of the phone which already has "contacts," most people hit the "send" button on the phone to view their recent calls.' **** 'recent'
+---'But because this option is there, it is pressed all the time when it just accidentally unlocked and my phone seems like it is constantly calling my voicemail or my recent calls, or opening my contacts to call a new one.' **** 'recent'
 
 Negative Reviews:
 
----'other than that he would also have a bright side phone.so far no problems with this phone, i was leary of the phone because of all the bad reviews.' **** 'other'
----'other than that he would also have a bright side phone.so far no problems with this phone, i was leary of the phone because of all the bad reviews.' **** 'bright'
----'once i saw the phone and held the phone in my hands i knew i had to have the bright side, i knew that phone would work for me.' **** 'bright'
----'our children like the bright side as well.' **** 'bright'
----'i switched to the bright side from my env 3, which i so liked.the bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'bright'
+---'Now, if your phone roams for any reason, even if you are in your home coverage area, they will tell you it is your problem and to set your phone to home even if it will not be able to make or receive calls.' **** 'able'
+---'Now, if your phone roams for any reason, even if you are in your home coverage area, they will tell you it is your problem and to set your phone to home even if it will not be able to make or receive calls.' **** 'able'
+---"It still turns off at random times and drops calls and is ridiculously sensitive, unlocking itself when you're unaware of it and it starts dialing." **** 'unaware'
 
 
 ================================================================================================================
-__________('store',)__________
+__________('qwerty', 'keyboard')__________
 
 
 Positive Reviews:
 
+---'The screen is large and smooth, the keys on the full QWERTY keyboard are large and easy to use, and the call quality is great!' **** 'easy'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('slide', 'out', 'keyboard')__________
+
+
+Positive Reviews:
+
+---'It has a nice slide out QWERTY keyboard, and the buttons work flawlessly.' **** 'nice'
+---'It looks like a smartphone and the large touchscreen plus a very good slide out keyboard are great features to have.' **** 'good'
+---'* When opening phone to use keyboard, it is likely you will either take a picture, or drop phone while attempting not to take a picture.' **** 'likely'
+---'The keys on the keyboard are larger than my last phone (an Extravert) so I can text super quickly in comparison.' **** 'larger'
+---'I text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so I drop it all the time.' **** 'difficult'
+---'I text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so I drop it all the time.' **** 'open'
+---'I text a lot and the slide keyboard is rather difficult to open as it is too thin and slippery to hold on to, so I drop it all the time.' **** 'thin'
+---'I selected this as the newest keyboard phone available.' **** 'newest'
+---'The screen is large and smooth, the keys on the full QWERTY keyboard are large and easy to use, and the call quality is great!' **** 'easy'
+
+Negative Reviews:
+
+---'I really like the slide-out keyboard on the overall -- the keypad feel is good and crisp.' **** 'overall'
+---'Slide out keyboard is tough to open and end up dropping it more often than opening it.' **** 'tough'
+---'The keys are small--all smartphones are like that--the keyboard will be comfortable for those who are a bit touchy-touchy and oopsah-daisy!' **** 'comfortable'
+---'I really like the slide-out keyboard on the overall -- the keypad feel is good and crisp.' **** 'overall'
+---'Slide out keyboard is tough to open and end up dropping it more often than opening it.' **** 'tough'
+---'The keyboard is small and hard to use unless you have long nails.' **** 'small'
+---'The keyboard is small and hard to use unless you have long nails.' **** 'hard'
+---"Pros:-I think the display is great-I can avoid the Verizon Wireless store, (please, we all know what that's like)-Great keyboard -- it's responsive & has a good feel to it (not slippery)-Touch screen for a basic phone -- I was quite surprised!" **** 'responsive'
+---'This on screen keyboard is smaller so takes some getting used to as well, when typing on mobile web, but it works just fine.' **** 'smaller'
+
+
+================================================================================================================
+__________('on', 'touch', 'screen')__________
+
+
+Positive Reviews:
+
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'If you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "Menu" and go to "Display Settings"--change the menu options you have for your main screen.' **** 'main'
+---'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
+---"It's touch screen is sensitive some of the time and other times I can touch it to open a text several times before it will respond." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'quiet'
+---'The touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
+---'Very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'responsive'
+---"Over all it's a nice phone for a regular phone I like the touch screen." **** 'touch'
+---'Slow on the touch screen.' **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Touch screen has unnecessary menus at the bottom which get bumped all the time and makes phone make unwanted calls.' **** 'touch'
+---'It loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
+---'The touch screen feels accurate and responsive.' **** 'accurate'
+---'The touch screen feels accurate and responsive.' **** 'responsive'
+---'But it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.' **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'nice'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
+---'My 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
+---'Only complaint: Side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
+---'The phone itself works good but the touch screen is way to sensitive.' **** 'touch'
+---'1 inch touch screen - something that so many basic phones don\'t have.+Slide out keyboard - not a "real" QWERTY like the Droid 4, but a very nice one and great for texting.+Software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.' **** 'single'
+---'The touch screen is perfectly responsive, and I like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
+---'I have been using the flip phones forever but thought I would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
+---'I enjoyed the camera, but the touch screen was very sensitive.' **** 'touch'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'able'
+---'If you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "Menu" and go to "Display Settings"--change the menu options you have for your main screen.' **** 'main'
+---'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
+---"It's touch screen is sensitive some of the time and other times I can touch it to open a text several times before it will respond." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'quiet'
+---'The touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
+---'Very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'touch'
+---'Touch screen is responsive and it is plenty fast.' **** 'responsive'
+---"Over all it's a nice phone for a regular phone I like the touch screen." **** 'touch'
+---'Slow on the touch screen.' **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
+---'Touch screen has unnecessary menus at the bottom which get bumped all the time and makes phone make unwanted calls.' **** 'touch'
+---'It loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
+---'But the touch screen is really touchy.' **** 'touch'
+---'The touch screen feels accurate and responsive.' **** 'accurate'
+---'The touch screen feels accurate and responsive.' **** 'responsive'
+---'As with their Galaxy Tab, Samsung has proven they can build a good touch screen.' **** 'good'
+---'But it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.' **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'nice'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
+---'My 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
+---'Only complaint: Side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
+---'I\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
+---'This is no android, but still it is a nice touch screen.' **** 'nice'
+---'The phone itself works good but the touch screen is way to sensitive.' **** 'touch'
+---'1 inch touch screen - something that so many basic phones don\'t have.+Slide out keyboard - not a "real" QWERTY like the Droid 4, but a very nice one and great for texting.+Software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.' **** 'single'
+---'A touch screen was important to me but I had no use for texting, e-mail, Web surfing ect.' **** 'touch'
+---'A touch screen was important to me but I had no use for texting, e-mail, Web surfing ect.' **** 'important'
+---"(By the way I have an android tablet and love it, so I'm used to a touch screen." **** 'touch'
+---'The touch screen is perfectly responsive, and I like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
+---'I have been using the flip phones forever but thought I would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
+
+Negative Reviews:
+
+---"Let's see, 1 display cracked while in my pocket, 2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, Verizon agreed to a swap." **** 'touch'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'top'
+---"When you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'touch'
+---"Sometimes when I push to call someone it doesn't register right away on the touch screen." **** 'touch'
+---"you don't have to touch the touch screen for it to be activated." **** 'touch'
+---"PRO (yes, I said pro, it's only got one):Touch screen is not just pressure sensitive but also static." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---'The touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
+---'A few things you will immediately notice when you power up this phone: The image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
+---"Unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars." **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'other'
+---'The touch screen is awful and I hangup on almost every person that calls me.' **** 'awful'
+---"I don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
+---'The touch screen is unpredictable.' **** 'unpredictable'
+---"Let's see, 1 display cracked while in my pocket, 2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, Verizon agreed to a swap." **** 'touch'
+---'TOUCH SCREEN USEThe screen is able to slide from side to side when viewing pictures in "My Pictures"The screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.' **** 'top'
+---"When you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
+---'easy to use and very user friendly I would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, I chose this phone because I wanted a touch screen and the screen is quiet large, I do not have any issues with this phone' **** 'touch'
+---"Sometimes when I push to call someone it doesn't register right away on the touch screen." **** 'touch'
+---"you don't have to touch the touch screen for it to be activated." **** 'touch'
+---"It has a touch screen that doesn't lag to much." **** 'touch'
+---"PRO (yes, I said pro, it's only got one):Touch screen is not just pressure sensitive but also static." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---"I don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but I do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
+---'The touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
+---'A few things you will immediately notice when you power up this phone: The image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
+---"Unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars." **** 'touch'
+---"I didn't care about the touch screen initially." **** 'touch'
+---"Pros: Compared to other touch screen phones I've used, this one is way faster and has a nice, responsive screen." **** 'other'
+---'As noted before the touch screen (the short time it worked) was very sensitive.' **** 'touch'
+---'The touch screen is awful and I hangup on almost every person that calls me.' **** 'awful'
+---"I don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
+
+
+================================================================================================================
+__________('upgrade',)__________
+
+
+Positive Reviews:
+
+---'Love it so much that now that the rest of us are eligible for an upgrade, we are all getting this phone.' **** 'eligible'
+---"As for the phone, it's a nice upgrade from the Intensity." **** 'nice'
+---'I sent the phones back on Monday, and today they processed the return, refunded my money (all 2 cents of it), and contacted Verizon for me to cancel the account upgrade so I am able to get new phones.' **** 'able'
+
+Negative Reviews:
+
+---'So when I got a free upgrade and got this phone for free with my regular plan I was excited.' **** 'free'
+---"Can't wait until my contract expires and I qualify for an upgrade to get rid of this thing." **** 'rid'
+
+
+================================================================================================================
+__________('smart',)__________
+
+
+Positive Reviews:
+
+---"So this is probably the best regular phone out there and I wasn't quite ready for a smart phone." **** 'ready'
+---"What's good:-Closest you can come to a smart phone without signing away on a 2 year ($30+ a month data-plan)-Great supplement if you already have an iOS device (such as a iTouch) or you sit in front an office computer all day for apps, internet etc-USB interface is easy to use making for nearly seamless media downloads/uploads.-Setup was a breeze, both with activating the line and initial customization-Comes equipped with Verizon's Backup Assistant for initial setup of backing up your contacts or transferring from your previous phone." **** 'good'
+---"2 MP camera is pretty low by today's standards, but it's hard to do any better without getting a smart phone." **** 'better'
+---"Nearly as capable as a smart phone with Samsung's proprietary OS." **** 'capable'
 
 Negative Reviews:
 
@@ -246,14 +590,74 @@ __________('at', 'verizon', 'store')__________
 
 Positive Reviews:
 
+---"That'd have been at least another $20 from Verizon, I'm sure." **** 'sure'
+---'Of course Verizon says too bad and you can change it in two years.' **** 'bad'
+---'Verizon is aware of it but they continue to sell this defective product.' **** 'aware'
 
 Negative Reviews:
 
----'i was told at the verizon store after returning another non-smart phone that the samsung brightside is the best in class.' **** 'told'
+---'I was told at the Verizon store after returning another non-smart phone that the Samsung Brightside is the best in class.' **** 'told'
+---'I was told at the Verizon store after returning another non-smart phone that the Samsung Brightside is the best in class.' **** 'told'
+---'I was told at the Verizon store after returning another non-smart phone that the Samsung Brightside is the best in class.' **** 'told'
+---"Can't use this phone for anything other then cell phone calls, today I couldn't even add a new contact, the keys are so sensitive have to turn it off when not in use so it doesn't do things I haven't typed in, it is a heavy phone, I am just using it as a backup since barely anything works on the Samsung brightside, just don't feel it is reliable, Verizon customer service is worthless with trying to resolve issues with this phone." **** 'reliable'
+---'most people think this is the only decent basic phone that Verizon has, not true!' **** 'true'
+---"I can't believe I'm going to be stuck with this for another 20+ months because of my lovely Verizon contract." **** 'lovely'
 
 
 ================================================================================================================
-__________('nice',)__________
+__________('contacts',)__________
+
+
+Positive Reviews:
+
+---'That shows a favorite contacts bar at the bottom, which is nice.' **** 'favorite'
+---'But because this option is there, it is pressed all the time when it just accidentally unlocked and my phone seems like it is constantly calling my voicemail or my recent calls, or opening my contacts to call a new one.' **** 'new'
+---"I went ahead and manually entered all my contacts, but I really don'twant to lose my saved pics from previous phone." **** "don'twant"
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('text', 'messages')__________
+
+
+Positive Reviews:
+
+---'Long messages will often not even fit on the screen.' **** 'long'
+
+Negative Reviews:
+
+---'When I first got it I would send unfinished messages all the time and constantly call voicemail.' **** 'unfinished'
+
+
+================================================================================================================
+__________('music',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'A few good points about the phone: buying it from Amazon costs you practically nothing, the sound quality for the music is good, there are many preloaded ringtones to choose from, sliding QWERTY, and durable (I have dropped mine several times and it stills works).' **** 'good'
+
+
+================================================================================================================
+__________('30', 'a', 'month')__________
+
+
+Positive Reviews:
+
+---"I'm on a family plan and only pay $30 a month which is nice." **** 'nice'
+---"For that, you'll need to pay the extra $30 a month for a smartphone." **** 'extra'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('e', 'mail')__________
 
 
 Positive Reviews:
@@ -269,741 +673,23 @@ __________('smartphone',)__________
 
 Positive Reviews:
 
----'it is big and looks kind of like a smartphone.' **** 'like'
----"i don't think i will get another touch screen phone again, unless it is an actual smartphone." **** 'actual'
+---'It is big and looks kind of like a smartphone.' **** 'like'
+---"I don't think I will get another touch screen phone again, unless it is an actual smartphone." **** 'actual'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('reviews',)__________
+__________('internet',)__________
 
 
 Positive Reviews:
 
----'however after having it a couple of weeks, here is what i have found.good:no $30 per month data feetalk clarity is not bad.nicely laid out keyboardbad:as mentioned in other reviews, it is way to sensitive and i am constantly going into areas i did not want to go...voice mail is the big one.horrible speaker phone quality.received text message are cut off short for no apparent reason.when the phone is locked, it will unlock by itself in your pocket...calling vm or the web!camera quality is of phone produced 3 yrs ago.' **** 'other'
----"i don't know what other reviews are saying about the sd card reader not working properly, or any other problems with the phone." **** 'other'
----'most of those negative reviews compared it to a smartphone...it is not a smartphone.' **** 'negative'
----'if you read any of the other reviews they mention some of the negative aspects (see "thatneilguy"\'s review which states:" as noted in other reviews, the touch screen is ridiculously sensitive, opening apps and even answering a call before you\'ve even got hold of the phone.' **** 'other'
----'if you read any of the other reviews they mention some of the negative aspects (see "thatneilguy"\'s review which states:" as noted in other reviews, the touch screen is ridiculously sensitive, opening apps and even answering a call before you\'ve even got hold of the phone.' **** 'other'
----'i have no idea why this phone got such good reviews; it was terrible!' **** 'good'
----"the music player accepts a good deal of formats, so i can just drag and drop songs from itunes right into my phone.cons: customizability is somewhat limited, though i don't agree with some of the other reviews that say it isn't customizable at all." **** 'other'
----'not sure why so many negative reviews.' **** 'sure'
----'not sure why so many negative reviews.' **** 'negative'
----"we are so disappointed with this.as noted in other reviews, the touch screen is ridiculously sensitive, opening apps and even answering a call before you've even got hold of the phone." **** 'other'
----'i cannot figure out where all these negative reviews came from.' **** 'negative'
----'i went in to upgrade for it and i went to radioshack and i only had to pay 50$ while i have heard other people paying up to 115 for an upgrade.i did have a smartphone but wanted to downgrade because i already have internet and dont use my phone for that but wanted a phone that has similar features and can get internet if i ever changed my mind.i have seen some bad reviews for this phone but mostly it comes from people who do not know how to run their phone or went into this phone for the wrong reason.' **** 'bad'
----"all bad reviews aside this gets a 5 star from me for a wonderful basic phone for all of those who want a nice phone without internet.it isn't as fast as a smart phone but without the internet it is still unbelievably fast." **** 'bad'
+---'I have heard of people having troubles with banners and online backups, my advice would be to get rid of your internet and block it.' **** 'rid'
 
 Negative Reviews:
 
----'i have read other reviews on here and they have it correct.' **** 'other'
----'i was excited to try the brightside but concerned about some of the negative reviews.' **** 'negative'
----'i was almost dissuaded from purchasing this phone by the bad reviews but my intensity ii is pretty beat up so i took a chance.' **** 'bad'
----'i was worried by negative reviews, but i have had no issues with this phone.' **** 'negative'
----'other than that he would also have a bright side phone.so far no problems with this phone, i was leary of the phone because of all the bad reviews.' **** 'bad'
-
-
-================================================================================================================
-__________('times',)__________
-
-
-Positive Reviews:
-
----'if you receive a text while listening to a song, the song will pause and resume only after you leave the screen for texting.a few good points about the phone: buying it from amazon costs you practically nothing, the sound quality for the music is good, there are many preloaded ringtones to choose from, sliding qwerty, and durable (i have dropped mine several times and it stills works).' **** 'mine'
----'i have been late to work at least 4 times since buying this piece of crap.the alarm does not work if you are setting it for the next 24 hours.' **** 'late'
----'it unlocks after like 3 times due to the lag of this phone.' **** 'due'
-
-Negative Reviews:
-
----"it's touch screen is sensitive some of the time and other times i can touch it to open a text several times before it will respond." **** 'other'
----'other times, i might be poking at something repeatedly on the screen with no response.' **** 'other'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the new problem i am experiencing is that my contact cannot here my voice when i call them.' **** 'new'
----'the camera is nothing fancy, but for spontaneous picture moments it will do the job.i found the phone to be a little slick to the touch and was afraid of dropping it, so i purchased a case from verizon, which adds bulk, but gives the phone a very solid feel and nice weight.so on to the negatives...  so far there is only one major problem i have found with this phone.' **** 'major'
----"i'm pretty conscious about locking it though, so it's not a big problem." **** 'conscious'
----'this continues to be a problem, making it completely unreliable, frustrating and a waste of money.' **** 'unreliable'
-
-
-================================================================================================================
-__________('r', 'pocket')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"it's great if you sit in one place all day long, but have to move around or pull it out of a pocket, etc." **** 'pull'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----'so if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.in summary, samsung over looked a lot of the basic little features that make phones easy to use.' **** 'last'
-
-Negative Reviews:
-
----'gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
----'even worse, when responding to a text, the msg box covers up the last txt in the conversation.' **** 'worse'
-
-
-================================================================================================================
-__________('a', 'text', 'message')__________
-
-
-Positive Reviews:
-
----'the only way i found to successfully send picture messages was to create a new message and add an attachment of the photo i wanted to send.then, the icon for an unread text message appeared on the home screen.' **** 'new'
----'so if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.in summary, samsung over looked a lot of the basic little features that make phones easy to use.' **** 'last'
-
-Negative Reviews:
-
----'gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
-
-
-================================================================================================================
-__________('need',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('slide', 'out', 'qwerty')__________
-
-
-Positive Reviews:
-
----'it has a nice slide out qwerty keyboard, and the buttons work flawlessly.' **** 'nice'
-
-Negative Reviews:
-
----"ever.if you're like me and don't want to pay the $30/month for data, but you want a nice big screen and a slide-out qwerty, this is one of the best out there right now." **** 'best'
-
-
-================================================================================================================
-__________('memory',)__________
-
-
-Positive Reviews:
-
----"considering it's limited memory, this is almost necessary." **** 'necessary'
-
-Negative Reviews:
-
----'can also capture video but it is low res.+expandable memory up to 32 gb sd - nice for picture takers, but a 4 gb is more than enough for a basic phone.' **** 'low'
-
-
-================================================================================================================
-__________('things',)__________
-
-
-Positive Reviews:
-
----'this may or may not take longer to find things if you are a fast touch screen user.' **** 'longer'
----'regardless, i was pretty thrilled for several days, until i actually started using the thing.currently, this is the list of things that drive me crazy:* calls my voicemail several times a day from the "lock" screen, while in my pocket.' **** 'drive'
----"i had this phone for over a year and since i just wrote a long and scathing review on the verizon site i'm not sure i can remember it all- 10 things are wrong with it: 1.menu options suck - list or grid; orange or green." **** 'wrong'
-
-Negative Reviews:
-
----'but after using for the phone for a while, it makes sense to take out that one extra level a user has to navigate through to get to the things that really matter.' **** 'matter'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'wrong'
-
-
-================================================================================================================
-__________('times', 'a', 'day')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('qwerty', 'keyboard')__________
-
-
-Positive Reviews:
-
----'the screen is large and smooth, the keys on the full qwerty keyboard are large and easy to use, and the call quality is great!' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('30', 'a', 'month')__________
-
-
-Positive Reviews:
-
----"i'm on a family plan and only pay $30 a month which is nice." **** 'nice'
----"for that, you'll need to pay the extra $30 a month for a smartphone." **** 'extra'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('voice',)__________
-
-
-Positive Reviews:
-
----"if you wanted russian, hebrew, yiddish, chinese etc....don't go with this phone, go with another phone.very hard to use it with voice prompts but it says it has those." **** 'hard'
----'i switched to the bright side from my env 3, which i so liked.the bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'clear'
-
-Negative Reviews:
-
----'i hear them fine but my voice is so low to them that they are frustrated and want to end the call.' **** 'low'
-
-
-================================================================================================================
-__________('vz', 'navigator')__________
-
-
-Positive Reviews:
-
----'it could be across the room from me and i will hear "vz navigator, a powerful and easy to use...."5. wingdings will randomly appear while trying to send a messagei can go on.' **** 'powerful'
----'it could be across the room from me and i will hear "vz navigator, a powerful and easy to use...."5. wingdings will randomly appear while trying to send a messagei can go on.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('on', 'touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'top'
----'i have mine set to "lock key only" and "auto lock" on.if you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "menu" and go to "display settings"--change the menu options you have for your main screen.' **** 'main'
----'i mentioned before under "touch screen use" that you can limit this by turning off the any key answering and whatever.' **** 'touch'
----'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
----"it's touch screen is sensitive some of the time and other times i can touch it to open a text several times before it will respond." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'quiet'
----'the touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'touch'
----'touch screen is responsive and it is plenty fast.' **** 'responsive'
----"over all it's a nice phone for a regular phone i like the touch screen." **** 'touch'
----'slow on the touch screen.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'it loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
----'the touch screen feels accurate and responsive.' **** 'accurate'
----'the touch screen feels accurate and responsive.' **** 'responsive'
----'as with their galaxy tab, samsung has proven they can build a good touch screen.one uniqueness is that the brightside offers both a touchscreen and a slide-out physical keyboard.' **** 'good'
----'but it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.i also had verizon env3 -- which i loved -- except for the problem of it shutting it self down.' **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'nice'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
----'my 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
----'the phone itself works good but the touch screen is way to sensitive.' **** 'touch'
----'here is what you need to know:+3.1 inch touch screen - something that so many basic phones don\'t have.+slide out keyboard - not a "real" qwerty like the droid 4, but a very nice one and great for texting.+software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.2 mp camera - low res compared to the 8 mp smartphones out there, but top notch for basic phones.' **** 'single'
----'the touch screen is perfectly responsive, and i like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
----'i have been using the flip phones forever but thought i would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
-
-Negative Reviews:
-
----"let's see, 1 display cracked while in my pocket,  2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, verizon agreed to a swap.the sad thing about this." **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'much'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----"when you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'touch'
----"sometimes when i push to call someone it doesn't register right away on the touch screen." **** 'touch'
----'slow on the touch screen.' **** 'slow'
----"you don't have to touch the touch screen for it to be activated." **** 'touch'
----"pro (yes, i said pro, it's only got one):touch screen is not just pressure sensitive but also static." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----'the touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
----'i can imagine they are sitting back and laughing at your expense on this one.a few things you will immediately notice when you power up this phone: the image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'worth'
----"this one is fantastic!i didn't care about the touch screen initially." **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'other'
----'the menus will not allow you to select anything you\'ve added to memory.i\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'main'
----'the touch screen is awful and i hangup on almost every person that calls me.' **** 'awful'
----"i don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
-
-
-================================================================================================================
-__________('upgrade',)__________
-
-
-Positive Reviews:
-
----'love it so much that now that the rest of us are eligible for an upgrade, we are all getting this phone.' **** 'eligible'
----"now i'm out 2 cents, but i'll manage somehow!as for the phone, it's a nice upgrade from the intensity." **** 'nice'
----'i sent the phones back on monday, and today they processed the return, refunded my money (all 2 cents of it), and contacted verizon for me to cancel the account upgrade so i am able to get new phones.' **** 'able'
-
-Negative Reviews:
-
----'so when i got a free upgrade and got this phone for free with my regular plan i was excited.' **** 'free'
----"can't wait until my contract expires and i qualify for an upgrade to get rid of this thing." **** 'rid'
-
-
-================================================================================================================
-__________('turn',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('lg', 'dare')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('data',)__________
-
-
-Positive Reviews:
-
----'this is a good basic phone since i refuse to pay extra for a data plan.' **** 'extra'
-
-Negative Reviews:
-
----'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
----'verizon seems to be headed for $30.00 and higher data plans for all their phones in the near future.' **** 'higher'
----"i wanted a feature phone because i don't want to pay extra for a data plan." **** 'extra'
-
-
-================================================================================================================
-__________('a', 'data', 'plan')__________
-
-
-Positive Reviews:
-
----'this is a good basic phone since i refuse to pay extra for a data plan.' **** 'extra'
-
-Negative Reviews:
-
----'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
----'verizon seems to be headed for $30.00 and higher data plans for all their phones in the near future.' **** 'higher'
----"i wanted a feature phone because i don't want to pay extra for a data plan." **** 'extra'
-
-
-================================================================================================================
-__________('text', 'message')__________
-
-
-Positive Reviews:
-
----'the only way i found to successfully send picture messages was to create a new message and add an attachment of the photo i wanted to send.then, the icon for an unread text message appeared on the home screen.' **** 'new'
----'so if you need to re-read the last text you got as you are responding, you have to save your current msg as a draft, go back to the conversation, read the text, go back to the main messaging screen, go to your drafts, and re-open your message.in summary, samsung over looked a lot of the basic little features that make phones easy to use.' **** 'last'
-
-Negative Reviews:
-
----'gets constant "you have a new text message message, and there is nothing there only to find out later our son was texting her.' **** 'new'
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'reasonable'
----'so far, the battery life seems good.' **** 'good'
-
-Negative Reviews:
-
----"there's an auto dim feature that i like, so i don't get a flashlight in my face at night.battery life seems pretty good." **** 'good'
-
-
-================================================================================================================
-__________('lg', 'cosmos')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'but my sister does seem to like it better than the lg cosmos touch we last had, but i do not at all though, i am switching back to my old one as soon as possible!' **** 'better'
----'but my sister does seem to like it better than the lg cosmos touch we last had, but i do not at all though, i am switching back to my old one as soon as possible!' **** 'touch'
----'but my sister does seem to like it better than the lg cosmos touch we last had, but i do not at all though, i am switching back to my old one as soon as possible!' **** 'last'
----'but my sister does seem to like it better than the lg cosmos touch we last had, but i do not at all though, i am switching back to my old one as soon as possible!' **** 'possible'
-
-
-================================================================================================================
-__________('lock',)__________
-
-
-Positive Reviews:
-
----"guess i'll have to look and see if there is a better lock code than the simple swipe.ok - my issue with this phone is the blue tooth." **** 'better'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('customer', 'support')__________
-
-
-Positive Reviews:
-
----'i wasted hours on the phone with customer support and technical support regarding the issue.' **** 'technical'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
----"i don't know what other reviews are saying about the sd card reader not working properly, or any other problems with the phone." **** 'other'
----"first off it has a lot of issues right off the bat:- it pulls up the gps all the time- it calls voice mail and people in your contacts on its own- if you turn it to sleep to put in a pocket/purse or on the counter it immediately turns back on- it turns itself off- it randomly texts people- it changes the recipient of textsif these problems weren't enough, as it ages it gets worse!" **** 'worse'
-
-Negative Reviews:
-
----'this phone also has the hiccup when trying to send photos.thankfully, amazon wireless was very understanding and has let me choose a different phone altogether (i hope the pantech jest 2 works well) to replace my second samsung brightside.bottom line:  both of the brightsides i had had trouble sending photos and called voicemail by themselves among other problems.' **** 'other'
----'my parents got the same phones and reported similar problems.' **** 'similar'
-
-
-================================================================================================================
-__________('settings',)__________
-
-
-Positive Reviews:
-
----':) that and it can also be that within "settings"--in "touch settings" you have your phone set to "auto lock" and this will automatically lock your phone and go to sleep.' **** 'touch'
-
-Negative Reviews:
-
----'i have friends or relatives in several cities around the world and i find myself using this more than i thought i would.consit is not as "cool" as the iphoneit is easy to punch a button by accident (like your voicemail)and that is super annoyingthe videos have to be put into another format to play on the brightside and its a little annoying to put them onthe bluetooth settings are not very good and its very hard to get it to be compatibleit needs more fonts and needs a larger font for people who have difficulty seeing.' **** 'good'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i have dropped mine and had the back pop off and it come apart and yet, i snap it back together and it works like a charm.you can personalize it much better than the older phonesi love the blue icon grid (used to just have green and orange and now has green and blue and the blue is awesome)holds quite a few pictures, videos and songsyou can customize the front grid so whatever you want is on therei actually like the qwerty keyboard.' **** 'mine'
----"i am happy back with my intensity ii for now (although i miss my memory sd card and still hate the turning off thing) and i doubt me or my husband will be getting another samsung since his marauder hasn't fared much better in the 6 months we've had it!" **** 'happy'
-
-
-================================================================================================================
-__________('a', 'touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i enjoyed the camera, but the touch screen was very sensitive.' **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'top'
----'i have mine set to "lock key only" and "auto lock" on.if you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "menu" and go to "display settings"--change the menu options you have for your main screen.' **** 'main'
----'i mentioned before under "touch screen use" that you can limit this by turning off the any key answering and whatever.' **** 'touch'
----'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
----"it's touch screen is sensitive some of the time and other times i can touch it to open a text several times before it will respond." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'quiet'
----'the touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'touch'
----'touch screen is responsive and it is plenty fast.' **** 'responsive'
----"over all it's a nice phone for a regular phone i like the touch screen." **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'it loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
----'but the touch screen is really touchy.' **** 'touch'
----'the touch screen feels accurate and responsive.' **** 'accurate'
----'the touch screen feels accurate and responsive.' **** 'responsive'
----'as with their galaxy tab, samsung has proven they can build a good touch screen.one uniqueness is that the brightside offers both a touchscreen and a slide-out physical keyboard.' **** 'good'
----'but it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.i also had verizon env3 -- which i loved -- except for the problem of it shutting it self down.' **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'nice'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
----'my 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
----'this is no android, but still it is a nice touch screen.' **** 'nice'
----'the phone itself works good but the touch screen is way to sensitive.' **** 'touch'
----'here is what you need to know:+3.1 inch touch screen - something that so many basic phones don\'t have.+slide out keyboard - not a "real" qwerty like the droid 4, but a very nice one and great for texting.+software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.2 mp camera - low res compared to the 8 mp smartphones out there, but top notch for basic phones.' **** 'single'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'touch'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'important'
----"(by the way i have an android tablet and love it, so i'm used to a touch screen." **** 'touch'
----'the touch screen is perfectly responsive, and i like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
----'i have been using the flip phones forever but thought i would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
-
-Negative Reviews:
-
----'the touch screen is unpredictable.' **** 'unpredictable'
----"let's see, 1 display cracked while in my pocket,  2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, verizon agreed to a swap.the sad thing about this." **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'much'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----"when you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'touch'
----"sometimes when i push to call someone it doesn't register right away on the touch screen." **** 'touch'
----"you don't have to touch the touch screen for it to be activated." **** 'touch'
----"it has a touch screen that doesn't lag to much." **** 'touch'
----"pro (yes, i said pro, it's only got one):touch screen is not just pressure sensitive but also static." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----'the touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
----'i can imagine they are sitting back and laughing at your expense on this one.a few things you will immediately notice when you power up this phone: the image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'worth'
----"this one is fantastic!i didn't care about the touch screen initially." **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'other'
----'as noted before the touch screen (the short time it worked) was very sensitive.' **** 'touch'
----'the menus will not allow you to select anything you\'ve added to memory.i\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'main'
----'the touch screen is awful and i hangup on almost every person that calls me.' **** 'awful'
----"i don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
-
-
-================================================================================================================
-__________('blue', 'tooth')__________
-
-
-Positive Reviews:
-
----'for me - i spend a bit of time on the highway - so blue tooth was very important to me.' **** 'important'
-
-Negative Reviews:
-
----'i would not have thought that was possible as it would be the blue tooth that controls it - but its very noticeable.' **** 'possible'
----'i would not have thought that was possible as it would be the blue tooth that controls it - but its very noticeable.' **** 'noticeable'
----'so - this phone is not so good with blue tooth.' **** 'good'
-
-
-================================================================================================================
-__________('voice', 'mail')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('social', 'media')__________
-
-
-Positive Reviews:
-
----"the icons are useful to some extent, although i'm not sure who needs their social media, e-mail, and various other apps on a basic phone lacking a data plan." **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('home',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'you can only choose between orange or green home screen for one thing and everywhere i carried it i accidentally bumped buttons that turned it on.' **** 'green'
-
-
-================================================================================================================
-__________('qwerty',)__________
-
-
-Positive Reviews:
-
----'the keys on the qwerty are bigger and work better with my hands.' **** 'bigger'
-
-Negative Reviews:
-
----"ever.if you're like me and don't want to pay the $30/month for data, but you want a nice big screen and a slide-out qwerty, this is one of the best out there right now." **** 'best'
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'good'
----"the keys are big enough for even my fat thumbs, so i'm very pleased there.the ring is loud, so i never miss a call." **** 'miss'
-
-Negative Reviews:
-
----'it would make the call and then hang up after about 30seconds.' **** 'hang'
----'i hear them fine but my voice is so low to them that they are frustrated and want to end the call.' **** 'want'
----"from the same location, i have no problems using a samsung omnia ii smartphone or two different brands of flip-phones.since i don't want to walk outside every time i make or receive a call, i returned the samsung brightside to my local verizon store." **** 'receive'
-
-
-================================================================================================================
-__________('plan',)__________
-
-
-Positive Reviews:
-
----'i think it was $40 with a new plan.' **** 'new'
-
-Negative Reviews:
-
----'so when i got a free upgrade and got this phone for free with my regular plan i was excited.' **** 'regular'
----"i try my best to plan ahead before leaving the house and don't need internet on the go at this time." **** 'best'
-
-
-================================================================================================================
-__________('slide', 'out', 'keyboard')__________
-
-
-Positive Reviews:
-
----'it has a nice slide out qwerty keyboard, and the buttons work flawlessly.' **** 'nice'
----'it looks like a smartphone and the large touchscreen plus a very good slide out keyboard are great features to have.' **** 'good'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'other'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'tough'
-
-Negative Reviews:
-
----'i really like the slide-out keyboard on the overall -- the keypad feel is good and crisp.' **** 'overall'
----"(so doesn't just unlock screen while in purses, but still can if in your pocket at times, but not as easily as just pressure screens, like the lg cosmos touch i previously used)cons:cannot personalize as much as other phones.slide out keyboard is tough to open and end up dropping it more often than opening it." **** 'much'
-
-
-================================================================================================================
-__________('n', 'r', 'pocket')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"it's great if you sit in one place all day long, but have to move around or pull it out of a pocket, etc." **** 'pull'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----"my battery is not short and nor does it die often or daily for that matter--this is probably because i have my phone to fall asleep within 45 seconds timer set for my backlight and i don't turn it off and on like a mad person." **** 'short'
----'its battery is good!' **** 'good'
----"we'll see if the new battery fixes the issue." **** 'new'
----"if you want make calls you can hear,and have a simple, well laid out, dependable phone, that won't leave you with a dead battery, when you need it most, give this a try.good luck in your search." **** 'dead'
----'my only other complaint is the low battery sound is completely loud, even when the phone is on silent.' **** 'low'
-
-Negative Reviews:
-
----"it's been extremely buggy, won't turn on reliably, and is on its second battery." **** 'second'
----'it also still makes the low battery beep after the phone has shut off because of low battery.' **** 'low'
----'it also still makes the low battery beep after the phone has shut off because of low battery.' **** 'low'
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----'very much like a smart phone.' **** 'much'
----"so this is probably the best regular phone out there and i wasn't quite ready for a smart phone." **** 'ready'
----"a 3.2 mp camera is pretty low by today's standards, but it's hard to do any better without getting a smart phone." **** 'better'
----"nearly as capable as a smart phone with samsung's proprietary os." **** 'capable'
-
-Negative Reviews:
-
----'first, this is not a smart phone.' **** 'first'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----'very clear calls, no drops.' **** 'clear'
----'calls were clear and loud enough, no problems really with the connection between the two.' **** 'clear'
----'calls were clear and loud enough, no problems really with the connection between the two.' **** 'loud'
----"while quality of calls is acceptable, the audio jack port is flaky and the headphones i use (yes, i'm old enough to have trouble hearing and need the headphones) cut out even without moving the phone or the cord.the slide-out qwerty keypad is fine, though my large fingers and thumbs have a bit of trouble with pressing two keys at the same time." **** 'acceptable'
----"this, after pressing save (which apparently does nothing).-it's very difficult to answer calls without hanging up." **** 'difficult'
----'they are unnecessary (except for keypad) because you have the menu screen already on the entire front of the phone which already has "contacts," most people hit the "send" button on the phone to view their recent calls.' **** 'recent'
----'but because this option is there, it is pressed all the time when it just accidentally unlocked and my phone seems like it is constantly calling my voicemail or my recent calls, or opening my contacts to call a new one.' **** 'recent'
-
-Negative Reviews:
-
----'now, if your phone roams for any reason, even if you are in your home coverage area, they will tell you it is your problem and to set your phone to home even if it will not be able to make or receive calls.' **** 'able'
----"it still turns off at random times and drops calls and is ridiculously sensitive, unlocking itself when you're unaware of it and it starts dialing.beware." **** 'unaware'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'i got the brightside about 8 months ago after reading the initial reviews (which were mostly positive at the time) on the phone, as time goes on i find that i dislike this phone more and more.' **** 'positive'
----'but it only lasts a week (it tells you the first time it starts to do it).' **** 'first'
----"i have been through 3 phone with the same password, and this is the first time i've ever had issues accessing my voicemail." **** 'first'
----'it was my first time buying anything from that site.' **** 'first'
----"yeah, that's great, i can see my beautiful dog's picture for about half a second every time i have to unlock my phone and then i have to see its ugly menu screen." **** 'second'
----'as noted before the touch screen (the short time it worked) was very sensitive.' **** 'short'
----'at the time this looked like the best deal.' **** 'looked'
-
-Negative Reviews:
-
----'i have a hard time hearing now and others have a harder time hearing me.' **** 'hard'
----"but the last time this happened the phone wouldn't charge when i plugged it back in (it was perfectly functional up until the moment i removed it from the power socket) so i took the battery out and walked out for a couple hours to go grocery shopping." **** 'last'
----'when reading texts you can see 2 or 3 messages at a time, and that is if they are very short.' **** 'short'
----'why on earth would they waste their time developing a phone that looks great and has all of the features the feature-consumer wants, and then throw in all of these cheap components?' **** 'earth'
----"the call quality and signal strength isn't nearly as good as my old lg phone and for the first time since switching to verizon, i have experienced dropped calls." **** 'first'
----"from the same location, i have no problems using a samsung omnia ii smartphone or two different brands of flip-phones.since i don't want to walk outside every time i make or receive a call, i returned the samsung brightside to my local verizon store." **** 'outside'
-
-
-================================================================================================================
-__________('verizon', 'store')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i was told at the verizon store after returning another non-smart phone that the samsung brightside is the best in class.' **** 'told'
 
 
 ================================================================================================================
@@ -1015,22 +701,36 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it's great if you sit in one place all day long, but have to move around or pull it out of a pocket, etc." **** 'pull'
----"it's small enough that it fits easily into a pocket." **** 'small'
+---"It's great if you sit in one place all day long, but have to move around or pull it out of a pocket, etc." **** 'pull'
+---"It's small enough that it fits easily into a pocket." **** 'small'
 
 
 ================================================================================================================
-__________('months',)__________
+__________('texting',)__________
 
 
 Positive Reviews:
 
----"and if you drop it once you're screwed.- before 6 months= standard issues above worsen- at 6/8 months charging port is screwed and only charges from certain positions- at 9/12 months: it takes longer and longer to charge less and less- at 14 months: no matter how long you charge it the battery lasts 10-30 min maxafter a drop (once from standing height) it no longer shuts properly so:- it auto does speaker phone unless you &#34;argue&#34; with it- it calls/texts people even more frequently- it doesn't go into screensaver mode-ever- it is extremely difficult to get the screen to go vertical" **** 'longer'
----"and if you drop it once you're screwed.- before 6 months= standard issues above worsen- at 6/8 months charging port is screwed and only charges from certain positions- at 9/12 months: it takes longer and longer to charge less and less- at 14 months: no matter how long you charge it the battery lasts 10-30 min maxafter a drop (once from standing height) it no longer shuts properly so:- it auto does speaker phone unless you &#34;argue&#34; with it- it calls/texts people even more frequently- it doesn't go into screensaver mode-ever- it is extremely difficult to get the screen to go vertical" **** 'less'
+---"Now this is more of an inconvenience, since most major texting I'll be using the keyboard." **** 'major'
+---'Somewhat disappointed with this as it would have been easy to accomplish and made for on-the-fly texting.' **** 'easy'
 
 Negative Reviews:
 
----'less than 6 months after purchase, it was randomly shutting off.' **** 'less'
+---"It's a welcome accessory for heavy texting." **** 'heavy'
+
+
+================================================================================================================
+__________('amazon',)__________
+
+
+Positive Reviews:
+
+---"Amazon hooked us up with a pair of 'em for just two pennies." **** 'pair'
+
+Negative Reviews:
+
+---'The bright green one I got here on Amazon ($4?)' **** 'bright'
+---'The bright green one I got here on Amazon ($4?)' **** 'green'
 
 
 ================================================================================================================
@@ -1042,449 +742,6 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i enjoyed the camera, but the touch screen was very sensitive.' **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'top'
----'i have mine set to "lock key only" and "auto lock" on.if you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "menu" and go to "display settings"--change the menu options you have for your main screen.' **** 'main'
----'i mentioned before under "touch screen use" that you can limit this by turning off the any key answering and whatever.' **** 'touch'
----'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
----"it's touch screen is sensitive some of the time and other times i can touch it to open a text several times before it will respond." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'quiet'
----'the touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'touch'
----'touch screen is responsive and it is plenty fast.' **** 'responsive'
----"over all it's a nice phone for a regular phone i like the touch screen." **** 'touch'
----'slow on the touch screen.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'it loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
----'but the touch screen is really touchy.' **** 'touch'
----'the touch screen feels accurate and responsive.' **** 'accurate'
----'the touch screen feels accurate and responsive.' **** 'responsive'
----'as with their galaxy tab, samsung has proven they can build a good touch screen.one uniqueness is that the brightside offers both a touchscreen and a slide-out physical keyboard.' **** 'good'
----'but it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.i also had verizon env3 -- which i loved -- except for the problem of it shutting it self down.' **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'nice'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
----'my 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
----'this is no android, but still it is a nice touch screen.' **** 'nice'
----'the phone itself works good but the touch screen is way to sensitive.' **** 'touch'
----'here is what you need to know:+3.1 inch touch screen - something that so many basic phones don\'t have.+slide out keyboard - not a "real" qwerty like the droid 4, but a very nice one and great for texting.+software that let\'s you share to social media with a single touch - a vast improvement over other basic phones!+3.2 mp camera - low res compared to the 8 mp smartphones out there, but top notch for basic phones.' **** 'single'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'touch'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'important'
----"(by the way i have an android tablet and love it, so i'm used to a touch screen." **** 'touch'
----'the touch screen is perfectly responsive, and i like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
----'i have been using the flip phones forever but thought i would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
-
-Negative Reviews:
-
----'the touch screen is unpredictable.' **** 'unpredictable'
----"let's see, 1 display cracked while in my pocket,  2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, verizon agreed to a swap.the sad thing about this." **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'much'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----"when you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'touch'
----"sometimes when i push to call someone it doesn't register right away on the touch screen." **** 'touch'
----'slow on the touch screen.' **** 'slow'
----"you don't have to touch the touch screen for it to be activated." **** 'touch'
----"it has a touch screen that doesn't lag to much." **** 'touch'
----"pro (yes, i said pro, it's only got one):touch screen is not just pressure sensitive but also static." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----'the touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
----'i can imagine they are sitting back and laughing at your expense on this one.a few things you will immediately notice when you power up this phone: the image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'worth'
----"this one is fantastic!i didn't care about the touch screen initially." **** 'touch'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'other'
----'as noted before the touch screen (the short time it worked) was very sensitive.' **** 'touch'
----'the menus will not allow you to select anything you\'ve added to memory.i\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'main'
----'the touch screen is awful and i hangup on almost every person that calls me.' **** 'awful'
----"i don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
-
-
-================================================================================================================
-__________('every', 'time')__________
-
-
-Positive Reviews:
-
----"yeah, that's great, i can see my beautiful dog's picture for about half a second every time i have to unlock my phone and then i have to see its ugly menu screen." **** 'second'
-
-Negative Reviews:
-
----"from the same location, i have no problems using a samsung omnia ii smartphone or two different brands of flip-phones.since i don't want to walk outside every time i make or receive a call, i returned the samsung brightside to my local verizon store." **** 'outside'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'i enjoyed the camera, but the touch screen was very sensitive.' **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'top'
----'i have mine set to "lock key only" and "auto lock" on.if you have found that you touch things accidentally whether by your contact "favorites" on the main screen or anywhere else, then go to the "menu" and go to "display settings"--change the menu options you have for your main screen.' **** 'main'
----'i mentioned before under "touch screen use" that you can limit this by turning off the any key answering and whatever.' **** 'touch'
----'the touch screen is nice along with a sliding key board for those ultimate texters.' **** 'nice'
----'people say that they had issues with the main screen being a menu, well you can customize it.' **** 'main'
----"it's touch screen is sensitive some of the time and other times i can touch it to open a text several times before it will respond." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'quiet'
----'the touch screen is very responsive, which compared to older touch screen basic phones is a huge improvement!' **** 'responsive'
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'touch'
----"the biggest positive is my only negative -- it's so sensitive, even with having to 'drag off the screen' to use the phone, it does so itself in a purse or even just walking around with it in your hand." **** 'biggest'
----"the biggest positive is my only negative -- it's so sensitive, even with having to 'drag off the screen' to use the phone, it does so itself in a purse or even just walking around with it in your hand." **** 'positive'
----"over all it's a nice phone for a regular phone i like the touch screen." **** 'touch'
----'the bars do not appear any other screen.' **** 'other'
----'slow on the touch screen.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'since it has a lot of the touch screen functions but a poorly made touch screen, things go wrong regularly.' **** 'touch'
----'when i type a key, it shows on the screen for a fraction of a section, then gets deleted.' **** 'key'
----'it loads up applications or programs by merely breathing on the touch screen.' **** 'touch'
----'but the touch screen is really touchy.' **** 'touch'
----'the touch screen feels accurate and responsive.' **** 'accurate'
----'the touch screen feels accurate and responsive.' **** 'responsive'
----'but it might be one of the best non smart phones, with many of the features you get with the smart phones (touch screen, flick of the finger picture viewing, etc), but without the $30/month for a data plan nor the $200 purchase price.i also had verizon env3 -- which i loved -- except for the problem of it shutting it self down.' **** 'touch'
----'the screen is nice and big but other than that never really liked the phone.' **** 'other'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'nice'
----"for what it is, it does a great job.pros: compared to other touch screen phones i've used, this one is way faster and has a nice, responsive screen." **** 'responsive'
----'my 14 year old son got this phone with his birthday money and the phone lasted 5 months before the touch screen went out.' **** 'touch'
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'light'
----"and if you drop it once you're screwed.- before 6 months= standard issues above worsen- at 6/8 months charging port is screwed and only charges from certain positions- at 9/12 months: it takes longer and longer to charge less and less- at 14 months: no matter how long you charge it the battery lasts 10-30 min maxafter a drop (once from standing height) it no longer shuts properly so:- it auto does speaker phone unless you &#34;argue&#34; with it- it calls/texts people even more frequently- it doesn't go into screensaver mode-ever- it is extremely difficult to get the screen to go vertical" **** 'difficult'
----'the phone itself works good but the touch screen is way to sensitive.' **** 'touch'
----"it's too bright in the dark if your eyes are trying to get accustomed to the screen and too dark outside so you cant read the screen." **** 'dark'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'touch'
----'a touch screen was important to me but i had no use for texting, e-mail, web surfing ect.' **** 'important'
----"(by the way i have an android tablet and love it, so i'm used to a touch screen." **** 'touch'
----'the touch screen is perfectly responsive, and i like using both the slide out keyboard as well as the onscreen entry.' **** 'responsive'
----'it is really nice to be able to customize the buttons on the main screen, and the camera is great!' **** 'main'
----'i switched to the bright side from my env 3, which i so liked.the bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'bigger'
----'i have been using the flip phones forever but thought i would try a touch screen to get the functions of a smart phone without having to pay for a data plan.' **** 'touch'
-
-Negative Reviews:
-
----'the touch screen is unpredictable.' **** 'unpredictable'
----"let's see, 1 display cracked while in my pocket,  2 had touch screen quit, 1 had radio die, 1 of the replacement phones never accepted more than 15 text messages at a time and after 3 month of this, verizon agreed to a swap.the sad thing about this." **** 'touch'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'much'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----'i wasn\'t really trying to focus on anything.i haven\'t really used it to really record anything for any significance yet--so, i can\'t say much about it.touch screen usethe screen is able to slide from side to side when viewing pictures in "my pictures"the screen is able to slide from top to bottom when scrolling for contacts, pictures, sounds, ringtones, etc etc.the screen is timed by the "backlight timer" within the "display settings" in the "menu" area where it will shut off.if you have found that your phone shuts off randomly, it doesn\'t really shut off.' **** 'able'
----"when you need to use the number pad on the screen the phone also likes to play a little game called, 'try to hit the number', in which you tap at your screen randomly while the phone changes from the touch screen being active or not." **** 'touch'
----'easy to use and very user friendly i would reccomended it due to the fact if you want a stylish phone that does not need a data plan, get this, i chose this phone because i wanted a touch screen and the screen is quiet large, i do not have any issues with this phone' **** 'touch'
----"the biggest positive is my only negative -- it's so sensitive, even with having to 'drag off the screen' to use the phone, it does so itself in a purse or even just walking around with it in your hand." **** 'negative'
----"sometimes when i push to call someone it doesn't register right away on the touch screen." **** 'touch'
----'slow on the touch screen.' **** 'slow'
----'one day i went to use the phone and 1/2 the screen was black, no visible cracks.' **** 'black'
----"you don't have to touch the touch screen for it to be activated." **** 'touch'
----"it has a touch screen that doesn't lag to much." **** 'touch'
----"pro (yes, i said pro, it's only got one):touch screen is not just pressure sensitive but also static." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't really like the touch screen, you cannot calibrate it yourself so sometimes its picky about what exactly you're pressing but i do like the fact that the touch screen is not just pressure but also static, so generally it doesn't just get bumped unlocked if it's in a purse/bag, but will if it's in your pocket." **** 'touch'
----"i don't like how there is a menu that takes up the whole unlocked screen and i cannot have a background picture there and only when the screen is locked i can see it." **** 'whole'
----'the touch screen is not very responsive, and it makes random calls while the screen is locked.' **** 'responsive'
----'i can imagine they are sitting back and laughing at your expense on this one.a few things you will immediately notice when you power up this phone: the image on the screen fades when you open the keyboard, there is latency when typing numbers on the touch screen, the speaker sounds like a cheap voice recorder, and the interface looks like something from the nineties.' **** 'touch'
----"unless you for some reason, desperately want a touch screen, it really isn't worth 100 dollars.cons:1) the touch screen works well enough but it's almost oversensitive." **** 'touch'
----'you end up with a large screen displaying very little of a text.pros:1) has 3g.' **** 'little'
----"this one is fantastic!i didn't care about the touch screen initially." **** 'touch'
----'the screen is nice and big but other than that never really liked the phone.' **** 'nice'
----"ever.if you're like me and don't want to pay the $30/month for data, but you want a nice big screen and a slide-out qwerty, this is one of the best out there right now." **** 'nice'
----'as noted before the touch screen (the short time it worked) was very sensitive.' **** 'touch'
----"that means you can't see much on the screen when reading/writing text messages." **** 'much'
----'my env3 has a smaller screen but can fit at least 50% more information.if a text alert is set to "vibrate" the thing vibrates three times every time you get a text message which i find annoying.' **** 'smaller'
----'the menus will not allow you to select anything you\'ve added to memory.i\'ve also found that it\'s very easy to accidentally touch the wrong "button" on the touch screen.' **** 'touch'
----"it's too bright in the dark if your eyes are trying to get accustomed to the screen and too dark outside so you cant read the screen." **** 'read'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'main'
----'the touch screen is awful and i hangup on almost every person that calls me.' **** 'awful'
----"i don't want a data plan and it is hard these days to find a phone without and get a touch screen." **** 'touch'
-
-
-================================================================================================================
-__________('bright', 'side')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'other than that he would also have a bright side phone.so far no problems with this phone, i was leary of the phone because of all the bad reviews.' **** 'other'
----'other than that he would also have a bright side phone.so far no problems with this phone, i was leary of the phone because of all the bad reviews.' **** 'bright'
----'once i saw the phone and held the phone in my hands i knew i had to have the bright side, i knew that phone would work for me.' **** 'bright'
----'our children like the bright side as well.' **** 'bright'
----'i switched to the bright side from my env 3, which i so liked.the bright side has a bigger screen, key pad, nice ring tones, very nice speaker phone, very clear  voice during conversation.' **** 'bright'
----'if you have one data package in your household and want another phone that is nice, this is a nice option.enjoy your bright side, we sure are!' **** 'nice'
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----'this phone also has the hiccup when trying to send photos.thankfully, amazon wireless was very understanding and has let me choose a different phone altogether (i hope the pantech jest 2 works well) to replace my second samsung brightside.bottom line:  both of the brightsides i had had trouble sending photos and called voicemail by themselves among other problems.' **** 'second'
-
-Negative Reviews:
-
----"10.the few times i wanted/ needed to use the internet it was completely useless because the touchscreen sucked  11. randomly hangs up on people if you pick up the call then unplug itthis was a horrid phone - like only second to the samsung reclaim i had with sprint which i happily saw runned over by a car  (even though it wasn't intended!)" **** 'second'
-
-
-================================================================================================================
-__________('slide',)__________
-
-
-Positive Reviews:
-
----'it has a nice slide out qwerty keyboard, and the buttons work flawlessly.' **** 'nice'
----'it looks like a smartphone and the large touchscreen plus a very good slide out keyboard are great features to have.' **** 'good'
----"call settings are in there to, where you want to set it to either slide open to answer ( i don't recommend this) - any key to answer (i don't recommend this) - auto answer with handsfree (i don't recommend this) - auto retry (i don't recommend this) - tty mode - voice privacy - select port: bluetooth - port speed - dtmf tones - assisted dialing (i have this off).i have had my phone for a couple of days now?" **** 'open'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'open'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----"altho it views webpages decently, has email and a really good quality touch screen.pros:good responsive touchscreendecent webpage accessdecent e-maildoesn't count as a smartphone on verizon so you can get basic web browsing and e-mail cheaper if that's all you wanteasy to put files on via usb on computer for mp3s,ringtones and whatnot.cons:bad camera (terrible actually can't even take a photo of an address label or item to get model number off of very blurry and hard to get in focus)not so good mp3 player layout and hates having lots of music (i have 7 gigs takes a good 4 minutes to load all songs if you use it more often it doesn't have to take so long to open)sometimes the screen goes to sleep while talking and hard to get dial-pad upwhen phone is locked and in your pocket if it rings you have to carefully remove from your pocket so you don't hangup on whos calling.all in all its the best non smartphone i have found that has a good touchscreen and flows well great if you only want email and webpages and don't care about apps." **** 'bad'
----'the 3.2 megapixel camera is just what i need for those unplanned "kodak moments" when i don\'t have a regular camera around.' **** 'regular'
----'it was what i wanted -- good camera, great keyboard, no huge price or data plan.so now that the env3 was unusable, i went looking for a replacement and this was the best i found.' **** 'good'
-
-Negative Reviews:
-
----'camera is weak, but call quality seems fine.' **** 'weak'
----'the camera has not zooming capabilities, which makes the first camera phone that i have ever had that was without zooming.' **** 'first'
----'the security features on the iphone are much better than this phone and the older flip phones were much better than this phone.the camera is awful.' **** 'awful'
----'while the overall appearance and design were great, the processor, the interface, the mic, and the camera were absolutely worthless.' **** 'worthless'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'good'
-
-
-================================================================================================================
-__________('samsung', 'brightside')__________
-
-
-Positive Reviews:
-
----'this phone also has the hiccup when trying to send photos.thankfully, amazon wireless was very understanding and has let me choose a different phone altogether (i hope the pantech jest 2 works well) to replace my second samsung brightside.bottom line:  both of the brightsides i had had trouble sending photos and called voicemail by themselves among other problems.' **** 'second'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('using',)__________
-
-
-Positive Reviews:
-
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'slightest'
-
-Negative Reviews:
-
----'only complaint: side lock, unlock button very sensitive causing screen to light up with the slightest touch using battery power.' **** 'touch'
-
-
-================================================================================================================
-__________('message',)__________
-
-
-Positive Reviews:
-
----'the only way i found to successfully send picture messages was to create a new message and add an attachment of the photo i wanted to send.then, the icon for an unread text message appeared on the home screen.' **** 'new'
----'so, therefore--go into "new message" icon--click on "more"--scroll down the menu to "callback #" and click off.' **** 'new'
-
-Negative Reviews:
-
----"this took care of the new message icon, however i still couldn't send photos properly." **** 'new'
-
-
-================================================================================================================
-__________('go', 'to', 'settings')__________
-
-
-Positive Reviews:
-
----':) that and it can also be that within "settings"--in "touch settings" you have your phone set to "auto lock" and this will automatically lock your phone and go to sleep.' **** 'touch'
-
-Negative Reviews:
-
----'i have friends or relatives in several cities around the world and i find myself using this more than i thought i would.consit is not as "cool" as the iphoneit is easy to punch a button by accident (like your voicemail)and that is super annoyingthe videos have to be put into another format to play on the brightside and its a little annoying to put them onthe bluetooth settings are not very good and its very hard to get it to be compatibleit needs more fonts and needs a larger font for people who have difficulty seeing.' **** 'good'
-
-
-================================================================================================================
-__________('pictures',)__________
-
-
-Positive Reviews:
-
----'the env3 took acceptable pictures and had good volume and call quality.' **** 'acceptable'
----"i got it on 4/21/13.pros: cheap,quick, easy access to most features,touchscreen and slide open, doesn't need internet but can if you want, durable, can have memory card, good camera, if you have internet it can go between devices.wonderful phone!cons: main screen has to be the quick clicks( but can be arranged and changed), pictures load slow but you get used to it, not as fast as a smart phone." **** 'slow'
-
-Negative Reviews:
-
----"worse gui, easily slips out your hand, music only plays in the media center so you can't do other stuff while music is playing, silly random pictures while music is playing, permanently stuck on that awful menu page.improvements: web browser, bluetooth, keyboard, wider.with all that was lost on the phone i think it should be slimmer than the reality" **** 'music'
----"however, it's easy to drag pictures back and forth from the phone to the computer, and i strongly prefer photoshop anyway to any piddling little editing tools available on a phone.i got a hard rubber case for it right off the bat, and am happy with how it doesn't interfere with the sliding keyboard." **** 'easy'
----'the pictures are dark and grainy.' **** 'dark'
-
-
-================================================================================================================
-__________('intensity', 'ii')__________
-
-
-Positive Reviews:
-
----'i was almost dissuaded from purchasing this phone by the bad reviews but my intensity ii is pretty beat up so i took a chance.' **** 'beat'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('for', '2', 'years')__________
-
-
-Positive Reviews:
-
----"i've had the phone for 2 years, and it's still operating as good as new!" **** 'good'
----"i've had the phone for 2 years, and it's still operating as good as new!" **** 'new'
-
-Negative Reviews:
-
----"i've been stuck with this phone for almost 2 years and it's awful." **** 'awful'
-
-
-================================================================================================================
-__________('messages',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'when i first got it i would send unfinished messages all the time and constantly call voicemail.' **** 'unfinished'
-
-
-================================================================================================================
-__________('people',)__________
-
-
-Positive Reviews:
-
----"i'm not sure how much the people giving this phone 5*s are getting paid, but do not buy this phone." **** 'sure'
----"* calls other people at random (i'm sure i accidentally touched something, i'm just not sure what, exactly)." **** 'other'
----'i went in to upgrade for it and i went to radioshack and i only had to pay 50$ while i have heard other people paying up to 115 for an upgrade.i did have a smartphone but wanted to downgrade because i already have internet and dont use my phone for that but wanted a phone that has similar features and can get internet if i ever changed my mind.i have seen some bad reviews for this phone but mostly it comes from people who do not know how to run their phone or went into this phone for the wrong reason.' **** 'other'
-
-Negative Reviews:
-
----"i'm not sure how much the people giving this phone 5*s are getting paid, but do not buy this phone." **** 'much'
----'it seems that other people have the same problem.' **** 'other'
-
-
-================================================================================================================
-__________('feature',)__________
-
-
-Positive Reviews:
-
----"it is verizon's best feature phone." **** 'best'
----'it was by far (imho) the nicest "feature phone" in vzw\'s lineup.' **** 'nicest'
----'but, i think it is probably the best feature phone available at this point.' **** 'best'
-
-Negative Reviews:
-
----'sad really because it seems like such a simple feature these days.' **** 'sad'
----'sad really because it seems like such a simple feature these days.' **** 'simple'
----"i know some people hate them but i am not one of themholds a charge for quite a long timesets multiple alarms (my last phone didn't do that but it was pretty old)great music soundthe loud ring is really loud and the vibrate is pretty strong so you do feel itthe notepad feature is pretty good." **** 'good'
----'it is so unfortunate that samsung would tease the feature phone user with this piece of junk!' **** 'unfortunate'
----"that's one feature that is soo important, but you'll never know unless you try it in the store." **** 'important'
-
-
-================================================================================================================
-__________('to', 'make', 'calls')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'now, if your phone roams for any reason, even if you are in your home coverage area, they will tell you it is your problem and to set your phone to home even if it will not be able to make or receive calls.' **** 'able'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('text', 'messages')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('music',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'if you receive a text while listening to a song, the song will pause and resume only after you leave the screen for texting.a few good points about the phone: buying it from amazon costs you practically nothing, the sound quality for the music is good, there are many preloaded ringtones to choose from, sliding qwerty, and durable (i have dropped mine several times and it stills works).' **** 'good'
-
-
-================================================================================================================
-__________('data', 'plan')__________
-
-
-Positive Reviews:
-
----'this is a good basic phone since i refuse to pay extra for a data plan.' **** 'extra'
-
-Negative Reviews:
-
----'data plan is hard to swallow when many of us already have internet access.' **** 'hard'
----'verizon seems to be headed for $30.00 and higher data plans for all their phones in the near future.' **** 'higher'
----"i wanted a feature phone because i don't want to pay extra for a data plan." **** 'extra'
-
-
-================================================================================================================
-__________('texting',)__________
-
-
-Positive Reviews:
-
----"now this is more of an inconvenience, since most major texting i'll be using the keyboard." **** 'major'
----"i am one happy texting machine.what's good:-closest you can come to a smart phone without signing away on a 2 year ($30+ a month data-plan)-great supplement if you already have an ios device (such as a itouch) or you sit in front an office computer all day for apps, internet etc-usb interface is easy to use making for nearly seamless media downloads/uploads.-setup was a breeze, both with activating the line and initial customization-comes equipped with verizon's backup assistant for initial setup of backing up your contacts or transferring from your previous phone." **** 'good'
----'somewhat disappointed with this as it would have been easy to accomplish and made for on-the-fly texting.' **** 'easy'
-
-Negative Reviews:
-
----'very comfortable texting, good call quality, battery life seems reasonable, touch screen responds nicely, 3.2mp camera (though it is quite slow to record image on my class 2 micro sd card...i just ordered a class 10 card and hopefully that will take care of that issue), can add e-mail/data for $10/month.' **** 'comfortable'
 
 
 ================================================================================================================

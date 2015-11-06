@@ -1,89 +1,3 @@
-__________('works',)__________
-
-
-Positive Reviews:
-
----'awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, wi-fi works flawlessly, touch screen very responsive works fine.' **** 'responsive'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'lots of great features for a good price.' **** 'good'
----'i really recommend this phone because it is original price at 399$ and its cheap so its a great product and if you purchase this you might also wanna get a hard case because the back gets many scrathes.' **** 'original'
----'awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, wi-fi works flawlessly, touch screen very responsive works fine.' **** 'nice'
----'it is good for this price but old edition and it has week touch screen.' **** 'good'
-
-Negative Reviews:
-
----"my mom later bought me the amazing imagio, because my little sony ericsson had horrible call quality, i couldn't hear a thing, just loud and crackly.i'm very impressed with this phone, and glad that we could find it for such a good price." **** 'good'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'htc imagio xv 6975 smartphone is very nice but has a onather problem the earphone speaker during talking time very loud' **** 'loud'
-
-Negative Reviews:
-
----'recommended for first time smartphone users or people who do not need lots of apps' **** 'first'
----'purchased this cell phone and it worked for a short time because of having to work in construction.' **** 'short'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'i just inserted my att sim card and it works perfect.' **** 'perfect'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, wi-fi works flawlessly, touch screen very responsive works fine.' **** 'touch'
----'vivid clear screen.' **** 'clear'
-
-Negative Reviews:
-
----'it came without manual, without screen cover sheet.' **** 'manual'
----'touch screen is responsive but some times when i tap an option it selects an option at the bottom of the screen i didnt touch.' **** 'touch'
----'without touch screen this phone is nothing.' **** 'touch'
----"the phone is insanely slow, even though it has a huge gorgeous bright and colorful screen, it's still frustrating that the processor is so slow, a better processor and it would have been the perfect phone.everything else is right, the screen is responsive and it plays video very very well, i actually use it to watch mp4 movies on the bus, but i don't really use it to browse the internet cuz it's too slow and takes forever to open a page." **** 'colorful'
----"the phone is insanely slow, even though it has a huge gorgeous bright and colorful screen, it's still frustrating that the processor is so slow, a better processor and it would have been the perfect phone.everything else is right, the screen is responsive and it plays video very very well, i actually use it to watch mp4 movies on the bus, but i don't really use it to browse the internet cuz it's too slow and takes forever to open a page." **** 'responsive'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----'it works horrible with t-mobile only good features that actually work well are calling and texting.' **** 'good'
----'phone has very nice display and a lot of really nice features.' **** 'nice'
-
-Negative Reviews:
-
----"although some features are nice, they are worthless if they are incompatible with the t-mobile network.my data plan doesn't work at all on this." **** 'nice'
-
-
-================================================================================================================
 __________('verizon',)__________
 
 
@@ -95,43 +9,17 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
----'i just inserted my att sim card and it works perfect.' **** 'perfect'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('touch',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'touch screen is slow.' **** 'slow'
----'touch screen is responsive but some times when i tap an option it selects an option at the bottom of the screen i didnt touch.' **** 'responsive'
----"it works great, good touch flow, great camera, good for music, you get two stylus with it and comes with different international chargers so that you won't have problem even if you are in asia, europe or anywhere else in the world." **** 'good'
-
-
-================================================================================================================
 __________('music', 'player')__________
 
 
 Positive Reviews:
 
----'awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, wi-fi works flawlessly, touch screen very responsive works fine.' **** 'music'
----'this smarphone is very useful, since i have all what i need on it (calendar, reminders, contacts linked to their msn or facebook profiles, some lite applications, music player, wi-fi, weather, etc).' **** 'music'
+---'Awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, Wi-Fi works flawlessly, touch screen very responsive works fine.' **** 'music'
+---'This smarphone is very useful, since I have all what I need on it (calendar, reminders, contacts linked to their MSN or Facebook Profiles, some lite applications, music player, wi-fi, weather, etc).' **** 'music'
 
 Negative Reviews:
 
----"the only issue is that sometimes it takes a long to change between applications, and the web browser is a little slow, however, it doesn't interferrs with the music player or a call in course." **** 'music'
+---"The only issue is that sometimes it takes a long to change between applications, and the web browser is a little slow, however, it doesn't interferrs with the music player or a call in course." **** 'music'
 
 
 ================================================================================================================
@@ -140,7 +28,7 @@ __________('touch', 'screen')__________
 
 Positive Reviews:
 
----'awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, wi-fi works flawlessly, touch screen very responsive works fine.' **** 'touch'
+---'Awesome phone, great for the price, nice big screen for real web browsing nice 5mp camera takes great pictures, gps works great, video and music player work great, Wi-Fi works flawlessly, touch screen very responsive works fine.' **** 'touch'
 
 Negative Reviews:
 
@@ -148,6 +36,18 @@ Negative Reviews:
 ---'touch screen is responsive but some times when i tap an option it selects an option at the bottom of the screen i didnt touch.' **** 'responsive'
 ---'touch screen is responsive but some times when i tap an option it selects an option at the bottom of the screen i didnt touch.' **** 'touch'
 ---'without touch screen this phone is nothing.' **** 'touch'
+
+
+================================================================================================================
+__________('sim', 'card')__________
+
+
+Positive Reviews:
+
+---'I just inserted my att sim card and it works perfect.' **** 'perfect'
+
+Negative Reviews:
+
 
 
 ================================================================================================================

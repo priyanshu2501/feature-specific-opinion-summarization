@@ -1,59 +1,4 @@
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----"not much of a problem, except when i'm trying to watch a video, or movie on my phone.alright, so basic overview:pros:* has htc sense* (temporarily) rootable* comes with an array of useful apps* great sounding audiocons:* excruciating battery life* unbearably slow cpu/gpu* cannot install busybox or increase vm heap size (do not even think about trying it)* not the best quality pictures* video has about 4 pixels and the sample rate is about 13 hz (ok, a bit exaggerated... then again on second thought...)* quite a bit of light bleedingif you have any other questions about the phone, even though you shouldn't even be thinking about buying it since it is pretty much out of date, feel free to ask!" **** 'slow'
-
-Negative Reviews:
-
----'the battery life is short.' **** 'short'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'this is the first time i have been disappointed about any purchases from this site.' **** 'first'
----"also, sprint had a difficult time activating the phone because the serial number don't match their system." **** 'difficult'
----'it shipped on time and was easy to get used to.' **** 'easy'
-
-Negative Reviews:
-
----'this phone was hard to manage, small, constantly had malfunctions and the most difficult time connecting to internet.' **** 'difficult'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'nnot very happy the phone came with a dead battery.' **** 'dead'
----"not much of a problem, except when i'm trying to watch a video, or movie on my phone.alright, so basic overview:pros:* has htc sense* (temporarily) rootable* comes with an array of useful apps* great sounding audiocons:* excruciating battery life* unbearably slow cpu/gpu* cannot install busybox or increase vm heap size (do not even think about trying it)* not the best quality pictures* video has about 4 pixels and the sample rate is about 13 hz (ok, a bit exaggerated... then again on second thought...)* quite a bit of light bleedingif you have any other questions about the phone, even though you shouldn't even be thinking about buying it since it is pretty much out of date, feel free to ask!" **** 'slow'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----"i wasn't sure if i could handle a touch screen because i'm old school,lol." **** 'sure'
-
-Negative Reviews:
-
----"no battery life, very limited apps, will randomly shut off, no feature to calibrate the touch screen!don't buy this phone!!!" **** 'touch'
----"i wasn't sure if i could handle a touch screen because i'm old school,lol." **** 'touch'
-
-
-================================================================================================================
-__________('sprint', 'store')__________
+__________('sprint',)__________
 
 
 Positive Reviews:
@@ -61,6 +6,7 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'It is not compatible with Sprint, even though it says it is.' **** 'compatible'
 
 
 ================================================================================================================
@@ -72,7 +18,6 @@ Positive Reviews:
 
 Negative Reviews:
 
----"not as user friendly as expected and comes with apps i can't get rid of." **** 'friendly'
 
 
 ================================================================================================================
@@ -81,12 +26,27 @@ __________('touch', 'screen')__________
 
 Positive Reviews:
 
----"i wasn't sure if i could handle a touch screen because i'm old school,lol." **** 'sure'
+---'No battery life, VERY limited apps, will randomly shut off, no feature to calibrate the touch screen!' **** 'touch'
+---"I wasn't sure if I could handle a touch screen because I'm old school, lol." **** 'sure'
 
 Negative Reviews:
 
----"no battery life, very limited apps, will randomly shut off, no feature to calibrate the touch screen!don't buy this phone!!!" **** 'touch'
----"i wasn't sure if i could handle a touch screen because i'm old school,lol." **** 'touch'
+---"I wasn't sure if I could handle a touch screen because I'm old school, lol." **** 'touch'
+
+
+================================================================================================================
+__________('battery', 'life')__________
+
+
+Positive Reviews:
+
+---"Alright, so basic overview:PROS:* Has HTC Sense* (Temporarily) Rootable* Comes with an array of useful apps* Great sounding audioCONS:* Excruciating battery life* Unbearably slow CPU/GPU* CANNOT INSTALL BUSYBOX OR INCREASE VM HEAP SIZE (Do not even think about trying it)* Not the best quality pictures* Video has about 4 pixels and the sample rate is about 13 Hz (Ok, a bit exaggerated... then again on second thought...)* Quite a bit of light bleedingIf you have any other questions about the phone, even though you shouldn't even be thinking about buying it since it is pretty much out of date, feel free to ask!" **** 'slow'
+---'NNot very happy the phone came with a dead battery.' **** 'dead'
+---"Alright, so basic overview:PROS:* Has HTC Sense* (Temporarily) Rootable* Comes with an array of useful apps* Great sounding audioCONS:* Excruciating battery life* Unbearably slow CPU/GPU* CANNOT INSTALL BUSYBOX OR INCREASE VM HEAP SIZE (Do not even think about trying it)* Not the best quality pictures* Video has about 4 pixels and the sample rate is about 13 Hz (Ok, a bit exaggerated... then again on second thought...)* Quite a bit of light bleedingIf you have any other questions about the phone, even though you shouldn't even be thinking about buying it since it is pretty much out of date, feel free to ask!" **** 'slow'
+
+Negative Reviews:
+
+---'The battery life is short.' **** 'short'
 
 
 ================================================================================================================

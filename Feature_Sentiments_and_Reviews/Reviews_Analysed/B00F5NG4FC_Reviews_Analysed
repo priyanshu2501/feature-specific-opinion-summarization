@@ -1,30 +1,3 @@
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'it\'s not a smart phone if you can\'t upload basic apps!updated review: i went and google the problem for help and i found a solution that worked and i can now use my "play app store" but still waiting for my "samsung apps" to download (coming slowww).' **** 'google'
----'but be careful it might just be a problem with these new phones.' **** 'careful'
-
-Negative Reviews:
-
----'shopebest announcement proves true, it is released (unlocked) internationally (because here in venezuela i can use it without any problem) is white and is 8gb, excellent operating system, camera, applications and fast.' **** 'white'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'it came in a box, its new and works good.' **** 'new'
----"i'm using it overseas with a local carrier and works very good." **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
 __________('s3', 'mini')__________
 
 
@@ -36,6 +9,29 @@ Negative Reviews:
 
 
 ================================================================================================================
+__________('internal', 'memory')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('any', 'problem')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'SHOPEBEST announcement proves true, it is released (unlocked) internationally (because here in Venezuela I can use it without any problem) is white and is 8Gb, excellent operating system, camera, applications and fast.' **** 'white'
+
+
+================================================================================================================
 __________('an', 'adapter')__________
 
 
@@ -44,7 +40,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----'the manual and adapter were italian.' **** 'manual'
+---'The manual and adapter were Italian.' **** 'manual'
 
 
 ================================================================================================================
@@ -53,50 +49,13 @@ __________('apps',)__________
 
 Positive Reviews:
 
----'many foreign apps not applicable for the us.' **** 'foreign'
+---'Many foreign apps not applicable for the US.' **** 'foreign'
 
 Negative Reviews:
 
----'but no....- its price feels way too high for a device with only 8gb of internal memory (already shared with os and the several updates to its original apps).i recommend the product but knowing in advance its details.edit: be aware that as with previous model, samsung messed it up.' **** 'original'
----'but it is not true... all it does is to say it did it, but it only moves the apps to a sort of partition or folder "./emulate/0" on the same internal memory!!!!' **** 'true'
-
-
-================================================================================================================
-__________('internal', 'memory')__________
-
-
-Positive Reviews:
-
----'too much to ask?my internal memory is getting full by just having built-in apps auto-updated.i am overseas now.' **** 'much'
-
-Negative Reviews:
-
----'firmware 4.2.2 "allows" to move apps to sd to free internal memory space.' **** 'free'
-
-
-================================================================================================================
-__________('middle', 'east')__________
-
-
-Positive Reviews:
-
----'from shopebest - i received a different version clearly marked & indicated everywhere: for use in the middle east only with only middle east countries listed & the product has a label on the box stating if used outside the middle east, the product warranty & guarantee is void!the instructions were in middle eastern!' **** 'outside'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('nternal', 'memory')__________
-
-
-Positive Reviews:
-
----'too much to ask?my internal memory is getting full by just having built-in apps auto-updated.i am overseas now.' **** 'much'
-
-Negative Reviews:
-
----'firmware 4.2.2 "allows" to move apps to sd to free internal memory space.' **** 'free'
+---'But no....- its price feels way too high for a device with only 8GB of internal memory (already shared with OS and the several updates to its original apps).' **** 'original'
+---'But it is not true... all it does is to say it did it, but it only moves the apps to a sort of partition or folder "./emulate/0" on the same INTERNAL MEMORY!!!!' **** 'true'
+---'My internal memory is getting full by just having built-in apps auto-updated.' **** 'auto-updated'
 
 
 ================================================================================================================

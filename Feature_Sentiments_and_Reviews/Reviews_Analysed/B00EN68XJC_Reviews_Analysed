@@ -3,53 +3,11 @@ __________('screen', 'size')__________
 
 Positive Reviews:
 
----'i think this is because of the slightly larger screen size of the dna.' **** 'larger'
+---'I think this is because of the slightly larger screen size of the DNA.' **** 'larger'
 
 Negative Reviews:
 
----'not to big, great size beautiful screen.' **** 'beautiful'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'the main problem i have is that it is metal so it is hard to hold next to your ear with your neck because it tends to fall.' **** 'main'
----'the first problem i have is that the period button is somewhat close the the home button, so sometimes you accidentally activate the home button in the middle of typing a text message.' **** 'first'
----"it's unique in that manner.the second problem i have is that it takes a long time to charge." **** 'second'
-
-Negative Reviews:
-
----'my problem is i want it in black.' **** 'black'
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----'battery life is good.' **** 'good'
----'it is fast, easy to use, and has great battery life!' **** 'easy'
----"if unfamiliar with the process, xda developers has more info on the process and its advantages, but it's probably not something the average user would care about,overall, the htc one is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
----'no changes on their end, just the switch to the htc one on my end and they sounded so much better, almost as if they were actually holding the phone rather than speaking to a speakerphone.the battery life is really good.' **** 'good'
----'for context my last phone was a droid 2 global which i had for 3 years, loved it, never had any problems other than somewhat poor battery life.' **** 'poor'
----'battery life has been pretty good after i got over the honeymoon stage of always using my phone.' **** 'good'
----"the merge call feature works about 50% of the time.as a frequent amazon user, the amazon app integration is good, but hardly enough to suffer through the lousy parts of this device.well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as i'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
----"this phone is great really enjoyed everything about it has a really long battery life did not experienced any problems with the battery.lightweight sleek good on umeverything that you need a phone to do it does without any problems so far i've had it since black friday i ordered it for black friday on amazon.com for  a penny and so far  no complaints really pleased with the phone." **** 'long'
----'battery life has been comparable to the iphone and maybe even slightly better.' **** 'comparable'
----"this is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
----"i've always enjoyed stock android and thought sense 5 would be a nuisance, but i've come to enjoy it (especially blinkfeed).great looks, good battery life, great sound, display, and tons of power." **** 'good'
----'the forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
-
-Negative Reviews:
-
----"could do with better battery life and the keyboard-- while good--isn't as good as iphone 5 i left behind." **** 'better'
----'battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.definitely would recommend this phonep.s.added june 23 - used the phone for about 5 weeks before finding out i was using data instead of wifi despite having the wifi icon on the notification bar.' **** 'acceptable'
----'the battery life i will say is average, but it can make it through a whole day before recharge.' **** 'average'
----"so far, using gsam battery app, i've tracked my battery life to an average of 1 day 8 hours (phone sleep enabled which turns off data while i am sleeping, about two to 4 hours screen-on time, mostly on 4g lte, syncing 4 gmails/2 outlook email/one activesync work email)." **** 'average'
+---'Not to big, great size beautiful screen.' **** 'beautiful'
 
 
 ================================================================================================================
@@ -58,34 +16,15 @@ __________('sense',)__________
 
 Positive Reviews:
 
----'i love the sleek look of the newest sense ui.' **** 'newest'
+---'I love the sleek look of the newest Sense UI.' **** 'newest'
 
 Negative Reviews:
 
----'i find htc sense to be considerably smoother and more aesthetically pleasing.' **** 'smoother'
+---'I find HTC Sense to be considerably smoother and more aesthetically pleasing.' **** 'smoother'
 
 
 ================================================================================================================
-__________('speakers',)__________
-
-
-Positive Reviews:
-
----"having a phone this size does enable having the beautiful 4.7 in display and the speakers, but if it were any larger then i think i would have problems using the phone with one hand.- sense 5: my only other extended experience with android is with my samsung tablet which has samsung's touchwiz skin." **** 'larger'
----'easy to use and the speakers are very powerful.' **** 'easy'
----'easy to use and the speakers are very powerful.' **** 'powerful'
-
-Negative Reviews:
-
----'the speakers are good, not quite "mind blowing" as i\'ve read, but hardware wise, again is way ahead of its competitors.pros:build quality (aluminum)sounddisplay qualityprofessional looking uilock screen widgets still work if your system admin locks down your phone.' **** 'good'
----"it is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone i've ever played with." **** 'best'
----'the speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
----'i cannot stand the iphone 5 charger that falls out.+the speakers are nice, but they are not deal makers by any means.' **** 'nice'
----'needless to say i gladly sent the maxx back before ever activating it.pros:* speed & fluidity (zero lag on this thing)* screen (although i can\'t tell the difference between a 720p or 1080p screen this size)* speakers (tip: if you turn the beats audio off you save battery and the speakers are louder)* call quality: much clearer than my razr hd (i don\'t say "what?"' **** 'louder'
-
-
-================================================================================================================
-__________('facing', 'speakers')__________
+__________('menu', 'button')__________
 
 
 Positive Reviews:
@@ -93,12 +32,12 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone i've ever played with." **** 'best'
----'the speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
+---'i do miss my menu button, but that can be fixed by software buttons.' **** 'miss'
+---"The top left corner is less accessible than the top right in my opinion for a right-handed user, and the button itself is very recessed and doesn't travel much when pressed." **** 'much'
 
 
 ================================================================================================================
-__________('nice',)__________
+__________('noise', 'reduction')__________
 
 
 Positive Reviews:
@@ -106,39 +45,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----'the ability to turn it into a tv remote control is cool, but also super nice because it lets you know that shows you like are currently on.' **** 'super'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----"can't go wrong if you find it for a better price than an iphone or a gs4." **** 'wrong'
----'solid, good price, great customer service from htc.' **** 'solid'
----'solid, good price, great customer service from htc.' **** 'good'
----'it was with my contract half the price of those, so i wondered why it might be better.' **** 'better'
-
-Negative Reviews:
-
----"i've only had this phone for only about two weeks now, but so far i haven't had any issues... it's a typical smart phone with a good camera... for the price $19, i'm happy with it..." **** 'happy'
----"can't go wrong if you find it for a better price than an iphone or a gs4." **** 'better'
-
-
-================================================================================================================
-__________('look',)__________
-
-
-Positive Reviews:
-
----'it\'s got a very clean and modern "flat" look to it.' **** 'flat'
----"very happy with all the features and it's elegant look!" **** 'elegant'
-
-Negative Reviews:
-
----'it\'s got a very clean and modern "flat" look to it.' **** 'clean'
----'it\'s got a very clean and modern "flat" look to it.' **** 'modern'
+---"HTC's aggressive noise reduction algorithm doesn't help, unfortunately, making the final image even softer." **** 'aggressive'
 
 
 ================================================================================================================
@@ -147,34 +54,17 @@ __________('call', 'quality')__________
 
 Positive Reviews:
 
----'i needed a phone that had good call quality and reception as well as all the other bells and whistles.' **** 'good'
----'it may not have the larger snapdragon 800 or over 2 ghz, but it still runs super fast.call quality is better than anything i have ever experienced.' **** 'super'
----'also, samsung uses a lower quality pixel arrangement in the galaxy series phones called pentile, which basically cheats the eyes by not using all three rgb (red/green/blue) subpixels for every pixel.' **** 'lower'
+---'I needed a phone that had good call quality and reception as well as all the other bells and whistles.' **** 'good'
+---'Call Quality is better than anything I have ever experienced.' **** 'better'
+---'Also, Samsung uses a lower quality pixel arrangement in the Galaxy series phones called pentile, which basically cheats the eyes by not using all three RGB (red/green/blue) subpixels for every pixel.' **** 'lower'
 
 Negative Reviews:
 
----'really anyone will at least like this phone i think.overall: 9/10pros:-amazing build quality (best on android)-amazing speaker quality-solid camera and camera features-great screen size (4.7")-good battery life...but could be bettercons:-practically none-non-removable battery (not a big deal for most)-can not add more storage (not a big deal for most)' **** 'best'
----"i think my old htc rezound did a bit better job but that may have been my two years of using it.about the only thing average about the phone is call quality but with smart phones that's almost a secondary feature anymore." **** 'call'
+---"About the only thing average about the phone is call quality but with smart phones that's almost a secondary feature anymore." **** 'call'
 
 
 ================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
----"will probably like the galaxy s4 software better.minor cons:- blinkfeed: [edit: no longer a problems since the introduction of sense 5.5]- battery life: while it's really not as bad as some people make it out to be, i definitely need to charge it every night." **** 'longer'
----'for context my last phone was a droid 2 global which i had for 3 years, loved it, never had any problems other than somewhat poor battery life.' **** 'other'
-
-Negative Reviews:
-
----'the problems i have with it are minor and i find that the phone is worth every penny paid for it.' **** 'minor'
----"no regrets with this phone;  vz's lte service is another matter...updated review, minus one star, to add that it's now well known that this model has significant problems with bluetooth devices." **** 'significant'
----'these two petty major (to me) problems and i am so unhappy.' **** 'unhappy'
-
-
-================================================================================================================
-__________('samsung',)__________
+__________('in', 'low', 'light')__________
 
 
 Positive Reviews:
@@ -182,7 +72,8 @@ Positive Reviews:
 
 Negative Reviews:
 
----'i have had the chance to work with the iphone 5s and the new samsung note 3, and i am still sold on the htc one.' **** 'new'
+---'The photos it takes are plenty sharp for viewing on the phone display or a computer and, more importantly, the colors are accurate and low light performance is brilliant.' **** 'low'
+---'The photos it takes are plenty sharp for viewing on the phone display or a computer and, more importantly, the colors are accurate and low light performance is brilliant.' **** 'low'
 
 
 ================================================================================================================
@@ -191,222 +82,15 @@ __________('galaxy', 's4')__________
 
 Positive Reviews:
 
----"the samsung's galaxy series (s3/s4) uses amoled screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the galaxy phones harder to see outdoors." **** 'dimmer'
----"i couldn't decide between this phone and the galaxy s4, but i'm glad that i made the right decision!" **** 'glad'
+---"The Samsung's Galaxy series (S3/S4) uses AMOLED screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the Galaxy phones harder to see outdoors." **** 'dimmer'
+---"I couldn't decide between this phone and the Galaxy S4, but I'm glad that I made the right decision!" **** 'glad'
+---"The Samsung's Galaxy series (S3/S4) uses AMOLED screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the Galaxy phones harder to see outdoors." **** 'dimmer'
 
 Negative Reviews:
 
----'(my company requires phones connecting via exchange to be secure and on the galaxy s4 i was unable to use any lock screen widgets.' **** 'unable'
----"my sister absolutely loves her galaxy s4 and i'm sure it's also a great choice." **** 'sure'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'this may appeal to some people but i would actually prefer a flat back.' **** 'flat'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('love',)__________
-
-
-Positive Reviews:
-
----'so far pretty good love the look and if u are will to look at some tweeks with how u like good phone' **** 'good'
----"it was a new love, but it's features and it's beauty are only skin-deep." **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----"get a real camera if it's that important to you." **** 'important'
----'* the "ultrapixel" camera does give it better shots in lower lighting, but then you do trade off megapixels.' **** 'give'
----'the only thing i would change is give it a better camera.' **** 'give'
----'the only thing i would change is give it a better camera.' **** 'better'
----"* tv remote: it's a bit gimmicky, but honestly after using it for a while...it's actually kind of cool* oh, and it's fastcons:* sense feed (or whatever the heck they call it) is unnecessary and you should be allowed to disable it* camera: while some of the features are cool - and the multi-shot is unbelievably fast and cool - the ultrapixel produces noticeably grainy pictures on larger screens." **** 'disable'
-
-Negative Reviews:
-
----'also, the camera is weak....very grainy compared to the competition.' **** 'weak'
----"i've only had this phone for only about two weeks now, but so far i haven't had any issues... it's a typical smart phone with a good camera... for the price $19, i'm happy with it..." **** 'good'
----'while i enjoy everything else about the phone, the camera is just awful.' **** 'awful'
----'the camera is pretty good although when it comes to bad lighting the photo does suffer a bit but i didnt buy the phone for the camera.' **** 'good'
-
-
-================================================================================================================
-__________('operating', 'system')__________
-
-
-Positive Reviews:
-
----"furthermore, i've owned phones with just about every operating system available, so i feel confident about what software can offer a smartphone user in terms of an overall experience." **** 'available'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'it may not have the larger snapdragon 800 or over 2 ghz, but it still runs super fast.call quality is better than anything i have ever experienced.' **** 'super'
----'i am pleased with the phones functionality and the screen quality is quite good.' **** 'good'
----'theres 3 things you got to have when getting good music on a phone, good quality music, the right headphones, and a equalizer.' **** 'good'
----'the phone is of the best quality out there, as good as a gs4 and nearly as nice as a 5s.' **** 'best'
----'the 4.7" 1080p screen uses ips panel technology, which is generally considered to be the best quality panel in terms of color production and viewing angle.' **** 'best'
----'also, samsung uses a lower quality pixel arrangement in the galaxy series phones called pentile, which basically cheats the eyes by not using all three rgb (red/green/blue) subpixels for every pixel.' **** 'lower'
----'it is ultra-fast with a very slick interface.i chose the htc one over the other offerings out there due the quality of the construction and the hardware.' **** 'due'
-
-Negative Reviews:
-
----'the aspect ratio is out of proportion compared with most cameras and the photo quality is generally acceptable, but not competitive with other good smartphones.' **** 'acceptable'
----'speakers have amazing sound quality although believe it or not, i was expecting them to be louder at points.' **** 'believe'
----'really anyone will at least like this phone i think.overall: 9/10pros:-amazing build quality (best on android)-amazing speaker quality-solid camera and camera features-great screen size (4.7")-good battery life...but could be bettercons:-practically none-non-removable battery (not a big deal for most)-can not add more storage (not a big deal for most)' **** 'best'
----"i think my old htc rezound did a bit better job but that may have been my two years of using it.about the only thing average about the phone is call quality but with smart phones that's almost a secondary feature anymore." **** 'call'
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'battery life is good.' **** 'good'
----'the android operating system integration truly makes my life easier.' **** 'easier'
----'more importantly, this device truly does make my life easier.' **** 'easier'
----'no changes on their end, just the switch to the htc one on my end and they sounded so much better, almost as if they were actually holding the phone rather than speaking to a speakerphone.the battery life is really good.' **** 'good'
----'battery life has been pretty good after i got over the honeymoon stage of always using my phone.' **** 'good'
----"the merge call feature works about 50% of the time.as a frequent amazon user, the amazon app integration is good, but hardly enough to suffer through the lousy parts of this device.well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as i'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
----'battery life has been comparable to the iphone and maybe even slightly better.' **** 'comparable'
----'the forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
-
-Negative Reviews:
-
----'battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.definitely would recommend this phonep.s.added june 23 - used the phone for about 5 weeks before finding out i was using data instead of wifi despite having the wifi icon on the notification bar.' **** 'acceptable'
----'the battery life i will say is average, but it can make it through a whole day before recharge.' **** 'average'
----"so far, using gsam battery app, i've tracked my battery life to an average of 1 day 8 hours (phone sleep enabled which turns off data while i am sleeping, about two to 4 hours screen-on time, mostly on 4g lte, syncing 4 gmails/2 outlook email/one activesync work email)." **** 'average'
-
-
-================================================================================================================
-__________('build', 'quality')__________
-
-
-Positive Reviews:
-
----'the aluminum unibody gives some of the best build quality of any android phone, and the pixel density and quality of the screen is similarly great.' **** 'best'
-
-Negative Reviews:
-
----'really anyone will at least like this phone i think.overall: 9/10pros:-amazing build quality (best on android)-amazing speaker quality-solid camera and camera features-great screen size (4.7")-good battery life...but could be bettercons:-practically none-non-removable battery (not a big deal for most)-can not add more storage (not a big deal for most)' **** 'best'
-
-
-================================================================================================================
-__________('right',)__________
-
-
-Positive Reviews:
-
----"the top left corner is less accessible than the top right in my opinion for a right-handed user, and the button itself is very recessed and doesn't travel much when pressed." **** 'top'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('galaxy',)__________
-
-
-Positive Reviews:
-
----"the samsung's galaxy series (s3/s4) uses amoled screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the galaxy phones harder to see outdoors." **** 'dimmer'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('pictures',)__________
-
-
-Positive Reviews:
-
----'i have read and tried more than enough tips and tricks and camera apps (and i am a tech savvy person) to get clear pictures and still find myself borrowing friends phones to take pictures.' **** 'clear'
----'the dna has 8 megapixels vs the 4 "ultrapixels" and the dna takes superior pictures in all conditions.' **** 'superior'
----'i read many places that the one was awesome at taking indoor pictures in low light and no flash, but my comparisons between the two phones produced better pictures on the dna.' **** 'better'
-
-Negative Reviews:
-
----'the camera is nothing to write home about, but is able to take multiple pictures within a second which is cool.' **** 'second'
----'i read many places that the one was awesome at taking indoor pictures in low light and no flash, but my comparisons between the two phones produced better pictures on the dna.' **** 'low'
----'i read many places that the one was awesome at taking indoor pictures in low light and no flash, but my comparisons between the two phones produced better pictures on the dna.' **** 'light'
----'the camera takes good pictures; i have not seen pictures from any phone (except maybe the new nokia line) that are better than a decent point and shoot camera, but the htc one camera will capture the moment just fine and the zoe camera function is pretty cool.i recommend the htc one without hesitation.' **** 'good'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----"i really haven't found much negative about it.as for features, where do i start?" **** 'negative'
----'this is one of my favorite features on it.' **** 'favorite'
----'yes, it had some cool new features, like the air gestures and eye scrolling.' **** 'new'
----'i am pretty annoyed by the blinkfeed feature on the one that you can\'t get rid of, although you can set another panel as your "home screen" and tuck the blinkfeed panel out of sight.the stereo front-facing speakers on the one are one of the other features that really set this phone apart from the others i\'ve used, tested and played with over the years.' **** 'other'
----'all the good features of the earlier htc phone, my son had.wow!' **** 'good'
----"very happy with all the features and it's elegant look!" **** 'happy'
-
-Negative Reviews:
-
----"i also able to make the text below the icons larger on the main screen, something that wasn't possible on the sgn2.nice solid feel, nice features, love it.abm" **** 'nice'
-
-
-================================================================================================================
-__________('upgrade',)__________
-
-
-Positive Reviews:
-
----'the htc one is a worthy upgrade.' **** 'worthy'
----'with the new kitkat upgrade, you are able to turn blinkfeed off giving you a good increase.' **** 'able'
----"the deal breaker came with the recent upgrade to android 4.3.  the phone had some serious issues with sound and sluggishness after that upgrade to to android 4.3.  i decided let's see what the htc one has to offer." **** 'recent'
----'my wife bought one, we liked it so much that when i was eligible for an upgrade i got one also.' **** 'eligible'
----"the htc one has been out on verizon for about a year at this point, and even though htc has announced that it's successor will be hitting carriers soon, i chose to opt for the tried and true original for my recent upgrade." **** 'true'
----"the htc one has been out on verizon for about a year at this point, and even though htc has announced that it's successor will be hitting carriers soon, i chose to opt for the tried and true original for my recent upgrade." **** 'original'
----"the htc one has been out on verizon for about a year at this point, and even though htc has announced that it's successor will be hitting carriers soon, i chose to opt for the tried and true original for my recent upgrade." **** 'recent'
----'i was eligible for an upgrade.' **** 'eligible'
----'the android jelly bean 4.3 upgrade (my phone came as 4.1) eased if it did not eliminate one major complaint from customers.' **** 'bean'
-
-Negative Reviews:
-
----"the htc one has been out on verizon for about a year at this point, and even though htc has announced that it's successor will be hitting carriers soon, i chose to opt for the tried and true original for my recent upgrade." **** 'tried'
-
-
-================================================================================================================
-__________('verizon',)__________
-
-
-Positive Reviews:
-
----'verizon is the last of the major phone providers to offer this model.' **** 'last'
----"as long as htc keeps the promise, then this is yet another plus for this flagship phone[update 10/7/2013] the verizon htc one is officially free of verizon's evil grasp!" **** 'free'
-
-Negative Reviews:
-
----"verizon has decided that you shouldn't be able to do what you want with the device that you paid for." **** 'able'
+---"My sister absolutely loves her Galaxy S4 and I'm sure it's also a great choice." **** 'sure'
+---"The Samsung's Galaxy series (S3/S4) uses AMOLED screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the Galaxy phones harder to see outdoors." **** 'harder'
+---"The Samsung's Galaxy series (S3/S4) uses AMOLED screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the Galaxy phones harder to see outdoors." **** 'harder'
 
 
 ================================================================================================================
@@ -421,31 +105,125 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('stereo', 'speakers')__________
+__________('operating', 'system')__________
 
 
 Positive Reviews:
 
+---"Furthermore, I've owned phones with just about every operating system available, so I feel confident about what software can offer a smartphone user in terms of an overall experience." **** 'available'
+---"Furthermore, I've owned phones with just about every operating system available, so I feel confident about what software can offer a smartphone user in terms of an overall experience." **** 'available'
 
 Negative Reviews:
 
----"it is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone i've ever played with." **** 'best'
 
 
 ================================================================================================================
-__________('people',)__________
+__________('iphone',)__________
 
 
 Positive Reviews:
 
----"will probably like the galaxy s4 software better.minor cons:- blinkfeed: [edit: no longer a problems since the introduction of sense 5.5]- battery life: while it's really not as bad as some people make it out to be, i definitely need to charge it every night." **** 'bad'
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'paranoid'
----"the sturdy aluminum body also precludes the ability to remove the battery from the phone which might be inconvenient for some should it need replacing.i really can't say much else that other people haven't said about the device in terms of features, but having used pretty much every smartphone os, i can say that android is my favorite hands down." **** 'other'
----'most people just want one good one.-following the last comment, the htc one/android is very pushy about trying to get users to download more bloatware and interconnect all of their media and electronic life.' **** 'good'
+---'For example, the iPhone is easier to turn on and off (no small thing) and I really miss the dedicated silencer switch.' **** 'easier'
+---'I\'ve been fortunate enough to have used a variety of devices (HTC - Thunderbolt/Incredible 2/Rezound, Motorola - bionic/razr/razr maxx/razr maxx hd, Samsung S3, G Nexus), and I can say without reservation this phone is the first true "iphone killer" in terms of build quality and construction.' **** 'true'
+---'The new iPhone 5S acknowledged this idea by following suit, increasing its own sensor pixels from 1.' **** 'new'
 
 Negative Reviews:
 
----'i just wonder why not more people are using it.' **** 'wonder'
+---"Could do with better battery life and the keyboard-- while good--isn't as good as iPhone 5 I left behind." **** 'good'
+---"My only real complaints would be that the battery life isn't great, probably comparable to an iPhone." **** 'comparable'
+---'very simple like a Iphone on steriods.' **** 'simple'
+---'I spent over two hours on the phone with Verizon Tech rep in conference with HTC Tech rep and the HTC rep finally admitted that my old actiontec modem which will connect to an iphone will not be able to connect to the new HTC One.' **** 'able'
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---"It's a typical smart phone with a good camera... For the price $19, I'm happy with it..." **** 'good'
+---"get a real camera if it's that important to you." **** 'important'
+---'* The "ultrapixel" camera does give it better shots in lower lighting, but then you do trade off megapixels.' **** 'give'
+---'The only thing I would change is give it a better camera.' **** 'give'
+---'The only thing I would change is give it a better camera.' **** 'better'
+---"* TV remote: it's a bit gimmicky, but honestly after using it for a while... it's actually kind of cool* Oh, and it's FASTCONS:* Sense Feed (or whatever the heck they call it) is unnecessary and you should be allowed to disable it* Camera: while some of the features are cool - and the multi-shot is unbelievably fast and cool - the ultrapixel produces noticeably grainy pictures on larger screens." **** 'disable'
+
+Negative Reviews:
+
+---'Also, the camera is weak.... very grainy compared to the competition.' **** 'weak'
+---'While I enjoy everything else about the phone, the camera is just awful.' **** 'awful'
+---'the camera is pretty good although when it comes to bad lighting the photo does suffer a bit but i didnt buy the phone for the camera.' **** 'good'
+
+
+================================================================================================================
+__________('build', 'quality')__________
+
+
+Positive Reviews:
+
+---'The aluminum unibody gives some of the best build quality of any Android phone, and the pixel density and quality of the screen is similarly great.' **** 'best'
+
+Negative Reviews:
+
+---'Overall: 9/10Pros:-Amazing Build Quality (Best on Android)-Amazing Speaker Quality-Solid Camera and Camera Features-Great Screen Size (4.' **** 'overall'
+
+
+================================================================================================================
+__________('light', 'situations')__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'I think the S4 comes with greater detail, but the ONE is better in low light situations.' **** 'low'
+---'I think the S4 comes with greater detail, but the ONE is better in low light situations.' **** 'light'
+---'The touch screen is responsive, I enjoy the camera (especially in low light situations and I love the ergonomics of the phone.' **** 'low'
+---'The touch screen is responsive, I enjoy the camera (especially in low light situations and I love the ergonomics of the phone.' **** 'light'
+---'However, in low light situations, which is pretty much all indoor shots and of course at night, the HTC One produces good shots thanks to the larger sensor and OIS.' **** 'low'
+---'However, in low light situations, which is pretty much all indoor shots and of course at night, the HTC One produces good shots thanks to the larger sensor and OIS.' **** 'light'
+
+
+================================================================================================================
+__________('social', 'media')__________
+
+
+Positive Reviews:
+
+---'A lot of it is vulnerable social media kinds of software like Facebook and Google+.' **** 'vulnerable'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('real', 'estate')__________
+
+
+Positive Reviews:
+
+---'While I had to look VERY closely, the screen on the One is slightly sharper, but I prefer the larger real estate of the 5 inch DNA screen over the 4.' **** 'larger'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('verizon',)__________
+
+
+Positive Reviews:
+
+---'Verizon is the last of the major phone providers to offer this model.' **** 'last'
+---"As long as HTC keeps the promise, then this is yet another plus for this flagship phone[Update 10/7/2013] The Verizon HTC One is officially free of Verizon's evil grasp!" **** 'free'
+---"* No microSD slot - no matter what they say Verizon must have been responsible for them dropping a feature that's available on other versions of the phone (to make you use more cloud storage and therefore more bandwidth - but I suggest backing up photos using BTSync over wifi)." **** 'responsible'
+
+Negative Reviews:
+
+---"Even though it took so much longer to come to Verizon, I couldn't be happier with it." **** 'happier'
+---'But Verizon has made that pretty darn tough.' **** 'tough'
+---"Verizon has decided that you shouldn't be able to do what you want with the device that you paid for." **** 'able'
 
 
 ================================================================================================================
@@ -457,64 +235,20 @@ Positive Reviews:
 
 Negative Reviews:
 
----'32 gb is plenty for me, however.- headphone jack: [edit: this is no longer a problem]- beats audio: for those who are not familiar with what beats audio actually does, here is a brief explanation.' **** 'familiar'
----"its screen is the best i've seen and the beats audio is not just a gimmick- it works surprisingly well." **** 'best'
+---'32 GB is plenty for me, however.- Headphone jack: [EDIT: THIS IS NO LONGER A PROBLEM]- Beats Audio: For those who are not familiar with what Beats Audio actually does, here is a brief explanation.' **** 'familiar'
+---"Its screen is the best I've seen and the Beats Audio is not just a gimmick- it works surprisingly well." **** 'best'
 
 
 ================================================================================================================
-__________('feature',)__________
+__________('sd', 'card')__________
 
 
 Positive Reviews:
 
----'zoe is also really cool since i have four children and it is hard to get a picture with all of their eyes open at the same time; the camera takes crystal clear shots, and the &#34;selfie&#34; feature is also really nice!' **** 'nice'
----'i mentioned htc zoe as a great feature, but the camera used for this feature is kind of bad.' **** 'kind'
----'but still, removable battery would be a nice feature to have if given the choice.' **** 'nice'
----'(i updated this review 2/26 as the kitkat 4.4 android update changed for the better a key feature, allowing me to hide blinkfeed entirely, as well as adding battery saving mode to location and making widgets slide from the left differently than before.' **** 'better'
----'(i updated this review 2/26 as the kitkat 4.4 android update changed for the better a key feature, allowing me to hide blinkfeed entirely, as well as adding battery saving mode to location and making widgets slide from the left differently than before.' **** 'key'
----"* no microsd slot - no matter what they say verizon must have been responsible for them dropping a feature that's available on other versions of the phone (to make you use more cloud storage and therefore more bandwidth - but i suggest backing up photos using btsync over wifi)." **** 'responsible'
----"* no microsd slot - no matter what they say verizon must have been responsible for them dropping a feature that's available on other versions of the phone (to make you use more cloud storage and therefore more bandwidth - but i suggest backing up photos using btsync over wifi)." **** 'available'
+---"Rundown, phone is slow, will not connect to the internet properly or consistently and it doesn't store information from apps even with a backup and there is no sd card to make sure it is backed up." **** 'sure'
 
 Negative Reviews:
 
----'i mentioned htc zoe as a great feature, but the camera used for this feature is kind of bad.' **** 'bad'
----"i think my old htc rezound did a bit better job but that may have been my two years of using it.about the only thing average about the phone is call quality but with smart phones that's almost a secondary feature anymore." **** 'secondary'
-
-
-================================================================================================================
-__________('music',)__________
-
-
-Positive Reviews:
-
----'that means that i had to download a 3rd party equalization app that is compatible with google play music rather than being able to use the one that is normally integrated.' **** 'able'
----"music's very important to me and i think this phone's got the best sound." **** 'important'
----'theres 3 things you got to have when getting good music on a phone, good quality music, the right headphones, and a equalizer.' **** 'good'
-
-Negative Reviews:
-
----'this phone does all that and some, guys dont jump on the iphone bandwagon because you thinks its going to give you a better music experience.' **** 'better'
-
-
-================================================================================================================
-__________('long', 'time')__________
-
-
-Positive Reviews:
-
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'first'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'long'
-
-Negative Reviews:
-
----'it has a ease of use and the battery lasts a long time without an extra battery.' **** 'long'
----"i've been an htc user for a long time (all the way back to the htc herald/t-mobile wing windows 6.1 phone)." **** 'long'
----"okay, so i've been wanting this phone for the longest time and finallyyyy got it for christmas!" **** 'longest'
----"it's unique in that manner.the second problem i have is that it takes a long time to charge." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'long'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'last'
 
 
 ================================================================================================================
@@ -523,15 +257,25 @@ __________('front', 'facing', 'speakers')__________
 
 Positive Reviews:
 
+---"7 in display and the speakers, but if it were any larger then I think I would have problems using the phone with one hand.- Sense 5: My only other extended experience with Android is with my Samsung tablet which has Samsung's touchwiz skin." **** 'larger'
+---'Easy to use and the speakers are very powerful.' **** 'powerful'
 
 Negative Reviews:
 
----"it is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone i've ever played with." **** 'best'
----'the speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
+---"It is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone I've ever played with." **** 'best'
+---'The speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
+---"It is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone I've ever played with." **** 'best'
+---'The speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
+---'The speakers are good, not quite "Mind blowing" as I\'ve read, but hardware wise, again is way ahead of its competitors.' **** 'good'
+---"It is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone I've ever played with." **** 'best'
+---'Trouble with speakers, fuzzy buzzing over ringing and voices, both with and without headohones.' **** 'trouble'
+---'The speakers are front facing and very good for a phone my issue is the phone is very loud.' **** 'front'
+---'I cannot stand the iPhone 5 charger that falls out.+The speakers are nice, but they are not deal makers by any means.' **** 'nice'
+---'PROS:* SPEED & Fluidity (ZERO lag on this thing)* Screen (although I can\'t tell the difference between a 720P or 1080P screen this size)* Speakers (TIP: if you turn the beats audio off you save battery and the speakers are louder)* Call quality: much clearer than my RAZR HD (I don\'t say "what?"' **** 'louder'
 
 
 ================================================================================================================
-__________('found',)__________
+__________('facing', 'stereo', 'speakers')__________
 
 
 Positive Reviews:
@@ -539,23 +283,8 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('power',)__________
-
-
-Positive Reviews:
-
----'switching back to the one was difficult at first, but with the power of youtube, i have tapped into every feature i have.' **** 'first'
----"my only quibble is that it can be tough to find the power button, but it's not really a big deal." **** 'quibble'
----"my only quibble is that it can be tough to find the power button, but it's not really a big deal." **** 'tough'
-
-Negative Reviews:
-
----'switching back to the one was difficult at first, but with the power of youtube, i have tapped into every feature i have.' **** 'difficult'
----'not terrible battery life, just not the best available.also, the power button is a bit difficult to press.' **** 'best'
----'on a side note about htc power buttons, they sure like to move them around: the original incredible has the power on the left, the rezound is on the right, the dna has it in the middle, and the one brought it back to the left....now we come to the epic, and i mean epic failure of htc with the one: the camera.' **** 'original'
+---"It is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone I've ever played with." **** 'best'
+---"It is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone I've ever played with." **** 'best'
 
 
 ================================================================================================================
@@ -564,19 +293,29 @@ __________('a', 'long', 'time')__________
 
 Positive Reviews:
 
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'first'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'long'
+---")CONS:- Charging/Battery Life: Takes a long time for a full charge (and I agree with a previous reviewer--I'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-Lack of a Menu Button on Front of Screen & Tiny Power/Volume Buttons: Coming from a Galaxy phone, I felt this lack immediately." **** 'long'
+---")CONS:- Charging/Battery Life: Takes a long time for a full charge (and I agree with a previous reviewer--I'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-Lack of a Menu Button on Front of Screen & Tiny Power/Volume Buttons: Coming from a Galaxy phone, I felt this lack immediately." **** 'long'
+---"As a long time verizon customer - over a decade - this is the first time I've seriously considered leaving Verizon for a phone." **** 'first'
+---"Yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'long'
+---")CONS:- Charging/Battery Life: Takes a long time for a full charge (and I agree with a previous reviewer--I'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-Lack of a Menu Button on Front of Screen & Tiny Power/Volume Buttons: Coming from a Galaxy phone, I felt this lack immediately." **** 'long'
+---")CONS:- Charging/Battery Life: Takes a long time for a full charge (and I agree with a previous reviewer--I'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-Lack of a Menu Button on Front of Screen & Tiny Power/Volume Buttons: Coming from a Galaxy phone, I felt this lack immediately." **** 'long'
+---"As a long time verizon customer - over a decade - this is the first time I've seriously considered leaving Verizon for a phone." **** 'first'
+---"Yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'long'
 
 Negative Reviews:
 
----'it has a ease of use and the battery lasts a long time without an extra battery.' **** 'long'
----"i've been an htc user for a long time (all the way back to the htc herald/t-mobile wing windows 6.1 phone)." **** 'long'
----"okay, so i've been wanting this phone for the longest time and finallyyyy got it for christmas!" **** 'longest'
----"it's unique in that manner.the second problem i have is that it takes a long time to charge." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'long'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'last'
+---'It has a ease of use and the battery lasts a long time without an extra battery.' **** 'long'
+---"I've been an HTC user for a LONG time (all the way back to the HTC Herald/T-Mobile Wing Windows 6." **** 'long'
+---"Okay, so I've been wanting this phone for the longest time and finallyyyy got it for Christmas!" **** 'longest'
+---'The second problem I have is that it takes a long time to charge.' **** 'long'
+---"As a long time verizon customer - over a decade - this is the first time I've seriously considered leaving Verizon for a phone." **** 'long'
+---"Yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'last'
+---'It has a ease of use and the battery lasts a long time without an extra battery.' **** 'long'
+---"I've been an HTC user for a LONG time (all the way back to the HTC Herald/T-Mobile Wing Windows 6." **** 'long'
+---"Okay, so I've been wanting this phone for the longest time and finallyyyy got it for Christmas!" **** 'longest'
+---'The second problem I have is that it takes a long time to charge.' **** 'long'
+---"As a long time verizon customer - over a decade - this is the first time I've seriously considered leaving Verizon for a phone." **** 'long'
+---"Yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'last'
 
 
 ================================================================================================================
@@ -585,32 +324,22 @@ __________('android',)__________
 
 Positive Reviews:
 
----'before i go into the review, a little background: this is my first android phone, my last phone was an iphone 4 which i really liked.' **** 'first'
----"it's obvious htc really cares about quality and i'd say this is the best android phone out right now." **** 'best'
----'i chose the htc one, because i wanted something more simple yet powerful and technically diverse enough to make my experience as smooth as possible.in many ways, the s4 and the htc one are the best android phones on the market right now, and their popularity reflects that.' **** 'best'
----'out of the box, the htc one seemed like the best feature-filled android phone ever.' **** 'best'
----'my first smart phones were htc, back in the days of windows mobile 5, and my first android phone has been htc.' **** 'first'
+---'Before I go into the review, a little background: This is my first Android phone, my last phone was an iPhone 4 which I really liked.' **** 'first'
+---'This feels every bit like a device that costs $600, which is not something that can be said for any other Android phone.- The display: Incredibly sharp, vivid and bright.' **** 'other'
+---"The One is made of aluminum which stands out to be the sexiest Android phone I've ever seen." **** 'sexiest'
+---"It's obvious HTC really cares about quality and I'd say this is the best Android phone out right now." **** 'best'
+---'In many ways, the S4 and the HTC One are the best Android phones on the market right now, and their popularity reflects that.' **** 'best'
+---'Out of the box, the HTC One seemed like the best feature-filled Android phone ever.' **** 'best'
+---'My first smart phones were HTC, back in the days of Windows Mobile 5, and my first Android phone has been HTC.' **** 'first'
+---"The display is clear and crisp, the screen is highly responsive, and HTC's Android is very easy to use." **** 'easy'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('user',)__________
-
-
-Positive Reviews:
-
----"if unfamiliar with the process, xda developers has more info on the process and its advantages, but it's probably not something the average user would care about,overall, the htc one is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
----'i am  new to the smartphone arena, so i should have ordered the , the user manual, lucky for me, my nephew walked me thru the basics.' **** 'lucky'
----'as a new user to smartphones, the htc one was easy to navigate and walked me through personalizing the phone the way i wanted it.' **** 'new'
----'i am not a heavy user though.' **** 'heavy'
-
-Negative Reviews:
-
----'it does everything you could ask for (and more) you can down the user manual off the internet and it will answer all the question you could think of.' **** 'manual'
----"for example, the camera isn't as capable as the ones found on competing devices, but it's good enough for the user who wants to be able to capture shots on the go.the &#34;one&#34; gets wonderful reception and really takes advantage of the 4g lte network with an impressively speedy processor that provides lightning fast response for web browsing or loading apps." **** 'good'
----'i am  new to the smartphone arena, so i should have ordered the , the user manual, lucky for me, my nephew walked me thru the basics.' **** 'manual'
+---"All this aside, if you are looking to come from an older phone and don't ever plan to print an 8X10 photo from a phone picture, the HTC One is the sexiest Android phone on the market." **** 'sexiest'
+---"Android is more flexible and powerful, however, it's a phone and I don't need power and flexibility." **** 'flexible'
+---"Android is more flexible and powerful, however, it's a phone and I don't need power and flexibility." **** 'powerful'
+---"0 layered on top of Android) is just about the best I've ever used." **** 'top'
+---'It is less intuitive than iOS, but Android feels far more capable and customizable, if not quite so smooth as iOS.-I suffer through way more hiccups, stalling and crashing with Android than I ever experienced with iOS.' **** 'capable'
 
 
 ================================================================================================================
@@ -619,10 +348,11 @@ __________('sound',)__________
 
 Positive Reviews:
 
----"they can easily fill a quiet room with sound and are much clearer than any other phone speaker i've ever heard.- size: i find the size to be just right, but my hands are a bit larger than average." **** 'clearer'
----"music's very important to me and i think this phone's got the best sound." **** 'best'
----"oh, and you'll freak out when you plug this into a larger sound system; the beats audio is really something special.i'm starting to sound like a commercial, but seriously, this was the best phone purchase i've made in my 20 years of cell phone usage." **** 'larger'
----'the screen is clear and the quality of sound is good.' **** 'good'
+---"They can easily fill a quiet room with sound and are much clearer than any other phone speaker I've ever heard.- Size: I find the size to be just right, but my hands are a bit larger than average." **** 'clearer'
+---'The in-call sound is good.' **** 'good'
+---"Music's very important to me and I think this phone's got the best sound." **** 'best'
+---"Oh, and you'll freak out when you plug this into a larger sound system; the Beats audio is really something special." **** 'larger'
+---'The screen is clear and the quality of sound is good.' **** 'good'
 
 Negative Reviews:
 
@@ -637,63 +367,25 @@ Positive Reviews:
 
 Negative Reviews:
 
----"i listen to audible audio books when i'm driving and i don't even bother to plug this phone in while i'm doing it unlike my older phones." **** 'audible'
 
 
 ================================================================================================================
-__________('a', 'big', 'deal')__________
+__________('upgrade',)__________
 
 
 Positive Reviews:
 
+---'The HTC One is a worthy upgrade.' **** 'worthy'
+---'The deal breaker came with the recent upgrade to Android 4.' **** 'recent'
+---'Thanks for making this once great phone now s**k. My wife bought one, we liked it so much that when I was eligible for an upgrade I got one also.' **** 'eligible'
+---"The HTC One has been out on Verizon for about a year at this point, and even though HTC has announced that it's successor will be hitting carriers soon, I chose to opt for the tried and true original for my recent upgrade." **** 'true'
+---"The HTC One has been out on Verizon for about a year at this point, and even though HTC has announced that it's successor will be hitting carriers soon, I chose to opt for the tried and true original for my recent upgrade." **** 'original'
+---"The HTC One has been out on Verizon for about a year at this point, and even though HTC has announced that it's successor will be hitting carriers soon, I chose to opt for the tried and true original for my recent upgrade." **** 'recent'
+---'I was eligible for an upgrade.' **** 'eligible'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('display',)__________
-
-
-Positive Reviews:
-
----'this feels every bit like a device that costs $600, which is not something that can be said for any other android phone.- the display: incredibly sharp, vivid and bright.' **** 'bright'
----"the colors are vivid, but not over-saturated like my sister's galaxy s4 and the display can be very bright." **** 'bright'
----'the display is beautiful, clear, and sharp.the in-call sound is good.' **** 'beautiful'
----"the display is clear and crisp, the screen is highly responsive, and htc's android is very easy to use." **** 'clear'
----'the battery life is great, the screen and display is crystal clear, it does what you want it to do instantly, the camera is great, the beats audio speakers are great, etc etc.' **** 'clear'
----'the display is beautiful and very crisp-clear.' **** 'beautiful'
-
-Negative Reviews:
-
----'the display is bright and crisp and the resolution is incredible.' **** 'bright'
----'this feels every bit like a device that costs $600, which is not something that can be said for any other android phone.- the display: incredibly sharp, vivid and bright.' **** 'sharp'
-
-
-================================================================================================================
-__________('feel',)__________
-
-
-Positive Reviews:
-
----'i also love the aluminum construction, since it gives the phone an expensive feel.' **** 'expensive'
-
-Negative Reviews:
-
----'i just wish it had a better feel to it.- also volume function does not rotate with the screen.' **** 'better'
-
-
-================================================================================================================
-__________('beats', 'audio')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'32 gb is plenty for me, however.- headphone jack: [edit: this is no longer a problem]- beats audio: for those who are not familiar with what beats audio actually does, here is a brief explanation.' **** 'familiar'
----"its screen is the best i've seen and the beats audio is not just a gimmick- it works surprisingly well." **** 'best'
+---"The HTC One has been out on Verizon for about a year at this point, and even though HTC has announced that it's successor will be hitting carriers soon, I chose to opt for the tried and true original for my recent upgrade." **** 'tried'
 
 
 ================================================================================================================
@@ -702,232 +394,107 @@ __________('and', 'battery', 'life')__________
 
 Positive Reviews:
 
----'it is fast, easy to use, and has great battery life!' **** 'easy'
----"if unfamiliar with the process, xda developers has more info on the process and its advantages, but it's probably not something the average user would care about,overall, the htc one is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
----'no changes on their end, just the switch to the htc one on my end and they sounded so much better, almost as if they were actually holding the phone rather than speaking to a speakerphone.the battery life is really good.' **** 'good'
----"the merge call feature works about 50% of the time.as a frequent amazon user, the amazon app integration is good, but hardly enough to suffer through the lousy parts of this device.well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as i'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
----"this phone is great really enjoyed everything about it has a really long battery life did not experienced any problems with the battery.lightweight sleek good on umeverything that you need a phone to do it does without any problems so far i've had it since black friday i ordered it for black friday on amazon.com for  a penny and so far  no complaints really pleased with the phone." **** 'long'
----'battery life has been comparable to the iphone and maybe even slightly better.' **** 'comparable'
----"this is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
----"i've always enjoyed stock android and thought sense 5 would be a nuisance, but i've come to enjoy it (especially blinkfeed).great looks, good battery life, great sound, display, and tons of power." **** 'good'
----'the forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
+---'It is fast, easy to use, and has great battery life!' **** 'easy'
+---"If unfamiliar with the process, XDA developers has more info on the process and its advantages, but it's probably not something the average user would care about, Overall, the HTC One is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
+---'Battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.' **** 'acceptable'
+---"Well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as I'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
+---'Battery life has been comparable to the iPhone and maybe even slightly better.' **** 'comparable'
+---"This is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
+---'Great looks, good battery life, great sound, display, and tons of power.' **** 'good'
+---'The forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
+---'Battery life is good.' **** 'good'
+---'It is fast, easy to use, and has great battery life!' **** 'easy'
+---"If unfamiliar with the process, XDA developers has more info on the process and its advantages, but it's probably not something the average user would care about, Overall, the HTC One is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
+---'The battery life is really good.' **** 'good'
+---'Battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.' **** 'acceptable'
+---'For context my last phone was a droid 2 global which I had for 3 years, loved it, never had any problems other than somewhat poor battery life.' **** 'poor'
+---'Battery life has been pretty good after I got over the honeymoon stage of always using my phone.' **** 'good'
+---"Well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as I'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
+---'this phone is great really enjoyed everything about it has a really long battery life did not experienced any problems with the battery.' **** 'long'
+---'Battery life has been comparable to the iPhone and maybe even slightly better.' **** 'comparable'
+---"This is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
+---'Great looks, good battery life, great sound, display, and tons of power.' **** 'good'
+---'The forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
+---'Battery life is good.' **** 'good'
+---'The Android Operating system integration truly makes my life easier.' **** 'easier'
+---'More importantly, this device truly does make my life easier.' **** 'easier'
+---'The battery life is really good.' **** 'good'
+---'Battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.' **** 'acceptable'
+---'Battery life has been pretty good after I got over the honeymoon stage of always using my phone.' **** 'good'
+---"Well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as I'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
+---'Battery life has been comparable to the iPhone and maybe even slightly better.' **** 'comparable'
+---'The forward facing speakers sound excellent, and the battery life is very good.' **** 'good'
+---'It has a ease of use and the battery lasts a long time without an extra battery.' **** 'extra'
+---'It is fast, easy to use, and has great battery life!' **** 'easy'
+---'The battery would only last a few hours.' **** 'last'
+---'Not bad for a built-in, non-extended battery!' **** 'bad'
+---"If unfamiliar with the process, XDA developers has more info on the process and its advantages, but it's probably not something the average user would care about, Overall, the HTC One is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
+---'For context my last phone was a droid 2 global which I had for 3 years, loved it, never had any problems other than somewhat poor battery life.' **** 'poor'
+---'this phone is great really enjoyed everything about it has a really long battery life did not experienced any problems with the battery.' **** 'long'
+---'I still would like to have removable battery, if only so that I can put in a fresh one down the road when the original battery starts to lose capacity.' **** 'removable'
+---'I still would like to have removable battery, if only so that I can put in a fresh one down the road when the original battery starts to lose capacity.' **** 'original'
+---'But still, removable battery would be a nice feature to have if given the choice.' **** 'removable'
+---'Also, wish HTC would have put in an even larger battery - 3000 mah or more would be so much better!-large sizeThe phone is very comfortable to hold, but it is on the larger side with the 4.' **** 'larger'
+---'If HTC can put in a high resolution "ultrapixel" camera, improve the camera OIS, put in a bigger battery (3000mah at least), AND start at 64GB for the base model going up to 128GB, then it would be the perfect phone!' **** 'bigger'
+---"This is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
+---'Great looks, good battery life, great sound, display, and tons of power.' **** 'good'
 
 Negative Reviews:
 
----"could do with better battery life and the keyboard-- while good--isn't as good as iphone 5 i left behind." **** 'better'
----'battery life seems acceptable for calls and lite use of apps, heavier users (games/vids/music) will encounter problems, may be a deal breaker for you.definitely would recommend this phonep.s.added june 23 - used the phone for about 5 weeks before finding out i was using data instead of wifi despite having the wifi icon on the notification bar.' **** 'acceptable'
+---"Could do with better battery life and the keyboard-- while good--isn't as good as iPhone 5 I left behind." **** 'better'
+---"Could do with better battery life and the keyboard-- while good--isn't as good as iPhone 5 I left behind." **** 'better'
+---'Not terrible battery life, just not the best available.' **** 'best'
+---'Not terrible battery life, just not the best available.' **** 'available'
+---'The battery life I will say is average, but it can make it through a whole day before recharge.' **** 'average'
+---"So far, using GSam battery app, I've tracked my battery life to an average of 1 day 8 hours (phone sleep enabled which turns off data while I am sleeping, about two to 4 hours screen-on time, mostly on 4g LTE, syncing 4 gmails/2 outlook email/one activesync work email)." **** 'average'
+---'Not terrible battery life, just not the best available.' **** 'best'
+---'Not terrible battery life, just not the best available.' **** 'available'
+---'The battery life I will say is average, but it can make it through a whole day before recharge.' **** 'average'
+---"So far, using GSam battery app, I've tracked my battery life to an average of 1 day 8 hours (phone sleep enabled which turns off data while I am sleeping, about two to 4 hours screen-on time, mostly on 4g LTE, syncing 4 gmails/2 outlook email/one activesync work email)." **** 'average'
+---'The only concern I have is the fact that it does not have a removable battery.' **** 'removable'
+---'They finally sent me a second refurb, and the mic is not good, and the battery is not much better.' **** 'good'
+---'They finally sent me a second refurb, and the mic is not good, and the battery is not much better.' **** 'much'
+---"Could do with better battery life and the keyboard-- while good--isn't as good as iPhone 5 I left behind." **** 'better'
+---'The speed is what I expected and the battery is lasting longer.' **** 'longer'
+---"And as mentioned before, their noise reduction algorithm is a bit too aggressive for my taste, producing images that look a bit soft even in direct sun light.-No removable battery or expandable storageThe battery is built-in and can't be user replaced." **** 'removable'
+---'Speaking of inside, its commendably hefty (against the competition) 2300 mAh battery is not removable.' **** 'removable'
 
 
 ================================================================================================================
-__________('software',)__________
+__________('signal', 'strength')__________
 
 
 Positive Reviews:
 
----'the stock software is pretty good although it wants you to set up a tv every time, and i only have a projector (although it did learn most of the functions from that remote).' **** 'good'
----'coolest phone ever had lof features than any other htc, recommend this to anyone, to much software down loading going on.' **** 'much'
----"furthermore, i've owned phones with just about every operating system available, so i feel confident about what software can offer a smartphone user in terms of an overall experience." **** 'confident'
-
-Negative Reviews:
-
----'i have to admit that the phone has great sound and takes very good photos and video, but the htc sync software makes it nearly impossible to transfer any of them to an apple product.' **** 'impossible'
----')- led notification lights are in the speaker, and are very smallin the grand scheme of things, the negatives are really just nit-picks, although they could make serious considerations for potential buyers.so far the only thing i wish they did was to only make it an option for blinkfeed to be used off the bat, but with recent software changes, that option could disable the app.' **** 'recent'
-
-
-================================================================================================================
-__________('awesome',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'did i mention that the screen & stereo surround (simulated) are super awesome?' **** 'super'
----"htc really put a lot into this phone and keep getting better with their new htc one m8.the phone is light and i love having the speakers on the front instead of the side or back make watching or listening to music awesome and plus, i don't need to cup my hand around it to hear anything." **** 'music'
-
-
-================================================================================================================
-__________('samsung', 'galaxy')__________
-
-
-Positive Reviews:
-
----"the samsung's galaxy series (s3/s4) uses amoled screens, which produce exaggerated and inaccurate color production and more importantly, are dimmer which make the galaxy phones harder to see outdoors." **** 'dimmer'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'feels great in your hands, i would say on par with an i-phone and much better than a plastic samsung.' **** 'much'
-
-Negative Reviews:
-
----'battery is much better than the earlier generation androids; however, i have to say, it still was not as long lasting as the iphone was.' **** 'much'
----'while the speakers were touted as much better than the usually awful tinniness of a phone speaker, the front-facing combination on top and bottom do not sound to me that drastically different from, say, a little laptop, but it is progress, i suppose, from squawk.' **** 'much'
-
-
-================================================================================================================
-__________('aluminum',)__________
-
-
-Positive Reviews:
-
----'i researched the statistics, found out it had 32 gb memory (more like 25 after vz bloatware, google apps and the usual installations, but as 7 gb is similarly added to fill the smaller 16 gb of ultra or moto, well worth considering), and the tech site and user reviews were consistently and measurably stronger than its competitors.the aluminum component is handsome.' **** 'stronger'
----'it is very fast and the screen is bright with good colors.the aluminum casing does scratch and dent easily so if you are clumsy then i would highly recommend a case of some sort if you want to keep it looking good.camera and battery life is on par with other phones.' **** 'good'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('thing',)__________
+__________('music',)__________
 
 
 Positive Reviews:
 
----'the other thing that bothered me with verizon, unlike sprint, is that it does not allow me to uninstall many applications.' **** 'other'
----'the one key thing to be aware of is that the battery is fixed in this one (like an iphone) so you are to some extent stuck with the power level.' **** 'key'
----'the one key thing to be aware of is that the battery is fixed in this one (like an iphone) so you are to some extent stuck with the power level.' **** 'aware'
----'watching youtube videos on this thing is as good as watching on my computer monitor at home.one of the shortfalls of this device is that the phone only comes with 32gb of internal memory without an external expansion port.' **** 'good'
----'biggest thing with android is ability to customize.' **** 'biggest'
+---'That means that I had to download a 3rd party equalization app that is compatible with google play music rather than being able to use the one that is normally integrated.' **** 'able'
+---"Music's very important to me and I think this phone's got the best sound." **** 'important'
+---'Theres 3 things you got to have when getting good music on a phone, good quality music, the right headphones, and a equalizer.' **** 'good'
 
 Negative Reviews:
 
----'for example, the iphone is easier to turn on and off (no small thing) and i really miss the dedicated silencer switch.' **** 'small'
----"the battery life is fine for me, which is good thing since you can't remove the back." **** 'good'
----"you can set another homescreen, but that's always the first thing that comes up." **** 'first'
+---'This phone does all that and some, Guys dont jump on the iphone bandwagon because you thinks its going to give you a better music experience.' **** 'better'
 
 
 ================================================================================================================
-__________('charge',)__________
+__________('tech', 'savvy')__________
 
 
 Positive Reviews:
 
----'vz hit me with a 30 dollar upgrade charge, but better than $599 they wanted for continuing my unlimited data plan if i bought the phone from them!the one is sleek and sexy and works very well for my non-nerd needs.' **** 'better'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('device',)__________
-
-
-Positive Reviews:
-
----'being someone willing to try new things, i previously had an htc windows phone 8, which was an amazing device, but i finally gave in to app envy.' **** 'envy'
----'i wanted storage for music, an android interface, and a solid device with a larger screen and an easier keyboard to use.' **** 'solid'
----'the 4.7 inch screen is the right size, neither too large nor too small, and the device fits the hand well.' **** 'small'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('system',)__________
-
-
-Positive Reviews:
-
----"furthermore, i've owned phones with just about every operating system available, so i feel confident about what software can offer a smartphone user in terms of an overall experience." **** 'available'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'i needed a phone that had good call quality and reception as well as all the other bells and whistles.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('hand',)__________
-
-
-Positive Reviews:
-
----'do not make the same mistake i did!on the other hand, if you are a droid-type: i recommend it for you.' **** 'other'
----"it's powerful and fast, feels great in your hand, and the sound is amazing on both phone calls and music." **** 'powerful'
----"a sync via fb or htc for the old phone's contacts offer two options once this new phone is activated.i find the larger size in my hand easier for bigger fingers." **** 'easier'
----'on the other hand, android is far more transparent about what kind of permissions your apps require.+/-the user interface, such as scrolling, swiping, and typing, is not bad, but it does not have the refined feel of an apple.' **** 'other'
-
-Negative Reviews:
-
----"it's also difficult to slide my finger across the screen without holding the phone down with my other hand." **** 'other'
-
-
-================================================================================================================
-__________('sd', 'card')__________
-
-
-Positive Reviews:
-
----"rundown, phone is slow, will not connect to the internet properly or consistently and it doesn't store information from apps even with a backup and there is no sd card to make sure it is backed up." **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('blinkfeed',)__________
-
-
-Positive Reviews:
-
----'the google+ personalized interactive service wants to sign you up, and the hrc interface does sell the installed blinkfeed as prime real estate for lots of bright feeds.' **** 'prime'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'the touch screen is responsive, i enjoy the camera (especially in low light situations and i love the ergonomics of the phone.' **** 'responsive'
----"it's fast, the screen is sharp, great purchase" **** 'sharp'
----'upgrading rating to 5 stars.part 3/final- solidly built phone and beautiful screen images.' **** 'beautiful'
----'i think this is because of the slightly larger screen size of the dna.' **** 'larger'
----"while i had to look very closely, the screen on the one is slightly sharper, but i prefer the larger real estate of the 5 inch dna screen over the 4.7 inch one.the one is made of aluminum which stands out to be the sexiest android phone i've ever seen." **** 'sharper'
----'it has a larger screen for older eyes but is a little heavy for my pocket.' **** 'larger'
----'my cons are really all minor and would not negatively influence me from purchasing the same phone again.pros:-very fast both in phone functions and network (4g lte)-camera is great, excellent photo quality, limited zoom though.-google now service is interesting if not always useful.- phone settings all available from pull down screen at any time.- thin but has great weight to it.' **** 'pull'
----'it is lightening fast and i love the larger screen!' **** 'larger'
----'the processor is great and quick and the screen is big and clear compared to other phones.' **** 'clear'
----"the screen is beautiful, the camera on it takes awesome pictures and the battery lasts me hours longer than any combination of smart phones i've had in the past." **** 'beautiful'
----'* the htc widget on the home screen is pretty nice.' **** 'nice'
----"the display is clear and crisp, the screen is highly responsive, and htc's android is very easy to use." **** 'responsive'
----'the screen is gorgeous and very responsive.' **** 'responsive'
----"i think i decided i'm not going to put a case on it as i usually do with all my smartphones...yeah, it's that good looking.i came from an iphone 5 which i loved but the small screen was getting to me." **** 'small'
----'i wanted storage for music, an android interface, and a solid device with a larger screen and an easier keyboard to use.' **** 'larger'
----'the screen is clear and the quality of sound is good.' **** 'clear'
----'i am so happy with this phone, the screen is beautiful, it takes great pictures, and it is fast!' **** 'beautiful'
-
-Negative Reviews:
-
----"the sexy unibody aluminum design beats samsung plastic any day.-the display is more true-to-life/naturally colored than the often brighter s4 screen (due to different technology).-----------------------------------things i may miss because i chose the one instead of the s4:------------------------------------the ability to expand memory (one comes with 32gb, and since i'm a casual user i didn't think too much about it." **** 'due'
----'i love the larger screen of the current generation of smart phones, but you can get too big.' **** 'larger'
----"the screen is bright and--combined with the phone's beautiful metallic-blue exterior--makes for stunning aesthetics.-  speakers/sound: the front speakers are what really drew me to the htc one." **** 'bright'
----'i wish the actual screen ran to the edges of the housing.- miss the hard keyboard.cons: - screen scratches very easily.' **** 'actual'
----"i also able to make the text below the icons larger on the main screen, something that wasn't possible on the sgn2.nice solid feel, nice features, love it.abm" **** 'main'
----'not a core feature, but i use it a lot- glare resistant, beautiful screen.' **** 'beautiful'
----'it is very fast and the screen is bright with good colors.the aluminum casing does scratch and dent easily so if you are clumsy then i would highly recommend a case of some sort if you want to keep it looking good.camera and battery life is on par with other phones.' **** 'bright'
 
 
 ================================================================================================================
@@ -936,89 +503,26 @@ __________('much', 'better')__________
 
 Positive Reviews:
 
----'feels great in your hands, i would say on par with an i-phone and much better than a plastic samsung.' **** 'much'
+---'Feels great in your hands, I would say on par with an I-phone and much better than a plastic Samsung.' **** 'much'
 
 Negative Reviews:
 
----'battery is much better than the earlier generation androids; however, i have to say, it still was not as long lasting as the iphone was.' **** 'much'
----'while the speakers were touted as much better than the usually awful tinniness of a phone speaker, the front-facing combination on top and bottom do not sound to me that drastically different from, say, a little laptop, but it is progress, i suppose, from squawk.' **** 'much'
+---'Battery is much better than the earlier generation androids; however, I have to say, it still was not as long lasting as the iphone was.' **** 'much'
+---'While the speakers were touted as much better than the usually awful tinniness of a phone speaker, the front-facing combination on top and bottom do not sound to me that drastically different from, say, a little laptop, but it is progress, I suppose, from squawk.' **** 'much'
 
 
 ================================================================================================================
-__________('months',)__________
+__________('late', 'fee')__________
 
 
 Positive Reviews:
 
----'i bought my phone from the verizon store, unfortunately.i am now on my third htc one in six months (the first two were replaced under warranty).' **** 'first'
----"now i'm stuck with another 18 months in my contract and a very substandard phone." **** 'stuck'
----'the phone worked well for the first 6 months.' **** 'first'
+---'And they said if I did not return the phone by 10 days they would charge a $250 late fee --even though I kept the old phone to wait for the new charger that never came (to try to recover the data.)' **** 'late'
 
 Negative Reviews:
 
----'i have drooled over this phone for the past 6 months, previously owned a htc inspire which performed really well for the last 2 years, and i am a fan of htc.' **** 'past'
----'my housemate had the one 2-3 months before i got mine and we both love, love this phone.' **** 'mine'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'it has a ease of use and the battery lasts a long time without an extra battery.' **** 'extra'
----'it is fast, easy to use, and has great battery life!' **** 'easy'
----'the battery would only last a few hours.' **** 'last'
----'not bad for a built-in, non-extended battery!' **** 'bad'
----"if unfamiliar with the process, xda developers has more info on the process and its advantages, but it's probably not something the average user would care about,overall, the htc one is a very well made phone with a great screen and nice performance, and the only drawbacks for me are average battery life and a tricky power button." **** 'average'
----'for context my last phone was a droid 2 global which i had for 3 years, loved it, never had any problems other than somewhat poor battery life.' **** 'poor'
----"this phone is great really enjoyed everything about it has a really long battery life did not experienced any problems with the battery.lightweight sleek good on umeverything that you need a phone to do it does without any problems so far i've had it since black friday i ordered it for black friday on amazon.com for  a penny and so far  no complaints really pleased with the phone." **** 'long'
----'i still would like to have removable battery, if only so that i can put in a fresh one down the road when the original battery starts to lose capacity.' **** 'removable'
----'i still would like to have removable battery, if only so that i can put in a fresh one down the road when the original battery starts to lose capacity.' **** 'original'
----'but still, removable battery would be a nice feature to have if given the choice.' **** 'removable'
----'also, wish htc would have put in an even larger battery - 3000 mah or more would be so much better!-large sizethe phone is very comfortable to hold, but it is on the larger side with the 4.7" screen and dual stereo speakers.' **** 'larger'
----'if htc can put in a high resolution "ultrapixel" camera, improve the camera ois, put in a bigger battery (3000mah at least), and start at 64gb for the base model going up to 128gb, then it would be the perfect phone!htc are you listening?' **** 'bigger'
----"this is a great music phone with plenty of memory, good battery life, and it's quite sturdy." **** 'good'
----"i've always enjoyed stock android and thought sense 5 would be a nuisance, but i've come to enjoy it (especially blinkfeed).great looks, good battery life, great sound, display, and tons of power." **** 'good'
-
-Negative Reviews:
-
----'the only concern i have is the fact that it does not have a removable battery.' **** 'removable'
----'they finally sent me a second refurb, and the mic is not good, and the battery is not much better.' **** 'good'
----'they finally sent me a second refurb, and the mic is not good, and the battery is not much better.' **** 'much'
----"could do with better battery life and the keyboard-- while good--isn't as good as iphone 5 i left behind." **** 'better'
----'the speed is what i expected and the battery is lasting longer.' **** 'longer'
----"and as mentioned before, their noise reduction algorithm is a bit too aggressive for my taste, producing images that look a bit soft even in direct sun light.-no removable battery or expandable storagethe battery is built-in and can't be user replaced." **** 'removable'
----'a nice touch is the pair of little headphones that are included, to enhance the bass-heavy (naturally) beats audio feature that is installed (and engraved) on the phone.speaking of inside, its commendably hefty (against the competition) 2300 mah battery is not removable.' **** 'removable'
-
-
-================================================================================================================
-__________('years',)__________
-
-
-Positive Reviews:
-
----'i have drooled over this phone for the past 6 months, previously owned a htc inspire which performed really well for the last 2 years, and i am a fan of htc.' **** 'last'
----"in my opinion it's slightly better than stock android and light years better than samsung or lg monstrosities which are both so chock full of options that you'll never use it's hard to dig down to find the  ones you will." **** 'light'
----"i've had iphones and then samsung droids for years last one being samsung galaxy s3." **** 'last'
-
-Negative Reviews:
-
----'i\'m perhaps overawed because i switched from an archaic, no-one-has-this-anymore prepaid "dumb" phone that i have reluctantly used for the past four years... but pretty much everyone can tell you that this is one amazing phone.the only problem i have with this so far is battery life.' **** 'past'
----'i have had this app for the last two years and never had this problem before.' **** 'last'
----"i have owned 8 other smartphones over the past several years and the htc one is the best that i've used." **** 'past'
-
-
-================================================================================================================
-__________('n', 'low', 'light')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'the photos it takes are plenty sharp for viewing on the phone display or a computer and, more importantly, the colors are accurate and low light performance is brilliant.' **** 'low'
+---'We will see if HTC has the nerve to charge me a $250 late fee.' **** 'late'
+---'Once I figured out and was trying to put all of the info in and I was late on a bill and charged a late fee.' **** 'late'
 
 
 ================================================================================================================
@@ -1027,103 +531,17 @@ __________('great', 'screen')__________
 
 Positive Reviews:
 
----"it's fast, the screen is sharp, great purchase" **** 'sharp'
----'my cons are really all minor and would not negatively influence me from purchasing the same phone again.pros:-very fast both in phone functions and network (4g lte)-camera is great, excellent photo quality, limited zoom though.-google now service is interesting if not always useful.- phone settings all available from pull down screen at any time.- thin but has great weight to it.' **** 'pull'
----'the processor is great and quick and the screen is big and clear compared to other phones.' **** 'clear'
----'i am so happy with this phone, the screen is beautiful, it takes great pictures, and it is fast!' **** 'beautiful'
+---"It's fast, the screen is sharp, Great purchase" **** 'sharp'
+---'Pros:-Very fast both in phone functions and network (4g lte)-Camera is great, excellent photo quality, limited zoom though.-Google Now service is interesting if not always useful.- phone settings all available from pull down screen at any time.- Thin but has great weight to it.' **** 'pull'
+---'The processor is great and quick and the screen is big and clear compared to other phones.' **** 'clear'
+---'I am so happy with this phone, the screen is beautiful, it takes great pictures, and it is fast!' **** 'beautiful'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('size',)__________
-
-
-Positive Reviews:
-
----'i have an otterbox commuter series case on mine and the overall size is still perfect.' **** 'perfect'
----"i would've loved to have more, but this is a respectable size especially given the slim profile of the phone." **** 'respectable'
----'definitely a cool feature for show-and-tell at parties.con:-"ultra pixel" resolution and overly aggresive noise reduction algorithmi wish htc could have kept the resolution at 8 mp while increasing the sensor size, similar to what apple did with the iphone 5s.' **** 'similar'
----'good size, good weight.' **** 'good'
----"a sync via fb or htc for the old phone's contacts offer two options once this new phone is activated.i find the larger size in my hand easier for bigger fingers." **** 'larger'
-
-Negative Reviews:
-
----'i have an otterbox commuter series case on mine and the overall size is still perfect.' **** 'overall'
----"it's smaller in size and can easily be held in one hand unlike the sgn2." **** 'smaller'
----'coming from the samsung galaxy s3, which i found to be a good size if not a little wide, i think the htc being a little taller and thinner is a better form factor.' **** 'good'
----'not to big, great size beautiful screen.' **** 'beautiful'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----")cons:- charging/battery life: takes a long time for a full charge (and i agree with a previous reviewer--i'm not one of those paranoid people who always need a 90-100% battery--this takes a long time to charge up yet drains the battery at a fast rate.-lack of a menu button on front of screen & tiny power/volume buttons: coming from a galaxy phone, i felt this lack immediately." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'first'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'long'
----"while i am in the car or office most of the time that was so unacceptable that i started to think my dream phone wasn't practical enough to actually use day-to-day.i tried everything to improve the battery life." **** 'unacceptable'
-
-Negative Reviews:
-
----'it has a ease of use and the battery lasts a long time without an extra battery.' **** 'long'
----"they wouldn't tell me when though so in the mean time i have a big brick of annoyance if i have to talk to someone while in public." **** 'mean'
----"i've been an htc user for a long time (all the way back to the htc herald/t-mobile wing windows 6.1 phone)." **** 'long'
----"i love the aluminum and how it looks, which is why i've had a hard time purchasing a case for it." **** 'hard'
----"okay, so i've been wanting this phone for the longest time and finallyyyy got it for christmas!" **** 'longest'
----"it's unique in that manner.the second problem i have is that it takes a long time to charge." **** 'long'
----"as a long time verizon customer - over a decade - this is the first time i've seriously considered leaving verizon for a phone.pro:-unibody all-metal construction with gorilla glass 2this is by far the most solidly built android phone, ever, period." **** 'long'
----"yet, if you turn off wi-fi or bluetooth or whatever else when you don't need it, it does last a long time." **** 'last'
-
-
-================================================================================================================
-__________('hours',)__________
-
-
-Positive Reviews:
-
----'it will get through a solid 16 hours of moderate use and have about 15-20 percent battery left.' **** 'solid'
----'the thing i like least is that the phone will get fairly hot when watching netflix for a few hours, but nowhere near high enough to be harmful.' **** 'near'
----'the thing i like least is that the phone will get fairly hot when watching netflix for a few hours, but nowhere near high enough to be harmful.' **** 'harmful'
-
-Negative Reviews:
-
----"so when listening to a podcast i have missed calls and texts because the alert chimes play through the speakers not through the headphones so i didn't hear it.-battery- could be better, but still very good, will last a few hours of constant use." **** 'good'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
----"the merge call feature works about 50% of the time.as a frequent amazon user, the amazon app integration is good, but hardly enough to suffer through the lousy parts of this device.well, the battery life is good, speed is very good, and the internal speakerphone/mic work well so that is probably the reason for many of the stellar reviews; however, as far as i'm concerned you should save yourself the frustration of wanting to chuck this phone out of a moving vehicle and get something else." **** 'good'
-
-Negative Reviews:
-
----"it's not intuitive and its too much work to customize the phone." **** 'much'
-
-
-================================================================================================================
-__________('deal',)__________
-
-
-Positive Reviews:
-
----'it was the only other one i felt compared to the htc one as far as all around good deal.' **** 'good'
----'upgrading to the one was so simple and i got the best deal from amazon.' **** 'best'
-
-Negative Reviews:
-
----'upgrading to the one was so simple and i got the best deal from amazon.' **** 'simple'
-
-
-================================================================================================================
-__________('facing', 'stereo', 'speakers')__________
+__________('customer', 'service')__________
 
 
 Positive Reviews:
@@ -1131,7 +549,6 @@ Positive Reviews:
 
 Negative Reviews:
 
----"it is very fast, sleek, the screen is second-to-none, and the front facing stereo speakers are the best on any smartphone i've ever played with." **** 'best'
 
 
 ================================================================================================================
@@ -1140,52 +557,27 @@ __________('apps',)__________
 
 Positive Reviews:
 
----'you are able to turn off all unused apps as well.' **** 'able'
----'blinkfeed is a pretty neat concept, although there are other similar apps.' **** 'similar'
+---'You are able to turn off all unused apps as well.' **** 'able'
+---'Blinkfeed is a pretty neat concept, although there are other similar apps.' **** 'similar'
+---'Encouraged, I started uninstalling apps one by one (targeting what were probably the most resource intensive first).' **** 'encouraged'
 
 Negative Reviews:
 
----'you have the ability to hide them and force stop these apps.' **** 'stop'
----'blinkfeed is a pretty neat concept, although there are other similar apps.' **** 'other'
----'i researched the statistics, found out it had 32 gb memory (more like 25 after vz bloatware, google apps and the usual installations, but as 7 gb is similarly added to fill the smaller 16 gb of ultra or moto, well worth considering), and the tech site and user reviews were consistently and measurably stronger than its competitors.the aluminum component is handsome.' **** 'google'
+---'You have the ability to hide them and force stop these apps.' **** 'stop'
+---'Blinkfeed is a pretty neat concept, although there are other similar apps.' **** 'other'
 
 
 ================================================================================================================
-__________('larger',)__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
+---'However, getting a phone through Amazon is the best.' **** 'best'
 
 Negative Reviews:
 
----"they can easily fill a quiet room with sound and are much clearer than any other phone speaker i've ever heard.- size: i find the size to be just right, but my hands are a bit larger than average." **** 'average'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
----'i brought it back again when the problem persisted, and they finally agreed to replace it, but refused to replace it with a new one because it had now been more than 14 days (even though i first reported it within 14 days).' **** 'new'
----'htc tech support walked me through some fixes which made it better for 2 days, but then the same problem was back.' **** 'better'
-
-Negative Reviews:
-
----'i only paid a dollar for the phone with a two year contract, and it was shipped free to me in two days.' **** 'free'
-
-
-================================================================================================================
-__________('make',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"i love the new interface, functionality, speed, and little touches that make this so much more comfortable & capable than any phone i've used." **** 'comfortable'
+---'Got it $100 cheaper with Amazon than I would have through Verizon.' **** 'cheaper'
 
 
 ================================================================================================================

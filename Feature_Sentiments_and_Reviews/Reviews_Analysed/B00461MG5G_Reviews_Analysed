@@ -3,7 +3,9 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'amazon need to make sure that what ever a seller put on there website is true.' **** 'true'
+---'AMAZON need to make sure that what ever a seller put on there website is true.' **** 'true'
+---'Reached out to the seller and the seller NEVER REPLIED.' **** 'reached'
+---"i got this phone on time and was as  discribe, i'll recomend this seller for being honest." **** 'honest'
 
 Negative Reviews:
 
@@ -15,29 +17,13 @@ __________('blackberry',)__________
 
 Positive Reviews:
 
----'hi, i greet you from venezuela, and want to share my experience with you, in december 2011, buy this blackberry 8330, which came new and perfect in all its components.' **** 'new'
----'this was the first blackberry that i had ever owned.' **** 'first'
+---'Verizon tech support here I come... Hi, I greet you from Venezuela, and want to share my experience with you, in December 2011, buy this Blackberry 8330, which came new and perfect in all its components.' **** 'new'
+---'This was the first Blackberry that I had ever owned.' **** 'first'
 
 Negative Reviews:
 
----'i purchased a new blackberry but the one i received was not new.' **** 'new'
----'i purchased a new blackberry but the one i received was not new.' **** 'new'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'battery was dead and used.' **** 'dead'
----'not worth what i paid since i had to buy a whole new battery.' **** 'worth'
----'not worth what i paid since i had to buy a whole new battery.' **** 'whole'
----'not worth what i paid since i had to buy a whole new battery.' **** 'new'
----'now i know the company sells alot of these phones resale, but you would think they would at least make sure the battery cover fit the phone before sending them out.' **** 'sure'
+---'I purchased a new Blackberry but the one I received was not new.' **** 'new'
+---'I purchased a new Blackberry but the one I received was not new.' **** 'new'
 
 
 ================================================================================================================
@@ -49,21 +35,12 @@ Positive Reviews:
 
 Negative Reviews:
 
----'now i know the company sells alot of these phones resale, but you would think they would at least make sure the battery cover fit the phone before sending them out.' **** 'sure'
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'this product is very good but this is the most beautiful an easy tecnology for the litle an tall people you buy this product is very good' **** 'good'
----'this product is very good but this is the most beautiful an easy tecnology for the litle an tall people you buy this product is very good' **** 'good'
-
-Negative Reviews:
-
----"good day, i am very unhappy with the product was damaged battery, ask if i could change it because it's cdma and gsm and i need to get an answer" **** 'unhappy'
+---'Now I know the company sells alot of these phones resale, but you would think they would at least make sure the battery cover fit the phone before sending them out.' **** 'sure'
+---'Battery was dead and used.' **** 'dead'
+---'Not worth what I paid since I had to buy a whole new battery.' **** 'worth'
+---'Not worth what I paid since I had to buy a whole new battery.' **** 'whole'
+---'Not worth what I paid since I had to buy a whole new battery.' **** 'new'
+---'Now I know the company sells alot of these phones resale, but you would think they would at least make sure the battery cover fit the phone before sending them out.' **** 'sure'
 
 
 ================================================================================================================
@@ -83,7 +60,7 @@ __________('verizon',)__________
 
 Positive Reviews:
 
----'i was able to activate at the verizon store and have been enjoying using it daily for email and phone use.' **** 'able'
+---'I was able to activate at the Verizon store and have been enjoying using it daily for email and phone use.' **** 'able'
 
 Negative Reviews:
 
@@ -95,23 +72,11 @@ __________('sim', 'card')__________
 
 Positive Reviews:
 
----'wished it could have been more clear that it wasnt sim card useable.' **** 'clear'
+---'Wished it could have been more clear that it wasnt sim card useable.' **** 'clear'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'you may get a phone with the correct back or you may have one laying around.' **** 'correct'
-
-Negative Reviews:
-
----'it would not charge through the back pins straight out of the box, so i returned it for refund.' **** 'straight'
+---'Wished it could have been more clear that it wasnt sim card useable.' **** 'wished'
 
 
 ================================================================================================================

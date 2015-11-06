@@ -1,95 +1,21 @@
-__________('something',)__________
+__________('android',)__________
 
 
 Positive Reviews:
 
----'i loved the iphone.. but wanted something new.' **** 'new'
----'so, when i had to replace my phone, i wanted something similar.' **** 'similar'
+---'Other Android phones can now share pictures (but not videos) through the Droid Zap app.' **** 'other'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('battery', 'life')__________
+__________('iphone',)__________
 
 
 Positive Reviews:
 
----'finally, the battery life leaves much to be desired.' **** 'much'
----'battery life is key for me and this phone has it.' **** 'key'
----'very easy to use, battery life is good.' **** 'easy'
----'very easy to use, battery life is good.' **** 'good'
----"i do that when i'm somewhere without wifi, so that i won't run up my data usage.the downside is definitely battery life." **** 'battery'
----'the battery life is good as well.' **** 'good'
----'i notice battery life is much better when connected to wifi.' **** 'battery'
-
-Negative Reviews:
-
----'battery life is good, not great.' **** 'good'
----'the cons: i am disappointed in the battery life - it needs to be charged every night and i use my phone minimally during the day.' **** 'disappointed'
----'it saves time and battery power.some concerns have been battery life.' **** 'battery'
----'bright screen, decent battery life once you disable some of the unnecessary running processes.' **** 'disable'
-
-
-================================================================================================================
-__________('motorola',)__________
-
-
-Positive Reviews:
-
----'when i saw the new motorola lineup had been upgraded to 4.4 already it interested me, and i read some good reviews on them.' **** 'new'
----'all of the advanced motorola have made are paying off in this great product.' **** 'advanced'
----'it randomly froze while sitting on my table and will not load past the motorola logo.' **** 'past'
-
-Negative Reviews:
-
----'so as improvements are developed for apps like the camera, voice activation and other motorola exclusive apps, they can delivered directly and more quickly through the google play store.5.)' **** 'other'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----"like the motorola connect feature that let's me send and receive text messages in my desktops browser and it even displays battery life without picking up your phone." **** 'receive'
----'i now have a new phone that glitches out constantly and is unable to zoom on small text whenever web-browsing.' **** 'unable'
----'i now have a new phone that glitches out constantly and is unable to zoom on small text whenever web-browsing.' **** 'small'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'it works well and has a beautiful screen quality/ resolution.' **** 'beautiful'
----'very responsive, nice screen.' **** 'responsive'
----'very responsive, nice screen.' **** 'nice'
----"it's got a 4.3 inch lcd screen which is larger than an iphone 5 with more resolution." **** 'larger'
-
-Negative Reviews:
-
----'also the feature that makes your phone go blank while you are in call doesn\'t come back out of "slumber" when you take it away from ear,  meaning if you need to enter your account number while on a call to customer service, you won\'t get to, the screen stays blank, and the times when i have been able to get the screen to come back on in call, it goes blank after each number you type.' **** 'able'
----"it drops the call about 75% of the time if you don't use the hands free set because the touch screen doesn't deactivate when you raise it to your ear so any contact with your ear or head can cause the call to disconnect." **** 'touch'
----"i'm really glad i dropped it and broke the screen." **** 'glad'
----"the screen will just go dark on me sometimes, but i think i'm hitting a button or something.overall, though, i'm happy with it and i think it's a good deal for a free phone." **** 'dark'
----"it's fast, sleek, smaller than my previous phone but the same size screen & very comfortable." **** 'comfortable'
----'bright screen, decent battery life once you disable some of the unnecessary running processes.' **** 'bright'
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----"i know this isn't the longest lasting battery on the market (i think droid maxx is), but it outlasts my former samsung, and any apple i've come across, which is why i dig this phone.i always said, how smart is a smart phone when it's dead?" **** 'former'
----"the size is pretty perfect to me because it's bigger than the iphone 4s i had and smaller than the samsung galaxy.one of the main features that i actually needed not wanted, but actually needed was the touch less control commands." **** 'smaller'
+---"The size is pretty perfect to me because it's bigger than the iPhone 4S I had and smaller than the Samsung galaxy." **** 'bigger'
 
 Negative Reviews:
 
@@ -101,390 +27,50 @@ __________('active', 'display')__________
 
 Positive Reviews:
 
----'the active display is very convenient.' **** 'convenient'
+---'The active display is very convenient.' **** 'convenient'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('back',)__________
+__________('battery', 'life')__________
 
 
 Positive Reviews:
 
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'you first notice it when you pick up the phone, it senses you grabbed it and the "active display" shows the time and any notifications so i don\'t even have to turn on the phone, or you could flick your wrist and open the camera, like i said, simple and genius.' **** 'simple'
----"so while i'm not happy by lacking the space and sd slot, i asked myself what i actually use and it worked out just fine.camera: like i mentioned earlier, the camera is super easily launched, just grab the phone, flick your wrist and bang there it is." **** 'super'
----'the camera is good if you take a close up photo.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('moto',)__________
-
-
-Positive Reviews:
-
----'i was really looking forward to this new moto mini as it was supposed to have almost identical internal components as the other two, ultra and maxx.' **** 'new'
----"if you don't want the smaller one, there is always the moto x, droid ultra, or droid maxx." **** 'smaller'
----'for me, the droid mini lasts about 16 hours under moderate use.since the phone is provided through verizon and not directly from google like the moto x, there will be bloatware.' **** 'google'
-
-Negative Reviews:
-
----"i would purchase this phone again--or consider the moto x (motorola moto black verizon wirelessthe moto x has a bit larger screen but isn't that much larger than the droid mini." **** 'consider'
-
-
-================================================================================================================
-__________('mini',)__________
-
-
-Positive Reviews:
-
----'the one mini, and the s4 mini compromised on what they were, but the droid mini stayed true to the flagship lineup.' **** 'true'
----'also, i had to return the first mini i got because the casing squeaked so loud that it distracted me on my calls.' **** 'first'
----'droid mini is pretty good!' **** 'good'
----'even though the contrast and brightness is not as good as an amoled or ips display, the white balance is more accurate (instead of the yellowish tint typical of pentile oled)compared to the other "mini" phones on the market (i.e.' **** 'other'
----'shortened the time it takes to switch between rear and front-facing cameras, as well as transition between the viewfinder and the gallery app.droid mini is now compatible with the motorola skip accessory for easier security via nfc authentication.' **** 'compatible'
-
-Negative Reviews:
-
----"i'm glad i chose the droid mini." **** 'glad'
----'my first mini got too hot to hold after a 30 minute call.' **** 'first'
----"i would purchase this phone again--or consider the moto x (motorola moto black verizon wirelessthe moto x has a bit larger screen but isn't that much larger than the droid mini." **** 'larger'
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'this is your kind of phone.if you are wanting good quality photos, fun apps with many to choose from, calls, texts, face timing, better internet, unlikely to break with a good case.' **** 'good'
----'the sound quality is impressive for such a little device, and it gets pretty load and still sounds good.' **** 'impressive'
----'texting is pretty quick even with the screen keyboard, call quality has been good both on speaker and against my ear (i will say the case i got makes it a bit uncomfortable), with no unintended hang ups.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'finally, the battery life leaves much to be desired.' **** 'much'
----'battery life is key for me and this phone has it.' **** 'key'
----'very easy to use, battery life is good.' **** 'good'
----"i do that when i'm somewhere without wifi, so that i won't run up my data usage.the downside is definitely battery life." **** 'battery'
----'the battery life is good as well.' **** 'good'
----'i notice battery life is much better when connected to wifi.' **** 'battery'
-
-Negative Reviews:
-
----'battery life is good, not great.' **** 'good'
----'it saves time and battery power.some concerns have been battery life.' **** 'battery'
----'bright screen, decent battery life once you disable some of the unnecessary running processes.' **** 'disable'
-
-
-================================================================================================================
-__________('droid',)__________
-
-
-Positive Reviews:
-
----'i finally gave up my original droid that i had for 4 years for this phone.' **** 'original'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'responsive'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'new'
-
-Negative Reviews:
-
----'i will say that the durability of this phone does not hold a candle to my last droid - i dropped it once and the corners cracked way too much for the small amount of impact.' **** 'last'
----'i guess i will have to get a case for this (which i never had to do with my last droid) which somewhat defeats the purpose of getting the smaller phone.' **** 'last'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'smooth'
----"the recipients then open the droid zap app (free and only for android devices) on their phones and two finger swipe down to download the shared picture (or video).there are a couple things i don't like about my new droid mini, but they can be easily addressed." **** 'new'
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----'to address this problem, motorola designed two low-powered chips to process these new features.' **** 'new'
----'so many personal features to use.' **** 'personal'
-
-Negative Reviews:
-
----"the new features were interesting but the specs just didn't hold up to the premium price they were asking for." **** 'new'
----'it has some more advanced features and even slow mo, nothing like the s4 but it gets the job done and looks decent enough for my uses.screen: looks fantastic, i really think amoled is where the future is going and it is a good future.' **** 'advanced'
----"the size is pretty perfect to me because it's bigger than the iphone 4s i had and smaller than the samsung galaxy.one of the main features that i actually needed not wanted, but actually needed was the touch less control commands." **** 'main'
----'big motorola features that separate this phone from others:1.)' **** 'separate'
-
-
-================================================================================================================
-__________('verizon',)__________
-
-
-Positive Reviews:
-
----'right now i am counting down the days until my contract with verizon is complete and i can get a phone that is good at being a phone.' **** 'complete'
----"i would purchase this phone again--or consider the moto x (motorola moto black verizon wirelessthe moto x has a bit larger screen but isn't that much larger than the droid mini." **** 'black'
-
-Negative Reviews:
-
----'my daughter had no trouble at all with her htc rhyme which she got free from verizon, or my friend with the blackberry she bought.' **** 'free'
----'i picked mine up at the verizon store.' **** 'mine'
-
-
-================================================================================================================
-__________('photos',)__________
-
-
-Positive Reviews:
-
----'lastly, the two finger swipe action does not work in google+ photos or other third party photo gallery apps.' **** 'other'
-
-Negative Reviews:
-
----'the camera takes great photos in bright light situations and very acceptable ones in indoor/lower light.3.)' **** 'bright'
-
-
-================================================================================================================
-__________('feature',)__________
-
-
-Positive Reviews:
-
----"moto assist is also a nice feature that can turn off your ringer automatically when you're in a meeting and switches to car mode when your driving, which will read incoming text messages and allow you to answer calls via speaker phone with voice activated commands." **** 'nice'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'also when ending a call, i like to be able to look at my phone and hit "end"  and know that it ended the call, this phone doesn\'t seem to allow that, so i\'m not really sure whether the call has ended or not.' **** 'sure'
-
-Negative Reviews:
-
----"however i've found the sound quality in call is not very good, and the speaker phone doesn't seem to make it much louder." **** 'good'
-
-
-================================================================================================================
-__________('sound',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"while i don't intend to use this as my primary music playing device (i have a sony nwz-e465 which is much smaller and has loads more features and better sound) i will say that the sound quality for this device is quite decent." **** 'better'
-
-
-================================================================================================================
-__________('galaxy', 's4')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('display',)__________
-
-
-Positive Reviews:
-
----'the active display is very convenient.' **** 'convenient'
----'what this mean is that the display is very detailed and sharp.' **** 'mean'
----'what this mean is that the display is very detailed and sharp.' **** 'sharp'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'i think this phone does everything i need in a phone it has a great camera the battery last longer than my last phone easy to learn the functions i like it a lot' **** 'last'
+---'Finally, the battery life leaves MUCH to be desired.' **** 'much'
+---'Battery life is key for me and this phone has it.' **** 'key'
 ---'very easy to use, battery life is good.' **** 'easy'
----"i know this isn't the longest lasting battery on the market (i think droid maxx is), but it outlasts my former samsung, and any apple i've come across, which is why i dig this phone.i always said, how smart is a smart phone when it's dead?" **** 'longest'
----'was open to anything but wanted smaller, not as heavy, better battery, and to turn on faster.' **** 'heavy'
----'this battery last much much longer than the battery on my lucid, but all lithium batteries get worse after time.' **** 'last'
----'this battery last much much longer than the battery on my lucid, but all lithium batteries get worse after time.' **** 'much'
----"don't have any emergencies with your battery low on this phone, or you'll be sol and not able to call for help." **** 'low'
----"the best was when the battery went down by 50% in a 2 hour period with no use.i've contacted both verizon and motorola about a working replacement with no success." **** 'best'
+---'very easy to use, battery life is good.' **** 'good'
+---'The battery life is good as well.' **** 'good'
+---'I notice battery life is much better when connected to wifi.' **** 'battery'
+---'Finally, the battery life leaves MUCH to be desired.' **** 'much'
+---'Battery life is key for me and this phone has it.' **** 'key'
+---'very easy to use, battery life is good.' **** 'good'
+---'The battery life is good as well.' **** 'good'
+---'I notice battery life is much better when connected to wifi.' **** 'battery'
+---'I think this phone does everything I need in a phone it has a great camera the battery last longer than my last phone easy to Learn the functions I like it a lot' **** 'last'
+---'very easy to use, battery life is good.' **** 'easy'
+---"I know this isn't the longest lasting battery on the market (I think Droid Maxx is), but it outlasts my former Samsung, and any Apple i've come across, which is why I dig this phone." **** 'longest'
+---'Was open to anything but wanted smaller, not as heavy, better battery, and to turn on faster.' **** 'heavy'
+---'This battery last much much longer than the battery on my lucid, but all lithium batteries get worse after time.' **** 'last'
+---'This battery last much much longer than the battery on my lucid, but all lithium batteries get worse after time.' **** 'much'
+---"Don't have any emergencies with your battery low on this phone, or you'll be SOL and not able to call for help." **** 'low'
+---'The best was when the battery went down by 50% in a 2 hour period with no use.' **** 'best'
 
 Negative Reviews:
 
----'the cons: i am disappointed in the battery life - it needs to be charged every night and i use my phone minimally during the day.' **** 'disappointed'
-
-
-================================================================================================================
-__________('software',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'**kitkat & other software updates: please see bottom of review for a list of changes**i upgraded from a droid razr that i owned for 2 years and i have no regrets.' **** 'other'
-
-
-================================================================================================================
-__________('samsung', 'galaxy')__________
-
-
-Positive Reviews:
-
----"the size is pretty perfect to me because it's bigger than the iphone 4s i had and smaller than the samsung galaxy.one of the main features that i actually needed not wanted, but actually needed was the touch less control commands." **** 'smaller'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'i love the voice commands and i personally think "google now" does a much better job recognizing spoken words than siri does.' **** 'much'
-
-Negative Reviews:
-
----"i don't know if it's the processor, the ram, or if android 4.2 is just that much better than 4.1, but i'm getting no screen stutter at all.i love the size of this phone." **** 'much'
----'i notice battery life is much better when connected to wifi.' **** 'much'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----"the sound quality for calls is pretty bad and i can't hear with the speaker phone (forget about using the speaker for hands-free for driving)." **** 'bad'
----'also, i had to return the first mini i got because the casing squeaked so loud that it distracted me on my calls.' **** 'loud'
-
-Negative Reviews:
-
----"the droid mini is no exception, i haven't had a single issue and the calls have been great and clear." **** 'clear'
-
-
-================================================================================================================
-__________('ok', 'google')__________
-
-
-Positive Reviews:
-
----'amazon has since included information about these features in the product description, so i\'ll provide supplemental details:-active display: it works with any app that has push-notifications such as facebook messenger.-touchless controls: you can train the phone to respond to "ok, google" rather than "ok, google now."' **** 'google'
----'amazon has since included information about these features in the product description, so i\'ll provide supplemental details:-active display: it works with any app that has push-notifications such as facebook messenger.-touchless controls: you can train the phone to respond to "ok, google" rather than "ok, google now."' **** 'google'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('update',)__________
-
-
-Positive Reviews:
-
----'lastly this last update totally messed up the wallpaper set-up.' **** 'last'
----'here is the link to the particular charger i bought:gmyle (tm) black white wireless mini charging pad mat qi-enabled standard charger (1000ma) for nokia lumia 920/920t/925/928/1020, lg google nexus 4/5/7 hd, samsung galaxy s4, iphone 5 (us plug)**kitkat (android 4.4.2) update: 3/4/14**a lot has changed since my last update.' **** 'last'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('device',)__________
-
-
-Positive Reviews:
-
----"all-in-all----great device and i'm very happy with it." **** 'happy'
----'the sound quality is impressive for such a little device, and it gets pretty load and still sounds good.' **** 'good'
-
-Negative Reviews:
-
----'htc and samsung both released mini versions of their flagships, however unlike them motorola kept its flagship specs, making it really the only "premium" smaller device.' **** 'smaller'
----"while i don't intend to use this as my primary music playing device (i have a sony nwz-e465 which is much smaller and has loads more features and better sound) i will say that the sound quality for this device is quite decent." **** 'decent'
-
-
-================================================================================================================
-__________('razr', 'm')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"good reception for 4g, wifi is a little weak, much weaker than on my wife's razr m.  sound is great, nice and loud, unlike my wife's razr m that's hard to hear." **** 'hard'
-
-
-================================================================================================================
-__________('sd', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('text', 'messages')__________
-
-
-Positive Reviews:
-
----"like the motorola connect feature that let's me send and receive text messages in my desktops browser and it even displays battery life without picking up your phone." **** 'receive'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('speaker',)__________
-
-
-Positive Reviews:
-
----'the built in speaker is really good.' **** 'good'
----'yes, it does have a mono speaker, but it actually sounds good!' **** 'good'
-
-Negative Reviews:
-
----'the little speaker is great, with a noise canceling mic, it makes you calls more clear.-the sound.' **** 'little'
+---'Battery life is good, not great.' **** 'good'
+---'The cons: I am disappointed in the battery life - it needs to be charged every night and I use my phone minimally during the day.' **** 'disappointed'
+---'The downside is definitely battery life.' **** 'battery'
+---'Some concerns have been battery life.' **** 'battery'
+---'Bright screen, decent battery life once you disable some of the unnecessary running processes.' **** 'disable'
+---'Battery life is good, not great.' **** 'good'
+---'The downside is definitely battery life.' **** 'battery'
+---'Some concerns have been battery life.' **** 'battery'
+---'Bright screen, decent battery life once you disable some of the unnecessary running processes.' **** 'disable'
+---'The cons: I am disappointed in the battery life - it needs to be charged every night and I use my phone minimally during the day.' **** 'disappointed'
 
 
 ================================================================================================================
@@ -493,75 +79,15 @@ __________('moto', 'x')__________
 
 Positive Reviews:
 
----'i was really looking forward to this new moto mini as it was supposed to have almost identical internal components as the other two, ultra and maxx.' **** 'new'
----"if you don't want the smaller one, there is always the moto x, droid ultra, or droid maxx." **** 'smaller'
----'for me, the droid mini lasts about 16 hours under moderate use.since the phone is provided through verizon and not directly from google like the moto x, there will be bloatware.' **** 'google'
+---'I was really looking forward to this new Moto mini as it was supposed to have almost identical internal components as the other two, ultra and Maxx.' **** 'new'
+---"If you don't want the smaller one, there is always the Moto x, Droid Ultra, or Droid Maxx." **** 'smaller'
+---'I was really looking forward to this new Moto mini as it was supposed to have almost identical internal components as the other two, ultra and Maxx.' **** 'new'
+---"If you don't want the smaller one, there is always the Moto x, Droid Ultra, or Droid Maxx." **** 'smaller'
 
 Negative Reviews:
 
----"i would purchase this phone again--or consider the moto x (motorola moto black verizon wirelessthe moto x has a bit larger screen but isn't that much larger than the droid mini." **** 'consider'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----"i can be sitting next to the phone and it doesn't ring for every call-rings about every other time." **** 'other'
-
-Negative Reviews:
-
----"when i went to verizon for help the first time, the salesman's amswer was, &#34;i dunno.&#34;  i would not get it again." **** 'first'
----"i still haven't discovered everything on it yet, but each time i do discover something new, it's awesome!" **** 'new'
-
-
-================================================================================================================
-__________('droid', 'mini')__________
-
-
-Positive Reviews:
-
----'the one mini, and the s4 mini compromised on what they were, but the droid mini stayed true to the flagship lineup.' **** 'true'
----'droid mini is pretty good!' **** 'good'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'responsive'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'new'
----'shortened the time it takes to switch between rear and front-facing cameras, as well as transition between the viewfinder and the gallery app.droid mini is now compatible with the motorola skip accessory for easier security via nfc authentication.' **** 'compatible'
-
-Negative Reviews:
-
----"i'm glad i chose the droid mini." **** 'glad'
----'in fact, i am blown away by how smooth and responsive is the new droid mini, in addition to the display quality.' **** 'smooth'
----"the recipients then open the droid zap app (free and only for android devices) on their phones and two finger swipe down to download the shared picture (or video).there are a couple things i don't like about my new droid mini, but they can be easily addressed." **** 'new'
----"i would purchase this phone again--or consider the moto x (motorola moto black verizon wirelessthe moto x has a bit larger screen but isn't that much larger than the droid mini." **** 'larger'
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i had to plug it in to charge it--supposed to just lay it on its little charger.' **** 'little'
-
-
-================================================================================================================
-__________('size',)__________
-
-
-Positive Reviews:
-
----'the size is perfect, the battery life is awesome!' **** 'perfect'
----'size is good.' **** 'good'
-
-Negative Reviews:
-
----'i do like this phone as it meets my basic requirements of small size and lightweight.' **** 'small'
----"the size is pretty perfect to me because it's bigger than the iphone 4s i had and smaller than the samsung galaxy.one of the main features that i actually needed not wanted, but actually needed was the touch less control commands." **** 'perfect'
----"it's smooth, fast, reliable and has the same processor and camera as motorola's flagship, the moto x, but in a smaller size." **** 'smaller'
+---"I would purchase this phone again--or consider the Moto X (Motorola Moto Black Verizon WirelessThe Moto X has a bit larger screen but isn't that much larger than the Droid Mini." **** 'consider'
+---"I would purchase this phone again--or consider the Moto X (Motorola Moto Black Verizon WirelessThe Moto X has a bit larger screen but isn't that much larger than the Droid Mini." **** 'consider'
 
 
 ================================================================================================================
@@ -570,12 +96,76 @@ __________('much', 'better')__________
 
 Positive Reviews:
 
----'i love the voice commands and i personally think "google now" does a much better job recognizing spoken words than siri does.' **** 'much'
+---'2 is just that much better than 4.' **** 'much'
+---'I love the voice commands and I personally think "Google Now" does a much better job recognizing spoken words than Siri does.' **** 'much'
+---"It's snappy quick, and the camera is much better." **** 'much'
 
 Negative Reviews:
 
----"i don't know if it's the processor, the ram, or if android 4.2 is just that much better than 4.1, but i'm getting no screen stutter at all.i love the size of this phone." **** 'much'
----'i notice battery life is much better when connected to wifi.' **** 'much'
+---'I notice battery life is much better when connected to wifi.' **** 'much'
+
+
+================================================================================================================
+__________('google',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('droid', 'mini')__________
+
+
+Positive Reviews:
+
+---'The One mini, and the S4 mini compromised on what they were, but the Droid mini stayed true to the flagship lineup.' **** 'true'
+---'Droid Mini is pretty good!' **** 'good'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'responsive'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'new'
+---'Droid Mini is now compatible with the Motorola SKIP accessory for easier security via NFC authentication.' **** 'compatible'
+---'The One mini, and the S4 mini compromised on what they were, but the Droid mini stayed true to the flagship lineup.' **** 'true'
+---'Also, I had to return the first Mini I got because the casing squeaked so loud that it distracted me on my calls.' **** 'first'
+---'Droid Mini is pretty good!' **** 'good'
+---'Even though the contrast and brightness is not as good as an AMOLED or IPS display, the white balance is more accurate (instead of the yellowish tint typical of Pentile OLED)Compared to the other "mini" phones on the market (i. e. HTC One Mini), this has the best overall processing capability and the largest RAM.' **** 'other'
+---'Droid Mini is now compatible with the Motorola SKIP accessory for easier security via NFC authentication.' **** 'compatible'
+---'I am far from ready to go back to the world of Apple where I felt caged-in while simultaneously being sucked dry one nickel and dime at a time, but Droid could do much better in creating a pocket-sized phone that functions effectively as both a phone and a small computing device, and has the battery life to make it through the day.' **** 'much'
+---'I finally gave up my original Droid that I had for 4 years for this phone.' **** 'original'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'responsive'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'new'
+---'There is one app that I actually find to be interesting and useful is Droid Zap.' **** 'interesting'
+
+Negative Reviews:
+
+---"I'm glad I chose the Droid Mini." **** 'glad'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'smooth'
+---"There are a couple things I don't like about my new Droid Mini, but they can be easily addressed." **** 'new'
+---"I would purchase this phone again--or consider the Moto X (Motorola Moto Black Verizon WirelessThe Moto X has a bit larger screen but isn't that much larger than the Droid Mini." **** 'larger'
+---'My first mini got too hot to hold after a 30 minute call.' **** 'first'
+---"I'm glad I chose the Droid Mini." **** 'glad'
+---'I will say that the durability of this phone does not hold a candle to my last Droid - I dropped it once and the corners cracked way too much for the small amount of impact.' **** 'last'
+---'I guess I will have to get a case for this (which I never had to do with my last Droid) which somewhat defeats the purpose of getting the smaller phone.' **** 'last'
+---'In fact, I am blown away by how smooth and responsive is the new Droid Mini, in addition to the display quality.' **** 'smooth'
+---"There are a couple things I don't like about my new Droid Mini, but they can be easily addressed." **** 'new'
+---"I would purchase this phone again--or consider the Moto X (Motorola Moto Black Verizon WirelessThe Moto X has a bit larger screen but isn't that much larger than the Droid Mini." **** 'larger'
+
+
+================================================================================================================
+__________('motorola',)__________
+
+
+Positive Reviews:
+
+---'When I saw the new Motorola lineup had been upgraded to 4.' **** 'new'
+---'All of the advanced Motorola have made are paying off in this great product.' **** 'advanced'
+---'It randomly froze while sitting on my table and will not load past the Motorola logo.' **** 'past'
+
+Negative Reviews:
+
+---'So as improvements are developed for apps like the camera, voice activation and other Motorola exclusive apps, they can delivered directly and more quickly through the Google Play store.' **** 'other'
 
 
 ================================================================================================================
@@ -590,7 +180,7 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('wireless',)__________
+__________('touchless', 'control')__________
 
 
 Positive Reviews:
@@ -598,18 +188,21 @@ Positive Reviews:
 
 Negative Reviews:
 
----'here is the link to the particular charger i bought:gmyle (tm) black white wireless mini charging pad mat qi-enabled standard charger (1000ma) for nokia lumia 920/920t/925/928/1020, lg google nexus 4/5/7 hd, samsung galaxy s4, iphone 5 (us plug)**kitkat (android 4.4.2) update: 3/4/14**a lot has changed since my last update.' **** 'white'
+---'Using the Touchless control basically activates google now, allowing you to text people, get directions, or look up any dumb information like "are seahorses real?"' **** 'google'
 
 
 ================================================================================================================
-__________('razr',)__________
+__________('verizon',)__________
 
 
 Positive Reviews:
 
+---'Right now I am counting down the days until my contract with Verizon is complete and I can get a phone that is good at being a phone.' **** 'complete'
 
 Negative Reviews:
 
+---'My daughter had no trouble at all with her HTC rhyme which she got free from Verizon, or my friend with the Blackberry she bought.' **** 'free'
+---'I picked mine up at the Verizon Store.' **** 'mine'
 
 
 ================================================================================================================
@@ -618,37 +211,24 @@ __________('apps',)__________
 
 Positive Reviews:
 
----"there's like 80 bs apps that you can't delete but randomly try to update themselves.9." **** 'try'
----'motorola has begun separating out key apps on the phone so they can be updated through the play store independently of needing to update the entire os and wade through carrier testing and restrictions/delays.' **** 'key'
+---"There's like 80 bs apps that you can't delete but randomly try to update themselves." **** 'try'
+---'Motorola has begun separating out key apps on the phone so they can be updated through the Play store independently of needing to update the entire OS and wade through carrier testing and restrictions/delays.' **** 'key'
 
 Negative Reviews:
 
----'but... the os, quick office, and other apps and music clog it up quickly, and there is no expandable micro sd option.-the body.' **** 'other'
+---'The OS, Quick Office, and other apps and music clog it up quickly, and there is no expandable Micro SD option.-The body.' **** 'other'
 
 
 ================================================================================================================
-__________('and', 'moto', 'x')__________
+__________('razr', 'm')__________
 
 
 Positive Reviews:
 
----'i was really looking forward to this new moto mini as it was supposed to have almost identical internal components as the other two, ultra and maxx.' **** 'new'
----'for me, the droid mini lasts about 16 hours under moderate use.since the phone is provided through verizon and not directly from google like the moto x, there will be bloatware.' **** 'google'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('fast',)__________
-
-
-Positive Reviews:
-
----'with this phone, it has quick camera settings so you can get to your camera fast which is nice.' **** 'nice'
-
-Negative Reviews:
-
+---"Good reception for 4G, wifi is a little weak, much weaker than on my wife's razr m. Sound is great, nice and loud, unlike my wife's razr m that's hard to hear." **** 'hard'
 
 
 ================================================================================================================
@@ -657,11 +237,68 @@ __________('sound', 'quality')__________
 
 Positive Reviews:
 
----'the sound quality is impressive for such a little device, and it gets pretty load and still sounds good.' **** 'impressive'
+---'The sound quality is impressive for such a little device, and it gets pretty load and still sounds good.' **** 'impressive'
 
 Negative Reviews:
 
----"while i don't intend to use this as my primary music playing device (i have a sony nwz-e465 which is much smaller and has loads more features and better sound) i will say that the sound quality for this device is quite decent." **** 'better'
+---"While I don't intend to use this as my primary music playing device (I have a Sony NWZ-E465 which is much smaller and has loads more features and better sound) I will say that the sound quality for this device is quite decent." **** 'better'
+---"While I don't intend to use this as my primary music playing device (I have a Sony NWZ-E465 which is much smaller and has loads more features and better sound) I will say that the sound quality for this device is quite decent." **** 'better'
+
+
+================================================================================================================
+__________('speaker',)__________
+
+
+Positive Reviews:
+
+---'The built in speaker is really good.' **** 'good'
+---'Yes, it does have a mono speaker, but it actually sounds good!' **** 'good'
+
+Negative Reviews:
+
+---'The little speaker is great, with a noise canceling mic, it makes you calls more clear.-The Sound.' **** 'little'
+
+
+================================================================================================================
+__________('camera',)__________
+
+
+Positive Reviews:
+
+---'You first notice it when you pick up the phone, it senses you grabbed it and the "active display" shows the time and any notifications so I don\'t even have to turn on the phone, or you could flick your wrist and open the camera, like I said, simple and genius.' **** 'simple'
+---'The camera is good if you take a close up photo.' **** 'good'
+
+Negative Reviews:
+
+---'Camera: Like I mentioned earlier, the camera is super easily launched, just grab the phone, flick your wrist and bang there it is.' **** 'super'
+
+
+================================================================================================================
+__________('text', 'messages')__________
+
+
+Positive Reviews:
+
+---"Like the motorola connect feature that let's me send and receive text messages in my desktops browser and it even displays battery life without picking up your phone." **** 'receive'
+---"Like the motorola connect feature that let's me send and receive text messages in my desktops browser and it even displays battery life without picking up your phone." **** 'receive'
+---'I now have a new phone that glitches out constantly and is unable to zoom on small text whenever web-browsing.' **** 'unable'
+---'I now have a new phone that glitches out constantly and is unable to zoom on small text whenever web-browsing.' **** 'small'
+
+Negative Reviews:
+
+
+
+================================================================================================================
+__________('calls',)__________
+
+
+Positive Reviews:
+
+---"The sound quality for calls is pretty bad and I can't hear with the speaker phone (forget about using the speaker for hands-free for driving)." **** 'bad'
+
+Negative Reviews:
+
+---"The Droid Mini is no exception, I haven't had a single issue and the calls have been great and clear." **** 'clear'
 
 
 ================================================================================================================

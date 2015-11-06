@@ -3,87 +3,7 @@ __________('numbers',)__________
 
 Positive Reviews:
 
----'this phone is great for seniors with larger numbers on the keys.' **** 'larger'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'good thing we bought an extra battery for four dollars because it needs to be charged often.' **** 'extra'
----'a new battery and charging adaptor were included.' **** 'new'
-
-Negative Reviews:
-
----"the second phone i received wouldn't keep a charge so i had to purchase a new battery which was extremely hard to find since this is an older phone." **** 'new'
----'also has a long battery life.' **** 'long'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'i purshased a samsung cell phone from amazon and it has lived up to my expectionsand the price was great and their service was very good n.the samsung u320 cell phone is a good buy and works great.im very happy with the pohone .' **** 'happy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'good price and we were able to set it up without having to go to verizon.' **** 'good'
----'good price and we were able to set it up without having to go to verizon.' **** 'able'
----'i checked walmart and radio shack, but no luck on a nice basic phone at a reasonable price.' **** 'reasonable'
-
-Negative Reviews:
-
----'great phone at a low price.' **** 'low'
----'i was very happy to get such a nice phone for a very low price.' **** 'low'
----"i shopped around and could not find a phone at a reasonable price on verizon because my upgrade isn't due." **** 'reasonable'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i am very happy with the sound clarity and the battery holds a charhe for a long time!' **** 'long'
-
-
-================================================================================================================
-__________('simple',)__________
-
-
-Positive Reviews:
-
----'simple and easy to use for my mother.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----"they're pretty much the same, except you can view pics on the haven (but you can't take photos ... no camera).i always have it set on vibrate for text messages." **** 'vibrate'
+---'This phone is great for seniors with larger numbers on the keys.' **** 'larger'
 
 Negative Reviews:
 
@@ -95,18 +15,48 @@ __________('mother',)__________
 
 Positive Reviews:
 
----'i purchased this phone for my mother and it is perfect for her.' **** 'perfect'
+---'I purchased this phone for my mother and it is perfect for her.' **** 'perfect'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('cell',)__________
+__________('battery',)__________
 
 
 Positive Reviews:
 
+---'Good thing we bought an extra battery for four dollars because it needs to be charged often.' **** 'extra'
+---'A new battery and charging adaptor were included.' **** 'new'
+
+Negative Reviews:
+
+---"The second phone I received wouldn't keep a charge so I had to purchase a new battery which was extremely hard to find since this is an older phone." **** 'new'
+---'also has a long battery life.' **** 'long'
+
+
+================================================================================================================
+__________('text',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
+---'I always have it set on vibrate for text messages.' **** 'vibrate'
+
+
+================================================================================================================
+__________('big', 'buttons')__________
+
+
+Positive Reviews:
+
+---'Otherwise it works great for the senior it was purchased for:  big buttons and screen, easy menus.' **** 'senior'
+---'Otherwise it works great for the senior it was purchased for:  big buttons and screen, easy menus.' **** 'senior'
+---'J. L. Great easy to use phone, large buttons, good for tec challenged folks or for elderly also good home phone.' **** 'good'
 
 Negative Reviews:
 
@@ -121,7 +71,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----'this phone is not compatible with verizon backup assistant software, so be prepared to spend some time re-entering your contacts.' **** 'compatible'
+---'This phone is NOT compatible with Verizon Backup Assistant software, so be prepared to spend some time re-entering your contacts.' **** 'compatible'
 
 
 ================================================================================================================
@@ -133,8 +83,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----"i have a digital camera, and i have a good laptop, and i don't need it all rolled into a cell phone." **** 'digital'
----'but be aware it doesnt have a camera feature on it.' **** 'aware'
+---"I have a digital camera, and I have a good laptop, and I don't need it all rolled into a cell phone." **** 'digital'
 
 
 ================================================================================================================

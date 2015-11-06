@@ -3,39 +3,16 @@ __________('text', 'message')__________
 
 Positive Reviews:
 
----"the phone can work well for people who communicate mainly via text messaging (but note that the phone doesn't alert the user immediately when a message arrives) mostly call the same 8 (speed dial) numbers, but people who frequently have to dial new phone numbers will find the process cumbersome.this sidekick model was an early smartphone, with many text, e-mail, web and network-based features." **** 'call'
+---"The phone can work well for people who communicate mainly via text messaging (but note that the phone doesn't alert the user immediately when a message arrives) mostly call the same 8 (speed dial) numbers, but people who frequently have to dial new phone numbers will find the process cumbersome." **** 'call'
+---'Why this phone sucks:- The trackball will blink every 5 seconds, it will blink blue when you have a new message, and red when the battery is low.' **** 'new'
+---"The phone can work well for people who communicate mainly via text messaging (but note that the phone doesn't alert the user immediately when a message arrives) mostly call the same 8 (speed dial) numbers, but people who frequently have to dial new phone numbers will find the process cumbersome." **** 'call'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----"i been wanting a key board phone for a while but no data i have to bypass the internet gsm every time i turn it on but that's no problem very reliable and fast to txt." **** 'reliable'
-
-Negative Reviews:
-
----'the other problem was that when it dies, all of my contacts go away.' **** 'other'
-
-
-================================================================================================================
-__________('2', 'minutes')__________
-
-
-Positive Reviews:
-
----"i bought this phone for my 12-year-old daughter; the observations and opinions expressed in this review are hers.what she likes: doesn't drop calls often compared with other t-mobile phones; good sound quality, twist/flip screen is cool.what she doesn't like: bulky; doesn't ring or vibrate until at least 2 minutes after a text message has arrived, menu controls and navigation are confusing, obsolete data network, editing the speed dial number list is undocumented and counterintuitive.the sidekick is loaded with personalization features, but they're accessed in a complex, counterintuitive and poorly documented menu system." **** 'vibrate'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('purchase',)__________
+__________('annoying',)__________
 
 
 Positive Reviews:
@@ -43,18 +20,34 @@ Positive Reviews:
 
 Negative Reviews:
 
+---"The screen takes a long time to go dim; for me, it's a little annoying." **** 'little'
 
 
 ================================================================================================================
-__________('minutes',)__________
+__________('calls',)__________
 
 
 Positive Reviews:
 
----"i bought this phone for my 12-year-old daughter; the observations and opinions expressed in this review are hers.what she likes: doesn't drop calls often compared with other t-mobile phones; good sound quality, twist/flip screen is cool.what she doesn't like: bulky; doesn't ring or vibrate until at least 2 minutes after a text message has arrived, menu controls and navigation are confusing, obsolete data network, editing the speed dial number list is undocumented and counterintuitive.the sidekick is loaded with personalization features, but they're accessed in a complex, counterintuitive and poorly documented menu system." **** 'vibrate'
+---'The basic function of a cell phone should be making calls quick and easy.' **** 'easy'
+---"It's easy to text on it which, besides making calls, is all I need it for." **** 'easy'
 
 Negative Reviews:
 
+---'Other than calls and text the only other thing i really needed the phone to do was have an alarm clock and it does and it is LOUD, thing probably woke my neighbors.' **** 'other'
+
+
+================================================================================================================
+__________('mobile', 'no', 'longer')__________
+
+
+Positive Reviews:
+
+---'Warning: this 2008 version of the Sidekick is no longer compatible with current TMobile services as of March, 2012!!' **** 'compatible'
+
+Negative Reviews:
+
+---'Data support from t-mobile is no longer available so the other features of this phone will never work.' **** 'available'
 
 
 ================================================================================================================
@@ -63,16 +56,49 @@ __________('keyboard',)__________
 
 Positive Reviews:
 
----'good hardware: this is a solidly built phone with a nice display and very good keyboard.' **** 'good'
----'however, software issues are just facts of life when it comes to microsoft technology.it was decent as a full keyboard phone back when this was the height of technology.' **** 'decent'
+---'Good Hardware: This is a solidly built phone with a nice display and very good keyboard.' **** 'good'
+---'It was decent as a full keyboard phone back when this was the height of technology.' **** 'decent'
 
 Negative Reviews:
 
----'well i had such one i ve paid 59.99$ the qwerty keyboard is very comfortable and very simple to use screen size is also normal workng on gsm and the slide is sliding firmly it has very nice headphones that worked well and had a very good clear voice .' **** 'comfortable'
+---'99$ the qwerty keyboard is very comfortable and very simple to use screen size is also normal workng on gsm and the slide is sliding firmly it has very nice headphones that worked well and had a very good clear voice .' **** 'comfortable'
 
 
 ================================================================================================================
-__________('know',)__________
+__________('sim', 'card')__________
+
+
+Positive Reviews:
+
+---'I was able to copy my sim card address book over easily.' **** 'able'
+---'It came unlocked and I was able to use it with the native SIM cards while in Brazil.' **** 'able'
+---'It came unlocked and I was able to use it with the native SIM cards while in Brazil.' **** 'native'
+
+Negative Reviews:
+
+---"I know my kid's SIM card will go into the phone, but is this another card that is necessary?" **** 'necessary'
+---"But, all you have to do is make sure your #'s are saved to your sim card, and press 2 buttons to retrieve them." **** 'sure'
+
+
+================================================================================================================
+__________('battery',)__________
+
+
+Positive Reviews:
+
+---'Quite a lovely phone, the only problem is, I only had it working for the original battery time it had.' **** 'original'
+---'This phone cannot store any information and very weak battery.' **** 'weak'
+---'Waiting on a promised new battery for three weeks now.' **** 'new'
+---'I brought this phone for my nine yr old and it worked fine I was impressed by the packaging and very happy... Then just yesterday when the battery went dead the whole phone went dead NOTHING!!!!' **** 'dead'
+
+Negative Reviews:
+
+---'Why this phone sucks:- The trackball will blink every 5 seconds, it will blink blue when you have a new message, and red when the battery is low.' **** 'low'
+---'Abruptly shuts down when battery is low without warning.' **** 'low'
+
+
+================================================================================================================
+__________('a', 'data', 'plan')__________
 
 
 Positive Reviews:
@@ -80,6 +106,9 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'Ever since T-Mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
+---'Ever since T-Mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
+---'Ever since T-Mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
 
 
 ================================================================================================================
@@ -88,14 +117,14 @@ __________('texting', 'and', 'calling')__________
 
 Positive Reviews:
 
----"it's good for calling and texting." **** 'good'
+---"It's good for calling and texting." **** 'good'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('screen',)__________
+__________('internet',)__________
 
 
 Positive Reviews:
@@ -103,24 +132,33 @@ Positive Reviews:
 
 Negative Reviews:
 
----'the screen swivels open smoothly.' **** 'open'
----'well i had such one i ve paid 59.99$ the qwerty keyboard is very comfortable and very simple to use screen size is also normal workng on gsm and the slide is sliding firmly it has very nice headphones that worked well and had a very good clear voice .' **** 'simple'
----"my first one had a laggy and sometimes unresponsive touch screen, and my second one was alright, but it couldn't hold a charge for more than about 8 hours." **** 'second'
 
 
 ================================================================================================================
-__________('longer',)__________
+__________('every', '2', 'minutes')__________
 
 
 Positive Reviews:
 
----'warning: this 2008 version of the sidekick is no longer compatible with current tmobile services as of march, 2012!!' **** 'compatible'
----"there are so many problems, including the battery dies in about 4 hours with minimal usage; it goes silent on it's own; after about ten minutes of conversation it goes fuzzy and loses the connection; it forever asks to hook up the sidekick server which everyone know is no longer available." **** 'available'
+---"WHAT SHE DOESN'T LIKE: Bulky; doesn't ring or vibrate until at least 2 minutes after a text message has arrived, menu controls and navigation are confusing, obsolete data network, editing the speed dial number list is undocumented and counterintuitive." **** 'vibrate'
 
 Negative Reviews:
 
----"as mentioned, the danger network is no longer available, therefore some of the features don't work." **** 'available'
----'data support from t-mobile is no longer available so the other features of this phone will never work.' **** 'available'
+
+
+================================================================================================================
+__________('sidekick',)__________
+
+
+Positive Reviews:
+
+---'I received my Sidekick new and it came sooner than expected, I was very pleased with that.' **** 'new'
+---'Phone worked good for me, only issue i had with it was that the vibrate function only worked for a few days and t mobitle had cut out internet services to older sidekicks to promote sales of the new sidekick 4g.' **** 'new'
+
+Negative Reviews:
+
+---'i had a my touch 4g before this phone i am so much happier with the sidekick becuz it doesnt constantly freeze cut off in the middle of a phone call so overall i am stress free with this phone vry happy with it .' **** 'happier'
+---"Having a new sidekick and for the price that I paid it's very satisfying despite having a couple of unnoticeable disadvantages: screen not closing perfectly straight (unnoticeable) and a stiff scroll ball." **** 'new'
 
 
 ================================================================================================================
@@ -132,144 +170,7 @@ Positive Reviews:
 
 Negative Reviews:
 
----"i thought it was a pretty cool phone, until i found out that i couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by t-mobile, or so i was told by a t-mobile rep. you can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'due'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('big', 'deal')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('qwerty', 'keyboard')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'well i had such one i ve paid 59.99$ the qwerty keyboard is very comfortable and very simple to use screen size is also normal workng on gsm and the slide is sliding firmly it has very nice headphones that worked well and had a very good clear voice .' **** 'comfortable'
-
-
-================================================================================================================
-__________('message',)__________
-
-
-Positive Reviews:
-
----'but this one tops both of them for the worst one yet.why this phone sucks:- the trackball will blink every 5 seconds, it will blink blue when you have a new message, and red when the battery is low.' **** 'new'
----"the phone can work well for people who communicate mainly via text messaging (but note that the phone doesn't alert the user immediately when a message arrives) mostly call the same 8 (speed dial) numbers, but people who frequently have to dial new phone numbers will find the process cumbersome.this sidekick model was an early smartphone, with many text, e-mail, web and network-based features." **** 'call'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'the picture it took was good quality.' **** 'good'
----'i was told my phone was refurbished -- so far i am very happy with the quality of the phone i received.' **** 'happy'
-
-Negative Reviews:
-
----'i wanted to send it overseas and since they dont have such phone, its the best deal.product quality is good.' **** 'good'
----"wanted something similar to my old sidekick phone since phone was broken so i ordered it.it had too many features which i don't really need but when i received the phone i wassurprised to see the good strong quality of the workmanship." **** 'good'
----"wanted something similar to my old sidekick phone since phone was broken so i ordered it.it had too many features which i don't really need but when i received the phone i wassurprised to see the good strong quality of the workmanship." **** 'strong'
-
-
-================================================================================================================
-__________('every', '2', 'minutes')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----"but it's very nice for talking, texting with the quirty keyboard, and has a good camera, all at a good price." **** 'good'
----'is very good for camera only.' **** 'good'
----'also has a pretty decent camera and media player.' **** 'decent'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('t', 'mobile')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('features',)__________
-
-
-Positive Reviews:
-
----'data support from t-mobile is no longer available so the other features of this phone will never work.' **** 'other'
-
-Negative Reviews:
-
----"i personally love it despite it's lack of certain features (internet, sometime pic messages, etc.)" **** 'certain'
----'the features were not what i wantedbut when we used it,it was very speedy, came out fast.very satisfied.' **** 'satisfied'
-
-
-================================================================================================================
-__________('danger', 'network')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('get', 'a', 'text')__________
-
-
-Positive Reviews:
-
----'getting texts is in a whole different location than writing a new text.' **** 'new'
-
-Negative Reviews:
-
----'yes, contacts too.- the phone will not alert you when you get a new text.' **** 'new'
+---"I thought it was a pretty cool phone, until I found out that I couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by T-Mobile, or so I was told by a T-Mobile rep. You can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'due'
 
 
 ================================================================================================================
@@ -284,415 +185,48 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('people',)__________
-
-
-Positive Reviews:
-
----"this was a bad phone you sent me.selling bad products to people won't make you the richest on earth." **** 'earth'
----"the phone can work well for people who communicate mainly via text messaging (but note that the phone doesn't alert the user immediately when a message arrives) mostly call the same 8 (speed dial) numbers, but people who frequently have to dial new phone numbers will find the process cumbersome.this sidekick model was an early smartphone, with many text, e-mail, web and network-based features." **** 'communicate'
-
-Negative Reviews:
-
----'good for people who text a lot.it was already unlocked.i dont know what else to say, since i did not use it more that few hours.the best part is its very low price, and you can change color of it by changing its back cover!' **** 'good'
-
-
-================================================================================================================
-__________('sidekick',)__________
-
-
-Positive Reviews:
-
----'i received my sidekick new and it came sooner than expected, i was very pleased with that.' **** 'new'
----'phone worked good for me, only issue i had with it was that the vibrate function only worked for a few days and t mobitle had cut out internet services to older sidekicks to promote sales of the new sidekick 4g.' **** 'new'
----'and this is very important to do with your sidekick , you have to do this everyday if you want your phone to last forever make sure you press 1 the "@" sign on the bottom by the space and "0" so its 1 @ 0 at the same time.' **** 'important'
-
-Negative Reviews:
-
----'i had a my touch 4g before this phone i am so much happier with the sidekick becuz it doesnt constantly freeze cut off in the middle of a phone call so overall i am stress free with this phone vry happy with it .' **** 'happier'
----"having a new sidekick and for the price that i paid it's very satisfying despite having a couple of unnoticeable disadvantages: screen not closing perfectly straight (unnoticeable) and a stiff scroll ball." **** 'new'
-
-
-================================================================================================================
-__________('shipping',)__________
-
-
-Positive Reviews:
-
----"i've never experienced free shipping that was so fast!!!" **** 'free'
----'this phone is good when you want to text and call since you cant browse the web and all that anymore great seller shipping was fast cant ask for another phone but the phone its great cheap cheap cheap i got it for $44.95 + free shipping' **** 'free'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('r', 'sim')__________
-
-
-Positive Reviews:
-
----'i was able to copy my sim card address book over easily.' **** 'able'
----'it came unlocked and i was able to use it with the native sim cards while in brazil.' **** 'able'
----'it came unlocked and i was able to use it with the native sim cards while in brazil.' **** 'native'
-
-Negative Reviews:
-
----"but, all you have to do is make sure your #'s are saved to your sim card, and press 2 buttons to retrieve them." **** 'sure'
-
-
-================================================================================================================
-__________('mb', 'microsd')__________
-
-
-Positive Reviews:
-
----'i am disappointed that a 512mb microsd card was not included as was described in the advertisement.i like to know that i get everything i am told i will receive.' **** 'disappointed'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('mobile', 'no', 'longer')__________
-
-
-Positive Reviews:
-
----'warning: this 2008 version of the sidekick is no longer compatible with current tmobile services as of march, 2012!!' **** 'compatible'
-
-Negative Reviews:
-
----'data support from t-mobile is no longer available so the other features of this phone will never work.' **** 'available'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'quite a lovely phone, the only problem is, i only had it working for the original battery time it had.' **** 'original'
----'this phone cannot store any information and very weak battery.' **** 'weak'
----'waiting on a promised new battery for three weeks now.' **** 'new'
----'i brought this phone for my nine yr old and it worked fine i was impressed by the packaging and very happy...then just yesterday when the battery went dead the whole phone went dead nothing!!!!' **** 'dead'
-
-Negative Reviews:
-
----'but this one tops both of them for the worst one yet.why this phone sucks:- the trackball will blink every 5 seconds, it will blink blue when you have a new message, and red when the battery is low.' **** 'low'
----'abruptly shuts down when battery is low without warning.' **** 'low'
-
-
-================================================================================================================
-__________('looking',)__________
-
-
-Positive Reviews:
-
----'awesome price for such a stylish looking phone.' **** 'stylish'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----'the basic function of a cell phone should be making calls quick and easy.' **** 'easy'
----"it's easy to text on it which, besides making calls, is all i need it for." **** 'easy'
-
-Negative Reviews:
-
----'other than calls and text the only other thing i really needed the phone to do was have an alarm clock and it does and it is loud, thing probably woke my neighbors.' **** 'other'
-
-
-================================================================================================================
-__________('thing',)__________
-
-
-Positive Reviews:
-
----"you don't know when you get a text, it makes no noise or vibration, the best you can do is go to the settings and have it remind you every two minutes that you have a text and it will vibrate or make a noise (however you set it up) the bad thing about it is, it will keep on vibrating until you check it." **** 'bad'
----'the first thing is there is no alarm clock in the phone.' **** 'first'
----'good thing: no need for data plan when purchasing sidekick full price and this one being 40 bucks.' **** 'good'
----"no utilities, which isn't a bad thing because i never used them anyhow." **** 'bad'
----'the only thing i am happy about is that it can receive calls and send txts.' **** 'happy'
----'i can see why it isnt more popular.one thing i was super pleased with was the prompt arrival and how much is packed with this phone: a mini-sd, charger, 2 shells (green and black), and battery.' **** 'super'
----"more importantly there's no number pad other than the tiny one that you have to access by flipping the thing open, which is not particularly convenient if you, say, want to dial a phone number (call me old fashioned)." **** 'open'
-
-Negative Reviews:
-
----'other than calls and text the only other thing i really needed the phone to do was have an alarm clock and it does and it is loud, thing probably woke my neighbors.' **** 'other'
----')too fat for a phone.screen swivels out while in pocket etc.no calculator?crap video quality (and can only support .3gp so alot of converting must take place)cannot use email, im, app center internet browserway too confusing to useneed to set a whole different thing just for notification soundcannot download applications via pctends to slow downcontacts get deleted every time the phone is turned offconclusion: do not buy.' **** 'whole'
----"more importantly there's no number pad other than the tiny one that you have to access by flipping the thing open, which is not particularly convenient if you, say, want to dial a phone number (call me old fashioned)." **** 'convenient'
----'the thing is definitely not easy to use.' **** 'easy'
----'another thing i wanted to add that is able to be changed.' **** 'able'
-
-
-================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
----'i was able to copy my sim card address book over easily.' **** 'able'
----'it came unlocked and i was able to use it with the native sim cards while in brazil.' **** 'able'
----'it came unlocked and i was able to use it with the native sim cards while in brazil.' **** 'native'
-
-Negative Reviews:
-
----"i know my kid's sim card will go into the phone, but is this another card that is necessary?" **** 'necessary'
----"but, all you have to do is make sure your #'s are saved to your sim card, and press 2 buttons to retrieve them." **** 'sure'
-
-
-================================================================================================================
 __________('contacts',)__________
 
 
 Positive Reviews:
 
 ---'dont work write going to return it keeps resetting it self loosing all my contacts bad cellphone will return it soon' **** 'bad'
----'it looses all of my contacts and i am lucky that i have most of my contacts saved to my sim card.' **** 'lucky'
+---'it looses all of my contacts and i am lucky that i have most of my contacts saved to my Sim card.' **** 'lucky'
 
 Negative Reviews:
 
----'unable to store contacts on their servers, get mms (picture messages), browse the web, or get e-mail.' **** 'unable'
----'i researched it and there is no fix to that so i just save all of my contacts to my sim card so when it reboots i still have my contacts, other than that this phone is great and i would reccomend it for anyone but all i do is text, call, download and listen to music.' **** 'other'
+---'I researched it and there is no fix to that so I just save all of my contacts to my sim card so when it reboots I still have my contacts, Other than that this phone is great and I would reccomend it for anyone but all I do is text, call, download and listen to music.' **** 'other'
 
 
 ================================================================================================================
-__________('nothing',)__________
+__________('camera',)__________
 
 
 Positive Reviews:
 
----'great camera great everything this phone is awsome its good for texting the web is just great i would recomend this phone to people who love phones like people who like to text alot and use the web there is nothing wrong with this phone its great' **** 'wrong'
----"but best of all, it blinks green when nothing is happening, its almost as if its telling you every five seconds that everything is okay and i don't need to worry about anything.- every few weeks the phone will completely reset itself." **** 'green'
-
-Negative Reviews:
-
----"but best of all, it blinks green when nothing is happening, its almost as if its telling you every five seconds that everything is okay and i don't need to worry about anything.- every few weeks the phone will completely reset itself." **** 'best'
-
-
-================================================================================================================
-__________('plan',)__________
-
-
-Positive Reviews:
-
+---"But it's very nice for talking, texting with the quirty keyboard, and has a good camera, all at a good price." **** 'good'
+---'Is very good for camera only.' **** 'good'
+---'Also has a pretty decent camera and media player.' **** 'decent'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('call',)__________
+__________('get', 'a', 'text')__________
 
 
 Positive Reviews:
 
----'i had a my touch 4g before this phone i am so much happier with the sidekick becuz it doesnt constantly freeze cut off in the middle of a phone call so overall i am stress free with this phone vry happy with it .' **** 'overall'
+---'Getting texts is in a whole different location than writing a new text.' **** 'new'
+---'Getting texts is in a whole different location than writing a new text.' **** 'new'
+---"I thought it was a pretty cool phone, until I found out that I couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by T-Mobile, or so I was told by a T-Mobile rep. You can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'sure'
 
 Negative Reviews:
 
----'all in all if youre looking for a smart phone this aint for you but if you need a very stylish call and text and wake my butt up for work device at a very low price, shipped to you fast this is a great buy.' **** 'stylish'
----"there are several ways to make a call which i won't go through, but it is neither easy nor convenient." **** 'easy'
----"there are several ways to make a call which i won't go through, but it is neither easy nor convenient." **** 'convenient'
-
-
-================================================================================================================
-__________('couple',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i opened the box, put the battery in, my sim card and sd card and it worked.over the past couple days i have made a list of the pros and cons.pro:it has a real cool screen with awesome color that swivels open and made everyone at work say ooooo!cons:* i think there are more buttons than you need, many are repetitious, but they look impressive.' **** 'past'
----'my biggest complaint is that there is no notification when a text arrives until 2 minutes have passed---however, for the first couple of weeks i had it was set to 10 minutes and there was no way to change it!' **** 'first'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'well, first time i using a sidekick.' **** 'first'
----"the phone depends on t-mobile's extinct danger network for obtaining the correct date and time, so it is necessary to manually change the time when traveling between time zones." **** 'necessary'
-
-Negative Reviews:
-
----"the screen takes a long time to go dim; for me, it's a little annoying.the stupid little, ball thing that scrolls through your phone will probably stop working, too." **** 'long'
----"i'm still trying to figure out how to get through all of the settings and options, but i'm sure with time i'll be a pro." **** 'sure'
----'this is a horrible phone i had it for 2 months and it kept wanting to reboot and finally the last time it wanted to reboot it did not and than it did not turn on ever again.' **** 'last'
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'it works great, looks cool, love how the screen swings out and the price was very reasonable!' **** 'reasonable'
----"but it's very nice for talking, texting with the quirty keyboard, and has a good camera, all at a good price." **** 'good'
----'all in all if youre looking for a smart phone this aint for you but if you need a very stylish call and text and wake my butt up for work device at a very low price, shipped to you fast this is a great buy.' **** 'low'
----'good for people who text a lot.it was already unlocked.i dont know what else to say, since i did not use it more that few hours.the best part is its very low price, and you can change color of it by changing its back cover!' **** 'low'
----'at first i was skeptical because of the great price but arrived to me quickly and in great shape.' **** 'first'
-
-Negative Reviews:
-
----"but for the low price and the quality of the phone, it's well worth it." **** 'low'
----"(happened to me once in a month+)~i was able to get the phone to make a notifying new text sound.the phone does take a little to get accustomed to, but it's worth it for the price and the look." **** 'worth'
----'the price was good and the item is good.pros:i got overngight shipping so of course shipping was fastthe phone came in its original box, new, and came with all extras in great shape.the phone is small and the keyboard is amazing!the screens picture is very good.the camera is goodphone has easy to use interfacecons:notification sounds dont work because you need a sidekick plan, and tmobile no-longer allows that plan.names in messaging inbox dont work because of the plan.the internet doesnt work because of the planand video isnt that great.i am very happy with this phone and would promote it to anyone!hope this helped!' **** 'good'
-
-
-================================================================================================================
-__________('microsd', 'card')__________
-
-
-Positive Reviews:
-
----'i am disappointed that a 512mb microsd card was not included as was described in the advertisement.i like to know that i get everything i am told i will receive.' **** 'disappointed'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('a', 'data', 'plan')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'ever since t-mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"i know my kid's sim card will go into the phone, but is this another card that is necessary?" **** 'necessary'
-
-
-================================================================================================================
-__________('data', 'plan')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'ever since t-mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
-
-
-================================================================================================================
-__________('work',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('texting',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'great camera great everything this phone is awsome its good for texting the web is just great i would recomend this phone to people who love phones like people who like to text alot and use the web there is nothing wrong with this phone its great' **** 'good'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('every',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('touch', 'screen')__________
-
-
-Positive Reviews:
-
----"my first one had a laggy and sometimes unresponsive touch screen, and my second one was alright, but it couldn't hold a charge for more than about 8 hours." **** 'unresponsive'
-
-Negative Reviews:
-
----"my first one had a laggy and sometimes unresponsive touch screen, and my second one was alright, but it couldn't hold a charge for more than about 8 hours." **** 'second'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----'getting texts is in a whole different location than writing a new text.' **** 'new'
----"i thought it was a pretty cool phone, until i found out that i couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by t-mobile, or so i was told by a t-mobile rep. you can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'sure'
-
-Negative Reviews:
-
----'yes, contacts too.- the phone will not alert you when you get a new text.' **** 'new'
----"i thought it was a pretty cool phone, until i found out that i couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by t-mobile, or so i was told by a t-mobile rep. you can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'alright'
-
-
-================================================================================================================
-__________('data',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'ever since t-mobile dropped the data plan for this phone, it has become extremely limited in its potential uses.' **** 'dropped'
+---'Yes, contacts too.- The phone will not alert you when you get a new text.' **** 'new'
+---'Yes, contacts too.- The phone will not alert you when you get a new text.' **** 'new'
+---"I thought it was a pretty cool phone, until I found out that I couldn't surf the web, even with data service, due to the phone being so old, thus it's no longer supported by T-Mobile, or so I was told by a T-Mobile rep. You can make calls and text though, so if that's all you want/need then sure, it's alright." **** 'alright'
 
 
 ================================================================================================================

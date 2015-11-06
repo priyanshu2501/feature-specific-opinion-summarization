@@ -1,48 +1,31 @@
-__________('problem',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i get so tired of hearing about how long it took an item to receive, or if they have a certain problem with a seller.' **** 'certain'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'the functionality is easy, everything works, good for people who started to like and want to try a touch screen phone.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
 __________('android',)__________
 
 
 Positive Reviews:
 
+---'Unable to update device to a newer version of Android due to hardware limitations.' **** 'due'
 
 Negative Reviews:
 
+---"Overall though, it's everything I would expect from an Android phone, for about a third of the price." **** 'overall'
 
 
 ================================================================================================================
-__________('memory',)__________
+__________('low', 'memory')__________
 
 
 Positive Reviews:
 
----'due to lack of memory, your device will prevent incoming or outgoing text messages.' **** 'due'
+---'Due to lack of memory, your device will prevent incoming or outgoing text messages.' **** 'due'
 
 Negative Reviews:
 
----'thought i was getting a deal but with low memory it has i wished id paid the xtra cash to get a real smartphone.' **** 'low'
+---'Thought I was getting a deal but with low memory it has i wished id paid the xtra cash to get a real smartphone.' **** 'low'
+---'Ive had this phone three days and all it does is block my tex due to low memory.' **** 'low'
+---'I have no pics no xtra apps and I still get low memory.' **** 'low'
+---'Thought I was getting a deal but with low memory it has i wished id paid the xtra cash to get a real smartphone.' **** 'low'
+---'Ive had this phone three days and all it does is block my tex due to low memory.' **** 'low'
+---'I have no pics no xtra apps and I still get low memory.' **** 'low'
 
 
 ================================================================================================================
@@ -51,23 +34,10 @@ __________('battery',)__________
 
 Positive Reviews:
 
----'you can not use any of the buttons to receive or make a call neither can you turn off equipment with the power button.only way to reboot is manually remove the battery to restart.had to return it after a couple of tries.' **** 'remove'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'the functionality is easy, everything works, good for people who started to like and want to try a touch screen phone.' **** 'touch'
-
-Negative Reviews:
-
----"the emergency call button is not affected by the lock screen, so it doesn't take much for you to pocket dial 911 anywheres from three to seven times while working." **** 'much'
+---'Only way to reboot is manually remove the battery to restart.' **** 'remove'
 
 
 ================================================================================================================
@@ -82,23 +52,6 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----"i just bought one from a different seller so low low price than this and i can't wait to receive it." **** 'low'
----'no more ebay for me.. i always been lucky here with good price and good product quality.' **** 'good'
----'not bad at all is good for that price nothing better  for that price  good deal yup is  okay people' **** 'bad'
-
-Negative Reviews:
-
----'for users who want to start experimenting with the system at a low price android this is the ideal choice.' **** 'low'
----'not bad at all is good for that price nothing better  for that price  good deal yup is  okay people' **** 'good'
----'not bad at all is good for that price nothing better  for that price  good deal yup is  okay people' **** 'good'
-
-
-================================================================================================================
 __________('gb', 'micro')__________
 
 
@@ -110,25 +63,12 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('device',)__________
-
-
-Positive Reviews:
-
----'good device as a prepaid non-data using device.' **** 'good'
-
-Negative Reviews:
-
----'unable to update device to a newer version of android due to hardware limitations.' **** 'unable'
-
-
-================================================================================================================
 __________('touch', 'screen')__________
 
 
 Positive Reviews:
 
----'the functionality is easy, everything works, good for people who started to like and want to try a touch screen phone.' **** 'touch'
+---'The functionality is easy, everything works, good for people who started to like and want to try a touch screen phone.' **** 'touch'
 
 Negative Reviews:
 

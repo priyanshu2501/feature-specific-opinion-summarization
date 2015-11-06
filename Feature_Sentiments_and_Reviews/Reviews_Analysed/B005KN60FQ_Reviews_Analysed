@@ -1,155 +1,3 @@
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i would like the battery life to be longer.' **** 'longer'
-
-
-================================================================================================================
-__________('purchase',)__________
-
-
-Positive Reviews:
-
----'i had a successful purchase with this seller.' **** 'successful'
-
-Negative Reviews:
-
----"i'm glad i made this purchase." **** 'glad'
-
-
-================================================================================================================
-__________('keyboard',)__________
-
-
-Positive Reviews:
-
----'it has an extra large keyboard inside and a touch screen outside.' **** 'extra'
----'love the touch feature and the large qwerty keyboard... makes it easy to text with!' **** 'easy'
----'i like the vibrations when using the touchscreen and the keyboard is nice.' **** 'nice'
----'the screen is large, outside and inside, and the keyboard is realy nice.' **** 'nice'
-
-Negative Reviews:
-
----'phone works great, fold out keyboard.' **** 'fold'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----"as long as i can make calls and text... i'm good." **** 'good'
-
-Negative Reviews:
-
----"my hubby's ford truck reads his razor phone but it's so fast - hard to understand text." **** 'hard'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'i have an identical phone that works with the exception of the touch screen.' **** 'touch'
----'i like the touch screen in the front which locks either manually or automatically after a few seconds of non-use.' **** 'touch'
----"ok my old phone was a lg dare still got just dnt use it like that anymore but i was looking for a touch screen phone with a qwerty keypad and i was thinking lg env or lg voyager but my sister has that phone and she's been having some issues with it so i pick voyager and the only issue i have wit the voyager is the keypad light it always blinking and it makes some little crazy sound but other than that i likecons:camra &lt;-------" **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'perfect'
----'she can drop it a lot (though i did get a cover for it) and loves the touch screen on the front.' **** 'touch'
----'it has an extra large keyboard inside and a touch screen outside.' **** 'touch'
-
-Negative Reviews:
-
----"the only problem i've had is that the touch screen doesn't always respond, but the overall quality of the phone is great." **** 'touch'
----"the only thing i don't like is the touch screen does not keep it's calibration." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"don't get an old phone with a touch screen." **** 'touch'
----"it isn't a smart phone, but i wanted a touch screen phone and did not want to add $30 a month to my phone bill for a data package to support a blackberry or smart phone." **** 'touch'
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('touch',)__________
-
-
-Positive Reviews:
-
----'you have to re-calibrate pretty often to keep an accurate touch.' **** 'accurate'
----"but i think mine is refurbished, the touch screen doesn't always work, i constantly have to do the calibration." **** 'mine'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('voyager',)__________
-
-
-Positive Reviews:
-
----'this is my second voyager and i chose it over a smart phone.' **** 'second'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('a', 'touch', 'screen')__________
-
-
-Positive Reviews:
-
----'i have an identical phone that works with the exception of the touch screen.' **** 'touch'
----'i like the touch screen in the front which locks either manually or automatically after a few seconds of non-use.' **** 'touch'
----"ok my old phone was a lg dare still got just dnt use it like that anymore but i was looking for a touch screen phone with a qwerty keypad and i was thinking lg env or lg voyager but my sister has that phone and she's been having some issues with it so i pick voyager and the only issue i have wit the voyager is the keypad light it always blinking and it makes some little crazy sound but other than that i likecons:camra &lt;-------" **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'perfect'
----'she can drop it a lot (though i did get a cover for it) and loves the touch screen on the front.' **** 'touch'
----'it has an extra large keyboard inside and a touch screen outside.' **** 'touch'
----"but i think mine is refurbished, the touch screen doesn't always work, i constantly have to do the calibration." **** 'mine'
-
-Negative Reviews:
-
----"the only problem i've had is that the touch screen doesn't always respond, but the overall quality of the phone is great." **** 'touch'
----"the only thing i don't like is the touch screen does not keep it's calibration." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"don't get an old phone with a touch screen." **** 'touch'
----"it isn't a smart phone, but i wanted a touch screen phone and did not want to add $30 a month to my phone bill for a data package to support a blackberry or smart phone." **** 'touch'
-
-
-================================================================================================================
-__________('verizon',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'unfortunately i was not able to activate it on my verizon account because the phone was already activated by another verizon customer.' **** 'able'
----'it was compatible with verizon and does not need a data plan.' **** 'compatible'
-
-
-================================================================================================================
 __________('seller',)__________
 
 
@@ -161,52 +9,54 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('plan',)__________
+__________('voyager',)__________
 
 
 Positive Reviews:
 
-
-Negative Reviews:
-
----'need data plan, but can opt for the cheapest, which is $1.99 per kb.' **** 'cheapest'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----'phone works good but charger was cheap.' **** 'good'
+---'This is my second voyager and I chose it over a smart phone.' **** 'second'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('battery',)__________
+__________('a', 'touch', 'screen')__________
 
 
 Positive Reviews:
 
----'but, i found that you have to be careful when you install the battery.' **** 'careful'
----'fortunately, i had a  fairly new battery i ordered thru verizon for my old phone and my old wall charger was still worked great.' **** 'new'
+---'I have an identical phone that works with the exception of the touch screen.' **** 'touch'
+---'I like the touch screen in the front which locks either manually or automatically after a few seconds of non-use.' **** 'touch'
+---"ok my old phone was a lg dare still got just dnt use it like that anymore but i was looking for a touch screen phone with a qwerty keypad and i was thinking lg env or lg voyager but my sister has that phone and she's been having some issues with it so i pick voyager and the only issue i have wit the voyager is the keypad light it always blinking and it makes some little crazy sound but other than that i likecons:camra &lt;-------" **** 'touch'
+---'My daughter wanted a touch screen so this was perfect for her.' **** 'touch'
+---'My daughter wanted a touch screen so this was perfect for her.' **** 'perfect'
+---'She can drop it a lot (though I did get a cover for it) and loves the touch screen on the front.' **** 'touch'
+---'It has an extra large keyboard inside and a touch screen outside.' **** 'touch'
+---"But I think mine is refurbished, the touch screen doesn't always work, I constantly have to do the calibration." **** 'mine'
+---'I have an identical phone that works with the exception of the touch screen.' **** 'touch'
+---'I like the touch screen in the front which locks either manually or automatically after a few seconds of non-use.' **** 'touch'
+---"ok my old phone was a lg dare still got just dnt use it like that anymore but i was looking for a touch screen phone with a qwerty keypad and i was thinking lg env or lg voyager but my sister has that phone and she's been having some issues with it so i pick voyager and the only issue i have wit the voyager is the keypad light it always blinking and it makes some little crazy sound but other than that i likecons:camra &lt;-------" **** 'touch'
+---'My daughter wanted a touch screen so this was perfect for her.' **** 'touch'
+---'My daughter wanted a touch screen so this was perfect for her.' **** 'perfect'
+---'She can drop it a lot (though I did get a cover for it) and loves the touch screen on the front.' **** 'touch'
+---'It has an extra large keyboard inside and a touch screen outside.' **** 'touch'
+---"But I think mine is refurbished, the touch screen doesn't always work, I constantly have to do the calibration." **** 'mine'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"it's a great basic phone to use when you don't want to pay extra for a smart phone." **** 'extra'
+---"The only problem I've had is that the touch screen doesn't always respond, but the overall quality of the phone is great." **** 'touch'
+---"The only thing I don't like is the touch screen does not keep it's calibration." **** 'touch'
+---"Loved this phone because it still has the &#34; touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
+---"Loved this phone because it still has the &#34; touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
+---"Don't get an old phone with a touch screen." **** 'touch'
+---"It isn't a smart phone, but I wanted a touch screen phone and did not want to add $30 a month to my phone bill for a data package to support a blackberry or smart phone." **** 'touch'
+---"The only problem I've had is that the touch screen doesn't always respond, but the overall quality of the phone is great." **** 'touch'
+---"The only thing I don't like is the touch screen does not keep it's calibration." **** 'touch'
+---"Loved this phone because it still has the &#34; touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
+---"Loved this phone because it still has the &#34; touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
+---"Don't get an old phone with a touch screen." **** 'touch'
+---"It isn't a smart phone, but I wanted a touch screen phone and did not want to add $30 a month to my phone bill for a data package to support a blackberry or smart phone." **** 'touch'
 
 
 ================================================================================================================
@@ -215,49 +65,28 @@ __________('calls',)__________
 
 Positive Reviews:
 
----'this phone is great for texting, talking with no dropped calls,  being dropped often.. best one was 30 ft from the house roof... and not cracking/scratching, long battery life, slim size for the pocket, and have found no issues with it.' **** 'dropped'
+---'This phone is great for texting, talking with no dropped calls, being dropped often.. best one was 30 ft from the house roof... and not cracking/scratching, long battery life, slim size for the pocket, and have found no issues with it.' **** 'dropped'
 
 Negative Reviews:
 
----'when my boyfriend went to verizon to get it activated it was not able to make calls.' **** 'able'
----'having lots of dropped calls, missed calls.' **** 'dropped'
+---'When my boyfriend went to Verizon to get it activated it was not able to make calls.' **** 'able'
+---'Having lots of dropped calls, missed calls.' **** 'dropped'
 
 
 ================================================================================================================
-__________('thing',)__________
+__________('keyboard',)__________
 
 
 Positive Reviews:
 
+---'It has an extra large keyboard inside and a touch screen outside.' **** 'extra'
+---'LOVE the touch feature and the large QWERTY keyboard... makes it easy to text with!' **** 'easy'
+---'I like the vibrations when using the touchscreen and the keyboard is nice.' **** 'nice'
+---'The screen is large, outside and inside, and the keyboard is realy nice.' **** 'nice'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('data',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"its easy to use and it doesn't require a data plan." **** 'easy'
----"plus, it's a great phone for those who can't afford all the extra &#34;data&#34; packages." **** 'extra'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'lasted me a very long time!' **** 'long'
----'she has a harder time even damaging this phone.' **** 'harder'
+---'Phone works great, fold out keyboard.' **** 'fold'
 
 
 ================================================================================================================
@@ -269,12 +98,17 @@ Positive Reviews:
 
 Negative Reviews:
 
----'need data plan, but can opt for the cheapest, which is $1.99 per kb.' **** 'cheapest'
----"its easy to use and it doesn't require a data plan." **** 'easy'
+---'Need data plan, but can opt for the cheapest, which is $1.' **** 'cheapest'
+---"Its easy to use and it doesn't require a data plan." **** 'easy'
+---'Need data plan, but can opt for the cheapest, which is $1.' **** 'cheapest'
+---"Its easy to use and it doesn't require a data plan." **** 'easy'
+---'Need data plan, but can opt for the cheapest, which is $1.' **** 'cheapest'
+---"Its easy to use and it doesn't require a data plan." **** 'easy'
+---"Plus, it's a great phone for those who can't afford all the extra &#34; data&#34; packages." **** 'extra'
 
 
 ================================================================================================================
-__________('charger',)__________
+__________('smart',)__________
 
 
 Positive Reviews:
@@ -282,10 +116,11 @@ Positive Reviews:
 
 Negative Reviews:
 
+---"It's a great basic phone to use when you don't want to pay extra for a smart phone." **** 'extra'
 
 
 ================================================================================================================
-__________('data', 'plan')__________
+__________('text',)__________
 
 
 Positive Reviews:
@@ -293,12 +128,11 @@ Positive Reviews:
 
 Negative Reviews:
 
----'need data plan, but can opt for the cheapest, which is $1.99 per kb.' **** 'cheapest'
----"its easy to use and it doesn't require a data plan." **** 'easy'
+---"My hubby's Ford Truck reads his Razor Phone but it's so fast - hard to understand text." **** 'hard'
 
 
 ================================================================================================================
-__________('work',)__________
+__________('verizon',)__________
 
 
 Positive Reviews:
@@ -306,6 +140,8 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'Unfortunately I was not able to activate it on my Verizon account because the phone was already activated by another Verizon customer.' **** 'able'
+---'It was compatible with Verizon and does not need a data plan.' **** 'compatible'
 
 
 ================================================================================================================
@@ -314,37 +150,26 @@ __________('texting',)__________
 
 Positive Reviews:
 
----'it is good for texting, but even has some short-comings in that area.' **** 'good'
----'the keys are a little larger than other phones and there is space between keys - it is so easy to use for texting.' **** 'easy'
----'the screen sensitivity is pretty good, waaayyyy better than the lg dare that phone sucks, the keys are spaced far out enough for easy texting, and i like the titanium color too, its almost as big as a smartphone, better than a smartphone, just what i need for texting and calling but with a more modern look.' **** 'easy'
+---'It is good for texting, but even has some short-comings in that area.' **** 'good'
+---'The keys are a little larger than other phones and there is space between keys - it is so easy to use for texting.' **** 'easy'
+---'the screen sensitivity is pretty good, waaayyyy better than the LG DARE that phone sucks, the keys are spaced far out enough for easy texting, and i like the titanium color too, its almost as big as a smartphone, better than a smartphone, just what i need for texting and calling but with a more modern look.' **** 'easy'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('touch', 'screen')__________
+__________('battery', 'life')__________
 
 
 Positive Reviews:
 
----'i have an identical phone that works with the exception of the touch screen.' **** 'touch'
----'i like the touch screen in the front which locks either manually or automatically after a few seconds of non-use.' **** 'touch'
----"ok my old phone was a lg dare still got just dnt use it like that anymore but i was looking for a touch screen phone with a qwerty keypad and i was thinking lg env or lg voyager but my sister has that phone and she's been having some issues with it so i pick voyager and the only issue i have wit the voyager is the keypad light it always blinking and it makes some little crazy sound but other than that i likecons:camra &lt;-------" **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'touch'
----'my daughter wanted a touch screen so this was perfect for her.' **** 'perfect'
----'she can drop it a lot (though i did get a cover for it) and loves the touch screen on the front.' **** 'touch'
----'it has an extra large keyboard inside and a touch screen outside.' **** 'touch'
----"but i think mine is refurbished, the touch screen doesn't always work, i constantly have to do the calibration." **** 'mine'
+---'But, I found that you have to be careful when you install the battery.' **** 'careful'
+---'Fortunately, I had a  fairly new battery I ordered thru Verizon for my old phone and my old wall charger was still worked great.' **** 'new'
 
 Negative Reviews:
 
----"the only problem i've had is that the touch screen doesn't always respond, but the overall quality of the phone is great." **** 'touch'
----"the only thing i don't like is the touch screen does not keep it's calibration." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"loved this phone because it still has the &#34;touch&#34; screen on front but full keyboard inside for those who don't like the touch screen for texting." **** 'touch'
----"don't get an old phone with a touch screen." **** 'touch'
----"it isn't a smart phone, but i wanted a touch screen phone and did not want to add $30 a month to my phone bill for a data package to support a blackberry or smart phone." **** 'touch'
+---'I would like the battery life to be longer.' **** 'longer'
 
 
 ================================================================================================================

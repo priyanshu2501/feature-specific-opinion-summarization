@@ -3,13 +3,13 @@ __________('screen', 'size')__________
 
 Positive Reviews:
 
----'the touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'responsive'
----'the touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'nice'
+---'The touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'responsive'
+---'The touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'nice'
 
 Negative Reviews:
 
----'screen size is perfect never have a hard time typing.' **** 'perfect'
----"plus, the on-screen keyboard takes away fifty percent of the screen, which i wasn't thinking about at the time: my effective screen size while texting is actually a bit smaller than it was with the blackberry!so far (i've had it for about a month) it's been ok.  still working the kinks in my own behavior out; i keep forgetting to lock the screen, for instance." **** 'effective'
+---'Screen size is perfect never have a hard time typing.' **** 'perfect'
+---"Plus, the on-screen keyboard takes away fifty percent of the screen, which I wasn't thinking about at the time: my effective screen size while texting is actually a bit smaller than it was with the Blackberry!" **** 'effective'
 ---'it does not feel "cheap" in your hand and has a nice sized screen.' **** 'nice'
 
 
@@ -19,443 +19,66 @@ __________('keyboard',)__________
 
 Positive Reviews:
 
----'we found the email feature, spell check troublesome - keyboard a little hard to use, too easily flips from an english to a spanish key board so you find yourself spell checking in the wrong language - even in english the spell check proposes unlikely words.serves its purpose for a limited time - will stick with my iphone for regular use.' **** 'hard'
----'in fact, on my htc i ended up installing swiftkey for a better keyboard, but on the optimus elite the standard out of the box keyboard is being used on both phones.an interesting thing about this phone is that it has nfc (near field communication) so you can use your phone as a payment device if you set up a credit card with your google account.' **** 'better'
----'my htc hero was slightly smaller than the optimus elite, and it had a great, responsive, easy to use keyboard.' **** 'responsive'
----'my htc hero was slightly smaller than the optimus elite, and it had a great, responsive, easy to use keyboard.' **** 'easy'
+---'We found the email feature, spell check troublesome - keyboard a little hard to use, too easily flips from an english to a spanish key board so you find yourself spell checking in the wrong language - even in english the spell check proposes unlikely words.' **** 'hard'
+---'I like the native keyboard screen quite a bit.' **** 'native'
+---'In fact, on my HTC I ended up installing Swiftkey for a better keyboard, but on the Optimus Elite the standard out of the box keyboard is being used on both phones.' **** 'better'
+---'My HTC Hero was slightly smaller than the Optimus Elite, and it had a great, responsive, easy to use keyboard.' **** 'responsive'
+---'My HTC Hero was slightly smaller than the Optimus Elite, and it had a great, responsive, easy to use keyboard.' **** 'easy'
 
 Negative Reviews:
 
----'and it is not my hearing.the phone is well designed i suppose, it is intuitive, keyboard is easy, camera not bad.' **** 'easy'
----"it looks good, and you wouldn't really notice any differences unless you did a side by side comparison to another phone.i like the native keyboard screen quite a bit." **** 'native'
----'battery needs to be recharged daily and keyboard can be a little difficult to use.' **** 'daily'
----'battery needs to be recharged daily and keyboard can be a little difficult to use.' **** 'difficult'
+---'The phone is well designed I suppose, it is intuitive, keyboard is easy, camera not bad.' **** 'easy'
+---'Battery needs to be recharged daily and keyboard can be a little difficult to use.' **** 'daily'
+---'Battery needs to be recharged daily and keyboard can be a little difficult to use.' **** 'difficult'
 
 
 ================================================================================================================
-__________('nice',)__________
+__________('text',)__________
 
 
 Positive Reviews:
 
+---'I still receive text and calls.' **** 'receive'
 
 Negative Reviews:
 
----"this phone is amazing i love the back it has a nice feel better than other phones i've had in the past its nice and thin better then those bulky phones out there have a easy time finding accessories for it and it arrived earlier then expected all in all its an amazing phone and would recommend it to anyone looking for a great phone" **** 'past'
+---"I'm on the Virgin Mobile Beyond Talk plan with unlimited text and 3g data (data possibly throttled after 2." **** 'unlimited'
+---'00 a month for 1200 talk minutes, unlimited data and unlimited text - it\'s hard to feel \'taken\' - it\'s a great feeling stepping away from the huge corporate "V".' **** 'hard'
 
 
 ================================================================================================================
-__________('a', 'hard', 'time')__________
+__________('first', 'smart')__________
 
 
 Positive Reviews:
 
----'screen size is perfect never have a hard time typing.' **** 'hard'
----'not a bad phone, did everything i needed but i had to end up buying a faster phone; has all features you would need - small hands, had a hard time with the keyboard' **** 'hard'
+---'My first smart phone.....' **** 'first'
+---'this is my first smart phone.' **** 'first'
+---'my first smart phone is disappointing.' **** 'first'
+---'This is my first "smart" phone.' **** 'first'
+---'This is my first "smart" phone, and I\'m absolutely amazed at it, especially considering the price.' **** 'first'
+---'I chose this phone as my first smart phone and am happy with it.' **** 'first'
+---'This phone is just as good as any smart phone I had as a contract user!' **** 'good'
+---'My first smart phone.....' **** 'first'
+---'this is my first smart phone.' **** 'first'
+---'my first smart phone is disappointing.' **** 'first'
+---'This is my first "smart" phone.' **** 'first'
+---"I have to say its the best phone I've ever had before and I've had other smart phones (HTC hero was one I had a couple years ago) You really won't be disappointed, unless you're a smug a hole that only likes things for the looks and for the brand." **** 'other'
+---'This is my first "smart" phone, and I\'m absolutely amazed at it, especially considering the price.' **** 'first'
+---'I chose this phone as my first smart phone and am happy with it.' **** 'first'
 
 Negative Reviews:
 
----'no offense to people who speak english as second language, but unfortunately i had a hard time understanding customer service from offshore and i believe they have a hard time understanding me as well.just recently i started using the phone to listen to internet radio.' **** 'hard'
----'no offense to people who speak english as second language, but unfortunately i had a hard time understanding customer service from offshore and i believe they have a hard time understanding me as well.just recently i started using the phone to listen to internet radio.' **** 'hard'
----'i would say that with the issues i have had, though, someone with little knowledge of the android os or inclination to play around with the settings (like my wife) might have a hard time with this phone.' **** 'hard'
----'ok,bought this phone in place of a lg optimus v,let me just say ,lots of room for apps and internet is really quick on wifi,3g is up in down but very good,clocked in at over a 1ghz processor,did a test with the ipod touch 4g and lets just say in wifi ,this blows the ipod touch to pieces on processor speed.the screen is very good res and moves very fast.had a hard time getting it activated ,but it is all worth it.greatttt phoneee ,love ittt' **** 'hard'
-
-
-================================================================================================================
-__________('touch',)__________
-
-
-Positive Reviews:
-
----"it has a poor touch screen, it's just not sensitive enough to play games particularly well, and annoying themeing manager forced onto it by default." **** 'poor'
----'social networking, email, android marketplace, easy touch screen keyboard, accessibility, good looking phone for being a more affordable end smart phone, responsive ect.' **** 'easy'
-
-Negative Reviews:
-
----"considering it's my first touch screen phone, i'm not able to put it down." **** 'first'
----"it's rather thin too, so it won't bulge out from your pockets.- nice screen resolution and decent screen size.- pretty responsive touch screen." **** 'responsive'
-
-
-================================================================================================================
-__________('month',)__________
-
-
-Positive Reviews:
-
----'i had my phone for nearly a month and i have been able to figure out how to use it without having to bother my younger tech savvy relatives.' **** 'able'
-
-Negative Reviews:
-
----"i've had to pull the battery maybe a dozen times in less than a month, as it had became unresponsive." **** 'unresponsive'
-
-
-================================================================================================================
-__________('quality',)__________
-
-
-Positive Reviews:
-
----'great job virgin mobile keep up the good work with these good quality phones for cheaper prices.' **** 'good'
----'the quality of the plastic is very good, it feels comfortable in your hand for extended periods and the 3.5" touchscreen is clear, sharp and accurate.' **** 'good'
----'the camcorder quality is very good though which is strange.wifi is fussy and disconnects from a close hot spot with a good signal to a more distant hot spot with barely any signal strength.' **** 'good'
----'that takes pretty good quality pics- affordable price.' **** 'good'
----"it has crisp call quality and has reception wherever i go (i think has sprint's coverage).during a trip to great america my cousin's expensive iphone 4s could get any signal, but mine lg optimus elite had full bars and 3g which i find funny because he spends alot more money per month than i do.the other thing that i love is that it is a prepaid phone and you are not locked into a contract which is great if you don't want to use the phone for a month while your out of the country.dislikes:i activated the phone myself and i had trouble with the process." **** 'call'
----'i have heard there are two versions and phones made in china were of better quality.' **** 'better'
----'the build quality is good, the sound quality is good, and the service quality is just right for me.' **** 'good'
----'the build quality is good, the sound quality is good, and the service quality is just right for me.' **** 'good'
----'good quality voice call but voice is hardly used.' **** 'good'
----'this product lg optimus elite is a nice and good quality cellphone.good: -using droid version 2.3.7 it works fine.' **** 'nice'
----'this product lg optimus elite is a nice and good quality cellphone.good: -using droid version 2.3.7 it works fine.' **** 'good'
-
-Negative Reviews:
-
----"also another complaint is that call quality isn't the best, but that in part may be the virgin mobile network..." **** 'best'
----'*if you are looking for a relatively inexpensive yet quality smart phone without being taken advantage of in a contract this is it!' **** 'inexpensive'
----'even worse battery time than the v.although the phone seems to have better speakers than the v, i find call quality to be substandard.' **** 'call'
-
-
-================================================================================================================
-__________('lg', 'optimus', 'elite')__________
-
-
-Positive Reviews:
-
----'enter...lg optimus elite!' **** 'elite'
----'after scouting numerous smartphones being offered from the big names as well as prepaid, i opted to go for the lg optimus elite because of the positive reviews on this site as well as a few others.' **** 'elite'
----'i could buy this lg optimus elite for $130, or i could buy the galaxy s iii for $200....hmmm....' **** 'elite'
----'the lg optimus elite is such a great phone.' **** 'elite'
----'the virgin mobile lg optimus elite is a bad phone because it keeps getting an error called error code 67 and sometimes when i try to use wifi or the 3g thing it overheats' **** 'elite'
----"it has crisp call quality and has reception wherever i go (i think has sprint's coverage).during a trip to great america my cousin's expensive iphone 4s could get any signal, but mine lg optimus elite had full bars and 3g which i find funny because he spends alot more money per month than i do.the other thing that i love is that it is a prepaid phone and you are not locked into a contract which is great if you don't want to use the phone for a month while your out of the country.dislikes:i activated the phone myself and i had trouble with the process." **** 'mine'
----'the lg optimus elite eliminated that sentiment after the first week i had it.every app on the android marketplace in compatible with it.' **** 'elite'
----"if the elite had a front-facing camera, that'd be more sweet!in closing, the lg optimus elite is just right for me in terms of cost and functions." **** 'elite'
----"i've been very happy with the lg optimus elite." **** 'happy'
----"i've been very happy with the lg optimus elite." **** 'elite'
----"the battery lasts a long time - much longer than other cell phones i've had.the lg optimus elite is part of virgin mobile's beyond talk plan (meaning i pay a monthly fee rather than topping up every three months) but there is no contract and it is a nice phone and well worth the monthly fee." **** 'elite'
----'this product lg optimus elite is a nice and good quality cellphone.good: -using droid version 2.3.7 it works fine.' **** 'elite'
----'i went ahead and bought the lg optimus elite since i wanted a phone immediately and i had had great experience with lg.' **** 'elite'
-
-Negative Reviews:
-
----'the lg optimus elite is a definite upgrade from the optimus v. the processor is notably faster, and the screen is bigger.' **** 'elite'
----'i held off writing this review for a tad just to see what happens.a bit of background:i just got back into the smart phone world and things have changed while i was gone.i did a lot of reading on phones and carriers and making a decision was a hard one.in the end, the phone i wanted was the htc evo v. it was the perfect phone for what i want (note: want, not need) but it carried a $300 price tag.another phone i considered is this one, the lg optimus elite.' **** 'elite'
----'a few months later when my lg optimus v ran out of memory, i bought the black lg optimus elite for myself.' **** 'black'
----'i am sooooo happy the triumph gave me problems or else i would have not tried the lg optimus elite!' **** 'elite'
-
-
-================================================================================================================
-__________('sd', 'card')__________
-
-
-Positive Reviews:
-
----'(i had to reset it though which could have erased all stuff if i did not have it in my micro sd card)overall:it is a great phone and i would recommend it to anyone.' **** 'overall'
----':)  couple that 1520 mah battery with the 3.5 screen and 800 mhz processor and you have a phone that can go all day and into the night without a charge if you follow my tips below.it will take a 32 gb memory card for music and such, and you can actually store programs on it using free software such as app mgr iii (app 2 sd).' **** 'music'
----"the manual says you can add up to a 32gb sd card but my phone will not mount any sd card and i have tried different cards thinking that the card might have been bad, nope, not the card it's the phone." **** 'manual'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('one', 'v')__________
-
-
-Positive Reviews:
-
----'it has several advantages over the optimus v including android 2.3 rather than 2.2 on the optimus v, more memory, a slightly larger screen (3.5" vs. 3.2") and a faster processor.in terms of memory, the phone comes with roughly 900 mb of main memory that is free (compared to about 150 mb on the optimus v).' **** 'memory'
----'the optimus one v was acceptable and the htc one v was horrible.' **** 'acceptable'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('from', 'best', 'buy')__________
-
-
-Positive Reviews:
-
----'returned phone.3rd phone: bought on july 18th from best buy; no issues what so ever....for now.i was pretty discouraged by the time i got my new phone, but honestly, i only got to a 3rd phone because it is an awesome phone when it works.' **** 'best'
----"i've had no issues since i got my 3rd phone from best buy." **** 'best'
----'but my phone from best buy works great.it was my first android and i like it.' **** 'best'
----")after the luck i've had with phones, i'm a little skeptical from buying electronics from amazon.com but others seem to have better luck than i do.i recommend this phone, but spending the extra $20 at best buy is worth it, in my opinion." **** 'best'
----")after the luck i've had with phones, i'm a little skeptical from buying electronics from amazon.com but others seem to have better luck than i do.i recommend this phone, but spending the extra $20 at best buy is worth it, in my opinion." **** 'worth'
----'however, i since purchased the same one from best buy, and successfully activated it with ease.' **** 'best'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('and', 'battery', 'life')__________
-
-
-Positive Reviews:
-
----'the reception is good i like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also i recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
-
-Negative Reviews:
-
----'the battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
-
-
-================================================================================================================
-__________('optimus', 'v')__________
-
-
-Positive Reviews:
-
----'it has several advantages over the optimus v including android 2.3 rather than 2.2 on the optimus v, more memory, a slightly larger screen (3.5" vs. 3.2") and a faster processor.in terms of memory, the phone comes with roughly 900 mb of main memory that is free (compared to about 150 mb on the optimus v).' **** 'memory'
----'this optimus elite is a very nice phone for the price, i like it better than the optimus v, and it appears to be better at capturing a signal.' **** 'better'
----'the optimus one v was acceptable and the htc one v was horrible.' **** 'acceptable'
----"i have owned 4 of these for a year now and i'm very very happy i switched from my optimus v to this." **** 'happy'
-
-Negative Reviews:
-
----'stay with optimus v, mine dropped to hard floor, display is messed up.' **** 'mine'
----'(can you believe that, way would anyone steal an optimus v?)' **** 'steal'
----"the optimus elite is very stable and has not required use of the warranty even once.things you should do:- get a case (the plastic back on this phone is slippery)- get a screen protector (at least the cheap plastic ones)- get the 'minutes checker free' app to check your minutes from your phone- love your new optimus elite :)" **** 'new'
-
-
-================================================================================================================
-__________('charge',)__________
-
-
-Positive Reviews:
-
----'like when pressing the icon for one app it starts up something different, and can only be fixed by turning the phone off and back on.update:i contacted amazon customer service & they were prompt and helpful in replacing the defective phone.but i also discovered that the phone battery was completely drained & would not accept a charge when plugged in ...until removing the battery, waiting 30 seconds, and putting it back in.' **** 'plugged'
----"i'm not a heavy phone user and do not text a lot or make many phone calls during my work day and the phone lasts roughly 10 hours on a single charge." **** 'single'
-
-Negative Reviews:
-
----'love this phone for my husband..not too expensive but not cheap ...if lost you wont spead a lot of money to replace it ....has great features only downside is port can be fragile and break easy...but we were able to get a charge that will charge the battery but you gotta take the phone apart to charge it....' **** 'able'
-
-
-================================================================================================================
-__________('on', 'optimus', 'v')__________
-
-
-Positive Reviews:
-
----'it has several advantages over the optimus v including android 2.3 rather than 2.2 on the optimus v, more memory, a slightly larger screen (3.5" vs. 3.2") and a faster processor.in terms of memory, the phone comes with roughly 900 mb of main memory that is free (compared to about 150 mb on the optimus v).' **** 'memory'
----'this optimus elite is a very nice phone for the price, i like it better than the optimus v, and it appears to be better at capturing a signal.' **** 'better'
----'the optimus one v was acceptable and the htc one v was horrible.' **** 'acceptable'
-
-Negative Reviews:
-
----'(can you believe that, way would anyone steal an optimus v?)' **** 'steal'
----"the optimus elite is very stable and has not required use of the warranty even once.things you should do:- get a case (the plastic back on this phone is slippery)- get a screen protector (at least the cheap plastic ones)- get the 'minutes checker free' app to check your minutes from your phone- love your new optimus elite :)" **** 'new'
-
-
-================================================================================================================
-__________('optimus',)__________
-
-
-Positive Reviews:
-
----'this optimus elite is a very nice phone for the price, i like it better than the optimus v, and it appears to be better at capturing a signal.' **** 'better'
----"i have owned 4 of these for a year now and i'm very very happy i switched from my optimus v to this." **** 'happy'
----'i contacted amazon and was happy to hear that they would indeed allow me to return the optimus elite phone.' **** 'allow'
-
-Negative Reviews:
-
----'(can you believe that, way would anyone steal an optimus v?)' **** 'steal'
----"the optimus elite is very stable and has not required use of the warranty even once.things you should do:- get a case (the plastic back on this phone is slippery)- get a screen protector (at least the cheap plastic ones)- get the 'minutes checker free' app to check your minutes from your phone- love your new optimus elite :)" **** 'new'
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'(i had to reset it though which could have erased all stuff if i did not have it in my micro sd card)overall:it is a great phone and i would recommend it to anyone.' **** 'overall'
----':)  couple that 1520 mah battery with the 3.5 screen and 800 mhz processor and you have a phone that can go all day and into the night without a charge if you follow my tips below.it will take a 32 gb memory card for music and such, and you can actually store programs on it using free software such as app mgr iii (app 2 sd).' **** 'music'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('virgin', 'mobile', 'service')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'buyer beware --- my entire experience with this phone and the virgin mobile service was unsatisfactory.' **** 'unsatisfactory'
----'a 5 inch screen is nice but i would not carry such a big thing around in my pocket so this is nice and portable enough that i take it with me.virgin mobile is great, good service, been with them for years and have several accounts.' **** 'good'
-
-
-================================================================================================================
-__________('from', 'optimus', 'v')__________
-
-
-Positive Reviews:
-
----"i have owned 4 of these for a year now and i'm very very happy i switched from my optimus v to this." **** 'happy'
-
-Negative Reviews:
-
----"the optimus elite is very stable and has not required use of the warranty even once.things you should do:- get a case (the plastic back on this phone is slippery)- get a screen protector (at least the cheap plastic ones)- get the 'minutes checker free' app to check your minutes from your phone- love your new optimus elite :)" **** 'new'
-
-
-================================================================================================================
-__________('customer', 'service')__________
-
-
-Positive Reviews:
-
----'i would way rather pay a bit more per month to have reliable service and good customer service.' **** 'reliable'
----'i would way rather pay a bit more per month to have reliable service and good customer service.' **** 'good'
----"(2) their customer service was exceptionally slow to respond; and some of the people i spoke with didn't even make an effort to fix the problem, they just shunted me to the returns department (i had to persuade them to try to fix the issue instead of returning it)." **** 'slow'
----'when i call virgin with customer service issues, i cannot understand the staff and they are rude and impatient with me ...  they appear to be reading off of scripts.' **** 'virgin'
-
-Negative Reviews:
-
----'this is a pretty good phone rendered useless by awful service and atrocious customer service.' **** 'awful'
-
-
-================================================================================================================
-__________('wifi',)__________
-
-
-Positive Reviews:
-
----"if not for the hotel's free wifi the phone would've been a waste to even bring along!" **** 'free'
----'most of the time you have to turn off and on again the wifi for it to find a new signal.' **** 'new'
----"very handy for keeping my phone set up to use as little battery power as possible, such as game playing were i don't need any wifi or data at all.i keep the data off when i'm at home and have it set up to use wifi instead of data if there's wifi nearby that i've logged into in the past." **** 'past'
----'a lot of apps can be load for free..- wifi capable; 5m pix camera; support micro sd; 3g networkbad: phone battey life is short.' **** 'capable'
-
-Negative Reviews:
-
----'if you\'re lucky, it might find your wifi network, although no guarantees it will actually work on it either.they tout this phone as "environmentally friendly" when they should of called it the hippie:  stinks and doesn\'t work.' **** 'lucky'
----"- very good for mp3 (need equalizer app to make it sound better)- good when watching youtube (only wifi, not virgin mobile) or offline video.- news update is ok- for phone service it is ok- for internet browsing, it is decent with wifi (for virgin mobile service it won't load the page)- battery is so so... need to charge daily.- screen is pixelated (of course not like iphone) but decent" **** 'decent'
-
-
-================================================================================================================
-__________('fast',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'first off, it is shipping almost consistently with a 1 ghz processor so it is really super fast.' **** 'super'
-
-
-================================================================================================================
-__________('times',)__________
-
-
-Positive Reviews:
-
----'mind you, as is often the case, both times the phone died on me were the worst possible times for it to happen, and even though the second time was an actual emergency, the jerks at the sprint store made me wait two+ hours for their tech to tell me what i already knew: phone was dead and they had no idea why.' **** 'possible'
----"if i bought an iphone off contract i'd have to pay something like 5 times this much." **** 'much'
----'is it 3-4 times better?' **** 'better'
----"i'm using mostly the same apps i used on v, and battery life seems 1.5/2 times worse on elite." **** 'elite'
-
-Negative Reviews:
-
----'mind you, as is often the case, both times the phone died on me were the worst possible times for it to happen, and even though the second time was an actual emergency, the jerks at the sprint store made me wait two+ hours for their tech to tell me what i already knew: phone was dead and they had no idea why.' **** 'worst'
----"i'm using mostly the same apps i used on v, and battery life seems 1.5/2 times worse on elite." **** 'worse'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----'ive had this phone over a year now and ive dropped it so much and ive got to tell you never had a single problem even after the first drop.' **** 'single'
-
-Negative Reviews:
-
----'the other problem i was having it mutiple contacts.' **** 'other'
----'the other problem is that when you turn on your phone , you get this annoying music as it turns on.' **** 'other'
-
-
-================================================================================================================
-__________('money',)__________
-
-
-Positive Reviews:
-
----"overall, if it works a decent phone for the money, but i'm annoyed enough with my current one to write this one star review, so take that for what it's worth." **** 'enough'
----'save up and spend the extra money on the galaxy or iphone.' **** 'extra'
----'weird but true!games are kind of difficult only because they are small, but i have not done many so will have to try some other games, but the version of mah jong i loaded is almost impossible to play.for the money this was not a bad phone.' **** 'impossible'
----'i now have a htc one v that i purchased thinking it would be better, this phone is well worth the money.' **** 'worth'
----"basically, it's worth the money." **** 'worth'
----'is it too late to get my money back?' **** 'late'
-
-Negative Reviews:
-
----"i got this for my wife because she didn't want to spend the extra money on the htc 1 v. this phone isn't nearly as nice in all aspects compared to the 1 v. this may have been a good phone years ago, but not so much now, it really shows it's age and slowness." **** 'extra'
----"the screen is really bad too and sprint's 3g service is so bad, i am questioning whether the money saved is worth it." **** 'worth'
----'the screen is a bit small at 3.5&#34; but then the phone fits in my pocket better than my larger phone, so that is a plus.i had a small issue with the phone rebooting, it seems some of the live wallpapers may interfere with waking the phone back up.overall the phone is ok, but i wish i had spent the extra money for another htc.' **** 'extra'
-
-
-================================================================================================================
-__________('happy',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
----'it gets the job done at a good price.' **** 'good'
----"hello guys, my name is raul and i'm going to keep this review simple and straight to the point for you guys.phone: lg optimus elitethis phone is at reasonable price of $100." **** 'reasonable'
----'i thought the price was reasonable as well.' **** 'reasonable'
----'this is a really good phone for a really good price.' **** 'good'
----'i got a decent price, i loved it at first but then it starts to freeze and get stuck.' **** 'first'
----'i can download hundreds of useful apps and it is at a very reasonable price.' **** 'reasonable'
----'this phone is one of the better phones that i have had, and definitely the best for the price.' **** 'best'
-
-Negative Reviews:
-
----'i purchased mine from wal-mart at the insanely low price of $59.99.' **** 'mine'
----'i purchased mine from wal-mart at the insanely low price of $59.99.' **** 'low'
----'cheaper price yes, but worth it no.' **** 'cheaper'
-
-
-================================================================================================================
-__________('service',)__________
-
-
-Positive Reviews:
-
----'i would way rather pay a bit more per month to have reliable service and good customer service.' **** 'reliable'
----"(2) their customer service was exceptionally slow to respond; and some of the people i spoke with didn't even make an effort to fix the problem, they just shunted me to the returns department (i had to persuade them to try to fix the issue instead of returning it)." **** 'slow'
----"the screen is really bad too and sprint's 3g service is so bad, i am questioning whether the money saved is worth it." **** 'bad'
-
-Negative Reviews:
-
----'buyer beware --- my entire experience with this phone and the virgin mobile service was unsatisfactory.' **** 'unsatisfactory'
----'this is a pretty good phone rendered useless by awful service and atrocious customer service.' **** 'awful'
----'a 5 inch screen is nice but i would not carry such a big thing around in my pocket so this is nice and portable enough that i take it with me.virgin mobile is great, good service, been with them for years and have several accounts.' **** 'good'
-
-
-================================================================================================================
-__________('getting',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---"My first smart phone and I don't need all the bells and whistles." **** 'first'
+---"well for a first smart phoneonce you get this phone, you can't go back to just texting and calling" **** 'first'
+---"To be fair, it's my first smart phone, but I'm reticent to sign contracts (won't) and I was eagerly awaiting the new iPhone for Virgin Mobile." **** 'fair'
+---"To be fair, it's my first smart phone, but I'm reticent to sign contracts (won't) and I was eagerly awaiting the new iPhone for Virgin Mobile." **** 'first'
+---"I'm not into specs or tinkering with the phone, again, it's my first smart phone." **** 'first'
+---"My first smart phone and I don't need all the bells and whistles." **** 'first'
+---"well for a first smart phoneonce you get this phone, you can't go back to just texting and calling" **** 'first'
+---"To be fair, it's my first smart phone, but I'm reticent to sign contracts (won't) and I was eagerly awaiting the new iPhone for Virgin Mobile." **** 'fair'
+---"To be fair, it's my first smart phone, but I'm reticent to sign contracts (won't) and I was eagerly awaiting the new iPhone for Virgin Mobile." **** 'first'
+---"I'm not into specs or tinkering with the phone, again, it's my first smart phone." **** 'first'
 
 
 ================================================================================================================
@@ -464,22 +87,75 @@ __________('lg', 'optimus', 'v')__________
 
 Positive Reviews:
 
----'after scouting numerous smartphones being offered from the big names as well as prepaid, i opted to go for the lg optimus elite because of the positive reviews on this site as well as a few others.' **** 'elite'
 ---'the virgin mobile lg optimus elite is a bad phone because it keeps getting an error called error code 67 and sometimes when i try to use wifi or the 3g thing it overheats' **** 'elite'
----"it has crisp call quality and has reception wherever i go (i think has sprint's coverage).during a trip to great america my cousin's expensive iphone 4s could get any signal, but mine lg optimus elite had full bars and 3g which i find funny because he spends alot more money per month than i do.the other thing that i love is that it is a prepaid phone and you are not locked into a contract which is great if you don't want to use the phone for a month while your out of the country.dislikes:i activated the phone myself and i had trouble with the process." **** 'mine'
----"in other words, i've had this phone for less than a year and it looks like the ringer has gone out on it.this is my second lg optimus phone in 2 years." **** 'second'
----'the lg optimus elite eliminated that sentiment after the first week i had it.every app on the android marketplace in compatible with it.' **** 'elite'
----"i've been very happy with the lg optimus elite." **** 'happy'
----"i've been very happy with the lg optimus elite." **** 'elite'
----"the battery lasts a long time - much longer than other cell phones i've had.the lg optimus elite is part of virgin mobile's beyond talk plan (meaning i pay a monthly fee rather than topping up every three months) but there is no contract and it is a nice phone and well worth the monthly fee." **** 'elite'
----'this product lg optimus elite is a nice and good quality cellphone.good: -using droid version 2.3.7 it works fine.' **** 'elite'
+---"I've been very happy with the LG Optimus Elite." **** 'happy'
+---'the virgin mobile lg optimus elite is a bad phone because it keeps getting an error called error code 67 and sometimes when i try to use wifi or the 3g thing it overheats' **** 'elite'
+---'This is my second LG Optimus phone in 2 years.' **** 'second'
+---"I've been very happy with the LG Optimus Elite." **** 'happy'
 
 Negative Reviews:
 
----'the lg optimus elite is a definite upgrade from the optimus v. the processor is notably faster, and the screen is bigger.' **** 'elite'
----'i held off writing this review for a tad just to see what happens.a bit of background:i just got back into the smart phone world and things have changed while i was gone.i did a lot of reading on phones and carriers and making a decision was a hard one.in the end, the phone i wanted was the htc evo v. it was the perfect phone for what i want (note: want, not need) but it carried a $300 price tag.another phone i considered is this one, the lg optimus elite.' **** 'elite'
----'a few months later when my lg optimus v ran out of memory, i bought the black lg optimus elite for myself.' **** 'black'
----'i am sooooo happy the triumph gave me problems or else i would have not tried the lg optimus elite!' **** 'elite'
+---"During a trip to Great America my cousin's expensive iPhone 4S could get any signal, but mine LG Optimus Elite had full bars and 3g which I find funny because he spends alot more money per month than I do." **** 'mine'
+---'A few months later when my LG Optimus V ran out of memory, I bought the black LG Optimus Elite for myself.' **** 'black'
+---"During a trip to Great America my cousin's expensive iPhone 4S could get any signal, but mine LG Optimus Elite had full bars and 3g which I find funny because he spends alot more money per month than I do." **** 'mine'
+---'A few months later when my LG Optimus V ran out of memory, I bought the black LG Optimus Elite for myself.' **** 'black'
+
+
+================================================================================================================
+__________('games',)__________
+
+
+Positive Reviews:
+
+---'Games are kind of difficult only because they are small, but I have not done many so will have to try some other games, but the version of Mah Jong I loaded is almost impossible to play.' **** 'difficult'
+---'Games are kind of difficult only because they are small, but I have not done many so will have to try some other games, but the version of Mah Jong I loaded is almost impossible to play.' **** 'small'
+---'Games are kind of difficult only because they are small, but I have not done many so will have to try some other games, but the version of Mah Jong I loaded is almost impossible to play.' **** 'other'
+---"It's nice to be able to play certain games without it freezing, running incredibly slow, or making me force quit." **** 'nice'
+---"It's nice to be able to play certain games without it freezing, running incredibly slow, or making me force quit." **** 'able'
+
+Negative Reviews:
+
+---'Games are kind of difficult only because they are small, but I have not done many so will have to try some other games, but the version of Mah Jong I loaded is almost impossible to play.' **** 'kind'
+---"I've only downloaded arcade-style games so far, but they run smoothly." **** 'arcade-style'
+---'The touch phone is neither to sensitive or so sluggish that it is unresponsive to games.' **** 'unresponsive'
+---"It's nice to be able to play certain games without it freezing, running incredibly slow, or making me force quit." **** 'certain'
+
+
+================================================================================================================
+__________('iphone',)__________
+
+
+Positive Reviews:
+
+---'Comming from and iphone, due to changes in my finances I had to find a cheaper alternative.' **** 'due'
+---'I now understand why this is the future of the smartphone and I have absolutely no idea why anyone would even consider a horrendously overpriced and less capable iPhone.' **** 'capable'
+---"During a trip to Great America my cousin's expensive iPhone 4S could get any signal, but mine LG Optimus Elite had full bars and 3g which I find funny because he spends alot more money per month than I do." **** 'expensive'
+---"It is very nice, it's like an IPhone, but at a much lower price." **** 'nice'
+
+Negative Reviews:
+
+---'I now understand why this is the future of the smartphone and I have absolutely no idea why anyone would even consider a horrendously overpriced and less capable iPhone.' **** 'less'
+---"To be fair, it's my first smart phone, but I'm reticent to sign contracts (won't) and I was eagerly awaiting the new iPhone for Virgin Mobile." **** 'new'
+---'While the quality of the display is not equal to a top-of-the-line Samsung or iPhone, it is very crisp and sharp.' **** 'sharp'
+---'On to the complaints:1) Slow processing speed - menus and apps move rather slowly compared to an iphone or newer samsung device.' **** 'newer'
+
+
+================================================================================================================
+__________('optimus', 'elite')__________
+
+
+Positive Reviews:
+
+---'This product LG Optimus Elite is a nice and good quality cellphone.' **** 'nice'
+---'While the LG Optimus Elite looks nice, you should shop for better options.' **** 'nice'
+---'This Optimus Elite is a very nice phone for the price, I like it better than the Optimus V, and it appears to be better at capturing a signal.' **** 'better'
+---"Things you should do:- Get a case (the plastic back on this phone is slippery)- Get a screen protector (at least the cheap plastic ones)- Get the 'Minutes Checker Free' app to check your minutes from your phone- Love your new Optimus Elite :)" **** 'new'
+---'I contacted Amazon and was happy to hear that they would indeed allow me to return the Optimus Elite phone.' **** 'allow'
+---'This product LG Optimus Elite is a nice and good quality cellphone.' **** 'nice'
+---'While the LG Optimus Elite looks nice, you should shop for better options.' **** 'nice'
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -488,63 +164,57 @@ __________('front', 'facing', 'camera')__________
 
 Positive Reviews:
 
----"she did comment that she wished it had front facing camera and wasn't able to get onto instagram for some reason." **** 'front'
----"it doesn't have a front facing camera, but honestly i dont miss it." **** 'miss'
+---"If the Elite had a front-facing camera, that'd be more sweet!" **** 'sweet'
+---"She did comment that she wished it had front facing camera and wasn't able to get onto Instagram for some reason." **** 'front'
+---"It doesn't have a front facing camera, but honestly I dont miss it." **** 'miss'
+---'The Cons: No face-front camera or 4G compatible.' **** 'compatible'
+---'The phone is well designed I suppose, it is intuitive, keyboard is easy, camera not bad.' **** 'bad'
+---'The camera is also pretty good too.' **** 'good'
+---"If the Elite had a front-facing camera, that'd be more sweet!" **** 'sweet'
+---'I am happy that I bought this one, love the camera and the ability to modify the pictures on the phone.' **** 'happy'
+---'I am happy that I bought this one, love the camera and the ability to modify the pictures on the phone.' **** 'love'
+---"2) You can't turn the noise off on the stupid camera." **** 'stupid'
+---'Decent phone but the internet rarely would pick up service even when my husband has service on his phone(different)  The camera is good.' **** 'good'
+---'Overall I am satisfied with it, but since the camera and the keyboard were my main reasons for getting another smartphone, I have to give it only three stars.' **** 'overall'
+---"It doesn't have a front facing camera, but honestly I dont miss it." **** 'miss'
 
 Negative Reviews:
 
----"she did comment that she wished it had front facing camera and wasn't able to get onto instagram for some reason." **** 'able'
+---"She did comment that she wished it had front facing camera and wasn't able to get onto Instagram for some reason." **** 'able'
+---"It doesn't compare to the iPhone or Samsung GS3, but for this affordable price its a decent performer.- Lots of free apps in the Google Play store and since this uses Gingerbread there's a good selection.- Includes GPS, 3G data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'nice'
+---"It's 5 megapixel camera takes clean and clear shots, and the flash is amazing." **** 'clean'
+---"She did comment that she wished it had front facing camera and wasn't able to get onto Instagram for some reason." **** 'able'
 
 
 ================================================================================================================
-__________('memory',)__________
+__________('internet',)__________
 
 
 Positive Reviews:
 
----"very little memory good phone if you don't use memory oror download anything i recommend the samsung galaxy epic s 2 for downloading" **** 'little'
----'the internal memory is good and holds many apps.' **** 'good'
----'it has several advantages over the optimus v including android 2.3 rather than 2.2 on the optimus v, more memory, a slightly larger screen (3.5" vs. 3.2") and a faster processor.in terms of memory, the phone comes with roughly 900 mb of main memory that is free (compared to about 150 mb on the optimus v).' **** 'main'
+---'Internet is pretty decent on it.' **** 'decent'
+---"The phone uses the Sprint 3G network and I've been pleased with how easy it is to use the internet on my phone - no matter where I am." **** 'easy'
 
 Negative Reviews:
 
----'yes i could move them to the 16 gb micro-sd card but some bits and bytes still remained on the phone and i had to have two apps to contstantly clean the memory.' **** 'clean'
----')i replaced this horror with the htc one v (still with virgin mobiles usa) with android 4.0 and a more comfortable memory of 4 gigabytes.' **** 'comfortable'
----'i am not a huge app person, so i have more than enough memory left on my phone.' **** 'enough'
----"all apps are saved to phone, and you cannot switch to sd card, but there's enough internal memory to download a lot of apps." **** 'enough'
+---'These security suites can be purchased or downloaded free from the Internet.' **** 'free'
+---"Internet searches are now pretty good and I've used it often to compare online prices to store's prices, not to mention, read reviews on amazon." **** 'good'
+---'Once I make sure it has an internet connection it loads the gallery just fine.' **** 'sure'
+---'It would drop calls, loose internet service.' **** 'loose'
 
 
 ================================================================================================================
-__________('play',)__________
+__________('decent',)__________
 
 
 Positive Reviews:
 
+---"But I say that if you need a smart phone that's decent but not super great, I wouldn't hesitate buying this." **** 'super'
 
 Negative Reviews:
 
----'"the bulletin proceeded to identify sms trojans, rootkits and fake google play domains as security threats and offered various mitigation strategies.for example, to fight against sms trojans it advised, "install an android security suite designed to combat these threats.' **** 'google'
----"i don't stream music, play huge battery-sucker games like angry birds, or keep it plugged in all the time." **** 'music'
----'camera sucks, plus theres no forward facing lense, every time i downloaded an app i had to keep going back into google play to open it.' **** 'google'
----"this is accomplished by using two apps from google play... android assistant and memory booster.now... (imo), the battery life is marginal and will drain fast if you're playing with this phone all day." **** 'google'
-
-
-================================================================================================================
-__________('things',)__________
-
-
-Positive Reviews:
-
----"i got it for my wife (who essentially just wants email and texting and i am trying to show her she can do other things too which she will do once she sees that it is so easy) and for my daughter (who has used it fervently since it went into her hands).so what is wrong that i am holding my breath?my wife's phone started turning off on its own after just a day." **** 'other'
----'other things to note: bluetooth version 4.6 and nfc are rare on a phone in this range.the battery is 1520 mah.' **** 'other'
----'after you run the task killer, the software that needs to be in resident memory (or apps that assume you want them to) will restart, which in the case of the necessary things, is a good thing.' **** 'necessary'
----'i hope you enjoyed and learned some new things.' **** 'new'
----"for about an hour the battery was still near full.- the phone's very light - would could actually be a bad thing (i could picture myself dropping it a little easier)not so good -- the texting portion is a bit harder on this than on the moto droid - there are some minor things, but - it's also noted that most of these inconveniences will be overcome by using the phone more and getting more accustomed to it." **** 'minor'
-
-Negative Reviews:
-
----'it can be a little tricky to figure out how to do certain things...like add and save new contacts' **** 'certain'
----'then i realized that there many people like to complain about the smallest of things, so i went with the purchase.' **** 'smallest'
+---"Overall, if it works a decent phone for the money, but I'm annoyed enough with my current one to write this one star review, so take that for what it's worth." **** 'overall'
+---'upgraded from optimus V, not quite as reliable, but a decent upgrade.' **** 'reliable'
 
 
 ================================================================================================================
@@ -559,52 +229,25 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('flash',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i do notice it without a cover.the camera is ok as long as the light is good, even with the flash.' **** 'good'
----'flash is bright enough to take good pictures in dark settings(in-doors anyway), and camera autofocuses during the camera mode(or you can focus manually by touching the screen).' **** 'bright'
-
-
-================================================================================================================
-__________('a', 'long', 'time')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'it appears i have to use the warranty, pay for shipping, and send it in for repair.even when it worked properly, it takes a long time to start up and be ready for use.my wife has had the same phone for 3 months, and sometimes hers is glitchy.' **** 'long'
----'its fast, and the battery lasts a considerably long time with heavy use.' **** 'long'
----'i think that has more to do with the phone than the provider.these might seem petty but i came from having verizon and a droid incredible for a very long time.' **** 'long'
----'the battery also lasts a long time when i only have the cdma connectivity enabled and brightness on low.your best bet for a very decent mid-range android.' **** 'long'
----'the battery runs out quickly after a while and takes a long time to gain and hold charge.' **** 'long'
----"the battery lasts a long time - much longer than other cell phones i've had.the lg optimus elite is part of virgin mobile's beyond talk plan (meaning i pay a monthly fee rather than topping up every three months) but there is no contract and it is a nice phone and well worth the monthly fee." **** 'long'
-
-
-================================================================================================================
 __________('android',)__________
 
 
 Positive Reviews:
 
----'but my phone from best buy works great.it was my first android and i like it.' **** 'first'
----'this is far and away the best android phone i have used on virgin mobile.' **** 'best'
----'this is my first android phone.' **** 'first'
----'the optimus elite is by far the best android i have used so far.' **** 'best'
----'the battery also lasts a long time when i only have the cdma connectivity enabled and brightness on low.your best bet for a very decent mid-range android.' **** 'decent'
----'thank you so much love the lg optimus elite android phone the best phone i ever bought thank you amazon for my purchase.i would recommend this android phone to anyone.' **** 'elite'
----"this phone was by far the best android i've owned with virgin mobile yet." **** 'best'
+---'It was my first android and I like it.' **** 'first'
+---'This is far and away the best android phone I have used on Virgin Mobile.' **** 'best'
+---'This is my first Android phone.' **** 'first'
+---'The Optimus Elite is by far the best Android I have used so far.' **** 'best'
+---'Your best bet for a very decent mid-range android.' **** 'decent'
+---"This could be the fault of Virgin Mobile, but I've read in many Android forums that the phone is more to blame in this situation..." **** 'read'
+---"I'm new to Android, but I'm enjoying learning about how to work with it and optimize things." **** 'new'
+---"This phone was by far the best android I've owned with Virgin Mobile yet." **** 'best'
 
 Negative Reviews:
 
----'i probably should have bought a better android phone but they are too complicated to use, too heavy to carry...blah blah blah.' **** 'better'
+---"Performance:Having never used the Android OS before, I really didn't know what to expect but within an hour I had the basics down and in a week I was operating the phone to its full capabilities." **** 'used'
+---'This was the worst Android device I ever owned.' **** 'worst'
+---'I probably should have bought a better android phone but they are too complicated to use, too heavy to carry... blah blah blah.' **** 'better'
 
 
 ================================================================================================================
@@ -613,31 +256,140 @@ __________('upgrade',)__________
 
 Positive Reviews:
 
----'this phone is a major upgrade from the optimus slider.' **** 'major'
+---'While the specs for the phone report it is an 800 MHz processor, reports on the Internet (which I confirmed with my phone using Quadrant) is that currently the phone is shipping with a processor speed of 1 GHz, a nice upgrade.' **** 'nice'
 
 Negative Reviews:
 
----'the lg optimus elite is a definite upgrade from the optimus v. the processor is notably faster, and the screen is bigger.' **** 'definite'
----'they told me i could upgrade, but because i was upgrading too soon, i would have to pay an additional $100 dollars for the early upgrade.' **** 'early'
+---'The LG Optimus Elite is a definite upgrade from the Optimus V. The processor is notably faster, and the screen is bigger.' **** 'definite'
+---'They told me I could upgrade, but because I was upgrading too soon, I would have to pay an additional $100 dollars for the early upgrade.' **** 'early'
 
 
 ================================================================================================================
-__________('thing',)__________
+__________('and', 'battery', 'life')__________
 
 
 Positive Reviews:
 
----'good thing that i bought it with the amazon card promo.' **** 'good'
----'in fact, on my htc i ended up installing swiftkey for a better keyboard, but on the optimus elite the standard out of the box keyboard is being used on both phones.an interesting thing about this phone is that it has nfc (near field communication) so you can use your phone as a payment device if you set up a credit card with your google account.' **** 'interesting'
----'the only good thing about it is its size.' **** 'good'
----"everything i need is in this phone and carrier.cheap monthly plan, wifi, 3g, games...so far so good.one thing i'm disappointed is a battery life(if i use applications long time, it doesn't last two days)" **** 'disappointed'
----'after you run the task killer, the software that needs to be in resident memory (or apps that assume you want them to) will restart, which in the case of the necessary things, is a good thing.' **** 'good'
----'vs optimus v, the only good thing is appearance.' **** 'good'
----"for about an hour the battery was still near full.- the phone's very light - would could actually be a bad thing (i could picture myself dropping it a little easier)not so good -- the texting portion is a bit harder on this than on the moto droid - there are some minor things, but - it's also noted that most of these inconveniences will be overcome by using the phone more and getting more accustomed to it." **** 'bad'
+---'The reception is good I like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also I recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
+---'The battery life is good.' **** 'good'
+---'The reception is good I like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also I recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
+---'Nice size, good battery life.' **** 'good'
+---'The battery life is good.' **** 'good'
+---'The reception is good I like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also I recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
+---'I also have become efficient in removing the outer and inner frame in order to remove the battery, should it become necessary.' **** 'necessary'
+---'The battery last about 2 hours max, so I left it home and only use it at bedtime.' **** 'last'
+---'Even with two auto-task killers, the phone apps never seem to completely shut down - which makes conserving battery even more difficult.' **** 'difficult'
+---'We are going to Disney soon and I will be getting a portable battery to charge my phone during the day, but I do know my phone will still get me though!' **** 'portable'
+---"However, I've have two of these phones since April when I purchased the original.- The first battery that was in the original phone was damaged and caused the phone to get so hot it was uncomfortable (and almost painful) to hold." **** 'first'
+---"Have had it lock up once but just pop the back cover off and pull the battery and starts right back up and I'm not sure if that was the phone or an app that acted up." **** 'pull'
+---'Over all I like the phone, no problem with the battery and pretty easy to use.' **** 'easy'
+---"It takes them about a month to 2 months just to ship this thing to order ive been waiting up to a month now still diden't get, these sellers take their time and the item is not even that good, low battery, and everything i rate this bad because of this slow shipping" **** 'low'
+---'I guess if you want this phone staying on longer than 5 hours, get an extended battery on it.' **** 'extended'
+---'But if you just use it as a phone and for texting rather than surfing, then the battery does last the entire day.' **** 'last'
+---'Nice size, good battery life.' **** 'good'
+---'If I still have a problem with it being half dead everytime I grab it to run out the door I will go through the friends I have with teenagers who either distroy their phones on a regular basis or just feel the need for a new one every couple months a find an extra battery to keep with it.' **** 'extra'
+---'I thought maybe the battery was bad, but I got a new one and it did not work.' **** 'bad'
+---'52 inch screen only has a 1800 mAh battery, I would say the 1520 in this is pretty good.' **** 'good'
+---"Very handy for keeping my phone set up to use as little battery power as possible, such as game playing were I don't need any wifi or data at all." **** 'little'
+---'This seems to make the battery last much longer.' **** 'last'
 
 Negative Reviews:
 
----'for the price this in an okay phone, the first thing i noticed it the phone is very light weight, so much so it almost feels cheap.' **** 'first'
+---'The battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
+---'Overall I would only change the life of the battery.' **** 'overall'
+---'The only problem is the battery life is short.' **** 'short'
+---'I would consider this "fair" to "poor" battery life for a smartphone since I\'m a light user.' **** 'poor'
+---'was disappointed in the short battery life.' **** 'short'
+---'The battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
+---'I download a battery extender that claims to double the battery life we wil see how it goes.' **** 'double'
+---'Battery life is average.' **** 'average'
+---'may downgrade this to 3 stars due to poor battery life.' **** 'poor'
+---'Overall I would only change the life of the battery.' **** 'overall'
+---'The only problem is the battery life is short.' **** 'short'
+---'The battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
+---'A lot of apps can be load for free..- Wifi capable; 5M pix camera; support micro SD; 3G networkBad: Phone battey life is short.' **** 'short'
+---'Battery life is average.' **** 'average'
+---"So far I've gotten only a bit frustrated and I think that is more because I don't entirely understand how the easy battery savery and task killers should be set up/work." **** 'easy'
+---"It takes them about a month to 2 months just to ship this thing to order ive been waiting up to a month now still diden't get, these sellers take their time and the item is not even that good, low battery, and everything i rate this bad because of this slow shipping" **** 'good'
+---'I would consider this "fair" to "poor" battery life for a smartphone since I\'m a light user.' **** 'poor'
+---'was disappointed in the short battery life.' **** 'short'
+---'For me the battery can last about 2 days (not 48 hours, but time I spend awake).' **** 'last'
+---'Only problem with this phone is that the battery is pretty bad.' **** 'bad'
+---"My only problem is the battery doesn't last that long." **** 'last'
+---'Even worse battery time than the V. Although the phone seems to have better speakers than the V, I find call quality to be substandard.' **** 'worse'
+---'the triumph sucks battery is really bad.' **** 'bad'
+---'The only thing that kind of sucks is the battery but other than that it works great!!' **** 'other'
+---'I download a battery extender that claims to double the battery life we wil see how it goes.' **** 'double'
+---"Speaking of battery -  it doesn't last that long regardless." **** 'last'
+---'I thought maybe the battery was bad, but I got a new one and it did not work.' **** 'new'
+---'It is a good task killer, plus it has a free battery widget (Easy Battery Saver) you can add to it.' **** 'free'
+---'The battery is very average.' **** 'average'
+---"The battery is not very good, when I'm on it a lot I'll charge it twice a day." **** 'good'
+---'may downgrade this to 3 stars due to poor battery life.' **** 'poor'
+---'After only about 5 hours its down to half a bar on the battery with little to no use, wi-fi/gps turned off etc.' **** 'little'
+
+
+================================================================================================================
+__________('calls',)__________
+
+
+Positive Reviews:
+
+---'I did check my prefs to make sure that calls aren\'t getting sent to VMail), 3) getting a signal is more difficult than ever, 4) I\'m able to get home long before my text gets to my intended party (I send an "I\'m on my way" message before I take off... 15 minutes later, bing!' **** 'sure'
+---"I am not really into videos or music streaming but, if you want to text, email, make and receive calls, you can't go wrong." **** 'wrong'
+
+Negative Reviews:
+
+---'The Virgin mobile service was terrible, I was unable to switch between calls.' **** 'unable'
+---"The sound is nice and crisp and I've had no problems with dropped calls." **** 'dropped'
+---"I am not really into videos or music streaming but, if you want to text, email, make and receive calls, you can't go wrong." **** 'receive'
+
+
+================================================================================================================
+__________('internal', 'memory')__________
+
+
+Positive Reviews:
+
+---'The internal memory is good and holds many apps.' **** 'good'
+---'The internal memory is good and holds many apps.' **** 'good'
+---'In terms of memory, the phone comes with roughly 900 MB of main memory that is free (compared to about 150 MB on the Optimus V).' **** 'main'
+
+Negative Reviews:
+
+---"All apps are saved to phone, and you cannot switch to SD card, but there's enough internal memory to download a lot of apps." **** 'enough'
+---'Yes I could move them to the 16 Gb micro-SD card but some bits and bytes still remained on the phone and i had to have two apps to contstantly clean the memory.' **** 'clean'
+---'0 and a more comfortable memory of 4 gigabytes.' **** 'comfortable'
+---'I am not a huge app person, so I have more than enough memory left on my phone.' **** 'enough'
+---"All apps are saved to phone, and you cannot switch to SD card, but there's enough internal memory to download a lot of apps." **** 'enough'
+
+
+================================================================================================================
+__________('on', 'optimus', 'v')__________
+
+
+Positive Reviews:
+
+---'This Optimus Elite is a very nice phone for the price, I like it better than the Optimus V, and it appears to be better at capturing a signal.' **** 'better'
+---'The Optimus One V was acceptable and the HTC One V was horrible.' **** 'acceptable'
+---"Things you should do:- Get a case (the plastic back on this phone is slippery)- Get a screen protector (at least the cheap plastic ones)- Get the 'Minutes Checker Free' app to check your minutes from your phone- Love your new Optimus Elite :)" **** 'new'
+---'Used to have an Optimus V which was terrible.' **** 'used'
+---'This Optimus Elite is a very nice phone for the price, I like it better than the Optimus V, and it appears to be better at capturing a signal.' **** 'better'
+---'The Optimus One V was acceptable and the HTC One V was horrible.' **** 'acceptable'
+---"I have owned 4 of these for a year now and I'm very very happy I switched from my Optimus V to this." **** 'happy'
+---"Things you should do:- Get a case (the plastic back on this phone is slippery)- Get a screen protector (at least the cheap plastic ones)- Get the 'Minutes Checker Free' app to check your minutes from your phone- Love your new Optimus Elite :)" **** 'new'
+---'Used to have an Optimus V which was terrible.' **** 'used'
+---'This Optimus Elite is a very nice phone for the price, I like it better than the Optimus V, and it appears to be better at capturing a signal.' **** 'better'
+---"I have owned 4 of these for a year now and I'm very very happy I switched from my Optimus V to this." **** 'happy'
+---"Things you should do:- Get a case (the plastic back on this phone is slippery)- Get a screen protector (at least the cheap plastic ones)- Get the 'Minutes Checker Free' app to check your minutes from your phone- Love your new Optimus Elite :)" **** 'new'
+---'I contacted Amazon and was happy to hear that they would indeed allow me to return the Optimus Elite phone.' **** 'allow'
+
+Negative Reviews:
+
+---'(Can you believe that, way would anyone steal an Optimus V?)' **** 'steal'
+---'stay with optimus v, mine dropped to hard floor, display is messed up.' **** 'mine'
+---'(Can you believe that, way would anyone steal an Optimus V?)' **** 'steal'
+---'(Can you believe that, way would anyone steal an Optimus V?)' **** 'steal'
 
 
 ================================================================================================================
@@ -646,10 +398,36 @@ __________('flash', 'for', 'camera')__________
 
 Positive Reviews:
 
+---'The camera is OK as long as the light is good, even with the flash.' **** 'good'
 
 Negative Reviews:
 
----"it doesn't compare to the iphone or samsung gs3, but for this affordable price its a decent performer.- lots of free apps in the google play store and since this uses gingerbread there's a good selection.- includes gps, 3g data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'nice'
+---"It doesn't compare to the iPhone or Samsung GS3, but for this affordable price its a decent performer.- Lots of free apps in the Google Play store and since this uses Gingerbread there's a good selection.- Includes GPS, 3G data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'nice'
+---'Flash is bright enough to take good pictures in dark settings(in-doors anyway), and camera autofocuses during the camera mode(or you can focus manually by touching the screen).' **** 'bright'
+
+
+================================================================================================================
+__________('lot', 'of', 'apps')__________
+
+
+Positive Reviews:
+
+---"It doesn't compare to the iPhone or Samsung GS3, but for this affordable price its a decent performer.- Lots of free apps in the Google Play store and since this uses Gingerbread there's a good selection.- Includes GPS, 3G data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'free'
+---'Android apps are the best, there are so many free fun ones!' **** 'best'
+---'There is also an app called 4shared where you can search for the paid apps, and if the one you want is available, it can be downloaded for free!' **** 'available'
+---"It's much easier to find apps for this than it is for my Kindle Fire HD." **** 'much'
+---"It's much easier to find apps for this than it is for my Kindle Fire HD." **** 'easier'
+---"It doesn't compare to the iPhone or Samsung GS3, but for this affordable price its a decent performer.- Lots of free apps in the Google Play store and since this uses Gingerbread there's a good selection.- Includes GPS, 3G data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'free'
+---"I have to unload some apps on it since some of them don't work and slow it down." **** 'slow'
+---"That's why I make sure that I don't keep too many running apps in the background, and I drop the screen brightness to below 50%." **** 'sure'
+---'For example, one or two of my favorite apps, like tumblr, crash frequently without any warning.' **** 'favorite'
+---'I use it for telephone calls, messaging, email, and a few other apps - not much for games.' **** 'other'
+
+Negative Reviews:
+
+---'There is also an app called 4shared where you can search for the paid apps, and if the one you want is available, it can be downloaded for free!' **** 'free'
+---'I talk, take pictures, text, play games, use other apps.' **** 'other'
+---"Even when using video apps it holds up longer than I'd expected." **** 'longer'
 
 
 ================================================================================================================
@@ -658,16 +436,32 @@ __________('data',)__________
 
 Positive Reviews:
 
----"it doesn't compare to the iphone or samsung gs3, but for this affordable price its a decent performer.- lots of free apps in the google play store and since this uses gingerbread there's a good selection.- includes gps, 3g data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'unreliable'
+---"It doesn't compare to the iPhone or Samsung GS3, but for this affordable price its a decent performer.- Lots of free apps in the Google Play store and since this uses Gingerbread there's a good selection.- Includes GPS, 3G data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'unreliable'
 ---'the data is good.' **** 'good'
----"yes, virgin data is still slow, but hey everything works!no problems checking in using yelp, no app crashes, i haven't had to restart my phone!" **** 'slow'
 
 Negative Reviews:
 
----"i've put in a trouble ticket to virgin mobile regarding this issue, have called support, and all i've received so far was stock/scripted responses.- i live in the washington d.c. metro area and i should be receiving a great consistent signal, but i'm constantly dropping calls and many times my 3g data drops off- bad or unreliable data connectivity." **** 'unreliable'
----"this could be the fault of virgin mobile, but i've read in many android forums that the phone is more to blame in this situation...i constantly lose my 3g data connection which makes it hard to surf the web, listen to pandora, use the gps, get traffic updates, use google voice, or do anything else that requires a data connection- the battery life is so so." **** 'lose'
----'the one i created has the following toggles: turn the camera flash off/on (for use as a flashlight), 3g data off/on, airplane mode off/on, bluetooth off/on, gps off/on, wifi off/on, as well as two shortcuts...one to a screen dimmer that i downloaded and one to a little app that turns off background data syncing with google.' **** 'google'
----'there have been reports that phone will give permanent data error, forcing users to reset the phone via virgin mobile customer service.' **** 'permanent'
+---"I've put in a trouble ticket to Virgin Mobile regarding this issue, have called support, and all I've received so far was stock/scripted responses.- I live in the Washington D. C. Metro area and I should be receiving a great consistent signal, but I'm constantly dropping calls and many times my 3G Data drops off- Bad or unreliable data connectivity." **** 'unreliable'
+---'I constantly lose my 3G data connection which makes it hard to surf the web, listen to Pandora, use the GPS, get traffic updates, use Google Voice, or do anything else that requires a data connection- The Battery life is so so.' **** 'lose'
+---'Yes, Virgin Data is still slow, but hey everything works!' **** 'slow'
+---'There have been reports that phone will give permanent data error, forcing users to reset the phone via Virgin Mobile customer service.' **** 'permanent'
+
+
+================================================================================================================
+__________('much', 'better')__________
+
+
+Positive Reviews:
+
+---"It's amazing how much better his is than mine." **** 'much'
+---"I'd still upgrade to it from the OV, it is just that much better a phone." **** 'much'
+---"The OptE's screen is much better resolution and even though the size grew by only ." **** 'much'
+
+Negative Reviews:
+
+---"It's amazing how much better his is than mine." **** 'mine'
+---'I am not a power user, if I was I would go for a much better, more expensive phone but this model is not an "upgrade" at all from my old Optimus V, which was no speed demon but never failed me.' **** 'much'
+---'Email works flawlessly and voice to text is almost as good as the HTC One V. Signal strength is much better and has not lost service since it has been activated.' **** 'much'
 
 
 ================================================================================================================
@@ -676,54 +470,129 @@ __________('micro', 'sd', 'card')__________
 
 Positive Reviews:
 
----'(i had to reset it though which could have erased all stuff if i did not have it in my micro sd card)overall:it is a great phone and i would recommend it to anyone.' **** 'overall'
+---'It will take a 32 GB memory card for music and such, and you can actually store programs on it using free software such as App Mgr III (App 2 SD).' **** 'music'
+---"The manual says you can add up to a 32gb sd card but my phone will not mount any sd card and I have tried different cards thinking that the card might have been bad, nope, not the card it's the phone." **** 'manual'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('size',)__________
+__________('touch', 'screen')__________
 
 
 Positive Reviews:
 
----'the touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'responsive'
----'the touchscreen is very responsive, the size is nice, and the buttons are responsive.' **** 'nice'
----'the phone itself was a good size and not too heavy.' **** 'heavy'
+---"It has a poor touch screen, it's just not sensitive enough to play games particularly well, and annoying themeing manager forced onto it by default." **** 'poor'
+---"It's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'nice'
+---"It's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'responsive'
+---'the screen freezes which is very frustrating since it is a touch screen.' **** 'touch'
+---'Social networking, email, android marketplace, easy touch screen keyboard, accessibility, good looking phone for being a more affordable end smart phone, responsive ect.' **** 'easy'
 
 Negative Reviews:
 
----'the size is great since it\'s not a "king size" phone, yet the keyboard (when in landscape) is a good size for my hands.' **** 'good'
----'screen size is perfect never have a hard time typing.' **** 'perfect'
----'it is a nice size, fairly sturdy, comes with a fair amont of memory, it has not frozen up on me and has fairly decent sound.' **** 'nice'
----'i like the size of the elite and have noticed that it is a lot faster (3g) than my v phone.' **** 'elite'
----'the phone itself was a good size and not too heavy.' **** 'good'
+---"Considering it's my first touch screen phone, I'm not able to put it down." **** 'first'
+---"It's rather thin too, so it won't bulge out from your pockets.- Nice screen resolution and decent screen size.- Pretty responsive touch screen." **** 'responsive'
+---"The touch sensitivity of this phone is almost usable in that if you hit the same spot 20 times, one of those times the motion might get picked up by the touch screen and the command might actually go through, but you won't know until you hit it a few more times and then suddenly you're breezing through options you never wanted to select because the phone is spontaneously working at lightning speed, exclusively to screw you over." **** 'touch'
+---"This is a phone for people who have never had a smartphone before and thus have no idea what smartphones are capable of, someone who is just excited that there's a touch screen that lights up." **** 'touch'
 
 
 ================================================================================================================
-__________('hours',)__________
+__________('for', 'virgin', 'mobile')__________
 
 
 Positive Reviews:
 
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
+---"But I'm pretty sure that's a Virgin Mobile issue and not an LG Optimus Elite issue, and for $35 I'm not going to make a big stink about it." **** 'sure'
+---"That last one could be Virgin Mobile's doing, not sure how." **** 'sure'
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
+---"But I'm pretty sure that's a Virgin Mobile issue and not an LG Optimus Elite issue, and for $35 I'm not going to make a big stink about it." **** 'sure'
+---"That's because Virgin does slow down the data service after you hit their cap (can't recall what that cap is)." **** 'slow'
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
+---"But I'm pretty sure that's a Virgin Mobile issue and not an LG Optimus Elite issue, and for $35 I'm not going to make a big stink about it." **** 'sure'
+---'A joint DHS-FBI bulletin read, "Android is the world\'s most widely used mobile operating system (OS) and continues to be a primary target for malware attacks due to its market share and open source architecture.' **** 'used'
+---"That last one could be Virgin Mobile's doing, not sure how." **** 'sure'
 
 Negative Reviews:
 
----"speaking of battery, it doesn't last an entire 24 hours even with the gps turned off, etc." **** 'last'
----"it didn't even last five hours!" **** 'last'
----'so the battery life needs improvement but i did find a. battery app that controls your settings and screen brightness automatically and has a sleep timer and shuts down during certain hours (usually between 12am to 8am) so i recommend getting it.' **** 'certain'
----'it would die in less than 6 hours.' **** 'less'
----'i am so happy with this phone.the battery isnt so bad or the best but it last me like 7 hours with light use of course if you on you tube or listening to music or on the web the battety is going to drained faster.' **** 'last'
+---'If you look up at any other Virgin Mobile phone, the 4G newer models run for 2x more.' **** 'other'
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
+---"That last one could be Virgin Mobile's doing, not sure how." **** 'last'
+---'If you look up at any other Virgin Mobile phone, the 4G newer models run for 2x more.' **** 'other'
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
+---'99 from Virgin Mobile, free from Sprint.' **** 'free'
+---"That last one could be Virgin Mobile's doing, not sure how." **** 'last'
+---"It's a prepaid phone through Virgin, It's perfect for me since I don't use a lot of minutes." **** 'perfect'
+---'If you look up at any other Virgin Mobile phone, the 4G newer models run for 2x more.' **** 'other'
+---'It always switches to 2G even when other virgin phones are running in 3G in the same area.' **** 'other'
+---"I don't talk much, so the $35 Virgin plan is perfect." **** 'much'
+---'I eventually want to upgrade to the iPhone 5 whenever it becomes available to Virgin.' **** 'available'
+---'I read numerous Droid forums looking for solutions and all other Virgin Mobile LG Optimus Elite users say that Virgin Mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
+---'99 from Virgin Mobile, free from Sprint.' **** 'free'
 
 
 ================================================================================================================
-__________('work',)__________
+__________('customer', 'service')__________
 
 
 Positive Reviews:
 
----'great job virgin mobile keep up the good work with these good quality phones for cheaper prices.' **** 'good'
+---'I would way rather pay a bit more per month to have reliable service and good customer service.' **** 'reliable'
+---'I would way rather pay a bit more per month to have reliable service and good customer service.' **** 'good'
+---"(2) Their customer service was exceptionally slow to respond; and some of the people I spoke with didn't even make an effort to fix the problem, they just shunted me to the returns department (I had to persuade them to try to fix the issue instead of returning it)." **** 'slow'
+---'I would way rather pay a bit more per month to have reliable service and good customer service.' **** 'reliable'
+---'Service is better with this phone, and I love that it connects to WiFi.' **** 'better'
+---"(2) Their customer service was exceptionally slow to respond; and some of the people I spoke with didn't even make an effort to fix the problem, they just shunted me to the returns department (I had to persuade them to try to fix the issue instead of returning it)." **** 'slow'
+---"The screen is really bad too and Sprint's 3g service is so bad, I am questioning whether the money saved is worth it." **** 'bad'
+---'Virgin mobile is great, good service, been with them for years and have several accounts.' **** 'good'
+
+Negative Reviews:
+
+---'This is a pretty good phone rendered useless by awful service and atrocious customer service.' **** 'awful'
+---'Buyer beware --- my entire experience with this phone and the Virgin Mobile service was unsatisfactory.' **** 'unsatisfactory'
+---'This is a pretty good phone rendered useless by awful service and atrocious customer service.' **** 'awful'
+
+
+================================================================================================================
+__________('wifi',)__________
+
+
+Positive Reviews:
+
+---"If not for the hotel's free wifi the phone would've been a waste to even bring along!" **** 'free'
+---'Most of the time you have to turn off and on again the WiFi for it to find a new signal.' **** 'new'
+---"If you're lucky, it might find your wifi network, although no guarantees it will actually work on it either." **** 'lucky'
+---'A lot of apps can be load for free..- Wifi capable; 5M pix camera; support micro SD; 3G networkBad: Phone battey life is short.' **** 'capable'
+---'Recommended on Wifi connection only.' **** 'recommended'
+
+Negative Reviews:
+
+---"- Very good for MP3 (need equalizer app to make it sound better)- Good when watching Youtube (only WiFi, not Virgin Mobile) or offline video.- News update is OK- For phone service it is OK- For Internet browsing, it is decent with WiFi (for Virgin Mobile service it won't load the page)- Battery is so so..." **** 'decent'
+---"I keep the data off when I'm at home and have it set up to use wifi instead of data if there's wifi nearby that I've logged into in the past." **** 'past'
+
+
+================================================================================================================
+__________('amazon',)__________
+
+
+Positive Reviews:
+
+---'amazon is easy to work with regarding replacements though.' **** 'easy'
+---'I contacted Amazon and was happy to hear that they would indeed allow me to return the Optimus Elite phone.' **** 'happy'
+
+Negative Reviews:
+
+---'The best part was that we got it cheaper through Amazon than the manufacturer!' **** 'cheaper'
+
+
+================================================================================================================
+__________('a', 'front', 'facing')__________
+
+
+Positive Reviews:
+
+---"She did comment that she wished it had front facing camera and wasn't able to get onto Instagram for some reason." **** 'front'
 
 Negative Reviews:
 
@@ -735,707 +604,12 @@ __________('htc', 'one', 'v')__________
 
 Positive Reviews:
 
----'the optimus one v was acceptable and the htc one v was horrible.' **** 'acceptable'
+---'The Optimus One V was acceptable and the HTC One V was horrible.' **** 'acceptable'
+---'The Optimus One V was acceptable and the HTC One V was horrible.' **** 'acceptable'
 
 Negative Reviews:
 
----'email works flawlessly and voice to text is almost as good as the htc one v. signal strength is much better and has not lost service since it has been activated.' **** 'good'
-
-
-================================================================================================================
-__________('virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
----"just $99.99 from virgin mobile, free from sprint.it is a low end smart phone, so you can't really compare to high end phones." **** 'free'
----"but i'm pretty sure that's a virgin mobile issue and not an lg optimus elite issue, and for $35 i'm not going to make a big stink about it." **** 'sure'
-
-Negative Reviews:
-
----'if you look up at any other virgin mobile phone, the 4g newer models run for 2x more.' **** 'other'
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
----"i've had voice stream, t-mobile, cingular, at&t;, boost mobile, virgin mobile, simple mobile and now i'm back at virgin mobile." **** 'simple'
-
-
-================================================================================================================
-__________('battery', 'life')__________
-
-
-Positive Reviews:
-
----'the battery life is good.' **** 'good'
----'the reception is good i like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also i recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
----"i'll say i love it & i also kinda dislike it, the only problem is the battery life is.... really bad, when i'm not using it i just try it off." **** 'bad'
----'nice size, good battery life.' **** 'good'
-
-Negative Reviews:
-
----'overall i would only change the life of the battery.' **** 'overall'
----'i would consider this "fair" to "poor" battery life for a smartphone since i\'m a light user.the good:- this smartphone is the perfect size.' **** 'poor'
----'was disappointed in the short battery life.' **** 'short'
----'the battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
----'i download a battery extender that claims to double the battery life we wil see how it goes.' **** 'double'
----'battery life is average.' **** 'average'
----'best bang for buck.may downgrade this to 3 stars due to poor battery life.' **** 'poor'
-
-
-================================================================================================================
-__________('to', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----"just $99.99 from virgin mobile, free from sprint.it is a low end smart phone, so you can't really compare to high end phones." **** 'free'
----"but i'm pretty sure that's a virgin mobile issue and not an lg optimus elite issue, and for $35 i'm not going to make a big stink about it." **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('virgin',)__________
-
-
-Positive Reviews:
-
----"that's because virgin does slow down the data service after you hit their cap (can't recall what that cap is)." **** 'slow'
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
----"but i'm pretty sure that's a virgin mobile issue and not an lg optimus elite issue, and for $35 i'm not going to make a big stink about it." **** 'sure'
----"arrived quickly, very easy to set up (i've gotten virgin phones before that were hell to activate & keep same number)." **** 'easy'
-
-Negative Reviews:
-
----"it's a prepaid phone through virgin, it's perfect for me since i don't use a lot of minutes." **** 'perfect'
----'if you look up at any other virgin mobile phone, the 4g newer models run for 2x more.' **** 'other'
----'it always switches to 2g even when other virgin phones are running in 3g in the same area.' **** 'other'
-
-
-================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
----"but other than that i haven't had any other problems." **** 'other'
----"but other than that i haven't had any other problems." **** 'other'
----'i have never had any problems with it other than the 3g being too slow.' **** 'other'
----'i have never had any problems with it other than the 3g being too slow.' **** 'slow'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'the battery life is good.' **** 'good'
----'the reception is good i like the features although my only complaint in the texting is not so easy because of the keyboard size touch screen and the battery life is so so depending how long you plan to be on it per day and for what you use it for also i recommend using the juice defender app which saves your battery a little more by blocking all the auto background stuff.' **** 'long'
----"i'll say i love it & i also kinda dislike it, the only problem is the battery life is.... really bad, when i'm not using it i just try it off." **** 'bad'
-
-Negative Reviews:
-
----'overall i would only change the life of the battery.' **** 'overall'
----'the battery life on average for me is about 2 hours with minimal use, the phone shuts off randomly and freezes constantly.' **** 'average'
----'a lot of apps can be load for free..- wifi capable; 5m pix camera; support micro sd; 3g networkbad: phone battey life is short.' **** 'short'
----'battery life is average.' **** 'average'
-
-
-================================================================================================================
-__________('decent',)__________
-
-
-Positive Reviews:
-
----"but i say that if you need a smart phone that's decent but not super great, i wouldn't hesitate buying this." **** 'super'
-
-Negative Reviews:
-
----"overall, if it works a decent phone for the money, but i'm annoyed enough with my current one to write this one star review, so take that for what it's worth." **** 'overall'
----'upgraded from optimus v, not quite as reliable, but a decent upgrade.' **** 'reliable'
-
-
-================================================================================================================
-__________('lg', 'optimus')__________
-
-
-Positive Reviews:
-
----'enter...lg optimus elite!' **** 'elite'
----'after scouting numerous smartphones being offered from the big names as well as prepaid, i opted to go for the lg optimus elite because of the positive reviews on this site as well as a few others.' **** 'elite'
----'i could buy this lg optimus elite for $130, or i could buy the galaxy s iii for $200....hmmm....' **** 'elite'
----'the lg optimus elite is such a great phone.' **** 'elite'
----'the virgin mobile lg optimus elite is a bad phone because it keeps getting an error called error code 67 and sometimes when i try to use wifi or the 3g thing it overheats' **** 'elite'
----"it has crisp call quality and has reception wherever i go (i think has sprint's coverage).during a trip to great america my cousin's expensive iphone 4s could get any signal, but mine lg optimus elite had full bars and 3g which i find funny because he spends alot more money per month than i do.the other thing that i love is that it is a prepaid phone and you are not locked into a contract which is great if you don't want to use the phone for a month while your out of the country.dislikes:i activated the phone myself and i had trouble with the process." **** 'mine'
----"in other words, i've had this phone for less than a year and it looks like the ringer has gone out on it.this is my second lg optimus phone in 2 years." **** 'second'
----'the lg optimus elite eliminated that sentiment after the first week i had it.every app on the android marketplace in compatible with it.' **** 'elite'
----"if the elite had a front-facing camera, that'd be more sweet!in closing, the lg optimus elite is just right for me in terms of cost and functions." **** 'elite'
----"i've been very happy with the lg optimus elite." **** 'happy'
----"i've been very happy with the lg optimus elite." **** 'elite'
----"the battery lasts a long time - much longer than other cell phones i've had.the lg optimus elite is part of virgin mobile's beyond talk plan (meaning i pay a monthly fee rather than topping up every three months) but there is no contract and it is a nice phone and well worth the monthly fee." **** 'elite'
----'this product lg optimus elite is a nice and good quality cellphone.good: -using droid version 2.3.7 it works fine.' **** 'elite'
----'i went ahead and bought the lg optimus elite since i wanted a phone immediately and i had had great experience with lg.' **** 'elite'
-
-Negative Reviews:
-
----'the lg optimus elite is a definite upgrade from the optimus v. the processor is notably faster, and the screen is bigger.' **** 'elite'
----'i held off writing this review for a tad just to see what happens.a bit of background:i just got back into the smart phone world and things have changed while i was gone.i did a lot of reading on phones and carriers and making a decision was a hard one.in the end, the phone i wanted was the htc evo v. it was the perfect phone for what i want (note: want, not need) but it carried a $300 price tag.another phone i considered is this one, the lg optimus elite.' **** 'elite'
----'a few months later when my lg optimus v ran out of memory, i bought the black lg optimus elite for myself.' **** 'black'
----'i am sooooo happy the triumph gave me problems or else i would have not tried the lg optimus elite!' **** 'elite'
-
-
-================================================================================================================
-__________('plan',)__________
-
-
-Positive Reviews:
-
----"turns out, i don't mind so much since i made sure to use only wifi at home and the most minutes i've used are around 200 minutes/month, so i was able to stay with the cheapest plan now offered." **** 'cheapest'
----'very nice.they said you must update to a more expensive plan with asmartphone?' **** 'expensive'
-
-Negative Reviews:
-
----"turns out, i don't mind so much since i made sure to use only wifi at home and the most minutes i've used are around 200 minutes/month, so i was able to stay with the cheapest plan now offered." **** 'able'
----"it also has the gps features which my wife loves since she's an avid runner.i don't talk much, so the $35 virgin plan is perfect." **** 'perfect'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'i also have become efficient in removing the outer and inner frame in order to remove the battery, should it become necessary.' **** 'necessary'
----'the battery last about 2 hours max, so i left it home and only use it at bedtime.' **** 'last'
----'we are going to disney soon and i will be getting a portable battery to charge my phone during the day, but i do know my phone will still get me though!' **** 'portable'
----"it fits perfectly in my pockets.however, i've have two of these phones since april when i purchased the original.- the first battery that was in the original phone was damaged and caused the phone to get so hot it was uncomfortable (and almost painful) to hold." **** 'first'
----"have had it lock up once but just pop the back cover off and pull the battery and starts right back up and i'm not sure if that was the phone or an app that acted up." **** 'pull'
----'over all i like the phone, no problem with the battery and pretty easy to use.' **** 'easy'
----"it takes them about a month to 2 months just to ship this thing to order ive been waiting up to a month now still diden't get, these sellers take their time and the item is not even that good, low battery, and everything i rate this bad because of this slow shipping" **** 'low'
----'i guess if you want this phone staying on longer than 5 hours, get an extended battery on it.' **** 'extended'
----'but if you just use it as a phone and for texting rather than surfing, then the battery does last the entire day.' **** 'last'
----'nice size, good battery life.' **** 'good'
----'if i still have a problem with it being half dead everytime i grab it to run out the door i will go through the friends i have with teenagers who either distroy their phones on a regular basis or just feel the need for a new one every couple months a find an extra battery to keep with it.' **** 'extra'
----'i thought maybe the battery was bad, but i got a new one and it did not work.' **** 'bad'
----'(considering that the samsung galaxy s ii with 4g, 1.2 ghz processor, 4.52 inch screen only has a 1800 mah battery, i would say the 1520 in this is pretty good.' **** 'good'
----'it is a good task killer, plus it has a free battery widget (easy battery saver) you can add to it.' **** 'easy'
----"very handy for keeping my phone set up to use as little battery power as possible, such as game playing were i don't need any wifi or data at all.i keep the data off when i'm at home and have it set up to use wifi instead of data if there's wifi nearby that i've logged into in the past." **** 'little'
----'this seems to make the battery last much longer.5.' **** 'last'
-
-Negative Reviews:
-
----"so far i've gotten only a bit frustrated and i think that is more because i don't entirely understand how the easy battery savery and task killers should be set up/work." **** 'easy'
----"it takes them about a month to 2 months just to ship this thing to order ive been waiting up to a month now still diden't get, these sellers take their time and the item is not even that good, low battery, and everything i rate this bad because of this slow shipping" **** 'good'
----'i would consider this "fair" to "poor" battery life for a smartphone since i\'m a light user.the good:- this smartphone is the perfect size.' **** 'poor'
----'was disappointed in the short battery life.' **** 'short'
----'for me the battery can last about 2 days (not 48 hours, but time i spend awake).' **** 'last'
----'only problem with this phone is that the battery is pretty bad.' **** 'bad'
----"my only problem is the battery doesn't last that long." **** 'last'
----'even worse battery time than the v.although the phone seems to have better speakers than the v, i find call quality to be substandard.' **** 'worse'
----'the triumph sucks battery is really bad.' **** 'bad'
----'the only thing that kind of sucks is the battery but other than that it works great!' **** 'other'
----'i download a battery extender that claims to double the battery life we wil see how it goes.' **** 'double'
----"speaking of battery -  it doesn't last that long regardless.too bad, because otherwise it's a decent phone when it's working." **** 'last'
----'i thought maybe the battery was bad, but i got a new one and it did not work.' **** 'new'
----'it is a good task killer, plus it has a free battery widget (easy battery saver) you can add to it.' **** 'free'
----'the battery is very average.' **** 'average'
----'i am so happy with this phone.the battery isnt so bad or the best but it last me like 7 hours with light use of course if you on you tube or listening to music or on the web the battety is going to drained faster.' **** 'happy'
----"the battery is not very good, when i'm on it a lot i'll charge it twice a day." **** 'good'
----'best bang for buck.may downgrade this to 3 stars due to poor battery life.' **** 'poor'
----'after only about 5 hours its down to half a bar on the battery with little to no use, wi-fi/gps turned off etc.' **** 'little'
-
-
-================================================================================================================
-__________('smart',)__________
-
-
-Positive Reviews:
-
----'my first smart phone.....i really like it.' **** 'first'
----'this is my first smart phone.' **** 'first'
----'my first smart phone is disappointing.' **** 'first'
----'this is my first "smart" phone.' **** 'first'
----"i have to say its the best phone i've ever had before and i've had other smart phones (htc hero was one i had a couple years ago) you really won't be disappointed, unless you're a smug a hole that only likes things for the looks and for the brand." **** 'other'
----'this is my first "smart" phone, and i\'m absolutely amazed at it, especially considering the price.' **** 'first'
----'i chose this phone as my first smart phone and am happy with it.' **** 'first'
-
-Negative Reviews:
-
----"this phone is just as good as any smart phone i had as a contract user!note: downloading without wi-fi can be slow, it's really the only downside i can think of." **** 'good'
----"my first smart phone and i don't need all the bells and whistles." **** 'first'
----"the one thing that i thinks its missing is a front facing camera.well for a first smart phoneonce you get this phone, you can't go back to just texting and calling" **** 'first'
----"to be fair, it's my first smart phone, but i'm reticent to sign contracts (won't) and i was eagerly awaiting the new iphone for virgin mobile." **** 'fair'
----"to be fair, it's my first smart phone, but i'm reticent to sign contracts (won't) and i was eagerly awaiting the new iphone for virgin mobile." **** 'first'
----"i'm not into specs or tinkering with the phone, again, it's my first smart phone." **** 'first'
-
-
-================================================================================================================
-__________('looking',)__________
-
-
-Positive Reviews:
-
----'these things might keep some people  away, but keep in mind, you can upgrade the launcher to give you ics type features (adw is what i use), and add a weather widget and you have a nice looking and user friendly setup.' **** 'nice'
----'social networking, email, android marketplace, easy touch screen keyboard, accessibility, good looking phone for being a more affordable end smart phone, responsive ect.' **** 'good'
-
-Negative Reviews:
-
----'also, the optv is clunky and old looking, the opte is very slim and modern looking.' **** 'modern'
-
-
-================================================================================================================
-__________('calls',)__________
-
-
-Positive Reviews:
-
----'that puts it at almost $8.00 per month for me (would have been $11.80/month at full price).current problems: 1) the charging port is getting loose, 2) i am now not getting notifications of my calls and texts, for the most part (my first hint that i\'m getting a call is when vm notifies me of a voice mail message...i did check my prefs to make sure that calls aren\'t getting sent to vmail), 3) getting a signal is more difficult than ever, 4) i\'m able to get home long before my text gets to my intended party (i send an "i\'m on my way" message before i take off...15 minutes later, bing!' **** 'sure'
----'easy to text and calls are crystal clear..' **** 'easy'
----"i am not really into videos or music streaming but, if you want to text, email, make and receive calls, you can't go wrong." **** 'wrong'
-
-Negative Reviews:
-
----'the virgin mobile service was terrible, i was unable to switch between calls.' **** 'unable'
----"the sound is nice and crisp and i've had no problems with dropped calls." **** 'dropped'
----"i am not really into videos or music streaming but, if you want to text, email, make and receive calls, you can't go wrong." **** 'receive'
-
-
-================================================================================================================
-__________('pretty',)__________
-
-
-Positive Reviews:
-
----'the sound is incredible and its pretty easy to use.' **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('elite',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'when i topped up the first time (paid the monthly fee) they double charged my credit card again.' **** 'first'
----'screen size is perfect never have a hard time typing.' **** 'hard'
----"this phone is amazing i love the back it has a nice feel better than other phones i've had in the past its nice and thin better then those bulky phones out there have a easy time finding accessories for it and it arrived earlier then expected all in all its an amazing phone and would recommend it to anyone looking for a great phone" **** 'easy'
----'this product came on time and i was able to track it the whole way.' **** 'able'
----'so i took it in to the sprint store at the flatiron building in nyc, where they assured me it was just a weird coincidence, and i was happy at the time to accept an identical replacement.guess what: in exactly four more weeks, the exact same failure.' **** 'happy'
----'mind you, as is often the case, both times the phone died on me were the worst possible times for it to happen, and even though the second time was an actual emergency, the jerks at the sprint store made me wait two+ hours for their tech to tell me what i already knew: phone was dead and they had no idea why.' **** 'second'
----'last time i was there i had no reception.' **** 'last'
----'not a bad phone, did everything i needed but i had to end up buying a faster phone; has all features you would need - small hands, had a hard time with the keyboard' **** 'hard'
----"if you want to capture a moment, you'll need to anticipate that moment several minutes in advance because the camera requires that much time to boot up and snap a blurry, pixellated photo for you." **** 'much'
----'this is the second time i have had this phone.' **** 'second'
----'the shipping time was perfect and everything was in perfect condition.' **** 'perfect'
-
-Negative Reviews:
-
----'it appears i have to use the warranty, pay for shipping, and send it in for repair.even when it worked properly, it takes a long time to start up and be ready for use.my wife has had the same phone for 3 months, and sometimes hers is glitchy.' **** 'long'
----'its fast, and the battery lasts a considerably long time with heavy use.' **** 'long'
----'no offense to people who speak english as second language, but unfortunately i had a hard time understanding customer service from offshore and i believe they have a hard time understanding me as well.just recently i started using the phone to listen to internet radio.' **** 'hard'
----'no offense to people who speak english as second language, but unfortunately i had a hard time understanding customer service from offshore and i believe they have a hard time understanding me as well.just recently i started using the phone to listen to internet radio.' **** 'hard'
----'i think that has more to do with the phone than the provider.these might seem petty but i came from having verizon and a droid incredible for a very long time.' **** 'long'
----'i am so glad i did.i have only had this phone a short time but i am very impressed.' **** 'short'
----'battery time is average on par with most smart phones.' **** 'average'
----'the battery also lasts a long time when i only have the cdma connectivity enabled and brightness on low.your best bet for a very decent mid-range android.' **** 'long'
----'the battery runs out quickly after a while and takes a long time to gain and hold charge.' **** 'long'
----'i would say that with the issues i have had, though, someone with little knowledge of the android os or inclination to play around with the settings (like my wife) might have a hard time with this phone.' **** 'hard'
----"the battery lasts a long time - much longer than other cell phones i've had.the lg optimus elite is part of virgin mobile's beyond talk plan (meaning i pay a monthly fee rather than topping up every three months) but there is no contract and it is a nice phone and well worth the monthly fee." **** 'long'
----'ok,bought this phone in place of a lg optimus v,let me just say ,lots of room for apps and internet is really quick on wifi,3g is up in down but very good,clocked in at over a 1ghz processor,did a test with the ipod touch 4g and lets just say in wifi ,this blows the ipod touch to pieces on processor speed.the screen is very good res and moves very fast.had a hard time getting it activated ,but it is all worth it.greatttt phoneee ,love ittt' **** 'hard'
----'even the time was wrong.' **** 'wrong'
-
-
-================================================================================================================
-__________('find',)__________
-
-
-Positive Reviews:
-
----"i only owned it a short while i really cant find anything i don't like about it yet." **** 'cant'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('for', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
----"but i'm pretty sure that's a virgin mobile issue and not an lg optimus elite issue, and for $35 i'm not going to make a big stink about it." **** 'sure'
-
-Negative Reviews:
-
----'if you look up at any other virgin mobile phone, the 4g newer models run for 2x more.' **** 'other'
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
-
-
-================================================================================================================
-__________('nternal', 'memory')__________
-
-
-Positive Reviews:
-
----'the internal memory is good and holds many apps.' **** 'good'
-
-Negative Reviews:
-
----"all apps are saved to phone, and you cannot switch to sd card, but there's enough internal memory to download a lot of apps." **** 'enough'
-
-
-================================================================================================================
-__________('touch', 'screen')__________
-
-
-Positive Reviews:
-
----"it has a poor touch screen, it's just not sensitive enough to play games particularly well, and annoying themeing manager forced onto it by default." **** 'poor'
----"it's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'nice'
----"it's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'responsive'
----'the screen freezes which is very frustrating since it is a touch screen.' **** 'touch'
----'social networking, email, android marketplace, easy touch screen keyboard, accessibility, good looking phone for being a more affordable end smart phone, responsive ect.' **** 'easy'
-
-Negative Reviews:
-
----"considering it's my first touch screen phone, i'm not able to put it down." **** 'first'
----"it's rather thin too, so it won't bulge out from your pockets.- nice screen resolution and decent screen size.- pretty responsive touch screen." **** 'responsive'
----"the battery has to be recharged quite often despite the fact that i don't have a lot of apps on it.recently the touch screen stopped working and i had to have a replacement sent to me." **** 'touch'
----"the touch sensitivity of this phone is almost usable in that if you hit the same spot 20 times, one of those times the motion might get picked up by the touch screen and the command might actually go through, but you won't know until you hit it a few more times and then suddenly you're breezing through options you never wanted to select because the phone is spontaneously working at lightning speed, exclusively to screw you over." **** 'touch'
----"the text app that comes with the phone is intensely bad, so download handcent sms to improve that visual experience a bit.this is a phone for people who have never had a smartphone before and thus have no idea what smartphones are capable of, someone who is just excited that there's a touch screen that lights up." **** 'touch'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
----'i still receive text and calls.' **** 'receive'
----'i am noting this because it\'s cheaper than listed some places regarding virgin mobile\'s insurance.for the price of the phone, and the plan - $50.00 a month for 1200 talk minutes, unlimited data and unlimited text - it\'s hard to feel \'taken\' - it\'s a great feeling stepping away from the huge corporate "v".' **** 'hard'
-
-Negative Reviews:
-
----"i'm on the virgin mobile beyond talk plan with unlimited text and 3g data (data possibly throttled after 2.5 gigs), and so far i'm happy with it." **** 'unlimited'
-
-
-================================================================================================================
-__________('year',)__________
-
-
-Positive Reviews:
-
----'i have had mine for nearly a year and still dont have a sd card in it and plenty of apps to enjoy.the phone is slim and easy for a pocket to carry at work.' **** 'mine'
-
-Negative Reviews:
-
----'i have had it less than a year and have had to replace both the battery and the phone once.' **** 'less'
-
-
-================================================================================================================
-__________('little',)__________
-
-
-Positive Reviews:
-
----'for $130 you get a pretty good little android phone.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'in some ways, it does remind me of my old phone, but the screen is obviously larger.' **** 'larger'
----'the screen was crystal clear and responded perfectly.' **** 'clear'
----"it's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'nice'
----"it's a cool looking phone, nice clear display, the touch screen is nice and responsive." **** 'responsive'
----"the screen is really bad too and sprint's 3g service is so bad, i am questioning whether the money saved is worth it." **** 'bad'
----"it's got a pretty big screen, those a-holes that need a 4.5 or bigger screen are stupid (get a tablet if you need a phone that big!)" **** 'bigger'
----'it has several advantages over the optimus v including android 2.3 rather than 2.2 on the optimus v, more memory, a slightly larger screen (3.5" vs. 3.2") and a faster processor.in terms of memory, the phone comes with roughly 900 mb of main memory that is free (compared to about 150 mb on the optimus v).' **** 'larger'
----"besides, it adds a few more junk stuff onto the memory (some i've already deleted cause i don't use them).beware of which case you intend to purchase for the elite, because some of them have a high ridge on the front, and it does make it difficult to reach those letters that are at the far left or right side of the screen." **** 'side'
----'better picture, slightly bigger screen, and much faster.' **** 'bigger'
----'better pic an bigger screen an alot faster but for some reason when u use the swype if freezes or will just start typing on its own.' **** 'better'
----'better pic an bigger screen an alot faster but for some reason when u use the swype if freezes or will just start typing on its own.' **** 'bigger'
----'the screen freezes which is very frustrating since it is a touch screen.' **** 'touch'
----'some if the things i love about this model: the flash on the camera, the option to record video that can be sent in a text message or email, more memory for more apps, the ability to take and send screen shots, the larger screen, better speaker for listening to music, videos etc.' **** 'larger'
-
-Negative Reviews:
-
----'this is a huge upgrade to the 120mb of phone memory on the optimus v.  for another 20 bucks you can add a 32gb sd card.storage isnt an issue.the screen is noticeably larger and seems to have more color depth.the phone itself is extremely thin.' **** 'larger'
----"plus, the on-screen keyboard takes away fifty percent of the screen, which i wasn't thinking about at the time: my effective screen size while texting is actually a bit smaller than it was with the blackberry!so far (i've had it for about a month) it's been ok.  still working the kinks in my own behavior out; i keep forgetting to lock the screen, for instance." **** 'effective'
----'some basics, like significant screen dimming for night time and audio equalizing, need third party apps.' **** 'significant'
----'the lg optimus elite is a definite upgrade from the optimus v. the processor is notably faster, and the screen is bigger.' **** 'bigger'
----"this phone has a nice screen...and it is great that you don't have to sign up for a contract." **** 'nice'
----'the two problems i have had with the phone is that when i was setting up my e-mail i clicked on e-mail on the main screen not realizing that there was another screen that had an app for g-mail.' **** 'main'
----'i found this to be a great purchase even though it does have some issues such as a smaller screen than expected, some hangups and frozen screens and the inability to block phone calls.' **** 'smaller'
----'then during a call the screen would go black.' **** 'black'
----'gingerbread is a good solid os and i have no complaints.the screen is good, but not great.' **** 'good'
----'comparing to my htc one v which has a slightly bigger screen and better resolution i of course like it better, but there is nothing wrong with the optimus elite and its screen.' **** 'bigger'
----"the battery has to be recharged quite often despite the fact that i don't have a lot of apps on it.recently the touch screen stopped working and i had to have a replacement sent to me." **** 'touch'
----'it does not feel "cheap" in your hand and has a nice sized screen.' **** 'nice'
----"the touch sensitivity of this phone is almost usable in that if you hit the same spot 20 times, one of those times the motion might get picked up by the touch screen and the command might actually go through, but you won't know until you hit it a few more times and then suddenly you're breezing through options you never wanted to select because the phone is spontaneously working at lightning speed, exclusively to screw you over." **** 'touch'
----"the text app that comes with the phone is intensely bad, so download handcent sms to improve that visual experience a bit.this is a phone for people who have never had a smartphone before and thus have no idea what smartphones are capable of, someone who is just excited that there's a touch screen that lights up." **** 'touch'
----'i had the last version (the optimus v), which i liked a lot, but it had very limited memory and the screen was really small.' **** 'small'
----'a 5 inch screen is nice but i would not carry such a big thing around in my pocket so this is nice and portable enough that i take it with me.virgin mobile is great, good service, been with them for years and have several accounts.' **** 'nice'
-
-
-================================================================================================================
-__________('everything',)__________
-
-
-Positive Reviews:
-
----"it's touchscreen, has voice command, even video.pretty much everything i need." **** 'much'
----"it takes them about a month to 2 months just to ship this thing to order ive been waiting up to a month now still diden't get, these sellers take their time and the item is not even that good, low battery, and everything i rate this bad because of this slow shipping" **** 'bad'
----'absolutely love this phone its just enough for everything that i need.' **** 'enough'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('first', 'smart')__________
-
-
-Positive Reviews:
-
----'my first smart phone.....i really like it.' **** 'first'
----'this is my first smart phone.' **** 'first'
----'my first smart phone is disappointing.' **** 'first'
----'this is my first "smart" phone.' **** 'first'
----'this is my first "smart" phone, and i\'m absolutely amazed at it, especially considering the price.' **** 'first'
----'i chose this phone as my first smart phone and am happy with it.' **** 'first'
-
-Negative Reviews:
-
----"my first smart phone and i don't need all the bells and whistles." **** 'first'
----"the one thing that i thinks its missing is a front facing camera.well for a first smart phoneonce you get this phone, you can't go back to just texting and calling" **** 'first'
----"to be fair, it's my first smart phone, but i'm reticent to sign contracts (won't) and i was eagerly awaiting the new iphone for virgin mobile." **** 'fair'
----"to be fair, it's my first smart phone, but i'm reticent to sign contracts (won't) and i was eagerly awaiting the new iphone for virgin mobile." **** 'first'
----"i'm not into specs or tinkering with the phone, again, it's my first smart phone." **** 'first'
-
-
-================================================================================================================
-__________('camera',)__________
-
-
-Positive Reviews:
-
----'!the cons: no face-front camera or 4g compatible.' **** 'compatible'
----'and it is not my hearing.the phone is well designed i suppose, it is intuitive, keyboard is easy, camera not bad.' **** 'bad'
----"not sure if that's a complication deriving from the phone or the app though.it's 5 megapixel camera takes clean and clear shots, and the flash is amazing." **** 'clean'
----'the camera is also pretty good too.' **** 'good'
----'i am happy that i bought this one, love the camera and the ability to modify the pictures on the phone.' **** 'happy'
----'i am happy that i bought this one, love the camera and the ability to modify the pictures on the phone.' **** 'love'
----"but i still can watch movies on it like blood diamond and silver linings playbook just fine and in good quality.2) you can't turn the noise off on the stupid camera." **** 'stupid'
----'decent phone but the internet rarely would pick up service even when my husband has service on his phone(different)  the camera is good.' **** 'good'
----'overall i am satisfied with it, but since the camera and the keyboard were my main reasons for getting another smartphone, i have to give it only three stars.' **** 'overall'
----"it doesn't have a front facing camera, but honestly i dont miss it." **** 'miss'
-
-Negative Reviews:
-
----"it doesn't compare to the iphone or samsung gs3, but for this affordable price its a decent performer.- lots of free apps in the google play store and since this uses gingerbread there's a good selection.- includes gps, 3g data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'nice'
----"she did comment that she wished it had front facing camera and wasn't able to get onto instagram for some reason." **** 'able'
-
-
-================================================================================================================
-__________('need',)__________
-
-
-Positive Reviews:
-
----'if i still have a problem with it being half dead everytime i grab it to run out the door i will go through the friends i have with teenagers who either distroy their phones on a regular basis or just feel the need for a new one every couple months a find an extra battery to keep with it.' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('optimus', 'elite')__________
-
-
-Positive Reviews:
-
----'this optimus elite is a very nice phone for the price, i like it better than the optimus v, and it appears to be better at capturing a signal.' **** 'better'
----'i contacted amazon and was happy to hear that they would indeed allow me to return the optimus elite phone.' **** 'allow'
-
-Negative Reviews:
-
----"the optimus elite is very stable and has not required use of the warranty even once.things you should do:- get a case (the plastic back on this phone is slippery)- get a screen protector (at least the cheap plastic ones)- get the 'minutes checker free' app to check your minutes from your phone- love your new optimus elite :)" **** 'new'
-
-
-================================================================================================================
-__________('mobile',)__________
-
-
-Positive Reviews:
-
----'linked from the inquirer, tech news page:  [...]the united states department of homeland security (dhs) and federal bureau of investigation (fbi) must have caught up on their it industry news reading this summer, because they have just warned about security threats to devices that use the android mobile operating system.a joint dhs-fbi bulletin read, "android is the world\'s most widely used mobile operating system (os) and continues to be a primary target for malware attacks due to its market share and open source architecture.' **** 'used'
----"just $99.99 from virgin mobile, free from sprint.it is a low end smart phone, so you can't really compare to high end phones." **** 'free'
-
-Negative Reviews:
-
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
----"i've had voice stream, t-mobile, cingular, at&t;, boost mobile, virgin mobile, simple mobile and now i'm back at virgin mobile." **** 'simple'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----"overall works like a smart phone but we had a few issues - calls disconnected prematurely, sometimes other side would cut out/hard to hear - just not a seamless phone experience - don't know if it's the phone or the service." **** 'overall'
----'this phone is great works good better than my htc one v that phone suck hate it plus had the jay lano chin ewww nasty lol but yea get this phone is a good phone :d' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('with', 'virgin', 'mobile')__________
-
-
-Positive Reviews:
-
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'other'
-
-Negative Reviews:
-
----'i read numerous droid forums looking for solutions and all other virgin mobile lg optimus elite users say that virgin mobile is aware of this issue with this phone and can not do anything about it.' **** 'aware'
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----"i went to radioshack and spent 150 on the htc wildfire s and he bought this phone for 150. it's amazing how much better his is than mine." **** 'much'
----"i'd still upgrade to it from the ov, it is just that much better a phone." **** 'much'
----"the opte's screen is much better resolution and even though the size grew by only .3 inches, it seems much bigger.4." **** 'much'
-
-Negative Reviews:
-
----"this phone is amazing i love the back it has a nice feel better than other phones i've had in the past its nice and thin better then those bulky phones out there have a easy time finding accessories for it and it arrived earlier then expected all in all its an amazing phone and would recommend it to anyone looking for a great phone" **** 'thin'
----"i went to radioshack and spent 150 on the htc wildfire s and he bought this phone for 150. it's amazing how much better his is than mine." **** 'mine'
----'i am not a power user, if i was i would go for a much better, more expensive phone but this model is not an "upgrade" at all from my old optimus v, which was no speed demon but never failed me.' **** 'much'
----'email works flawlessly and voice to text is almost as good as the htc one v. signal strength is much better and has not lost service since it has been activated.' **** 'much'
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
----'sound is great for music or in call.' **** 'music'
----'from the time i unboxed the phone to making my first call was less than 15 minutes.' **** 'first'
----'i highly recommend this phone for the basic user that demands simplicity and is looking for a solid call, text, email device.one last thing, the battery life on this phone is awesome.' **** 'solid'
-
-Negative Reviews:
-
----'from the time i unboxed the phone to making my first call was less than 15 minutes.' **** 'less'
----'i rode it out as long as humanly possible but i could not depend on the phone to get a text or a call, and the last missed call from the school nurse told me it was time for a new phone.' **** 'last'
-
-
-================================================================================================================
-__________('lot', 'of', 'apps')__________
-
-
-Positive Reviews:
-
----"it doesn't compare to the iphone or samsung gs3, but for this affordable price its a decent performer.- lots of free apps in the google play store and since this uses gingerbread there's a good selection.- includes gps, 3g data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'free'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('much', 'better')__________
-
-
-Positive Reviews:
-
----"i went to radioshack and spent 150 on the htc wildfire s and he bought this phone for 150. it's amazing how much better his is than mine." **** 'much'
----"i'd still upgrade to it from the ov, it is just that much better a phone." **** 'much'
----"the opte's screen is much better resolution and even though the size grew by only .3 inches, it seems much bigger.4." **** 'much'
-
-Negative Reviews:
-
----"i went to radioshack and spent 150 on the htc wildfire s and he bought this phone for 150. it's amazing how much better his is than mine." **** 'mine'
----'i am not a power user, if i was i would go for a much better, more expensive phone but this model is not an "upgrade" at all from my old optimus v, which was no speed demon but never failed me.' **** 'much'
----'email works flawlessly and voice to text is almost as good as the htc one v. signal strength is much better and has not lost service since it has been activated.' **** 'much'
-
-
-================================================================================================================
-__________('apps',)__________
-
-
-Positive Reviews:
-
----'android apps are the best, there are so many free fun ones!' **** 'best'
----'there is also an app called 4shared where you can search for the paid apps, and if the one you want is available, it can be downloaded for free!' **** 'available'
----"it's much easier to find apps for this than it is for my kindle fire hd." **** 'much'
----"it's much easier to find apps for this than it is for my kindle fire hd." **** 'easier'
----"it doesn't compare to the iphone or samsung gs3, but for this affordable price its a decent performer.- lots of free apps in the google play store and since this uses gingerbread there's a good selection.- includes gps, 3g data (pretty unreliable for me), bluetooth, nice camera (includes a flash!)" **** 'free'
----"i have to unload some apps on it since some of them don't work and slow it down." **** 'slow'
----"that's why i make sure that i don't keep too many running apps in the background, and i drop the screen brightness to below 50%." **** 'sure'
----'for example, one or two of my favorite apps, like tumblr, crash frequently without any warning.' **** 'favorite'
----'i use it for telephone calls, messaging, email, and a few other apps - not much for games.' **** 'other'
-
-Negative Reviews:
-
----'there is also an app called 4shared where you can search for the paid apps, and if the one you want is available, it can be downloaded for free!' **** 'free'
----'i talk, take pictures, text, play games, use other apps.' **** 'other'
----'as of late it has been freezing up and apps closing but it quickly fixes itself.' **** 'late'
----"even when using video apps it holds up longer than i'd expected.my only real qualm is the keyboard." **** 'longer'
-
-
-================================================================================================================
-__________('a', 'front', 'facing')__________
-
-
-Positive Reviews:
-
----"she did comment that she wished it had front facing camera and wasn't able to get onto instagram for some reason." **** 'front'
-
-Negative Reviews:
-
+---'Email works flawlessly and voice to text is almost as good as the HTC One V. Signal strength is much better and has not lost service since it has been activated.' **** 'good'
 
 
 ================================================================================================================

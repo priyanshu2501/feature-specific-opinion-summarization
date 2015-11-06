@@ -1,27 +1,14 @@
-__________('years',)__________
+__________('customer', 'service')__________
 
 
 Positive Reviews:
 
----'the last one lasted 6 years and was still working when i retired it.' **** 'last'
----'i have had this phone for myself for about 4 years it is indestructible!' **** 'indestructible'
+---'Fortunately they are taking it back, good service from Monster Utopia.' **** 'good'
 
 Negative Reviews:
 
----'it is very durable.....will last another 2 years...easy to program, just a basic phone for someone that only needs this type' **** 'last'
----'it is very durable.....will last another 2 years...easy to program, just a basic phone for someone that only needs this type' **** 'easy'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
----"i'm terrible with phone, i'll admit, i have a problem keeping them alive, sooooo." **** 'alive'
-
-Negative Reviews:
-
+---'I will say that the customer service offered was hassle free for the replacement of the first and the return of the second.' **** 'hassle'
+---'I will say that the customer service offered was hassle free for the replacement of the first and the return of the second.' **** 'hassle'
 
 
 ================================================================================================================
@@ -30,28 +17,29 @@ __________('speaker',)__________
 
 Positive Reviews:
 
----"you can tell that this phone is cheaply made; light weight, has to be charged daily, speaker full of static on high volume, fewer settings,  the worst function is that you can't hit snooze on the alarm unless you open the phone!" **** 'daily'
----"you can tell that this phone is cheaply made; light weight, has to be charged daily, speaker full of static on high volume, fewer settings,  the worst function is that you can't hit snooze on the alarm unless you open the phone!" **** 'static'
----"i have had 2 of the orange c711's with the small little speaker on the back and this phone blows them away the speaker quality is amazing on this rugged phone ill never have another" **** 'small'
----"i have had 2 of the orange c711's with the small little speaker on the back and this phone blows them away the speaker quality is amazing on this rugged phone ill never have another" **** 'little'
----'it has been thrown down flights of stairs, tossed out of moving vehicles, used in the shower, dropped in buckets of water and still keeps on ticking.the only complaint is the speaker is a little hard to hear at times.' **** 'hard'
+---"You can tell that this phone is cheaply made; light weight, has to be charged daily, speaker full of static on high volume, fewer settings, The worst function is that you can't hit snooze on the alarm unless you open the phone!" **** 'daily'
+---"You can tell that this phone is cheaply made; light weight, has to be charged daily, speaker full of static on high volume, fewer settings, The worst function is that you can't hit snooze on the alarm unless you open the phone!" **** 'static'
+---"I have had 2 of the orange c711's with the small little speaker on the back and this phone blows them away the speaker quality is amazing on this rugged phone ill never have another" **** 'small'
+---"I have had 2 of the orange c711's with the small little speaker on the back and this phone blows them away the speaker quality is amazing on this rugged phone ill never have another" **** 'little'
+---'The only complaint is the speaker is a little hard to hear at times.' **** 'hard'
 
 Negative Reviews:
 
----'i just got the new orange version, with no front speaker and i like the other one better.' **** 'other'
----"everyone else in my house has been threw a phones ever year or 2 years and complain that things don't work well and they can't hear with well or the speaker doesn't work or that it freezes up, i just nod and smile." **** 'smile'
+---'I just got the new orange version, with no front speaker and I like the other one better.' **** 'other'
+---"Everyone else in my house has been threw a phones ever year or 2 years and complain that things don't work well and they can't hear with well or the speaker doesn't work or that it freezes up, I Just nod and smile." **** 'smile'
 
 
 ================================================================================================================
-__________('works',)__________
+__________('casio',)__________
 
 
 Positive Reviews:
 
+---'I bought this basic phone for my wife because I have been very happy with my Casio Gzone Commando (smart phone).' **** 'happy'
+---"This is the second Casio G'z Boulder phone my husband has had and he loves it." **** 'second'
 
 Negative Reviews:
 
----"it's tough, well built, and works very well." **** 'tough'
 
 
 ================================================================================================================
@@ -60,125 +48,45 @@ __________('battery', 'life')__________
 
 Positive Reviews:
 
----'as of now, my only complaint is battery life.' **** 'complaint'
----'as of now, my only complaint is battery life.' **** 'battery'
----'the phone works very well, has a good battery life, and good signal.' **** 'good'
----'however, to be fair, the extended-life battery has a fan-freaking-fabulous battery life.it has, on occasion, randomly rebooted - and even occasionally locked up - on me.' **** 'fair'
----'the battery life is abysmal and if you want to get more than 45 minutes of talk time, you need to get the extended battery pack.' **** 'extended'
----'short battery life and not user friendly.' **** 'short'
+---'As of now, my only complaint is battery life.' **** 'complaint'
+---'As of now, my only complaint is battery life.' **** 'battery'
+---'The phone works very well, has a good battery life, and good signal.' **** 'good'
+---'The original battery had a horrible battery life.' **** 'original'
+---'However, to be fair, the extended-life battery has a fan-freaking-fabulous battery life.' **** 'fair'
+---'The battery life is abysmal and if you want to get more than 45 minutes of talk time, you need to get the extended battery pack.' **** 'extended'
+---'Short battery life and not user friendly.' **** 'short'
+---'As of now, my only complaint is battery life.' **** 'complaint'
+---'As of now, my only complaint is battery life.' **** 'battery'
+---'Both of them came with extended life batteries and that keeps me and him going several days between charges.' **** 'extended'
+---'I now have a durable nicely featured phone with a good battery.' **** 'good'
+---'The phone works very well, has a good battery life, and good signal.' **** 'good'
+---'The original battery had a horrible battery life.' **** 'original'
+---'However, to be fair, the extended-life battery has a fan-freaking-fabulous battery life.' **** 'fair'
+---"Um, Casio, chances are that if I'm *not* plugging in my phone when the battery is low, it's because I *can't* plug it in, so could you please stop bugging me about it?" **** 'low'
+---"Sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what I'm counting on, and the reason that I haven't simply shut the phone off)." **** 'low'
+---"Sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what I'm counting on, and the reason that I haven't simply shut the phone off)." **** 'low'
+---'The battery life is abysmal and if you want to get more than 45 minutes of talk time, you need to get the extended battery pack.' **** 'extended'
+---'Changed out to new battery and same result.' **** 'changed'
+---'Changed out to new battery and same result.' **** 'new'
+---'I bought a new battery for it and it now keeps a charge for about 16 hours... it craps out right at the end of my business day... everyday.' **** 'new'
+---'Short battery life and not user friendly.' **** 'short'
+---'Also, I have had to charge it every day for the last four days and it is a new battery.' **** 'new'
 
 Negative Reviews:
 
----"at worst what might happen is that the battery might come loose - but i've actually only seen that happen when i have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'worst'
----"at worst what might happen is that the battery might come loose - but i've actually only seen that happen when i have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'happen'
----'short battery life.' **** 'short'
----'a vast improvement over the regular phones that verizon carries, but the battery life is weak.' **** 'weak'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'any other phone would have conked out a long time ago, but this one still works great.' **** 'long'
----'this is replacing my old casio boulder which was used and abused for a long time - yet still worked.' **** 'long'
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'after the 4th defective phone, now i am told that the product is out of warranty and that there will be no refund.' **** 'told'
----'i find casio is a good product,  it works well and is very durable.' **** 'good'
----'product looked to be new as adervertised, and was easly set up.' **** 'new'
-
-Negative Reviews:
-
----'but only have had a few days and have given to my son to put it through its paces but so far if he cant tear it up i think its a good product.' **** 'good'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'the phone works very well, has a good battery life, and good signal.' **** 'good'
----'however, to be fair, the extended-life battery has a fan-freaking-fabulous battery life.it has, on occasion, randomly rebooted - and even occasionally locked up - on me.' **** 'fair'
----"not cool.i like a phone that warns me when the battery is low - and then ceases to bug me about it once i acknowledge that i'm aware of the situation." **** 'low'
----"i can't stand hearing a warning sound every five minutes, nor do i like seeing a &#34;battery is low!&#34; sign whenever i try to glance at the clock." **** 'low'
----"um, casio, chances are that if i'm *not* plugging in my phone when the battery is low, it's because i *can't* plug it in, so could you please stop bugging me about it?" **** 'low'
----"sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what i'm counting on, and the reason that i haven't simply shut the phone off).the built-in compass isn't terribly reliable; it's often right on target, but sometimes it's 180-degrees off, even after i do the figure-eight thing that's supposed to reinitialize its sense of direction." **** 'low'
----"sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what i'm counting on, and the reason that i haven't simply shut the phone off).the built-in compass isn't terribly reliable; it's often right on target, but sometimes it's 180-degrees off, even after i do the figure-eight thing that's supposed to reinitialize its sense of direction." **** 'low'
----'the battery life is abysmal and if you want to get more than 45 minutes of talk time, you need to get the extended battery pack.' **** 'extended'
----'changed out to new battery and same result.' **** 'new'
----'i bought a new battery for it and it now keeps a charge for about 16 hours...it craps out right at the end of my business day...everyday.' **** 'new'
----'short battery life and not user friendly.' **** 'short'
----'also, i have had to charge it every day for the last four days and it is a new battery.' **** 'new'
-
-Negative Reviews:
-
----'in all fairness, this is a refurbished phone and the battery may not be new.' **** 'new'
----"at worst what might happen is that the battery might come loose - but i've actually only seen that happen when i have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'worst'
----"at worst what might happen is that the battery might come loose - but i've actually only seen that happen when i have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'happen'
----"sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what i'm counting on, and the reason that i haven't simply shut the phone off).the built-in compass isn't terribly reliable; it's often right on target, but sometimes it's 180-degrees off, even after i do the figure-eight thing that's supposed to reinitialize its sense of direction." **** 'good'
----"i traded my son my i phone for his new gz one because i  missed  it, but the battery doesn't last a full day with this new phone." **** 'last'
----'short battery life.' **** 'short'
----'due to the battery not being delivered on monday: i then tried to contact oem battery to get tracking information.' **** 'due'
-
-
-================================================================================================================
-__________('husband',)__________
-
-
-Positive Reviews:
-
----'very nice for my husband who goes through phones monthly.' **** 'nice'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
----"it was lighter, and the charger cord barely fit into the devise.i couldn't belirve amazon would sell such junk." **** 'lighter'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('customer', 'service')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i will say that the customer service offered was hassle free for the replacement of the first and the return of the second.' **** 'hassle'
-
-
-================================================================================================================
-__________('better',)__________
-
-
-Positive Reviews:
-
----'i would spend the little extra money on the gzone ravine 2. its a much better phone for a few more dollars.' **** 'much'
-
-Negative Reviews:
-
+---"At worst what might happen is that the battery might come loose - but I've actually only seen that happen when I have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'worst'
+---"At worst what might happen is that the battery might come loose - but I've actually only seen that happen when I have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'happen'
+---'Short battery life.' **** 'short'
+---'A vast improvement over the regular phones that Verizon carries, but the battery life is weak.' **** 'weak'
+---'A vast improvement over the regular phones that Verizon carries, but the battery life is weak.' **** 'weak'
+---'In all fairness, this is a refurbished phone and the battery may not be new.' **** 'new'
+---"At worst what might happen is that the battery might come loose - but I've actually only seen that happen when I have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'worst'
+---"At worst what might happen is that the battery might come loose - but I've actually only seen that happen when I have the extended-life battery in (which projects outward from the back somewhat, unlike the default battery which sits flush against the back)." **** 'happen'
+---"I like a phone that warns me when the battery is low - and then ceases to bug me about it once I acknowledge that I'm aware of the situation." **** 'low'
+---"Sure, my battery might be low, but we all know that a low battery is still typically good for at least 60-90 minutes of standby time, and maybe even 5-7 minutes of talk time (which is very possibly what I'm counting on, and the reason that I haven't simply shut the phone off)." **** 'good'
+---"I traded my son my I phone for his new GZ one because I  missed  it, but The battery doesn't last a full day with this new phone." **** 'last'
+---'Short battery life.' **** 'short'
+---'Due to the battery not being delivered on Monday: I then tried to contact OEM Battery to get tracking information.' **** 'due'
 
 
 ================================================================================================================
@@ -190,93 +98,6 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('oem', 'battery')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'due to the battery not being delivered on monday: i then tried to contact oem battery to get tracking information.' **** 'due'
-
-
-================================================================================================================
-__________('casio',)__________
-
-
-Positive Reviews:
-
----'i bought this basic phone for my wife because i have been very happy with my casio gzone commando (smart phone).' **** 'happy'
----"this is the second casio g'z boulder phone my husband has had and he loves it." **** 'second'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'as of now, my only complaint is battery life.' **** 'complaint'
----'as of now, my only complaint is battery life.' **** 'battery'
----'both of them came with extended life batteries and that keeps me and him going several days between charges.' **** 'extended'
-
-Negative Reviews:
-
----'a vast improvement over the regular phones that verizon carries, but the battery life is weak.' **** 'weak'
-
-
-================================================================================================================
-__________('charge',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'performance wise it started dropping calls (have verizon), then the battery would hold a charge only daily.' **** 'daily'
-
-
-================================================================================================================
-__________('times',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('call',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('service',)__________
-
-
-Positive Reviews:
-
----'fortunately they are taking it back, good service from monster utopia.something slipped through quality control to have such a fundamental problem as a defective charging port.' **** 'good'
-
-Negative Reviews:
-
----'i will say that the customer service offered was hassle free for the replacement of the first and the return of the second.' **** 'hassle'
 
 
 ================================================================================================================

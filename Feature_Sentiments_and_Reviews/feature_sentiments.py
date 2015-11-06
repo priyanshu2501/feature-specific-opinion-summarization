@@ -1,4 +1,4 @@
-import os,sys
+import os,sys,re
 import pickle
 from nltk.tokenize import *
 
@@ -17,7 +17,7 @@ def generate_feature_sentiments(feature_details,review_text_tokenized):
         for i in feature_details[key]:
             neg = False
             for j in neg_words:
-                if j in review_text_tokenized[i[0]][i[1]]:
+                if j in review_text_tokenized[i[0]][i[1]].lower():
                     neg = True
                     break
             if not neg:
@@ -51,9 +51,11 @@ if __name__ == "__main__":
     asins = open('../'+product+'/asins_list').read().split('\n')
     for asin in asins :
         print asin
-        review_text = open('../'+product+'/Reviews/'+asin+'.txt','r').read().lower()
-        reviews = review_text.split('\n')
-        reviews = [i for i in reviews if len(i) >= 1]
+        review_text = open('../'+product+'/Reviews/'+asin+'.txt','r').read()
+        review_text = re.sub('([.,;!?])\s*(\w)',r'\1 \2',review_text)
+        review_text_copy = review_text
+        reviews = review_text_copy.split('\n')
+        reviews = [i for i in reviews if len(i) > 1]
         review_text_tokenized = [sent_tokenize(review) for review in reviews]
      
         # print [len(i) for i in reviews]

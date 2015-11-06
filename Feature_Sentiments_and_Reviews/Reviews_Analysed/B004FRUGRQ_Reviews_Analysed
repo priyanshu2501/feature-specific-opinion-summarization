@@ -3,134 +3,14 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'i would defiantly order from this seller again with no hesitation.they were true with what they advertized.' **** 'true'
----'seller was very responsive.' **** 'responsive'
----'needless to say, i was very happy with the other seller.' **** 'happy'
+---'Seller was very helpful.' **** 'helpful'
+---'Seller was very responsive.' **** 'responsive'
+---'Needless to say, I was very happy with the other seller.' **** 'happy'
 
 Negative Reviews:
 
----'they are no better than every other seller out there lying about their merchandise.' **** 'other'
----'needless to say, i was very happy with the other seller.' **** 'other'
-
-
-================================================================================================================
-__________('problem',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('excellent', 'condition')__________
-
-
-Positive Reviews:
-
----'i am very happy with my product..excellent condition with everything in place.' **** 'happy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('perfect',)__________
-
-
-Positive Reviews:
-
----"perfect!didn't expect less or more!" **** 'less'
-
-Negative Reviews:
-
----'phone was in near perfect shape and it came with accessories.' **** 'near'
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
----"it's very convenient, easy to use, and works great." **** 'convenient'
----"it's very convenient, easy to use, and works great." **** 'easy'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'got the item out by the time it was suppose to be deliver, the saying you pay what you get for applies here.' **** 'suppose'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'he was honest about the product and even added a person thanks in our receipt and was available to us if there was a problem.' **** 'honest'
-
-Negative Reviews:
-
----'because the iphone is fiddled,,, and has many damaging and this product is not fit for the work he cheatdishonest seller and i have sold my iphone 4 32 gb and has many malfunction in the device like sbakr and headsets and order' **** 'fit'
----"if you have a different carrier buy a factory unlocked phone to avoid issues and don't bother spending the extra 100+ on a slightly newer product, this one works fine" **** 'newer'
----'good iphone i have no comments for the product, may be i had check for another one for me but iphone five unlocked.' **** 'check'
----'things happen and he stood behind his product well past regular business hours.' **** 'past'
-
-
-================================================================================================================
-__________('condition',)__________
-
-
-Positive Reviews:
-
----'i got an iphone quickly and in good condition.' **** 'good'
----'i am very happy with my product..excellent condition with everything in place.' **** 'happy'
----'it arrived in good condition and i absolutely enjoy getting to know my first ever iphone device :)' **** 'good'
----'the phone itself is in good condition and works well.' **** 'good'
-
-Negative Reviews:
-
----'i like the phone and it is in good condition but when i call someone or someone calls me i cannot hear them.' **** 'good'
-
-
-================================================================================================================
-__________('charger',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----"the charger included did not work but we had an extra charger so it wasn't a problem." **** 'extra'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'there i was told that the screen had been replaced before.i bought the phone for new and got a used one.avoid cali wholesale' **** 'told'
----'it does, however, have 3 small scratches on the screen that are highly visible.' **** 'visible'
-
-Negative Reviews:
-
----'one is due to the hard cover which was covering the top of the screen' **** 'top'
----'the phone looked good when i opened it but once i started using it i felt that some part of the touch screen is not recognizing the taps.' **** 'touch'
+---'They are no better than every other seller out there lying about their merchandise.' **** 'other'
+---'Needless to say, I was very happy with the other seller.' **** 'other'
 
 
 ================================================================================================================
@@ -139,26 +19,34 @@ __________('straight', 'talk')__________
 
 Positive Reviews:
 
----'i bought this phone and a straight talk sim card, so a few days of me having this phone i was having an issue sending and receiving picture messages.' **** 'straight'
----"phone came in perfect condition, also came unlocked as promised(i'm writing this straight from the iphone on straight talk)  very satisfied." **** 'straight'
+---'I bought this phone and a straight talk sim card, so a few days of Me having this phone I was having an issue sending and receiving picture messages.' **** 'straight'
+---"Phone came in perfect condition, also came unlocked as promised(I'm writing this straight from the iPhone on straight talk)  very satisfied." **** 'straight'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('money',)__________
+__________('apple', 'iphone')__________
 
 
 Positive Reviews:
 
+---'The apple employee informs me that the iphone was owned and registered in September 2010 - 17 months before I bought this "new" iphone.' **** 'new'
+---"I was looking so hard for a white iphone and couldn't find one at a reasonable price so I went ahead and order the black one new and I got a white one same gbs and all just the color was different and I was very satisfied with the product no bad experience so far." **** 'white'
+---'The apple employee informs me that the iphone was owned and registered in September 2010 - 17 months before I bought this "new" iphone.' **** 'new'
+---'No problems, great deal, the iphone was in great conditions and so far so good the iphone is working pretty good.' **** 'good'
+---'No problems, great deal, the iphone was in great conditions and so far so good the iphone is working pretty good.' **** 'good'
+---'I received yesterday, when I installed the simm (wich is working on other unlocked iphone 4 32gb), I realized that it is not unlocked, because the simm is invalid.' **** 'other'
+---'This is a much better deal and I returned the new iPhone I ordered previously, Thank You Very Much For This Amazing Deal I Love Amazon And Bayshine Inc.!!!' **** 'new'
 
 Negative Reviews:
 
----"i'm very disappointed because i paid good money for a product i thought was going to work but it wasn't worth the money" **** 'good'
----"i'm very disappointed because i paid good money for a product i thought was going to work but it wasn't worth the money" **** 'worth'
----'i payed a good money for it, and will cost me a lot of extra money to repair it, which is not acceptable.' **** 'good'
----'i payed a good money for it, and will cost me a lot of extra money to repair it, which is not acceptable.' **** 'acceptable'
+---'So I bought an IPhone and I am not able to speak with it.' **** 'able'
+---'I was new to iPhone so I really did not know much about them.' **** 'new'
+---'I was new to iPhone so I really did not know much about them.' **** 'much'
+---'I am now out of $400 dollars, and have a black screened iphone to show for it!' **** 'black'
+---'I received yesterday, when I installed the simm (wich is working on other unlocked iphone 4 32gb), I realized that it is not unlocked, because the simm is invalid.' **** 'unlocked'
 
 
 ================================================================================================================
@@ -170,7 +58,18 @@ Positive Reviews:
 
 Negative Reviews:
 
----'all i had to do is pop in a sim card and i was off and running.' **** 'off'
+---'All I had to do is pop in a SIM card and I was off and running.' **** 'off'
+
+
+================================================================================================================
+__________('amazon',)__________
+
+
+Positive Reviews:
+
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -179,38 +78,10 @@ __________('factory',)__________
 
 Positive Reviews:
 
----'i ordered for apple iphone 4 32gb (factory unlocked)- refurbished.' **** 'refurbished'
----'the cell apple iphone 4 (black) 32gb (factory unlocked)  was very good.' **** 'good'
+---'I ordered for Apple iPhone 4 32GB (factory unlocked)- refurbished.' **** 'refurbished'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('back',)__________
-
-
-Positive Reviews:
-
----'the camera hole in the back is not align with the glass.' **** 'align'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('n', 'good', 'condition')__________
-
-
-Positive Reviews:
-
----'i got an iphone quickly and in good condition.' **** 'good'
----'it arrived in good condition and i absolutely enjoy getting to know my first ever iphone device :)' **** 'good'
----'the phone itself is in good condition and works well.' **** 'good'
-
-Negative Reviews:
-
----'i like the phone and it is in good condition but when i call someone or someone calls me i cannot hear them.' **** 'good'
 
 
 ================================================================================================================

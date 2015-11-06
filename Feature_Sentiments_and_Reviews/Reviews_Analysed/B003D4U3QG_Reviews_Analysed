@@ -3,14 +3,14 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'so i was supposed to research to see if he was a good, honest seller?' **** 'good'
----'so i was supposed to research to see if he was a good, honest seller?' **** 'honest'
----"i also bought my a555 used from a private seller, so i didn't pay anything close to the listed retail price.so far, i like the motorola devour a555." **** 'private'
+---'So I was supposed to research to see if he was a good, honest seller?' **** 'good'
+---'So I was supposed to research to see if he was a good, honest seller?' **** 'honest'
+---"I also bought my A555 used from a private seller, so I didn't pay anything close to the listed retail price." **** 'private'
 
 Negative Reviews:
 
----'that is a very bad, unprofessional seller.' **** 'bad'
----'that is a very bad, unprofessional seller.' **** 'unprofessional'
+---'That is a very bad, unprofessional seller.' **** 'bad'
+---'That is a very bad, unprofessional seller.' **** 'unprofessional'
 
 
 ================================================================================================================
@@ -19,48 +19,13 @@ __________('android',)__________
 
 Positive Reviews:
 
----"the phone easily located my existing google play (marketplace) account, and i was able to download apps i'd paid for to use with the last android phone i'd owned, which was a few years ago." **** 'last'
----"i was resistant to get an iphone due to there price and their appleness, so i took a bet on google and switched mobile os's to android...and this motorola devour was my first android experience.this phone is my favorite of all the android phones (and legacy windows mobile phones, for that matter) i've ever used." **** 'first'
----'it said this was a google android....it does not have google play store....it is the old android market....maybe you should specify that for the next buyers.' **** 'google'
+---"The phone easily located my existing Google Play (Marketplace) account, and I was able to download apps I'd paid for to use with the last Android phone I'd owned, which was a few years ago." **** 'last'
+---"I was resistant to get an iPhone due to there price and their Appleness, so I took a bet on Google and switched mobile OS's to Android... and this Motorola Devour was my first Android experience." **** 'first'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('google', 'play')__________
-
-
-Positive Reviews:
-
----'it said this was a google android....it does not have google play store....it is the old android market....maybe you should specify that for the next buyers.' **** 'google'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
----'we got a lemon the first time and sent it back.' **** 'first'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('price',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i wanted a different phone, without paying a ridiculous amount of money, and found this phone for a ridiculous low price.' **** 'low'
+---'Strongly recommend looking at other Android handsets.' **** 'other'
+---"But, with it not running the newest Android version, it's a doorstop." **** 'newest'
 
 
 ================================================================================================================
@@ -80,48 +45,22 @@ __________('battery',)__________
 
 Positive Reviews:
 
----'i do have to replace the battery but the seller was upfront about having a used battery in the sell phone.' **** 'used'
+---'I do have to replace the battery but the seller was upfront about having a used battery in the sell phone.' **** 'used'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('google',)__________
+__________('force', 'close')__________
 
 
 Positive Reviews:
 
----"google it, it's very easy to do." **** 'easy'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----"the screen dies out it isn't very responsive anymore and it will gain dead spots in the screen that are invisible but don't work when you press on it the 3g connection isn't good you can't watch youtube videos unless your on wifipros:tough as nails bodycheap pricesleek looklong battery lifegood screen resolutioncons:slowunresponsiveoutdatedbad camerathe list goes on!!" **** 'invisible'
-
-Negative Reviews:
-
----"then the buttons magically start to work again, but this usually triggers all of my apps to suddenly corrupt and force close.also, because it's a touch screen and maybe the shape of my face is weird, while i'm talking on the phone it will randomly hit the speakerphone key.in conclusion; they need to patch the os or something because it's obviously not stable and i know i'm not the only one who has had the same issue." **** 'touch'
-
-
-================================================================================================================
-__________('months',)__________
-
-
-Positive Reviews:
-
----'i had this phone for about 3 months i was really happy when i got it.' **** 'happy'
----"i've had it almost 3 months at first i loved it as anyone does with their new phone." **** 'first'
-
-Negative Reviews:
-
+---'Then the buttons magically start to work again, but this usually triggers all of my apps to suddenly corrupt and force close.' **** 'corrupt'
 
 
 ================================================================================================================
@@ -130,18 +69,7 @@ __________('motorola', 'devour')__________
 
 Positive Reviews:
 
----'i love using my new motorola devour its a great portable tablet plus great service!' **** 'new'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('problems',)__________
-
-
-Positive Reviews:
-
+---'I love using my new motorola devour its a great portable tablet plus great service!' **** 'new'
 
 Negative Reviews:
 
@@ -153,14 +81,14 @@ __________('apps',)__________
 
 Positive Reviews:
 
----"the phone easily located my existing google play (marketplace) account, and i was able to download apps i'd paid for to use with the last android phone i'd owned, which was a few years ago." **** 'able'
----'i was also able to pick new apps on my computer, and they automatically were downloaded and installed to the a555.the slide-out keyboard on the a555 is easy to use.' **** 'able'
----'i was also able to pick new apps on my computer, and they automatically were downloaded and installed to the a555.the slide-out keyboard on the a555 is easy to use.' **** 'new'
----'there are enough apps available on the google play (aka marketplace) that i can get this phone to do most of what my last phone did.' **** 'available'
+---"The phone easily located my existing Google Play (Marketplace) account, and I was able to download apps I'd paid for to use with the last Android phone I'd owned, which was a few years ago." **** 'able'
+---'I was also able to pick new apps on my computer, and they automatically were downloaded and installed to the A555.' **** 'able'
+---'I was also able to pick new apps on my computer, and they automatically were downloaded and installed to the A555.' **** 'new'
+---'There are enough apps available on the Google Play (aka Marketplace) that I can get this phone to do most of what my last phone did.' **** 'available'
 
 Negative Reviews:
 
----"this phone runs android 1.5, and is not upgradable to android 2.0, which means it can't run the newest apps." **** 'newest'
+---"0, which means it can't run the newest apps." **** 'newest'
 
 
 ================================================================================================================
@@ -169,18 +97,6 @@ __________('contact', 'list')__________
 
 Positive Reviews:
 
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('google', 'maps')__________
-
-
-Positive Reviews:
-
----"not everything, of course, but google maps runs fine and i'm using the phone's built-in email app, which is good enough to get the job done." **** 'google'
 
 Negative Reviews:
 

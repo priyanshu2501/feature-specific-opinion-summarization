@@ -1,22 +1,37 @@
-__________('battery', 'life')__________
+__________('menu', 'system')__________
 
 
 Positive Reviews:
 
----'good battery life and excellent construction.' **** 'good'
----'the battery seems to have good life.' **** 'good'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('little',)__________
+__________('battery', 'life')__________
 
 
 Positive Reviews:
 
----'we needed a phone to use when we are away from home, and this is a good little phone.' **** 'good'
+---'The battery seems to have good life.' **** 'good'
+---'The battery seems to have good life.' **** 'good'
+---'Upon receiving it, the phone would either not power on or the battery was dead.' **** 'dead'
+---'Large and clear letter, Battery last long time.' **** 'last'
+---'Have a great battery live.' **** 'live'
+---'The phone came to me with a totally dead battery which meant it was used or it set for years before being sold.' **** 'meant'
+
+Negative Reviews:
+
+---'The phone came to me with a totally dead battery which meant it was used or it set for years before being sold.' **** 'dead'
+
+
+================================================================================================================
+__________('spanish',)__________
+
+
+Positive Reviews:
+
 
 Negative Reviews:
 
@@ -28,151 +43,11 @@ __________('talk', 'text')__________
 
 Positive Reviews:
 
----"i'll never use it, but it's a nice feature for those who would.- simple, but extremely functional for people who just want a simple talk & text phone.cons:- the phone may be a little smaller than you expect, but this actually worked out well." **** 'simple'
+---"I'll never use it, but it's a nice feature for those who would.- Simple, but extremely functional for people who just want a simple talk & text phone." **** 'simple'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('sim', 'card')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'i was broke as usual, so i bought this samsung for $nz9 (about $us8) including a free sim card.' **** 'free'
-
-
-================================================================================================================
-__________('text',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'they will use that information and send you a text to make sure it is working.' **** 'sure'
-
-
-================================================================================================================
-__________('screen',)__________
-
-
-Positive Reviews:
-
----'i wanted a reliable, inexpensive phone with a good screen and am very satisfied with the purchase.' **** 'good'
----"i had hoped to help some senior citizens get mobile service,  but i'm not sure that can see the screen...." **** 'sure'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('samsung',)__________
-
-
-Positive Reviews:
-
----'i was broke as usual, so i bought this samsung for $nz9 (about $us8) including a free sim card.' **** 'broke'
----'i was broke as usual, so i bought this samsung for $nz9 (about $us8) including a free sim card.' **** 'usual'
-
-Negative Reviews:
-
----"my old phone died and this inexpensive samsung was a perfect replacement.pros:- cheap ($20)- fantastic battery life (1-2 weeks with what i'd consider normal talk/text usage).- extremely light & durable.- small (1.75 inches wide, 4.25 inches long, 0.5 inches thick).- works with any gsm carrier sim card - i had no problems transferring my existing sim card.- volume is excellent (and i even have some hearing loss).- standard battery charger included in box.- signal is strong (i'm in the u.s.)- no stress - if i lose or break it, no big deal - it was only $20.- it even has a built-in fm radio." **** 'inexpensive'
-
-
-================================================================================================================
-__________('make',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('life',)__________
-
-
-Positive Reviews:
-
----'the battery seems to have good life.' **** 'good'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('fm', 'radio')__________
-
-
-Positive Reviews:
-
----'it makes good clear phone calls, and even has a nice fm radio.' **** 'nice'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('consumer', 'cellular')__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('list',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'cons:buttons are difficult to text witht9 dictionary leaves something to be desired.hard to find &#34;cancel&#34; functionality when sending a text.contact list is difficult to scroll through and adding recipients to text messages is time consuming.' **** 'difficult'
-
-
-================================================================================================================
-__________('feature',)__________
-
-
-Positive Reviews:
-
----'i cannot find where to enable it on their website so it knows my account that i created on the tracker site relates to a particular phone.there is an sos feature in the manual but not apparently on the phone.trying to find this phone and how to make it work on the samsung website is painful.' **** 'manual'
-
-Negative Reviews:
-
----"and the best feature... the battery lasts well over a week between charges.... in fact it lasted over a week right out of the box (i didn't charge it)." **** 'best'
----"i'll never use it, but it's a nice feature for those who would.- simple, but extremely functional for people who just want a simple talk & text phone.cons:- the phone may be a little smaller than you expect, but this actually worked out well." **** 'nice'
----'just wanted a small, feature phone and this fits the bill perfectly.' **** 'small'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----'upon receiving it, the phone would either not power on or the battery was dead.' **** 'dead'
----'this is the best cell phone for elders who would just like to have the cell phone functions without being tech savvy.large and clear letter, battery last long time.' **** 'last'
----'good battery life and excellent construction.' **** 'good'
----'have a great battery live.' **** 'live'
----'the phone came to me with a totally dead battery which meant it was used or it set for years before being sold.' **** 'meant'
-
-Negative Reviews:
-
----'the phone came to me with a totally dead battery which meant it was used or it set for years before being sold.' **** 'dead'
+---'They will use that information and send you a text to make sure it is working.' **** 'sure'
 
 
 ================================================================================================================
@@ -187,20 +62,6 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('cell',)__________
-
-
-Positive Reviews:
-
----'this is the best cell phone for elders who would just like to have the cell phone functions without being tech savvy.large and clear letter, battery last long time.' **** 'best'
----"if you're looking for an inexpensive cell phone to make and receive calls, you can't go wrong with this model." **** 'inexpensive'
-
-Negative Reviews:
-
----'i am about crazy since i bought this cell.' **** 'crazy'
-
-
-================================================================================================================
 __________('language',)__________
 
 
@@ -209,12 +70,12 @@ Positive Reviews:
 
 Negative Reviews:
 
----'small, portable, simple, light, handsome.it only support english and spanish language.it automatically transforms other language characters into open squares, which are difficult to read.i like it very much.' **** 'other'
----"first, english does not appear to be the phone's first language." **** 'first'
+---'It automatically transforms other language characters into open squares, which are difficult to read.' **** 'other'
+---"First, English does not appear to be the phone's first language." **** 'first'
 
 
 ================================================================================================================
-__________('cheap',)__________
+__________('sim', 'card')__________
 
 
 Positive Reviews:
@@ -222,20 +83,23 @@ Positive Reviews:
 
 Negative Reviews:
 
+---'I was broke as usual, so I bought this Samsung for $NZ9 (about $US8) including a free SIM card.' **** 'free'
 
 
 ================================================================================================================
-__________('charge',)__________
+__________('samsung',)__________
 
 
 Positive Reviews:
 
----'the phone is lighter than her old phone, holds a very long charge, and is easy to use.' **** 'easy'
+---'You would think that Samsung would have been more careful when they designed this phone because it has there name on it.' **** 'careful'
+---'I was broke as usual, so I bought this Samsung for $NZ9 (about $US8) including a free SIM card.' **** 'broke'
+---'I was broke as usual, so I bought this Samsung for $NZ9 (about $US8) including a free SIM card.' **** 'usual'
 
 Negative Reviews:
 
----'the phone is lighter than her old phone, holds a very long charge, and is easy to use.' **** 'long'
----'holds a good long charge.' **** 'long'
+---'In the past, I have been quite pleased with Samsung Products.' **** 'past'
+---'My old phone died and this inexpensive Samsung was a perfect replacement.' **** 'inexpensive'
 
 
 ================================================================================================================
@@ -250,74 +114,24 @@ Negative Reviews:
 
 
 ================================================================================================================
-__________('menu', 'system')__________
+__________('fm', 'radio')__________
 
 
 Positive Reviews:
 
+---'It makes good clear phone calls, and even has a nice FM radio.' **** 'nice'
 
 Negative Reviews:
 
 
 
 ================================================================================================================
-__________('price',)__________
+__________('item', 'on', 'list')__________
 
 
 Positive Reviews:
 
----"on the other hand, the price is good, i like the feel of the keyboard, i like the menu system, it has a really handy feature to tell you how many minutes you've used, has a game built into it, and basically it's a likable phone." **** 'good'
-
-Negative Reviews:
-
----'it is definitely limited on features, but i did not expect much more for the price.' **** 'much'
-
-
-================================================================================================================
-__________('english',)__________
-
-
-Positive Reviews:
-
----"the online english manual wasn't help and it was misleading.here how to change spanish to english: (after turn on phone and after unlock(*)) press ok--&#62;configuracion--&#62; 4.telefono--&#62;1. idioma--&#62;english.pros:-price/size-long battery life up to 1 week.-nice security system/couple featurescons:-spanish as default-no camera-back panel kinda slippery" **** 'manual'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('card',)__________
-
-
-Positive Reviews:
-
----'the size is about the length of a credit card, a little bigger.' **** 'bigger'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'this is the best cell phone for elders who would just like to have the cell phone functions without being tech savvy.large and clear letter, battery last long time.' **** 'long'
----'keeps a charge for a very long time.' **** 'long'
----'the battery lasts for a very long time while on standby.specifics for use with consumer cellular:put your sim card in the slot and turn on the phone.' **** 'long'
-
-
-================================================================================================================
-__________('days',)__________
-
-
-Positive Reviews:
-
----'i have only had the phone for a few days, but so far so good.' **** 'good'
+---'LANGUAGE (first item on list)5.' **** 'first'
 
 Negative Reviews:
 

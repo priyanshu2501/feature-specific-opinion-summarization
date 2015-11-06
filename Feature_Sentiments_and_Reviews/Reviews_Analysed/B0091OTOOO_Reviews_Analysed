@@ -1,22 +1,4 @@
-__________('screen',)__________
-
-
-Positive Reviews:
-
----"when i got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'long'
----"the touch screen was very bad and the screen wouldn't cooperate when you tried to do an action." **** 'bad'
-
-Negative Reviews:
-
----"when i got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'touch'
----'the touch screen is a little insensitive which is why i rated it 4 stars' **** 'insensitive'
----'it may have to do with too frequent charging, or excessiveuse of the touch screen.' **** 'touch'
----'the screen is annoyingly unresponsive.' **** 'unresponsive'
----'the touch screen is hard to work with and i have to press hard to open the icons!' **** 'hard'
-
-
-================================================================================================================
-__________('touch',)__________
+__________('unlocked', 'gsm')__________
 
 
 Positive Reviews:
@@ -24,17 +6,7 @@ Positive Reviews:
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('works',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
+---'i asked for a unlocked gsm phn but the phone was not unlocked yet.' **** 'unlocked'
 
 
 ================================================================================================================
@@ -43,15 +15,29 @@ __________('touch', 'screen')__________
 
 Positive Reviews:
 
----"when i got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'long'
----"the touch screen was very bad and the screen wouldn't cooperate when you tried to do an action." **** 'bad'
+---"when I got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'long'
+---"The touch screen was very bad and the screen wouldn't cooperate when you tried to do an action." **** 'bad'
+---'Touch screen functions about average but difficult to calibrate.' **** 'touch'
 
 Negative Reviews:
 
----"when i got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'touch'
----'the touch screen is a little insensitive which is why i rated it 4 stars' **** 'insensitive'
----'it may have to do with too frequent charging, or excessiveuse of the touch screen.' **** 'touch'
----'the touch screen is hard to work with and i have to press hard to open the icons!' **** 'hard'
+---"when I got the phone it was great but it didn't take long for the touch screen to keep freezing." **** 'touch'
+---'The touch screen is a little insensitive which is why I rated it 4 stars' **** 'insensitive'
+---'It may have to do with too frequent charging, or excessiveuse of the touch screen.' **** 'touch'
+---'The touch screen is hard to work with and I have to press hard to open the icons!' **** 'hard'
+
+
+================================================================================================================
+__________('only', 'thing')__________
+
+
+Positive Reviews:
+
+---'Tried to pair it with the laptop via USB in our final effort to get photos off the phone - The only thing you can transfer is music.' **** 'music'
+---"I just got my phone and everything is good the only thing is it doesn't comes with a manual but other than that its a good phone for used" **** 'manual'
+
+Negative Reviews:
+
 
 
 ================================================================================================================
@@ -60,7 +46,7 @@ __________('sim', 'card')__________
 
 Positive Reviews:
 
----'the phone arrived in a sealed package with an at&t; sim card, and when i tried any other sim card i got the message &#34;sim card not provisioned&#34;.i asked customer care the question - what does unlocked mean?' **** 'other'
+---'The phone arrived in a sealed package with an at&t; SIM card, and when I tried any other SIM card I got the message &#34; SIM card not provisioned&#34;.' **** 'other'
 
 Negative Reviews:
 

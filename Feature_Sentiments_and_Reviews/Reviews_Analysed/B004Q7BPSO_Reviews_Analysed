@@ -3,79 +3,24 @@ __________('seller',)__________
 
 Positive Reviews:
 
----'i am not sure if this is a seller problem or a phone problem.' **** 'sure'
+---'I thought I had bought a a good brand from a reliable seller.' **** 'reliable'
+---'I am not sure if this is a seller problem or a phone problem.' **** 'sure'
 
 Negative Reviews:
 
----'i am very disappointing with this seller wireovia my money gone down the drainsimone.' **** 'disappointing'
+---'I am very disappointing with this seller Wireovia My money gone down the drainSimone.' **** 'disappointing'
 
 
 ================================================================================================================
-__________('something',)__________
+__________('amazon',)__________
 
 
 Positive Reviews:
 
----'less posibilities of dial or touch something by mistake.2-big screen 3.25" with touch slide menu3-metal back battery cover4-3.2 megapixel camera with a hi bright flash makes good pics.5-can easily install almost the most popular bb apps even with low memory capacity for apps6-1gb extra memory for files.' **** 'touch'
+---'I am not sure if Amazon takes seriuosly or I am one of the robbed ones.' **** 'sure'
 
 Negative Reviews:
 
-
-
-================================================================================================================
-__________('storm',)__________
-
-
-Positive Reviews:
-
----'son unos estafadores.the product i ordered blackberry storm 9530 and sent a team new repowered and no functionality (not lit) placing yet another battery.' **** 'blackberry'
-
-Negative Reviews:
-
----'los dos blackberry storm 9530 que compre a la tienda blutekusa se da&ntilde;aron a los dos dias de uso, ya no funcionan, no sirven' **** 'blackberry'
-
-
-================================================================================================================
-__________('time',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'this is the second time i am buying blackberry phone and it never works out all.kindly send ups to come and pick it for return.' **** 'second'
----'this would be the last time i ever purchase another item from here.' **** 'last'
-
-
-================================================================================================================
-__________('product',)__________
-
-
-Positive Reviews:
-
----'overall, my experience in ordering this item, up to receiving & testing out the product was quite satisfactory.' **** 'satisfactory'
----'very good product arrived in perfect conditionvery good product arrived in perfect conditionvery good product arrived in perfect conditionvery good product arrived in perfect condition' **** 'good'
-
-Negative Reviews:
-
----'is it that the vendor deliberately sale faulty product or i am unfortunate ?' **** 'unfortunate'
-
-
-================================================================================================================
-__________('battery',)__________
-
-
-Positive Reviews:
-
----"i left it an entire night charging and the next morning it didn't want to work and the battery was still dead." **** 'dead'
----'dear sir i have purchase this blackberry cell phone on may and the phone is not working i even receive a battery that was dead.' **** 'dead'
-
-Negative Reviews:
-
----'i bought a new battery and it still did not work.' **** 'new'
----'i bought a new battery and it stil doesnt work.' **** 'new'
----'dear sir i have purchase this blackberry cell phone on may and the phone is not working i even receive a battery that was dead.' **** 'receive'
 
 
 ================================================================================================================
@@ -84,67 +29,28 @@ __________('blackberry',)__________
 
 Positive Reviews:
 
----"that is another chore best left for when one is in one's most charitable frame of mind.i have used the blackberry bold 8520 and a number of other blackberry devices." **** 'other'
----'this is my first blackberry phone.' **** 'first'
----'first of all i recieved my blackberry with missing parts (battery cover and charger)!' **** 'first'
+---'This is my first blackberry phone.' **** 'first'
 
 Negative Reviews:
 
+---'So, as much as I used to like Blackberry products, I will not do it again.' **** 'much'
+---'I have used the Blackberry Bold 8520 and a number of other Blackberry devices.' **** 'other'
 
 
 ================================================================================================================
-__________('screen',)__________
+__________('battery',)__________
 
 
 Positive Reviews:
 
----"the screen was loose when i got it and it won't hold a charge at all." **** 'loose'
----'granted it was refurbished but the touch screen option is completely in disarray.' **** 'touch'
+---"I left it an entire night charging and the next morning it didn't want to work and the battery was still dead." **** 'dead'
+---'Dear Sir I have purchase this Blackberry cell phone on May and the phone is not working I even receive a battery that was dead.' **** 'dead'
 
 Negative Reviews:
 
----'this time i purchased this black berry and found that the display screen is loose.' **** 'loose'
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'first'
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'able'
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'touch'
----'the touch screen was lose and wiggly in the plastic frame.' **** 'lose'
-
-
-================================================================================================================
-__________('working',)__________
-
-
-Positive Reviews:
-
----"sad to say that after one week this phone has stop working and i sent an email say such but to date i've got no reply yet another review tell me how we'll deal with the none working phone because i'm losing my patience and runing out of options" **** 'stop'
-
-Negative Reviews:
-
-
-
-================================================================================================================
-__________('charge',)__________
-
-
-Positive Reviews:
-
-
-Negative Reviews:
-
----'if the blackberry storm is offered to you free of charge, walk away!my storm switches itself off at will.' **** 'free'
-
-
-================================================================================================================
-__________('blackberry', 'storm')__________
-
-
-Positive Reviews:
-
----'son unos estafadores.the product i ordered blackberry storm 9530 and sent a team new repowered and no functionality (not lit) placing yet another battery.' **** 'blackberry'
-
-Negative Reviews:
-
----'los dos blackberry storm 9530 que compre a la tienda blutekusa se da&ntilde;aron a los dos dias de uso, ya no funcionan, no sirven' **** 'blackberry'
+---'I bought a new battery and it still did not work.' **** 'new'
+---'i bought a new battery and it stil doesnt work.' **** 'new'
+---'Dear Sir I have purchase this Blackberry cell phone on May and the phone is not working I even receive a battery that was dead.' **** 'receive'
 
 
 ================================================================================================================
@@ -157,10 +63,10 @@ Positive Reviews:
 
 Negative Reviews:
 
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'first'
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'able'
----'at first i was a little worried that i would not have been able to operate a touch screen phone but after a few days i have mastered the skill.' **** 'touch'
----'the touch screen was lose and wiggly in the plastic frame.' **** 'lose'
+---'At first I was a little worried that I would not have been able to operate a touch screen phone but after a few days I have mastered the skill.' **** 'first'
+---'At first I was a little worried that I would not have been able to operate a touch screen phone but after a few days I have mastered the skill.' **** 'able'
+---'At first I was a little worried that I would not have been able to operate a touch screen phone but after a few days I have mastered the skill.' **** 'touch'
+---'The touch screen was lose and wiggly in the plastic frame.' **** 'lose'
 
 
 ================================================================================================================
